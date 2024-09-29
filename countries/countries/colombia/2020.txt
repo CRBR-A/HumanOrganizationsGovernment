@@ -1,0 +1,70 @@
+| Government | Colombia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Colombia |
+| Country name: | conventional short form: Colombia |
+| Country name: | local long form: Republica de Colombia |
+| Country name: | local short form: Colombia |
+| Country name: | etymology: the country is named after explorer Christopher COLUMBUS |
+| Government type: | presidential republic |
+| Capital: | name: Bogota |
+| Capital: | geographic coordinates: 4 36 N, 74 05 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Capital: | etymology: originally referred to as "Bacata," meaning "enclosure outside of the farm fields," by the indigenous Muisca |
+| Administrative divisions: | 32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada |
+| Independence: | 20 July 1810 (from Spain) |
+| National holiday: | Independence Day, 20 July (1810) |
+| Constitution: | history: several previous; latest promulgated 4 July 1991 |
+| Constitution: | amendments: proposed by the government, by Congress, by a constituent assembly, or by public petition; passage requires a majority vote by Congress in each of two consecutive sessions; passage of amendments to constitutional articles on citizen rights, guarantees, and duties also require approval in a referendum by over one half of voters and participation of over one fourth of citizens registered to vote; amended many times, last in 2020 |
+| Legal system: | civil law system influenced by the Spanish and French civil codes |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: least one parent must be a citizen or permanent resident of Colombia |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018); the president is both chief of state and head of government |
+| Executive branch: | head of government: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 27 May 2018 with a runoff held on 17 June 2018 (next to be held in 2022); note - political reform in 2015 eliminated presidential reelection |
+| Executive branch: | election results: Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2% |
+| Legislative branch: | description: bicameral Congress or Congreso consists of: |
+| Legislative branch: | Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms) |
+| Legislative branch: | Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms) |
+| Legislative branch: | elections: Â  |
+| Legislative branch: | Senate - last held on 11 March 2018 (next to be held in March 2022) |
+| Legislative branch: | Chamber of Representatives - last held on 11 March 2018 (next to be held in March 2022) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7% |
+| Legislative branch: | Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20% |
+| Judicial branch: | highest courts: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the Supreme Court members from candidates submitted by the Superior Judiciary Council; judges elected for individual 8-year terms; Constitutional Court magistrates - nominated by the president, by the Supreme Court, and elected by the Senate; judges elected for individual 8-year terms; Council of State members appointed by the State Council plenary from lists nominated by the Superior Judiciary Council |
+| Judicial branch: | subordinate courts: Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts |
+| Political parties and leaders: | Alternative Democratic Pole or PDA [Jorge Enrique ROBLEDO] |
+| Political parties and leaders: | Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN) |
+| Political parties and leaders: | Conservative Party or PC [Hernan ANDRADE] |
+| Political parties and leaders: | Democratic Center Party or CD [Alvaro URIBE Velez] |
+| Political parties and leaders: | Green Alliance [Claudia LOPEZ Hernandez] |
+| Political parties and leaders: | Humane Colombia [Gustavo PETRO] |
+| Political parties and leaders: | Liberal Party or PL [Cesar GAVIRIA] |
+| Political parties and leaders: | People's Alternative Revolutionary Force or FARC [Rodrigo LONDONO Echeverry] |
+| Political parties and leaders: | Radical Change or CR [Rodrigo LARA Restrepo] |
+| Political parties and leaders: | Social National Unity Party or U Party [Roy BARRERAS] |
+| Political parties and leaders: | note: Colombia has numerous smaller political movements |
+| International organization participation: | BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Francisco SANTOS Calderon (since 17 September 2018) |
+| Diplomatic representation in the US: | chancery: 1724 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-8338 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-8643 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico) |
+| Diplomatic representation in the US: | consulate(s): Boston, Chicago, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Philip S. GOLDBERG (since 19 September 2019) |
+| Diplomatic representation from the US: | telephone: [57] (1) 275-2000 |
+| Diplomatic representation from the US: | embassy: Carrera 45, No. 24B-27, Bogota |
+| Diplomatic representation from the US: | mailing address: Carrera 45 No. 24B-27, Bogota, D.C. |
+| Diplomatic representation from the US: | FAX: [57] (1) 275-4600 |
+| Flag description: | three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity |
+| Flag description: | note: similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center |
+| National symbol(s): | Andean condor; national colors: yellow, blue, red |
+| National anthem: | name: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia) |
+| National anthem: | lyrics/music: Rafael NUNEZ/Oreste SINDICI |
+| National anthem: | note: adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ |

@@ -1,0 +1,47 @@
+| Government | SEYCHELLES |
+| --- | --- |
+| Country name: | conventional long form: Republic of Seychelles |
+| Country name: | conventional short form: Seychelles |
+| Country name: | local long form: Republic of Seychelles |
+| Country name: | local short form: Seychelles |
+| Government type: | republic |
+| Capital: | name: Victoria |
+| Capital: | geographic coordinates: 4 37 S, 55 27 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 25 administrative districts; Anse aux Pins, Anse Boileau, Anse Etoile, Anse Royale, Au Cap, Baie Lazare, Baie Sainte Anne, Beau Vallon, Bel Air, Bel Ombre, Cascade, Glacis, Grand Anse Mahe, Grand Anse Praslin, Inner Islands, La Riviere Anglaise, Les Mamalles, Mont Buxton, Mont Fleuri, Plaisance, Pointe Larue, Port Glaud, Roche Caiman, Saint Louis, Takamaka |
+| Independence: | 29 June 1976 (from the UK) |
+| National holiday: | Constitution Day (National Day), 18 June (1993); Independence Day, 29 June (1976) |
+| Constitution: | previous 1970, 1979; latest drafted May 1993, approved by referendum 18 June 1993, effective 23 June 1993; amended many times, last in 2011 (2015) |
+| Legal system: | mixed legal system of English common law, French civil law, and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the Seychelles |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President James Alix MICHEL (since 14 April 2004); Vice President Danny FAURE (since 1 July 2010); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President James Alix MICHEL (since 14 April 2004); Vice President Danny FAURE (since 1 July 2010) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for 2 more terms); election last held on 3-5 December with runoff on 16-18 December 2015 (next to be held NA) |
+| Executive branch: | election results: President James MICHEL reelected president; percent of vote in second round - James MICHEL (PP) 50.2%, Wavel RAMKALAWAN (SNP) 49.8% |
+| Legislative branch: | description: unicameral National Assembly or Assemblee Nationale (34 seats; 25 members directly elected in single-member constituencies by simple majority vote and 9 members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 29 September - 1 October 2011 (next to be held in 2016); note - the National Assembly was dissolved in July 2011 resulting in early elections |
+| Legislative branch: | election results: percent of vote by party - PL 88.6%, PDM 10.9%, independent 0.6%; seats by party - PL 33, PDM 1; note - the SNP and NDP boycotted the 2011 elections |
+| Judicial branch: | highest court(s): Seychelles Court of Appeal (consists of the court president and 4 justices; Supreme Court of Seychelles (consists of the chief justice and 9 puisine judges); Constitutional Court (consists of 3 Supreme Court judges) |
+| Judicial branch: | judge selection and term of office: all judges appointed by the president of the republic upon the recommendation of the Constitutional Appointments Committee, a 3-member body, with 1 member appointed by the president of the republic, 1 by the opposition leader in the National Assembly, and 1 by the other 2 appointees; judges appointed until retirement at age 70 |
+| Judicial branch: | subordinate courts: Magistrates' Courts of Seychelles; Family Tribunal for issues such as domestic violence, and child custody and maintenance; Employment Tribunal for labor related disputes |
+| Political parties and leaders: | People's Party (Parti Lepep) or PL [James Alix MICHEL] (formerly SPPF) |
+| Political parties and leaders: | Popular Democratic Movement or PDM [David PIERRE] |
+| Political parties and leaders: | Seychelles National Party or SNP [Wavel RAMKALAWAN] (formerly the United Opposition or UO) |
+| Political parties and leaders: | Seselwa (Seychelles) United Party or SUP [Robert ERNESTA] (formerly the New Democratic Party or NDP) |
+| International organization participation: | ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marie-Louise Cecile POTTER (since 6 September 2012) |
+| Diplomatic representation in the US: | chancery: 800 Second Avenue, Suite 400C, New York, NY 10017 800 Second Avenue, Suite 400C, New York, NY 10017 |
+| Diplomatic representation in the US: | telephone: [1] (212) 972-1785 |
+| Diplomatic representation in the US: | FAX: [1] (212) 972-1786 |
+| Diplomatic representation from the US: | the US does not have an embassy in Seychelles; the US Ambassador to Mauritius is accredited to Seychelles |
+| Flag description: | five oblique bands of blue (hoist side), yellow, red, white, and green (bottom) radiating from the bottom of the hoist side; the oblique bands are meant to symbolize a dynamic new country moving into the future; blue represents sky and sea, yellow the sun giving light and life, red the peoples' determination to work for the future in unity and love, white social justice and harmony, green the land and natural environment |
+| National symbol(s): | coco de mer (sea coconut); national colors: blue, yellow, red, white, green |
+| National anthem: | name: "Koste Seselwa" (Seychellois Unite) |
+| National anthem: | lyrics/music: David Francois Marc ANDRE and George Charles Robert PAYET |
+| National anthem: | note: adopted 1996 |

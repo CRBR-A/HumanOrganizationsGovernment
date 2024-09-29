@@ -1,0 +1,43 @@
+| Government | Belgium |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Belgium |
+| Country name: | conventional short form: Belgium |
+| Country name: | local long form: Royaume de Belgique/Koninkrijk Belgie |
+| Country name: | local short form: Belgique/Belgie |
+| Government type: | federal parliamentary democracy under a constitutional monarchy |
+| Capital: | name: Brussels |
+| Capital: | geographic coordinates: 50 50 N, 4 20 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form) |
+| Administrative divisions: | note: as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities |
+| Independence: | 4 October 1830 (a provisional government declared independence from the Netherlands); 21 July 1831 (King LEOPOLD I ascended to the throne) |
+| National holiday: | 21 July (1831) ascension to the Throne of King LEOPOLD I |
+| Constitution: | 7 February 1831; amended many times; revised 14 July 1993 to create a federal state |
+| Legal system: | based on civil law system influenced by English constitutional theory; judicial review of legislative acts; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: King ALBERT II (since 9 August 1993); Heir Apparent Prince PHILIPPE, son of the monarch |
+| Executive branch: | head of government: Prime Minister Herman VAN ROMPUY (30 December 2008) |
+| Executive branch: | cabinet: Council of Ministers are formally appointed by the monarch |
+| Executive branch: | elections: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or the leader of the majority coalition is usually appointed prime minister by the monarch and then approved by parliament |
+| Legislative branch: | bicameral Parliament consists of a Senate or Senaat in Dutch, Senat in French (71 seats; 40 members are directly elected by popular vote, 31 are indirectly elected; members serve four-year terms) and a Chamber of Deputies or Kamer van Volksvertegenwoordigers in Dutch, Chambre des Representants in French (150 seats; members are directly elected by popular vote on the basis of proportional representation to serve four-year terms) |
+| Legislative branch: | elections: Senate and Chamber of Deputies - last held 10 June 2007 (next to be held no later than June 2011) |
+| Legislative branch: | election results: Senate - percent of vote by party - CDV/N-VA 19.4%, Open VLD 12.4%, MR 12.3%, VB 11.9%, PS 10.2%, SP.A-Spirit 10%, CDH 5.9%, Ecolo 5.8%, Groen! 3.6%, Dedecker List 3.4%, FN 2.3%, other 2.8%; seats by party - CDV 12, MR 11, Open VLD 9, VB 8, PS 7, SP.A 6, CDH 5, Ecolo 5, Groen! 2, LDD 1, FN 1, independents 4; Chamber of Deputies - percent of vote by party - CDV/N-VA 18.5%, MR 12.5%, VB 12%, Open VLD 11.8%, PS 10.9%, SP.A-Spirit 10.3%, CDH 6.1%, Ecolo 5.1%, Dedecker List 4%, Groen! 4%, FN 2%, other 2.8%; seats by party - CDV 23, N-VA 7, MR 23, VB 17, Open VLD 18, PS 20, SP.A 14, CDH 10, Ecolo 8, Dedecker List 5, Groen! 4, FN 1 |
+| Legislative branch: | note: as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly |
+| Judicial branch: | Supreme Court of Justice or Hof van Cassatie (in Dutch) or Cour de Cassation (in French) (judges are appointed for life by the government; candidacies have to be submitted by the High Justice Council) |
+| Political parties and leaders: | Flemish parties: Christian Democratic and Flemish or CDV [Marianne THYSSEN]; Dedecker List [Jean-Marie DEDECKER]; Flemish Liberals and Democrats or Open VLD [Bart SOMERS]; Groen! [Mieke VOGELS] (formerly AGALEV, Flemish Greens); New Flemish Alliance or N-VA [Bart DE WEVER]; Social Liberal Party or SLP [Geert LAMBERT]; note - prior to 19 April 2008, known as Spirit; Social Progressive Alternative or SP.A [Caroline GENNEZ]; Vlaams Belang (Flemish Interest) or VB [Bruno VALKENIERS] |
+| Political parties and leaders: | Francophone parties: Ecolo (Francophone Greens) [Jean-Michel JAVAUX, Isabelle DURANT]; Humanist and Democratic Center or CDH [Joelle MILQUET]; National Front or FN [Daniel HUYGENS]; Reform Movement or MR [Didier REYNDERS]; Socialist Party or PS [Elio DI RUPO]; other minor parties |
+| Political pressure groups and leaders: | Christian, Socialist, and Liberal Trade Unions; Federation of Belgian Industries |
+| Political pressure groups and leaders: | other: numerous other associations representing bankers, manufacturers, middle-class artisans, and the legal and medical professions; various organizations represent the cultural interests of Flanders and Wallonia; various peace groups such as Pax Christi and groups representing immigrants |
+| International organization participation: | ACCT, ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUC, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Paris Club, PCA, Schengen Convention, SECI (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIS, UNRWA, UNTSO, UPU, WADB (nonregional), WCL, WCO, WEU, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jan MATTHYSEN |
+| Diplomatic representation in the US: | chancery: 3330 Garfield Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 333-6900 |
+| Diplomatic representation in the US: | FAX: [1] (202) 333-3079 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Wayne BUSH |
+| Diplomatic representation from the US: | embassy: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels |
+| Diplomatic representation from the US: | mailing address: PSC 82, Box 002, APO AE 09710 |
+| Diplomatic representation from the US: | telephone: [32] (2) 508-2111 |
+| Diplomatic representation from the US: | FAX: [32] (2) 511-2725 |
+| Flag description: | three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field) |

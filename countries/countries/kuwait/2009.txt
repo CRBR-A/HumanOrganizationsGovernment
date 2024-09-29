@@ -1,0 +1,38 @@
+| Government | Kuwait |
+| --- | --- |
+| Country name: | conventional long form: State of Kuwait |
+| Country name: | conventional short form: Kuwait |
+| Country name: | local long form: Dawlat al Kuwayt |
+| Country name: | local short form: Al Kuwayt |
+| Government type: | constitutional emirate |
+| Capital: | name: Kuwait City |
+| Capital: | geographic coordinates: 29 22 N, 47 58 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 6 governorates (muhafazat, singular - muhafazah); Al Ahmadi, Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir |
+| Independence: | 19 June 1961 (from the UK) |
+| National holiday: | National Day, 25 February (1950) |
+| Constitution: | approved and promulgated 11 November 1962 |
+| Legal system: | civil law system with Islamic law significant in personal matters; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 21 years of age; universal (adult); note - males in the military or police are not allowed to vote; adult females were allowed to vote as of 16 May 2005; all voters must have been citizens for 20 years |
+| Executive branch: | chief of state: Amir SABAH al-Ahmad al-Jabir al-Sabah (since 29 January 2006); Crown Prince NAWAF al-Ahmad al-Jabir al-Sabah |
+| Executive branch: | head of government: Prime Minister NASIR AL-MUHAMMAD al-Ahmad al-Sabah (since 3 April 2007); First Deputy Prime Minister JABIR AL-MUBAREK al-Hamad al-Sabah (since 9 February 2006); Deputy Prime Minister MUHAMMAD AL-SABAH al-Salim al-Sabah (since 9 February 2006) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister and approved by the amir |
+| Executive branch: | elections: none; the amir is hereditary; the amir appoints the prime minister and deputy prime ministers |
+| Legislative branch: | unicameral National Assembly or Majlis al-Umma (50 seats; members elected by popular vote to serve four-year terms; all cabinet ministers are also ex officio voting members of the National Assembly) |
+| Legislative branch: | elections: last held 16 May 2009 (next election to be held in 2013) |
+| Legislative branch: | election results: percent of vote by bloc - NA; seats by bloc - Sunni Muslim groups 11, liberals 7, Shiite Muslim groups 6, Popular Action Bloc 3, unaffiliated tribal groups 23 |
+| Judicial branch: | High Court of Appeal |
+| Political parties and leaders: | none; formation of political parties is in practice illegal but is not forbidden by law |
+| Political pressure groups and leaders: | other: Islamists; merchants; political groups; secular liberals and pro-governmental deputies; Shia activists; tribal groups |
+| International organization participation: | ABEDA, AfDB (nonregional member), AFESD, AMF, BDEAC, CAEU, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador SALIM al-Abdallah al-Jabir al-Sabah |
+| Diplomatic representation in the US: | chancery: 2940 Tilden Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 966-0702 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-2868 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles |
+| Diplomatic representation from the US: | chief of mission: Ambassador Deborah K. JONES |
+| Diplomatic representation from the US: | embassy: Bayan 36302, Block 13, Al-Masjed Al-Aqsa Street (near the Bayan palace), Kuwait City |
+| Diplomatic representation from the US: | mailing address: P. O. Box 77 Safat 13001 Kuwait; or PSC 1280 APO AE 09880-9000 |
+| Diplomatic representation from the US: | telephone: [965] 259-1001 |
+| Diplomatic representation from the US: | FAX: [965] 538-0282 |
+| Flag description: | three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; design, which dates to 1961, based on the Arab revolt flag of World War I |

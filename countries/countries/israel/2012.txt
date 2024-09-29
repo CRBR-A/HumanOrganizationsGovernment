@@ -1,0 +1,48 @@
+| Government | Israel |
+| --- | --- |
+| Country name: | conventional long form: State of Israel |
+| Country name: | conventional short form: Israel |
+| Country name: | local long form: Medinat Yisra'el |
+| Country name: | local short form: Yisra'el |
+| Government type: | parliamentary democracy |
+| Capital: | name: Jerusalem |
+| Capital: | geographic coordinates: 31 46 N, 35 14 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Friday in April; ends the Sunday between the holidays of Rosh Hashana and Yom Kippur |
+| Capital: | note: Israel proclaimed Jerusalem as its capital in 1950, but the US, like all other countries, maintains its Embassy in Tel Aviv |
+| Administrative divisions: | 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv |
+| Independence: | 14 May 1948 (from League of Nations mandate under British administration) |
+| National holiday: | Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May |
+| Constitution: | no formal constitution; some of the functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws of the parliament (Knesset), and the Israeli citizenship law; note - since May 2003 the Constitution, Law, and Justice Committee of the Knesset has been working on a draft constitution |
+| Legal system: | mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002 |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Shimon PERES (since 15 July 2007) |
+| Executive branch: | head of government: Prime Minister Binyamin NETANYAHU (since 31 March 2009) |
+| Executive branch: | cabinet: Cabinet selected by prime minister and approved by the Knesset |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president largely a ceremonial role and is elected by the Knesset for a seven-year term (one-term limit); election last held 13 June 2007 (next to be held in 2014 but can be called earlier); following legislative elections, the president, in consultation with party leaders, assigns the task of forming a governing coalition to a Knesset member who he or she determines is most likely to accomplish that task |
+| Executive branch: | election results: Shimon PERES elected president; number of votes in first round - Shimon PERES 58, Reuven RIVLIN 37, Colette AVITAL 21; PERES elected president in second round with 86 votes (unopposed) |
+| Legislative branch: | unicameral Knesset (120 seats; political parties are elected by popular vote and assigned seats for members on a proportional basis; members serve four-year terms) |
+| Legislative branch: | elections: last held on 22 January 2013 (next to be held in 2017) |
+| Legislative branch: | election results: percent of vote by party - Likud-Ahi 23.3%, Yesh Atid 14.3%, Labor 11.4%, The Jewish Home 9.1%, SHAS 8.7%, United Torah Judaism 5.2%, The Movement 5%, Meretz 4.5%, United Arab List 3.6%, Hadash 3%, Balad 2.6%, Kadima 2.1%; other 2.5%; seats by party - Likud-Ahi 31, Yesh Atid 19, Labor 15, The Jewish Home 12, SHAS 11, United Torah Judaism 7, The Movement 6, Meretz 6, United Arab List 4, HADASH 4, Balad 3, Kadima 2 |
+| Legislative branch: | note: Ehud BARAK and four others on 17 January 2011 split from the Labor Party and formed the Atzmaut (Independence) Party; the Labor Party holds 8 seats in the Knesset and the Independence Party holds 5 seats; Aztmaut did not submit a candidate list for the election on 22 January 2013 |
+| Judicial branch: | Supreme Court (justices appointed by Judicial Selection Committee - made up of all three branches of the government; mandatory retirement age is 70) |
+| Political parties and leaders: | Atzmaut (Independence) Party [Ehud BARAK]; Balad [Jamal ZAHALKA]; Democratic Front for Peace and Equality (HADASH) [Muhammad BARAKEH]; Kadima [Shaul MOFAZ]; Labor Party [Shelly YECHIMOVICH]; Likud [Binyamin NETANYAHU]; National Union Uri ARIEL]; SHAS [Eliyahu YISHAI]; The Jewish Home (HaBayit HaYehudi) [Naftali BENNETT]; The Movement (Hatnuah) [Tzipora "Tzipi" LIVNI]; The New Movement-Meretz [Haim ORON]; United Arab List-Ta'al [Ibrahim SARSUR]; United Torah Judaism or UTJ [Yaakov LITZMAN]; Yesh Atid [Yair LAPID]; Yisrael Beiteinu or YB [Avigdor LIEBERMAN] |
+| Political pressure groups and leaders: | B'Tselem [Jessica MONTELL, Executive Director] monitors human rights abuses; Peace Now [Yariv OPPENHEIMER, Secretary General] supports territorial concessions in the West Bank and Gaza Strip; YESHA Council of Settlements [Danny DAYAN, Chairman] promotes settler interests and opposes territorial compromise; Breaking the Silence [Yehuda SHAUL, Executive Director] collects testimonies from soldiers who served in the West Bank and Gaza Strip |
+| International organization participation: | BIS, BSEC (observer), CE (observer), CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Paris Club (associate), PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Michael B. OREN |
+| Diplomatic representation in the US: | chancery: 3514 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 364-5500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-5607 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Daniel B. SHAPIRO |
+| Diplomatic representation from the US: | embassy: 71 Hayarkon Street, Tel Aviv 63903 |
+| Diplomatic representation from the US: | telephone: [972] (3) 519-7575 |
+| Diplomatic representation from the US: | FAX: [972] (3) 516-4390 |
+| Diplomatic representation from the US: | consulate(s) general: Jerusalem; note - an independent US mission, established in 1928, whose members are not accredited to a foreign government |
+| Flag description: | white with a blue hexagram (six-pointed linear star) known as the Magen David (Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times |
+| National symbol(s): | Star of David |
+| National anthem: | name: "Hatikvah" (The Hope) |
+| National anthem: | lyrics/music: Naftali Herz IMBER/traditional, arranged by Samuel COHEN |
+| National anthem: | note: adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart) |

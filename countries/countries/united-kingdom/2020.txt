@@ -1,0 +1,87 @@
+| Government | United Kingdom |
+| --- | --- |
+| Country name: | conventional long form: United Kingdom of Great Britain and Northern Ireland; note - the island of Great Britain includes England, Scotland, and Wales |
+| Country name: | conventional short form: United Kingdom |
+| Country name: | abbreviation: UK |
+| Country name: | etymology: self-descriptive country name; the designation "Great Britain," in the sense of "Larger Britain," dates back to medieval times and was used to distinguish the island from "Little Britain," or Brittany in modern France; the name Ireland derives from the Gaelic "Eriu," the matron goddess of Ireland (goddess of the land) |
+| Government type: | parliamentary constitutional monarchy; a Commonwealth realm |
+| Capital: | name: London |
+| Capital: | geographic coordinates: 51 30 N, 0 05 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: the time statements apply to the United Kingdom proper, not to its crown dependencies or overseas territories |
+| Capital: | etymology: the name derives from the Roman settlement of Londinium, established on the current site of London around A.D. 43; the original meaning of the name is uncertain |
+| Administrative divisions: | England: 26 two-tier counties, 32 London boroughs and 1 City of London or Greater London, 36 metropolitan districts, 56 unitary authorities (including 4 single-tier counties*); |
+| Administrative divisions: | two-tier counties: Buckinghamshire, Cambridgeshire, Cumbria, Derbyshire, Devon, Dorset, East Sussex, Essex, Gloucestershire, Hampshire, Hertfordshire, Kent, Lancashire, Leicestershire, Lincolnshire, Norfolk, Northamptonshire, North Yorkshire, Nottinghamshire, Oxfordshire, Somerset, Staffordshire, Suffolk, Surrey, Warwickshire, West Sussex, Worcestershire |
+| Administrative divisions: | London boroughs and City of London or Greater London: Barking and Dagenham, Barnet, Bexley, Brent, Bromley, Camden, Croydon, Ealing, Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hillingdon, Hounslow, Islington, Kensington and Chelsea, Kingston upon Thames, Lambeth, Lewisham, City of London, Merton, Newham, Redbridge, Richmond upon Thames, Southwark, Sutton, Tower Hamlets, Waltham Forest, Wandsworth, Westminster |
+| Administrative divisions: | metropolitan districts: Barnsley, Birmingham, Bolton, Bradford, Bury, Calderdale, Coventry, Doncaster, Dudley, Gateshead, Kirklees, Knowlsey, Leeds, Liverpool, Manchester, Newcastle upon Tyne, North Tyneside, Oldham, Rochdale, Rotherham, Salford, Sandwell, Sefton, Sheffield, Solihull, South Tyneside, St. Helens, Stockport, Sunderland, Tameside, Trafford, Wakefield, Walsall, Wigan, Wirral, Wolverhampton |
+| Administrative divisions: | unitary authorities: Bath and North East Somerset; Bedford; Blackburn with Darwen; Blackpool; Bournemouth, Christchurch and Poole; Bracknell Forest; Brighton and Hove; City of Bristol; Central Bedfordshire; Cheshire East; Cheshire West and Chester; Cornwall; Darlington; Derby; Dorset; Durham County*; East Riding of Yorkshire; Halton; Hartlepool; Herefordshire*; Isle of Wight*; Isles of Scilly; City of Kingston upon Hull; Leicester; Luton; Medway; Middlesbrough; Milton Keynes; North East Lincolnshire; North Lincolnshire; North Somerset; Northumberland*; Nottingham; Peterborough; Plymouth; Portsmouth; Reading; Redcar and Cleveland; Rutland; Shropshire; Slough; South Gloucestershire; Southampton; Southend-on-Sea; Stockton-on-Tees; Stoke-on-Trent; Swindon; Telford and Wrekin; Thurrock; Torbay; Warrington; West Berkshire; Wiltshire; Windsor and Maidenhead; Wokingham; York |
+| Administrative divisions: | Northern Ireland: 5 borough councils, 4 district councils, 2 city councils; |
+| Administrative divisions: | borough councils: Antrim and Newtownabbey; Ards and North Down; Armagh City, Banbridge, and Craigavon; Causeway Coast and Glens; Mid and East Antrim |
+| Administrative divisions: | district councils: Derry CityÂ and Strabane; Fermanagh and Omagh; Mid Ulster; Newry, Murne, and Down |
+| Administrative divisions: | city councils: Belfast; Lisburn and Castlereagh |
+| Administrative divisions: | Scotland: 32 council areas; |
+| Administrative divisions: | council areas: Aberdeen City, Aberdeenshire, Angus, Argyll and Bute, Clackmannanshire, Dumfries and Galloway, Dundee City, East Ayrshire, East Dunbartonshire, East Lothian, East Renfrewshire, City of Edinburgh, Eilean Siar (Western Isles), Falkirk, Fife, Glasgow City, Highland, Inverclyde, Midlothian, Moray, North Ayrshire, North Lanarkshire, Orkney Islands, Perth and Kinross, Renfrewshire, Shetland Islands, South Ayrshire, South Lanarkshire, Stirling, The Scottish Borders, West Dunbartonshire, West Lothian |
+| Administrative divisions: | Wales: 22 unitary authorities; |
+| Administrative divisions: | unitary authorities: Blaenau Gwent, Bridgend, Caerphilly, Cardiff, Carmarthenshire, Ceredigion, Conwy, Denbighshire, Flintshire, Gwynedd, Isle of Anglesey, Merthyr Tydfil, Monmouthshire, Neath Port Talbot, Newport, Pembrokeshire, Powys, Rhondda Cynon Taff, Swansea, The Vale of Glamorgan, Torfaen, Wrexham |
+| Dependent areas: | Anguilla; Bermuda; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena, Ascension, and Tristan da Cunha; South Georgia and the South Sandwich Islands; Turks and Caicos Islands |
+| Independence: | no official date of independence: 927 (minor English kingdoms unite); 3 March 1284 (enactment of the Statute of Rhuddlan uniting England and Wales); 1536 (Act of Union formally incorporates England and Wales); 1 May 1707 (Acts of Union formally unite England, Scotland, and Wales as Great Britain); 1 January 1801 (Acts of Union formally unite Great Britain and Ireland as the United Kingdom of Great Britain and Ireland); 6 December 1921 (Anglo-Irish Treaty formalizes partition of Ireland; six counties remain part of the United Kingdom and Northern Ireland); 12 April 1927 (Royal and Parliamentary Titles Act establishes current name of the United Kingdom of Great Britain and Northern Ireland) |
+| National holiday: | the UK does not celebrate one particular national holiday |
+| Constitution: | history: unwritten; partly statutes, partly common law and practice |
+| Constitution: | amendments: proposed as a bill for an Act of Parliament by the government, by the House of Commons, or by the House of Lords; passage requires agreement by both houses and by the monarch (Royal Assent); note - additions include the Human Rights Act of 1998, the Constitutional Reform and Governance Act 2010, the Parliamentary Voting System and Constituencies Act 2011, the Fixed-term Parliaments Act 2011, and the House of Lords (Expulsion and Suspension) Act 2015 |
+| Legal system: | common law system; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998 |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the United Kingdom |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen ELIZABETH II (since 6 February 1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November 1948) |
+| Executive branch: | head of government: Prime Minister Boris JOHNSON (Conservative) (since 24 July 2019) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections/appointments: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024) |
+| Executive branch: | note: in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 15 additional Commonwealth countries (these 16 states are each referred to as a Commonwealth realm) |
+| Legislative branch: | description: bicameral Parliament consists of: |
+| Legislative branch: | House of Lords (membership not fixed; as of December 2019, 796 lords were eligible to participate in the work of the House of Lords - 679 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence |
+| Legislative branch: | House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier) |
+| Legislative branch: | elections: |
+| Legislative branch: | House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise) |
+| Legislative branch: | House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024) |
+| Legislative branch: | election results: |
+| Legislative branch: | House of Lords - composition - men 579, women 217, percent of women 27.3% |
+| Legislative branch: | House of Commons - percent of vote by party - Conservative 43.6%, Labor 32.1%, Lib Dems 11.6%, SNP 3.9%, Greens 2.7%, Brexit Party 2.0%, other 4.1%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 430, women 220, percent of women 34%; total Parliament percent of women 30.2% |
+| Judicial branch: | highest courts: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom |
+| Judicial branch: | judge selection and term of office: judge candidates selected by an independent committee of several judicial commissions, followed by their recommendations to the prime minister, and appointed by the monarch; justices serve for life |
+| Judicial branch: | subordinate courts: England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals |
+| Political parties and leaders: | Alliance Party (Northern Ireland) [Naomi LONG]Â  |
+| Political parties and leaders: | Brexit Party [Nigel FARAGE] |
+| Political parties and leaders: | Conservative and Unionist Party [Boris JOHNSON] |
+| Political parties and leaders: | Democratic Unionist Party or DUP (Northern Ireland) [Arlene FOSTER] |
+| Political parties and leaders: | Green Party of England and Wales or Greens [Sian BERRY and Jonathan BARTLEY] |
+| Political parties and leaders: | Labor (Labour) Party [Sir Keir STARMER] |
+| Political parties and leaders: | Liberal Democrats (Lib Dems) [Ed Davey] |
+| Political parties and leaders: | Party of Wales (Plaid Cymru) [Adam PRICE] |
+| Political parties and leaders: | Scottish National Party or SNP [Nicola STURGEON] |
+| Political parties and leaders: | Sinn Fein (Northern Ireland) [Mary Lou MCDONALD] |
+| Political parties and leaders: | Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD] |
+| Political parties and leaders: | Ulster Unionist Party or UUP (Northern Ireland) [Robin SWANN] |
+| Political parties and leaders: | UK Independence Party or UKIP [Pat MOUNTAIN, interim leader] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UN Security Council (permanent), UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Karen Elizabeth PIERCE (since 8 April 2020) |
+| Diplomatic representation in the US: | chancery: 3100 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-6500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-7870 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation in the US: | consulate(s): Orlando (FL), San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert Wood "Woody" JOHNSON IV (since 29 August 2017) |
+| Diplomatic representation from the US: | telephone: [44] 20-7499-9000 |
+| Diplomatic representation from the US: | embassy: |
+| Diplomatic representation from the US: | 33 Nine Elms Lane, London, SW11 7US or SW8 5DB (driving/GPS postcode) |
+| Diplomatic representation from the US: | mailing address: PSC 801, Box 40, FPO AE 09498-4040 |
+| Diplomatic representation from the US: | FAX: [44] 20-7891-3151 |
+| Diplomatic representation from the US: | consulate(s) general: Belfast, Edinburgh |
+| Flag description: | blue field with the red cross of Saint George (patron saint of England) edged in white superimposed on the diagonal red cross of Saint Patrick (patron saint of Ireland), which is superimposed on the diagonal white cross of Saint Andrew (patron saint of Scotland); properly known as the Union Flag, but commonly called the Union Jack; the design and colors (especially the Blue Ensign) have been the basis for a number of other flags including other Commonwealth countries and their constituent states or provinces, and British overseas territories |
+| National symbol(s): | lion (Britain in general); lion, Tudor rose, oak (England); lion, unicorn, thistle (Scotland); dragon, daffodil, leek (Wales); shamrock, flax (Northern Ireland); national colors: red, white, blue (Britain in general); red, white (England); blue, white (Scotland); red, white, green (Wales) |
+| National anthem: | name: God Save the Queen |
+| National anthem: | lyrics/music: unknown |
+| National anthem: | note: in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either "God Save the Queen" or "God Save the King," depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations |

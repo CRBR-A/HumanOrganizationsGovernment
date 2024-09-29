@@ -1,0 +1,41 @@
+| Government | Central African Republic |
+| --- | --- |
+| Country name: | conventional long form: Central African Republic |
+| Country name: | conventional short form: none |
+| Country name: | local long form: Republique Centrafricaine |
+| Country name: | local short form: none |
+| Country name: | former: Ubangi-Shari, Central African Empire |
+| Country name: | abbreviation: CAR |
+| Government type: | republic |
+| Capital: | name: Bangui |
+| Capital: | geographic coordinates: 4 22 N, 18 35 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 14 prefectures (prefectures, singular - prefecture), 2 economic prefectures* (prefectures economiques, singular - prefecture economique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga |
+| Independence: | 13 August 1960 (from France) |
+| National holiday: | Republic Day, 1 December (1958) |
+| Constitution: | ratified by popular referendum 5 December 2004; effective 27 December 2004 |
+| Legal system: | based on French law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 21 years of age; universal |
+| Executive branch: | chief of state: President Francois BOZIZE (since 15 March 2003 coup) |
+| Executive branch: | head of government: Prime Minister Faustin-Archange TOUADERA (since 22 January 2008) |
+| Executive branch: | cabinet: Council of Ministers |
+| Executive branch: | elections: under the new constitution, the president elected to a five-year term (eligible for a second term); elections last held 13 March and 8 May 2005 (next to be held in 2010); prime minister appointed by the political party with a parliamentary majority |
+| Executive branch: | election results: Francois BOZIZE elected president; percent of second round balloting - Francois BOZIZE (KNK) 64.6%, Martin ZIGUELE (MLPC) 35.4% |
+| Legislative branch: | unicameral National Assembly or Assemblee Nationale (105 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held 13 March 2005 and 8 May 2005 (next to be held in 2010) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - KNK 42, MLPC 11, RDC 8, PSD 4, FPP 2, ADP 2, LONDO 1, independents 34, other 1 |
+| Judicial branch: | Supreme Court or Cour Supreme; Constitutional Court (three judges appointed by the president, three by the president of the National Assembly, and three by fellow judges); Court of Appeal; Criminal Courts; Inferior Courts |
+| Political parties and leaders: | Alliance for Democracy and Progress or ADP [Jacques MBOLIEDAS]; Central African Democratic Rally or RDC [Andre KOLINGBA]; Civic Forum or FC [Gen. Timothee MALENDOMA]; Democratic Forum for Modernity or FODEM [Charles MASSI]; Liberal Democratic Party or PLD [Nestor KOMBO-NAGUEMON]; Londo Association or LONDO; Movement for Democracy and Development or MDD [David DACKO]; Movement for the Liberation of the Central African People or MLPC [Ange-Felix PATASSE] (the party of deposed president); National Convergence or KNK; Patriotic Front for Progress or FPP [Abel GOUMBA]; People's Union for the Republic or UPR [Pierre Sammy MAKFOY]; National Unity Party or PUN [Jean-Paul NGOUPANDE]; Social Democratic Party or PSD [Enoch LAKOUE] |
+| Political pressure groups and leaders: | Monam (combating gender-base violence) |
+| International organization participation: | ACCT, ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ITSO, ITU, ITUC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Emmanuel TOUABOY |
+| Diplomatic representation in the US: | chancery: 1618 22nd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 483-7800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-9893 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Frederick B. COOK |
+| Diplomatic representation from the US: | embassy: Avenue David Dacko, Bangui |
+| Diplomatic representation from the US: | mailing address: B. P. 924, Bangui |
+| Diplomatic representation from the US: | telephone: [236] 61 02 00 |
+| Diplomatic representation from the US: | FAX: [236] 61 44 94 |
+| Diplomatic representation from the US: | note: the embassy is currently operating with a minimal staff |
+| Flag description: | four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band |

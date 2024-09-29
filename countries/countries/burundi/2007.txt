@@ -1,0 +1,40 @@
+| Government | Burundi |
+| --- | --- |
+| Country name: | conventional long form: Republic of Burundi |
+| Country name: | conventional short form: Burundi |
+| Country name: | local long form: Republique du Burundi/Republika y'u Burundi |
+| Country name: | local short form: Burundi |
+| Country name: | former: Urundi |
+| Government type: | republic |
+| Capital: | name: Bujumbura |
+| Capital: | geographic coordinates: 3 22 S, 29 21 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 17 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rurale, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rutana, Ruyigi |
+| Independence: | 1 July 1962 (from UN trusteeship under Belgian administration) |
+| National holiday: | Independence Day, 1 July (1962) |
+| Constitution: | 28 February 2005; ratified by popular referendum |
+| Legal system: | based on German and Belgian civil codes and customary law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | NA years of age; universal (adult) |
+| Executive branch: | chief of state: President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Martin NDUWIMANA - Tutsi (since 29 August 2005); Second Vice President Gabriel NTISEZERANA - Hutu (since 9 February 2007) |
+| Executive branch: | head of government: President Pierre NKURUNZIZA (since 26 August 2005); First Vice President Martin NDUWIMANA - Tutsi (since 29 August 2005); Second Vice President Gabriel NTISEZERANA - Hutu (since 9 February 2007) |
+| Executive branch: | cabinet: Council of Ministers appointed by president |
+| Executive branch: | elections: the president is elected by popular vote to a five-year term (eligible for a second term); note - the constitution adopted in February 2005 permits the post-transition president to be elected by a two-thirds majority of the parliament; vice presidents nominated by the president, endorsed by parliament |
+| Executive branch: | election results: Pierre NKURUNZIZA was elected president by the parliament by a vote of 151 to 9; note - the constitution adopted in February 2005 permits the post-transition president to be elected by a two-thirds majority of the legislature |
+| Legislative branch: | bicameral Parliament or Parlement, consists of a National Assembly or Assemblee Nationale (minimum 100 seats, 60% Hutu and 40% Tutsi with at least 30% being women; additional seats appointed by a National Independent Electoral Commission to ensure ethnic representation; members are elected by popular vote to serve five-year terms) and a Senate (54 seats; 34 members elected by indirect vote to serve five-year terms, with remaining seats assigned to ethnic groups and former chiefs of state) |
+| Legislative branch: | elections: National Assembly - last held 4 July 2005 (next to be held in 2010); Senate - last held 29 July 2005 (next to be held in 2010) |
+| Legislative branch: | election results: National Assembly - percent of vote by party - CNDD-FDD 58.6%, FRODEBU 21.7%, UPRONA 7.2%, CNDD 4.1%, MRC-Rurenzangemero 2.1%, others 6.2%; seats by party - CNDD-FDD 59, FRODEBU 25, UPRONA 10, CNDD 4, MRC-Rurenzangemero 2; Senate - percent of vote by party - NA%; seats by party - CNDD-FDD 30, FRODEBU 3, CNDD 1 |
+| Judicial branch: | Supreme Court or Cour Supreme; Constitutional Court; Courts of Appeal (there are three in separate locations); Tribunals of First Instance (17 at the province level and 123 small local tribunals) |
+| Political parties and leaders: | governing parties: Burundi Democratic Front or FRODEBU [Leonce NGENDAKUMANA]; National Council for the Defense of Democracy - Front for the Defense of Democracy or CNDD-FDD [Jeremie NGENDAKUMANA]; Unity for National Progress or UPRONA [Aloys RUBUKA] |
+| Political parties and leaders: | note: a multiparty system was introduced after 1998, included are: National Council for the Defense of Democracy or CNDD; National Resistance Movement for the Rehabilitation of the Citizen or MRC-Rurenzangemero [Epitace BANYAGANAKANDI]; Party for National Redress or PARENA [Jean-Baptiste BAGAZA] |
+| Political pressure groups and leaders: | none |
+| International organization participation: | ACCT, ACP, AfDB, AU, CEPGL, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM (observer), IPU, ISO (subscriber), ITU, ITUC, MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Celestin NIYONGABO |
+| Diplomatic representation in the US: | chancery: Suite 212, 2233 Wisconsin Avenue NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 342-2574 |
+| Diplomatic representation in the US: | FAX: [1] (202) 342-2578 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Patricia Newton MOLLER |
+| Diplomatic representation from the US: | embassy: Avenue des Etats-Unis, Bujumbura |
+| Diplomatic representation from the US: | mailing address: B. P. 1720, Bujumbura |
+| Diplomatic representation from the US: | telephone: [257] 223454 |
+| Diplomatic representation from the US: | FAX: [257] 222926 |
+| Flag description: | divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below) |

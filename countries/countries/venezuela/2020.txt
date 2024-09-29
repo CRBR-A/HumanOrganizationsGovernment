@@ -1,0 +1,72 @@
+| Government | Venezuela |
+| --- | --- |
+| Country name: | conventional long form: Bolivarian Republic of Venezuela |
+| Country name: | conventional short form: Venezuela |
+| Country name: | local long form: Republica Bolivariana de Venezuela |
+| Country name: | local short form: Venezuela |
+| Country name: | former: State of Venezuela, Republic of Venezuela, United States of Venezuela |
+| Country name: | etymology: native stilt-houses built on Lake Maracaibo reminded early explorers Alonso de OJEDA and Amerigo VESPUCCI in 1499 of buildings in Venice and so they named the region "Venezuola," which in Italian means "Little Venice" |
+| Government type: | federal presidential republic |
+| Capital: | name: Caracas |
+| Capital: | geographic coordinates: 10 29 N, 66 52 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: named for the native Caracas tribe that originally settled in the city's valley site near the Caribbean coast |
+| Administrative divisions: | 23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoategui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guarico, La Guaira, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Tachira, Trujillo, Yaracuy, Zulia |
+| Administrative divisions: | note: the federal dependency consists of 11 federally controlled island groups with a total of 72 individual islands |
+| Independence: | 5 July 1811 (from Spain) |
+| National holiday: | Independence Day, 5 July (1811) |
+| Constitution: | history: many previous; latest adopted 15 December 1999, effective 30 December 1999 |
+| Constitution: | amendments: proposed through agreement by at least 39% of the National Assembly membership, by the president of the republic in session with the cabinet of ministers, or by petition of at least 15% of registered voters; passage requires simple majority vote by the Assembly and simple majority approval in a referendum; amended 2009; note - in 2016, President MADURO issued a decree to hold an election to form a constituent assembly to change the constitution; the election in July 2017 approved the formation of a 545-member constituent assembly and elected its delegates, empowering them to change the constitution and dismiss government institutions and officials |
+| Legal system: | civil law system based on the Spanish civil code |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 10 years; reduced to five years in the case of applicants from Spain, Portugal, Italy, or a Latin American or Caribbean country |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Notification Statement: the United States recognizes Juan GUAIDO as the Interim President of Venezuela |
+| Executive branch: | President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of governmentÂ  |
+| Executive branch: | head of government: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election scheduled for 2024) |
+| Executive branch: | election results: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was marked by serious shortcomings and electoral fraud; voter turnout was approximately 46% due largely to an opposition boycott of the election |
+| Legislative branch: | description: unicameral National Assembly or Asamblea Nacional (167 seats; 113 members directly elected in single- and multi-seat constituencies by simple majority vote, 51 directly elected in multi-seat constituencies by closed, party-list proportional representation vote, and 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 6 December 2015 (next to be held on 6 December 2020) |
+| Legislative branch: | election results: percent of vote by party - MUD (opposition coalition) 56.2%, PSUV (pro-government) 40.9%, other 2.9%; seats by party - MUD 109, PSUV 55, indigenous peoples 3; composition - men 143, women 24, percent of women 14.4% |
+| Judicial branch: | highest courts: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions) |
+| Judicial branch: | judge selection and term of office: judges proposed by the Committee of Judicial Postulation (an independent body of organizations dealing with legal issues and of the organs of citizen power) and appointed by the National Assembly; judges serve nonrenewable 12-year terms; note - in July 2017, the National Assembly named 33 judges to the court to replace a series of judges, it argued, had been illegally appointed in late 2015 by the outgoing, socialist-party-led Assembly; the Government of President MADURO and the Socialist Party-appointed judges refused to recognize these appointments, however, and many of the new judges have since been imprisoned or forced into exile |
+| Judicial branch: | subordinate courts: Superior or Appeals Courts (Tribunales Superiores); District Tribunals (Tribunales de Distrito); Courts of First Instance (Tribunales de Primera Instancia); Parish Courts (Tribunales de Parroquia); Justices of the Peace (Justicia de Paz) Network |
+| Political parties and leaders: | A New Era or UNT [Manuel ROSALES] |
+| Political parties and leaders: | Brave People's Alliance or ABP [Richard BLANCO] |
+| Political parties and leaders: | Christian Democrats or COPEI [Roberto ENRIQUEZ] |
+| Political parties and leaders: | Clear Accounts or CC [Enzo SCARENO] |
+| Political parties and leaders: | Coalition of parties loyal to Hugo CHAVEZ -- Great Patriotic Pole or GPP [Nicolas MADURO] |
+| Political parties and leaders: | Coalition of opposition parties -- The Democratic Unity Table or MUD [Jose Luis CARTAYA] |
+| Political parties and leaders: | Come On Venezuela or VV [Maria MACHADO] |
+| Political parties and leaders: | Communist Party of Venezuela or PCV [Oscar FIGUERA] |
+| Political parties and leaders: | Democratic Action or AD [Henry RAMOS ALLUP] |
+| Political parties and leaders: | Justice First or PJ [Julio BORGES] |
+| Political parties and leaders: | Popular Will or VP [Leopoldo LOPEZ] |
+| Political parties and leaders: | Progressive Wave or AP [Henri FALCON] |
+| Political parties and leaders: | The Radical Cause or La Causa R [Andres VELAZQUEZ] |
+| Political parties and leaders: | United Socialist Party of Venezuela or PSUV [Nicolas MADURO] |
+| Political parties and leaders: | Venezuelan Progressive Movement or MPV [Simon CALZADILLA] |
+| Political parties and leaders: | Venezuela Project or PV [Henrique Fernando SALAS FEO] |
+| International organization participation: | Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Carlos Lissett M. HERNANDEZ Marquez (since May 2018) |
+| Diplomatic representation in the US: | chancery: 1099 30th Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 342-2214 |
+| Diplomatic representation in the US: | FAX: [1] (202) 342-6820 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Houston, New Orleans, New York, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires James "Jimmy" STORY (since July 2018); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; all consular services, routine and emergency, are suspended |
+| Diplomatic representation from the US: | telephone: [58] (212) 975-6411, 907-8400 (after hours) |
+| Diplomatic representation from the US: | Â  |
+| Diplomatic representation from the US: | embassy: now operating from Bogota, Colombia |
+| Diplomatic representation from the US: | previously - F St. and Suapure St.; Urb . Colinas de Valle Arriba; Caracas 1080 |
+| Diplomatic representation from the US: | mailing address: P. O. Box 62291, Caracas 1060-A; APO AA 34037 |
+| Diplomatic representation from the US: | FAX: [58] (212) 907-8106 |
+| Flag description: | three equal horizontal bands of yellow (top), blue, and red with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; yellow is interpreted as standing for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; the seven stars on the original flag represented the seven provinces in Venezuela that united in the war of independence; in 2006, then President Hugo CHAVEZ ordered an eighth star added to the star arc - a decision that sparked much controversy - to conform with the flag proclaimed by Simon Bolivar in 1827 and to represent the historic province of Guayana |
+| National symbol(s): | troupial (bird); national colors: yellow, blue, red |
+| National anthem: | name: "Gloria al bravo pueblo" (Glory to the Brave People) |
+| National anthem: | lyrics/music: Vicente SALIAS/Juan Jose LANDAETA |
+| National anthem: | note: adopted 1881; lyrics written in 1810, the music some years later; both SALIAS and LANDAETA were executed in 1814 during Venezuela's struggle for independence |

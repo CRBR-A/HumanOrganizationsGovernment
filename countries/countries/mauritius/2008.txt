@@ -1,0 +1,38 @@
+| Government | Mauritius |
+| --- | --- |
+| Country name: | conventional long form: Republic of Mauritius |
+| Country name: | conventional short form: Mauritius |
+| Country name: | local long form: Republic of Mauritius |
+| Country name: | local short form: Mauritius |
+| Government type: | parliamentary democracy |
+| Capital: | name: Port Louis |
+| Capital: | geographic coordinates: 20 09 S, 57 29 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 9 districts and 3 dependencies*; Agalega Islands*, Black River, Cargados Carajos Shoals*, Flacq, Grand Port, Moka, Pamplemousses, Plaines Wilhems, Port Louis, Riviere du Rempart, Rodrigues*, Savanne |
+| Independence: | 12 March 1968 (from UK) |
+| National holiday: | Independence Day, 12 March (1968) |
+| Constitution: | 12 March 1968; amended 12 March 1992 |
+| Legal system: | based on French civil law system with elements of English common law in certain areas; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Sir Anerood JUGNAUTH (since 7 October 2003); Vice President Abdool Raouf BUNDHUN (since 25 February 2002) |
+| Executive branch: | head of government: Prime Minister Navinchandra RAMGOOLAM (since 5 July 2005) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections: president and vice president elected by the National Assembly for five-year terms (eligible for a second term); election last held 19 September 2008 (next to be held in 2013); prime minister and deputy prime minister appointed by the president, responsible to the National Assembly |
+| Executive branch: | election results: Sir Anerood JUGNAUTH reelected president by unanimous vote; percent of vote by the National Assembly - NA% |
+| Legislative branch: | unicameral National Assembly (70 seats; 62 members elected by popular vote, 8 appointed by the election commission to give representation to various ethnic minorities; to serve five-year terms) |
+| Legislative branch: | elections: last held on 3 July 2005 (next to be held in 2010) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - AS 38, MSM/MMM 22, OPR 2; appointed seats - AS 4, MSM/MMM 2, OPR 2 |
+| Judicial branch: | Supreme Court |
+| Political parties and leaders: | Alliance Sociale or AS [Navinchandra RAMGOOLAM] (governing coalition - includes MLD, MMSM, MR, MSD, PMXD); Mauritian Labor Party or MLP [Navinchandra RAMGOOLAM]; Mauritian Militant Movement or MMM [Paul BERENGER]; Mauritian Socialist Militant Movement or MMSM [Madan DOLLOO]; Militant Socialist Movement or MSM [Nando BODHA]; Mouvement Republicain or MR [Jayarama VALAYDEN]; Parti Mauricien Xavier Duval or PMXD [Xavier Luc DUVAL]; Rodrigues Movement or MR [Joseph (Nicholas) Von MALLY]; Rodrigues Peoples Organization or OPR [Serge CLAIR] |
+| Political pressure groups and leaders: | other: various labor unions |
+| International organization participation: | ACP, AfDB, AU, C, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OIF, OPCW, PCA, SAARC (observer), SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Keerteecoomar RUHEE |
+| Diplomatic representation in the US: | chancery: 4301 Connecticut Avenue NW, Suite 441, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-1491, 1492 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-0983 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Cesar CABRERA |
+| Diplomatic representation from the US: | embassy: 4th Floor, Rogers House, John Kennedy Street, Port Louis |
+| Diplomatic representation from the US: | mailing address: international mail: P. O. Box 544, Port Louis; US mail: American Embassy, Port Louis, US Department of State, Washington, DC 20521-2450 |
+| Diplomatic representation from the US: | telephone: [230] 202-4400 |
+| Diplomatic representation from the US: | FAX: [230] 208-9534 |
+| Flag description: | four equal horizontal bands of red (top), blue, yellow, and green |

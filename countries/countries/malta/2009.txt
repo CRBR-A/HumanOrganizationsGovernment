@@ -1,0 +1,41 @@
+| Government | Malta |
+| --- | --- |
+| Country name: | conventional long form: Republic of Malta |
+| Country name: | conventional short form: Malta |
+| Country name: | local long form: Repubblika ta' Malta |
+| Country name: | local short form: Malta |
+| Government type: | republic |
+| Capital: | name: Valletta |
+| Capital: | geographic coordinates: 35 53 N, 14 30 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | none (administered directly from Valletta); note - local councils carry out administrative orders |
+| Independence: | 21 September 1964 (from the UK) |
+| National holiday: | Independence Day, 21 September (1964) |
+| Constitution: | 1964; amended many times |
+| Legal system: | based on English common law and Roman civil law; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President George ABELA (since 4 April 2009) |
+| Executive branch: | head of government: Prime Minister Lawrence GONZI (since 23 March 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the advice of the prime minister |
+| Executive branch: | elections: president elected by the House of Representatives for a five-year term (eligible for a second term); election last held on 12 January 2009 (next to be held by April 2014); following legislative elections, the leader of the majority party or leader of a majority coalition is usually appointed prime minister by the president for a five-year term; the deputy prime minister is appointed by the president on the advice of the prime minister |
+| Executive branch: | election results: George ABELA elected president by the House of Representatives |
+| Legislative branch: | unicameral House of Representatives (normally 65 seats; members are elected by popular vote on the basis of proportional representation to serve five-year terms; note - the current Parliament is composed of 69 seats; when the political party winning the plurality of votes does not win a majority of seats, the constitution provides that a sufficient number of seats will be added to Parliament to ensure that the party that won the elections has a majority in Parliament) |
+| Legislative branch: | elections: last held on 8 March 2008 (next to be held by March 2013) |
+| Legislative branch: | election results: percent of vote by party - PN 49.3%, MLP 48.9%, other 1.8%; seats by party - PN 35, MLP 34 |
+| Judicial branch: | Constitutional Court; Court of Appeal; judges for both courts are appointed by the president on the advice of the prime minister |
+| Political parties and leaders: | Alternativa Demokratika/Alliance for Social Justice or AD [Arnold CASSOLA]; Azzjoni Nazzjonaili or AN [Josi MUSCAT]; Malta Labor Party or MLP [Joseph MUSCAT]; Nationalist Party or PN [Lawrence GONZI] |
+| Political pressure groups and leaders: | Alleanza Liberal-Demokratika Maltra or ALDM (for divorce, abortion, gay marriage, the rights existent in other EU member states); Alleanza Nazzionali Repubblikana or ANR (for traditional values, anti-immigration); Alternattiva Demokratika (pro-environment); Azzjoni Nazzjonali or AN (freedom to participate in democratic government); Flimkien Ghal-Ambjent Ahjar (pro-environment); Ghazdatal-Konsumaturi (consumer rights) |
+| Political pressure groups and leaders: | other: environmentalists |
+| International organization participation: | Australia Group, C, CE, EAPC, EBRD, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICCt, ICRM, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NSG, OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mark MICELI-FARRUGIA |
+| Diplomatic representation in the US: | chancery: 2017 Connecticut Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-3611 through 3612 |
+| Diplomatic representation in the US: | FAX: [1] (202) 387-5470 |
+| Diplomatic representation in the US: | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Jason DAVIS |
+| Diplomatic representation from the US: | embassy: 3rd Floor, Development House, Saint Anne Street, Floriana, VLT 01 |
+| Diplomatic representation from the US: | mailing address: P. O. Box 535, Valletta, CMR01 |
+| Diplomatic representation from the US: | telephone: [356] 2561 4000 |
+| Diplomatic representation from the US: | FAX: [356] 21 243229 |
+| Flag description: | two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red |

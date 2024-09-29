@@ -1,0 +1,66 @@
+| Government | Armenia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Armenia |
+| Country name: | conventional short form: Armenia |
+| Country name: | local long form: Hayastani Hanrapetut'yun |
+| Country name: | local short form: Hayastan |
+| Country name: | former: Armenian Soviet Socialist Republic, Armenian Republic |
+| Country name: | etymology: the etymology of the country's name remains obscure; according to tradition, the country is named after Hayk, the legendary patriarch of the Armenians and the great-great-grandson of Noah; Hayk's descendant, Aram, purportedly is the source of the name Armenia |
+| Government type: | parliamentary democracy; note - constitutional changes adopted in December 2015 transformed the government to a parliamentary system |
+| Capital: | name: Yerevan |
+| Capital: | geographic coordinates: 40 10 N, 44 30 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: name likely derives from the ancient Urartian fortress of Erebuni established on the current site of Yerevan in 782 B.C. and whose impresive ruins still survive |
+| Administrative divisions: | 11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan |
+| Independence: | 21 September 1991 (from the Soviet Union); notable earlier dates: 321 B.C. (Kingdom of Armenia established under the Orontid Dynasty), A.D. 884 (Armenian Kingdom reestablished under the Bagratid Dynasty); 1198 (Cilician Kingdom established); 28 May 1918 (Democratic Republic of Armenia declared) |
+| National holiday: | Independence Day, 21 September (1991) |
+| Constitution: | history: previous 1915, 1978; latest adopted 5 July 1995 |
+| Constitution: | amendments: proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable; amended 2005, 2007, 2008, 2015; note - a constitutional referendum scheduled for 4 May 2020 has been postponed due to the COVID-19 pandemic |
+| Legal system: | civil law system |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Armenia |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 3 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Armen SARKISSIAN (since 9 April 2018) |
+| Executive branch: | head of government: Prime Minister Nikol PASHINYAN (since 8 May 2018); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections/appointments: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held on 14 January 2019 |
+| Executive branch: | election results: Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10; Nikol PASHINYAN was chosen as prime minister by the parliament automatically after his party won a landslide victory in the December 2018 elections |
+| Executive branch: | note: After initially winning election on 8 May 2018, Nikol PASHINYAN resigned his post (but stayed on as acting prime minister) on 16 October 2018 to force a snap election (held on 9 December 2018) in which his bloc won more than 70% of the vote; PASHINYAN was reappointed prime minister on 14 January 2019 |
+| Legislative branch: | description: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, currently 132; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 9 December 2018 (next elections to be held December 2023) |
+| Legislative branch: | election results: percent of vote by party - My Step Alliance 70.4%, BHK 8.3%, Bright Armenia 6.4%, RPA 4.7%, ARF 3.9%, other 6.3%; seats by party - My Step Alliance 88, BHK 26, Bright Armenia 18; composition - men 112, women 20, percent of women 15.2% |
+| Judicial branch: | highest courts: Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges â€“ with both civil and administrative specializations); Constitutional Court (consists of 9 judges) |
+| Judicial branch: | judge selection and term of office: Court of Cassation judges nominated by the Supreme Judicial Council, a 10-member body of selected judges and legal scholars; judges appointed by the president; judges can serve until age 65; Constitutional Court judges - 4 appointed by the president, and 5 elected by the National Assembly; judges can serve until age 70 |
+| Judicial branch: | subordinate courts: criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts |
+| Political parties and leaders: | Armenian National Congress or ANC (bloc of independent and opposition parties) [Levon TER-PETROSSIAN] |
+| Political parties and leaders: | Armenian Revolutionary Federation or ARF ("Dashnak" Party) [Hakob TER-KHACHATURYAN] |
+| Political parties and leaders: | Bright Armenia [Edmon MARUKYAN] |
+| Political parties and leaders: | Citizen's Decision [Suren SAHAKYAN] |
+| Political parties and leaders: | Civil Contract [Nikol PASHINYAN] |
+| Political parties and leaders: | Free Democrats [Khachatur KOKOBELYAN] |
+| Political parties and leaders: | Heritage Party [Raffi HOVANNISIAN] |
+| Political parties and leaders: | Prosperous Armenia or BHK [Gagik TSARUKYAN] |
+| Political parties and leaders: | Republic [Aram SARGSYAN] |
+| Political parties and leaders: | Republican Party of Armenia or RPA [Serzh SARGSIAN] |
+| Political parties and leaders: | Rule of Law Party (Orinats Yerkir) or OEK [Artur BAGHDASARIAN] |
+| Political parties and leaders: | Sasna Tser [Varuzhan AVETISYAN] |
+| International organization participation: | ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Varuzhan NERSESSYAN (since 11 January 2019) |
+| Diplomatic representation in the US: | chancery: 2225 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 319-1976 |
+| Diplomatic representation in the US: | FAX: [1] (202) 319-2982 |
+| Diplomatic representation in the US: | consulate(s) general: Glendale (CA) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Lynne M. TRACEY (since 5 March 2019) |
+| Diplomatic representation from the US: | telephone: [374](10) 464-700 |
+| Diplomatic representation from the US: | embassy: |
+| Diplomatic representation from the US: | 1 American Ave., Yerevan 0082 |
+| Diplomatic representation from the US: | mailing address: American Embassy Yerevan, US Department of State, 7020 Yerevan Place, Washington, DC 20521-7020 |
+| Diplomatic representation from the US: | FAX: [374](10) 464-742 |
+| Flag description: | three equal horizontal bands of red (top), blue, and orange; the color red recalls the blood shed for liberty, blue the Armenian skies as well as hope, and orange the land and the courage of the workers who farm it |
+| National symbol(s): | Mount Ararat, eagle, lion; national colors: red, blue, orange |
+| National anthem: | name: "Mer Hayrenik" (Our Fatherland) |
+| National anthem: | lyrics/music: Mikael NALBANDIAN/Barsegh KANACHYAN |
+| National anthem: | note: adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922) but with different lyrics |

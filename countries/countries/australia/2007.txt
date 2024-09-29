@@ -1,0 +1,39 @@
+| Government | Australia |
+| --- | --- |
+| Country name: | conventional long form: Commonwealth of Australia |
+| Country name: | conventional short form: Australia |
+| Government type: | federal parliamentary democracy |
+| Capital: | name: Canberra |
+| Capital: | geographic coordinates: 35 17 S, 149 13 E |
+| Capital: | time difference: UTC+10 (15 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in October; ends last Sunday in March |
+| Capital: | note: Australia is divided into three time zones |
+| Administrative divisions: | 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia |
+| Dependent areas: | Ashmore and Cartier Islands, Christmas Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald Islands, Norfolk Island, Macquarie Island |
+| Independence: | 1 January 1901 (federation of UK colonies) |
+| National holiday: | Australia Day, 26 January (1788); ANZAC Day (commemorated as the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey), 25 April (1915) |
+| Constitution: | 9 July 1900, effective 1 January 1901 |
+| Legal system: | based on English common law; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: Queen of Australia ELIZABETH II (since 6 February 1952); represented by Governor General Maj. Gen. (Ret.) Michael JEFFERY (since 11 August 2003) |
+| Executive branch: | head of government: Prime Minister Kevin RUDD (since 3 December 2007); Deputy Prime Minister Julia GILLARD (since 3 December 2007) |
+| Executive branch: | cabinet: prime minister nominates, from among members of Parliament, candidates who are subsequently sworn in by the governor general to serve as government ministers |
+| Executive branch: | elections: none; the monarch is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or leader of a majority coalition is sworn in as prime minister by the governor general |
+| Legislative branch: | bicameral Federal Parliament consists of the Senate (76 seats; 12 members from each of the six states and 2 from each of the two mainland territories; one-half of state members are elected every three years by popular vote to serve six-year terms while all territory members are elected every three years) and the House of Representatives (150 seats; members elected by popular preferential vote to serve terms of up to three-years; no state can have fewer than 5 representatives) |
+| Legislative branch: | elections: Senate - last held 24 November 2007 (next to be held no later than 2010); House of Representatives - last held 24 November 2007 (next to be called no later than 2010) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - Liberal Party-National Party coalition 37, Australian Labor Party 32, Australian Greens 5, Family First Party 1, other 1; House of Representatives - percent of vote by party - NA%; seats by party - Australian Labor Party 80, Liberal Party 50, National Party 10, independents 2, undecided 8 |
+| Judicial branch: | High Court (the chief justice and six other justices are appointed by the governor general) |
+| Political parties and leaders: | Australian Democrats [Lyn ALLISON]; Australian Greens [Bob BROWN]; Australian Labor Party [Kevin RUDD]; Country Liberal Party [Jodeen CARNEY]; Family First Party [Steve FIELDING]; Liberal Party [Brendan NELSON]; The Nationals [Warren TRUSS] |
+| International organization participation: | ANZUS, APEC, ARF, AsDB, ASEAN (dialogue partner), Australia Group, BIS, C, CP, EAS, EBRD, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM (guest), NEA, NSG, OECD, OPCW, Paris Club, PCA, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMIS, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Dennis J. RICHARDSON |
+| Diplomatic representation in the US: | chancery: 1601 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 797-3000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 797-3168 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Honolulu, Los Angeles, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert D. McCALLUM, Jr. |
+| Diplomatic representation from the US: | embassy: Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600 |
+| Diplomatic representation from the US: | mailing address: APO AP 96549 |
+| Diplomatic representation from the US: | telephone: [61] (02) 6214-5600 |
+| Diplomatic representation from the US: | FAX: [61] (02) 6214-5970 |
+| Diplomatic representation from the US: | consulate(s) general: Melbourne, Perth, Sydney |
+| Flag description: | blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small five-pointed star and four larger, seven-pointed stars |

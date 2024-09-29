@@ -1,0 +1,52 @@
+| Government | PALAU |
+| --- | --- |
+| Country name: | conventional long form: Republic of Palau |
+| Country name: | conventional short form: Palau |
+| Country name: | local long form: Beluu er a Belau |
+| Country name: | local short form: Belau |
+| Country name: | former: Trust Territory of the Pacific Islands, Palau District |
+| Country name: | etymology: from the Palauan name for the islands, Belau, which likely derives from the Palauan word "beluu" meaning "village" |
+| Government type: | presidential republic in free association with the US |
+| Capital: | name: Ngerulmud |
+| Capital: | geographic coordinates: 7 30 N, 134 37 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol |
+| Independence: | 1 October 1994 (from the US-administered UN trusteeship) |
+| National holiday: | Constitution Day, 9 July (1981), day of a national referendum to pass the new constitution; Independence Day, 1 October (1994) |
+| Constitution: | ratified 9 July 1980, effective 1 January 1981; amended 1992, 2004, 2008 (2016) |
+| Legal system: | mixed legal system of civil, common, and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Palau |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: note - no procedure for naturalization |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Tommy REMENGESAU (since 17 January 2013); Vice President Antonio BELLS (since 17 January 2013); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Tommy REMENGESAU (since 17 January 2013); Vice President Antonio BELLS (since 17 January 2013) |
+| Executive branch: | cabinet: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau |
+| Executive branch: | elections/appointments: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 1 November 2016 (next to be held in November 2020) |
+| Executive branch: | election results: Tommy REMENGESAU reelected president; percent of vote - Tommy REMENGESAU (independent) 51.3%, Surangel WHIPPS, Jr.(independent) 48.7%; Antonio BELLS elected vice president |
+| Legislative branch: | description: bicameral National Congress or Olbiil Era Kelulau consists of the Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms) and the House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) |
+| Legislative branch: | elections: Senate - last held on 1 November 2016 (next to be held in November 2020); House of Delegates - last held on 1 November 2016 (next to be held in November 2020) |
+| Legislative branch: | election results: Senate - percent of vote - NA; seats - independent 13; House of Delegates - percent of vote - NA; seats - independent 16 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; also within the Supreme Court organization are the Common Pleas and Land Courts) |
+| Judicial branch: | judge selection and term of office: justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers and appointed by the president; judges appointed until mandatory retirement at age 65 |
+| Judicial branch: | subordinate courts: National Court and other 'inferior' courts |
+| Political parties and leaders: | none |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IPU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNAMID, UNCTAD, UNESCO, WHO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hersey KYOTA (since 12 November 1997) |
+| Diplomatic representation in the US: | chancery: 1701 Pennsylvania Avenue NW, Suite 300, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 452-6814 |
+| Diplomatic representation in the US: | FAX: [1] (202) 452-6281 |
+| Diplomatic representation in the US: | consulate(s): Tamuning (Guam) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Amy HYATT (since 9 March 2015) |
+| Diplomatic representation from the US: | embassy: Koror (no street address) |
+| Diplomatic representation from the US: | mailing address: P. O. Box 6028, Koror, Republic of Palau 96940 |
+| Diplomatic representation from the US: | telephone: [680] 587-2920 |
+| Diplomatic representation from the US: | FAX: [680] 587-2911 |
+| Flag description: | light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility |
+| National symbol(s): | bai (native meeting house); national colors: blue, yellow |
+| National anthem: | name: "Belau rekid" (Our Palau) |
+| National anthem: | lyrics/music: multiple/Ymesei O. EZEKIEL |
+| National anthem: | note: adopted 1980 |

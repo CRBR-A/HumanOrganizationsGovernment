@@ -1,0 +1,46 @@
+| Government | Italy |
+| --- | --- |
+| Country name: | conventional long form: Italian Republic |
+| Country name: | conventional short form: Italy |
+| Country name: | local long form: Repubblica Italiana |
+| Country name: | local short form: Italia |
+| Country name: | former: Kingdom of Italy |
+| Government type: | republic |
+| Capital: | name: Rome |
+| Capital: | geographic coordinates: 41 54 N, 12 29 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 regions (regioni, singular - regione) and 5 autonomous regions* (regioni autonome, singular - regione autonoma); Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Friuli-Venezia Giulia*, Lazio, Liguria, Lombardia, Marche, Molise, Piemonte, Puglia, Sardegna*, Sicilia*, Toscana, Trentino-Alto Adige*, Umbria, Valle d'Aosta*, Veneto |
+| Independence: | 17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1870) |
+| National holiday: | Republic Day, 2 June (1946) |
+| Constitution: | passed 11 December 1947, effective 1 January 1948; amended many times |
+| Legal system: | based on civil law system; appeals treated as new trials; judicial review under certain conditions in Constitutional Court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal (except in senatorial elections, where minimum age is 25) |
+| Executive branch: | chief of state: President Giorgio NAPOLITANO (since 15 May 2006) |
+| Executive branch: | head of government: Prime Minister (referred to in Italy as the president of the Council of Ministers) Romano PRODI (since 17 May 2006) |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister and approved by the president |
+| Executive branch: | elections: president elected by an electoral college consisting of both houses of parliament and 58 regional representatives for a seven-year term (no term limits); election last held 10 May 2006 (next to be held May 2013); prime minister appointed by the president and confirmed by parliament |
+| Executive branch: | election results: Giorgio NAPOLITANO elected president on the fourth round of voting; electoral college vote - 543 |
+| Legislative branch: | bicameral Parliament or Parlamento consists of the Senate or Senato della Repubblica (315 seats; elected by proportional vote with the winning coalition in each region receiving 55% of seats from that region; members serve five-year terms) and the Chamber of Deputies or Camera dei Deputati (630 seats; elected by popular vote with the winning national coalition receiving 54% of chamber seats; members serve five-year terms); note - electoral vote reform passed in December 2005 |
+| Legislative branch: | elections: Senate - last held 10 April 2006 (next to be held in 2011); Chamber of Deputies - last held 10 April 2006 (next to be held May 2011) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - The Union 158 (DS 62, DL 39, RC 27, Together with the Union 11, other 19), House of Freedoms 154 (FI 79, AN 41, UDC 21, LEGA 13), other 3; Chamber of Deputies - percent of vote by party - NA; seats by party - The Union 348 (DS 220, RC 41, Rose in the Fist 18, Italy of Values 17, PdCI 16, Greens Federation 15, UDEUR 10, other 11), House of Freedoms 276 (FI 140, AN 71, Union of Christian and Center Democrats 39, LEGA 26), other 6 |
+| Judicial branch: | Constitutional Court or Corte Costituzionale (composed of 15 judges: one-third appointed by the president, one-third elected by parliament, one-third elected by the ordinary and administrative Supreme Courts) |
+| Political parties and leaders: | Center-Left Union Coalition [Romano PRODI]: Ulivo Alliance (including Democrats of the Left or DS [Piero FASSINO]; Daisy-Democracy is Freedom or DL [Francesco RUTELLI]); Rose in the Fist (including Italian Social Democrats or SDI [Enrico BOSELLI]; Italian Radical Party [Emma BONINO]); Italian Communist Party or PdCI [Oliviero DILIBERTO]; Green Federation [Alfonso PECORARO SCANIO]; Communist Renewal or RC [Fausto BERTINOTTI]; Italy of Values or IdV [Antonio DI PIETRO]; Union of Democrats for Europe or UDEUR [Clemente MASTELLA]; Republican European Movement or MRE [Luciana SBARBATI] |
+| Political parties and leaders: | Center-Right Freedom House Coalition [Silvio BERLUSCONI]: Forza Italia or FI [Silvio BERLUSCONI]; National Alliance or AN [Gianfranco FINI]; Union of Christian Democrats of the Center or UDC [Pier Ferdinando CASINI]; Northern League or LEGA [Umberto BOSSI]; Christian Democracy (Per la Autonomie) [Publio FIORI] |
+| Political parties and leaders: | other non-allied parties: New Italian Socialist Party or New PSI [Gianni DE MICHELIS]; Italian Republican Party or PRI [Giorgio LA MALFA]; Social Alternative [Alessandra MUSSOLINI]; Social Movement-Tricolor Flame or MSI-Fiamma [Luca ROMAGNOLI]; Social Idea Movement with Rauti or MIS [Pino RAUTI]; South Tyrol People's Party or SVP (German speakers) [Elmar Pichler ROLLE]; Union of Valley Aosta Region or UV [Guido CESAL] |
+| Political pressure groups and leaders: | Italian manufacturers and merchants associations (Confindustria, Confcommercio); organized farm groups (Confcoltivatori, Confagricoltura); Roman Catholic Church; three major trade union confederations (Confederazione Generale Italiana del Lavoro or CGIL [Guglielmo EPIFANI] which is left wing, Confederazione Italiana dei Sindacati Lavoratori or CISL [Savino PEZZOTTA], which is Roman Catholic centrist, and Unione Italiana del Lavoro or UIL [Luigi ANGELETTI] which is lay centrist) |
+| International organization participation: | AfDB, AsDB, Australia Group, BIS, BSEC (observer), CBSS (observer), CDB, CE, CEI, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G- 7, G- 8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, LAIA (observer), MIGA, MINURSO, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, SECI (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMOGIP, UNRWA, UNTSO, UPU, WCL, WCO, WEU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Giovanni CASTELLANETA |
+| Diplomatic representation in the US: | chancery: 3000 Whitehaven Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 612-4400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 518-2151 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco |
+| Diplomatic representation in the US: | consulate(s): Detroit |
+| Diplomatic representation from the US: | chief of mission: Ambassador Ronald P. SPOGLI |
+| Diplomatic representation from the US: | embassy: Via Vittorio Veneto 121, 00187-Rome |
+| Diplomatic representation from the US: | mailing address: PSC 59, Box 100, APO AE 09624 |
+| Diplomatic representation from the US: | telephone: [39] (06) 46741 |
+| Diplomatic representation from the US: | FAX: [39] (06) 488-2672, 4674-2356 |
+| Diplomatic representation from the US: | consulate(s) general: Florence, Milan, Naples |
+| Flag description: | three equal vertical bands of green (hoist side), white, and red; similar to the flag of Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green |
+| Flag description: | note: inspired by the French flag brought to Italy by Napoleon in 1797 |

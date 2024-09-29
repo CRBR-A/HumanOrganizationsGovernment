@@ -1,0 +1,69 @@
+| Government | Ireland |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Ireland |
+| Country name: | local long form: none |
+| Country name: | local short form: Eire |
+| Country name: | etymology: the modern Irish name "Eire" evolved from the Gaelic "Eriu," the name of the matron goddess of Ireland (goddess of the land); the names "Ireland" in English and "Eire" in Irish are direct translations of each other |
+| Government type: | parliamentary republic |
+| Capital: | name: Dublin |
+| Capital: | geographic coordinates: 53 19 N, 6 14 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: derived from Irish "dubh" and "lind" meaning respectively "black, dark" and "pool" and which referred to the dark tidal pool where the River Poddle entered the River Liffey; today the area is the site of the castle gardens behind Dublin Castle |
+| Administrative divisions: | 28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow |
+| Independence: | 6 December 1921 (from the UK by the Anglo-Irish Treaty, which ended British rule); 6 December 1922 (Irish Free State established); 18 April 1949 (Republic of Ireland Act enabled) |
+| National holiday: | Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903 |
+| Constitution: | history: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937 |
+| Constitution: | amendments: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2019 |
+| Legal system: | common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no, unless a parent of a child born in Ireland has been legally resident in Ireland for at least three of the four years prior to the birth of the child |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 4 of the previous 8 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Michael D. HIGGINS (since 11 November 2011) |
+| Executive branch: | head of government: Taoiseach (Prime Minister) MicheÃ¡l MARTIN (since 27 June 2020); note - MARTIN will serve through December 2022 and will then be succeeded by Leo VARADKARÂ  |
+| Executive branch: | cabinet: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)Â  |
+| Executive branch: | elections/appointments: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president |
+| Executive branch: | election results: Michael D. HIGGINS reelected president; percent of vote - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2% |
+| Legislative branch: | description: bicameral Parliament or Oireachtas consists of: |
+| Legislative branch: | Senate or Seanad Eireann (60 seats; 43 members indirectly elected from 5 vocational panels of nominees by an electoral college consisting of members from the House of Representatives, outgoing Senate members, and city and county council members, 11 appointed by the prime minister, and 6 elected by 2 university constituencies - 3 each from the University of Dublin (Trinity College) and the National University of Ireland) |
+| Legislative branch: | House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held in April and May 2016 (next to be held no later than 2021) |
+| Legislative branch: | House of Representatives - last held on 8 February 2020 (next to be held no later than 2025) |
+| Legislative branch: | election results: Â  |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14; composition - men 42, women 18, percent of women 30% Â  |
+| Legislative branch: | House of Representatives - percent of vote by party - Sinn Fein 23%, Fianna Fail 23%, Fine Gael 22%, Green Party 8%, Labor Party 4%, Social Democrats 4%, AAA-PBD 3%, Aontu 0.6%, Independents for Change 0.6%, Ceann Comhairle 0.6%, Independents 12%; seats by party - Sinn Fein 37, Fianna Fail 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, AAA-PBD 5, Aontu l, Independents for Change 1, Ceann Comhairle 1, Independents 19; composition - men 123, women 35, percent of women 22.2%; note - total Parliament percent of women 24.3% |
+| Judicial branch: | highest courts: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law) |
+| Judicial branch: | judge selection and term of office: judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70 |
+| Judicial branch: | subordinate courts: High Court, Court of Appeal; circuit and district courts; criminal courts |
+| Political parties and leaders: | Solidarity-People Before Profit or AAAS-PBP [collective leadership] |
+| Political parties and leaders: | Fianna Fail [Micheal MARTIN] |
+| Political parties and leaders: | Fine Gael [Leo VARADKAR] |
+| Political parties and leaders: | Green Party [Eamon RYAN] |
+| Political parties and leaders: | Labor (Labour) Party (vacant) |
+| Political parties and leaders: | Renua Ireland (vacant) |
+| Political parties and leaders: | Sinn Fein [Mary Lou MCDONALD] |
+| Political parties and leaders: | Social Democrats [Catherine MURPHY, Roisin SHORTALL] |
+| Political parties and leaders: | Socialist Party [collective leadership] |
+| Political parties and leaders: | The Workers' Party [Michael DONNELLY] |
+| International organization participation: | ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Daniel Gerard MULHALL (since 8 September 2017) |
+| Diplomatic representation in the US: | chancery: 2234 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-3939 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-5993 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: AmbassadorÂ Edward F. CRAWFORDÂ (sinceÂ 1 July 2019) |
+| Diplomatic representation from the US: | telephone: [353] (1) 668-8777 |
+| Diplomatic representation from the US: | embassy: 42 Elgin Road, Ballsbridge, Dublin 4 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | FAX: [353] (1) 688-9946 |
+| Flag description: | three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange |
+| Flag description: | note: similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red |
+| National symbol(s): | harp, shamrock (trefoil); national colors: blue, green |
+| National anthem: | name: "Amhran na bhFiann" (The Soldier's Song) |
+| National anthem: | lyrics/music: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY |
+| National anthem: | note: adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team |

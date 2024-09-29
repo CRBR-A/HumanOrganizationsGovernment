@@ -1,0 +1,63 @@
+| Government | CHILE |
+| --- | --- |
+| Country name: | conventional long form: Republic of Chile |
+| Country name: | conventional short form: Chile |
+| Country name: | local long form: Republica de Chile |
+| Country name: | local short form: Chile |
+| Country name: | etymology: derivation of the name is unclear, but it may come from the Mapuche word "chilli" meaning "limit of the earth" or from the Quechua "chiri" meaning "cold" |
+| Government type: | presidential republic |
+| Capital: | name: Santiago; note - Valparaiso is the seat of the national legislature |
+| Capital: | geographic coordinates: 33 27 S, 70 40 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year |
+| Administrative divisions: | 15 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena, Maule, Region Metropolitana (Santiago), Tarapaca, Valparaiso |
+| Administrative divisions: | note: the US does not recognize claims to Antarctica |
+| Independence: | 18 September 1810 (from Spain) |
+| National holiday: | Independence Day, 18 September (1810) |
+| Constitution: | many previous; latest adopted 11 September 1980, effective 11 March 1981; amended many times, last in 2011; note - in late 2015, the Chilean Government initiated a process to reform its constitution (2016) |
+| Legal system: | civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Michelle BACHELET Jeria (since 11 March 2014); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Michelle BACHELET Jeria (since 11 March 2014) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 17 November 2013 with a runoff held on 15 December 2013 (next to be held on 19 November 2017) |
+| Executive branch: | election results: Michelle BACHELET Jeria elected president in runoff; percent of vote - Michelle BACHELET Jeria (PS/New Majority) 62.2%; Evelyn Rose MATTHEI Fornet (UDI/Let's Go Chile Coalition) 37.8% |
+| Legislative branch: | description: bicameral National Congress or Congreso Nacional consists of the Senate or Senado (38 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms with one-half of the membership renewed every 4 years) and the Chamber of Deputies or Camara de Diputados (120 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 4-year terms) |
+| Legislative branch: | elections: Senate - last held on 17 November 2013 (next to be held on 19 November 2017); Chamber of Deputies - last held on 17 November 2013 (next to be held on 19 November 2017) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (DC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independents 4; Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (DC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independents 4), Coalition for Change 47 (UDI 29, RN 14, independents 3, EP 1), Liberal Party 1, independents 4 |
+| Legislative branch: | note: in January 2015, the Chilean Congress voted to end the binomial system that was put in place under Gen. Augusto PINOCHET; the Congress also voted to expand its size (155 seats in the chamber of Deputies and 50 seats in the Senate) and establish rules to ensure that there is equitable gender representation; the new electoral system will be put in place in the November 2017 elections |
+| Judicial branch: | highest court(s): Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court president and judges (ministers) appointed by the president of the republic and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 3 by the president of the republic, 2 by the Chamber of Deputies, and 2 by the Senate; members serve 9-year terms with partial membership replacement every 3 years (the court reviews constitutionality of legislation); Elections Qualifying Court members appointed by lottery - 1 by the former president or vice-president of the Senate and 1 by the former president or vice-president of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparasio; members appointed for 4-year terms |
+| Judicial branch: | subordinate courts: Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs |
+| Political parties and leaders: | Amplitude (Amplitud) [Lily PEREZ] |
+| Political parties and leaders: | Broad Social Movement or MAS [Cristian TAPIA Ramos] |
+| Political parties and leaders: | Democratic Revolution or RD [Rodrigo ECHECOPAR] |
+| Political parties and leaders: | Let’s Go Chile Coalition (Chile Vamos) (formerly the Alliance for Chile, includes Political Evolution or EVOPOLI [Jorge SAINT JEAN], Independent Regionalist Party or PRI [Alejandra BRAVO Hidalgo], National Renewal or RN [Cristian MONCKEBERG Bruner], and Independent Democratic Union or UDI [Jacqueline VAN RYSSELBERGHE Herrera]) |
+| Political parties and leaders: | Liberal Party (Partido Liberal de Chile) [Vlado MIROSEVIC] |
+| Political parties and leaders: | New Majority Coalition (Nueva Mayoria) (includes Christian Democratic Party or DC [Carolina GOIC Boroevic], Communist Party of Chile or PC [Guillermo TEILLIER del Valle], Party for Democracy or PPD [Gonzalo NAVARRETE], Radical Social Democratic Party or PRSD [Ernesto VELASCO Rodriguez], and Socialist Party or PS [Alvaro ELIZALDE Soto]) |
+| Political parties and leaders: | Progressive Party or PRO [Patricia MORALES] |
+| Political pressure groups and leaders: | Roman Catholic Church, particularly conservative groups such as Opus Dei |
+| Political pressure groups and leaders: | United Labor Central or CUT (includes trade unionists from the country's 5 largest labor confederations) |
+| Political pressure groups and leaders: | other: university student federations at all major universities |
+| International organization participation: | APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Juan Gabriel VALDES Soublette (since 21 May 2014) |
+| Diplomatic representation in the US: | chancery: 1732 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 785-1746 |
+| Diplomatic representation in the US: | FAX: [1] (202) 887-5579 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Carol PEREZ (since 14 November 2016) |
+| Diplomatic representation from the US: | embassy: Avenida Andres Bello 2800, Las Condes, Santiago |
+| Diplomatic representation from the US: | mailing address: APO AA 34033 |
+| Diplomatic representation from the US: | telephone: [56] (2) 2330-3000 |
+| Diplomatic representation from the US: | FAX: [56] (2) 2330-3710, 2330-3160 |
+| Flag description: | two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence |
+| Flag description: | note: design influenced by the US flag |
+| National symbol(s): | huemul (mountain deer), Andean condor; national colors: red, white, blue |
+| National anthem: | name: "Himno Nacional de Chile" (National Anthem of Chile) |
+| National anthem: | lyrics/music: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle |
+| National anthem: | note: music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET"s military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990 |

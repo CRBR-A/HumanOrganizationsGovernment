@@ -1,0 +1,41 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: United Mexican States |
+| Country name: | conventional short form: Mexico |
+| Country name: | local long form: Estados Unidos Mexicanos |
+| Country name: | local short form: Mexico |
+| Data code: | MX |
+| Government type: | federal republic |
+| Capital: | Mexico |
+| Administrative divisions: | 31 states (estados, singular - estado) and 1 federal district* (distrito federal); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila de Zaragoza, Colima, Distrito Federal*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan de Ocampo, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro de Arteaga, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz-Llave, Yucatan, Zacatecas |
+| Independence: | 16 September 1810 (from Spain) |
+| National holiday: | Independence Day, 16 September (1810) |
+| Constitution: | 5 February 1917 |
+| Legal system: | mixture of US constitutional theory and civil law system; judicial review of legislative acts; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal and compulsory (but not enforced) |
+| Executive branch: | chief of state: President Ernesto ZEDILLO Ponce de Leon (since 1 December 1994); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Ernesto ZEDILLO Ponce de Leon (since 1 December 1994); note - the president is both the chief of state and head of government |
+| Executive branch: | cabinet: Cabinet appointed by the president with consent of the Senate |
+| Executive branch: | elections: president elected by popular vote for a six-year term; election last held 21 August 1994 (next to be held 2 July 2000) |
+| Executive branch: | election results: Ernesto ZEDILLO Ponce de Leon elected president; percent of vote - Ernesto ZEDILLO Ponce de Leon (PRI) 50.18%, Cuauhtemoc CARDENAS Solorzano (PRD) 17.08%, Diego FERNANDEZ DE CEVALLOS (PAN) 26.69%, other 6.05% |
+| Legislative branch: | bicameral National Congress or Congreso de la Union consists of the Senate or Camara de Senadores (128 seats; half are elected by popular vote to serve six-year terms, and half are allocated on the basis of each party's popular vote) and the Federal Chamber of Deputies or Camara Federal de Diputados (500 seats; 300 members are directly elected by popular vote to serve three-year terms; remaining 200 members are allocated on the basis of each party's popular vote, also for three-year terms) |
+| elections: | Senate - last held 6 July 1997 for one-quarter of the seats; Chamber of Deputies - last held 6 July 1997 (the next legislative elections will coincide with the presidential election 2 July 2000) |
+| election results: | Senate - percent of vote by party - NA; seats by party - PRI 77, PAN 33, PRD 16, PVEM 1, PT 1; note - the distribution of seats as of October 1999 is as follows - PRI 75, PAN 31, PRD 16, PT 1, independents 5; Chamber of Deputies - percent of vote by party - PRI 39%, PAN 27%, PRD 26%; seats by party - PRI 239, PRD 125, PAN 121, PVEM 8, PT 7; note - the distribution of seats as of October 1999 is as follows - PRI 237, PRD 125, PAN 120, PT 7, PVEM 6, independents 5 |
+| Judicial branch: | Supreme Court of Justice or Corte Suprema de Justicia, judges are appointed by the president with consent of the Senate |
+| Political parties and leaders: | Convergence for Democracy or CD [Dante DELGADO Ranauro]; Institutional Revolutionary Party or PRI [Dulce Maria SAURI Riancho]; Mexican Green Ecological Party or PVEM [Jorge GONZALEZ Torres]; National Action Party or PAN [Luis Felipe BRAVO Mena]; Party of the Democratic Center or PCD [Manuel CAMACHO Solis]; Party of the Democratic Revolution or PRD [Amalia GARCIA Medina]; Party of the Mexican Revolution or PARM [leader NA]; Party of the Nationalist Society or PSN [Gustavo RIOJAIS Santana]; Social Alliance Party or PAS [Jose Antonio CALDERON Cardoso]; Social Democratic Party or PDS [Gilberto RINCON Gallardo]; Workers Party or PT [Alberto ANAYA Gutierrez] |
+| Political pressure groups and leaders: | Confederation of Employers of the Mexican Republic or COPARMEX; Confederation of Industrial Chambers or CONCAMIN; Confederation of Mexican Workers or CTM; Confederation of National Chambers of Commerce or CONCANACO; Coordinator for Foreign Trade Business Organizations or COECE; Federation of Unions Providing Goods and Services or FESEBES; National Chamber of Transformation Industries or CANACINTRA; National Peasant Confederation or CNC; National Union of Workers or UNT; Regional Confederation of Mexican Workers or CROM; Revolutionary Confederation of Workers and Peasants or CROC; Revolutionary Workers Party or PRT; Roman Catholic Church |
+| International organization participation: | APEC, BCIE, BIS, Caricom (observer), CCC, CDB, EBRD, ECLAC, FAO, G-3, G-6, G-11, G-15, G-19, G-24, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA (observer), IFAD, IFC, IFRCS, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM (observer), ISO, ITU, LAES, LAIA, NAM (observer), NEA, OAS, OECD, OPANAL, OPCW, PCA, RG, UN, UNCTAD, UNESCO, UNIDO, UNU, UPU, WCL, WFTU, WHO, WIPO, WMO, WToO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jesus REYES HEROLES Gonzalez Garza |
+| Diplomatic representation in the US: | chancery: 1911 Pennsylvania Avenue NW, Washington, DC 20006 |
+| Diplomatic representation in the US: | telephone: [1] (202) 728-1600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 728-1698 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso, Houston, Laredo (Texas), Los Angeles, Miami, New Orleans, New York, Nogales (Arizona), Phoenix, Sacramento, San Antonio, San Diego, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation in the US: | consulate(s): Albuquerque, Brownsville (Texas), Calexico (California), Corpus Christi, Del Rio (Texas), Detroit, Douglas (Arizona), Eagle Pass (Texas), Fresno (California), McAllen (Texas), Midland (Texas), Orlando, Oxnard (California), Philadelphia, Portland (Oregon), St. Louis, Salt Lake City, San Bernardino, San Jose, Santa Ana (California), Seattle, Tucson |
+| Diplomatic representation from the US: | chief of mission: Ambassador Jeffery DAVIDOW |
+| Diplomatic representation from the US: | embassy: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal |
+| Diplomatic representation from the US: | mailing address: P. O. Box 3087, Laredo, TX 78044-3087 |
+| Diplomatic representation from the US: | telephone: [52] (5) 209-9100 |
+| Diplomatic representation from the US: | FAX: [52] (5) 208-3373, 511-9980 |
+| Diplomatic representation from the US: | consulate(s) general: Ciudad Juarez, Guadalajara, Monterrey, Tijuana |
+| Diplomatic representation from the US: | consulate(s): Hermosillo, Matamoros, Merida, Nuevo Laredo, Nogales |
+| Flag description: | three equal vertical bands of green (hoist side), white, and red; the coat of arms (an eagle perched on a cactus with a snake in its beak) is centered in the white band |

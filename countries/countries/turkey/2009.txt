@@ -1,0 +1,44 @@
+| Government | Turkey |
+| --- | --- |
+| Country name: | conventional long form: Republic of Turkey |
+| Country name: | conventional short form: Turkey |
+| Country name: | local long form: Turkiye Cumhuriyeti |
+| Country name: | local short form: Turkiye |
+| Government type: | republican parliamentary democracy |
+| Capital: | name: Ankara |
+| Capital: | geographic coordinates: 39 56 N, 32 52 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin (Icel), Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak |
+| Independence: | 29 October 1923 (successor state to the Ottoman Empire) |
+| National holiday: | Republic Day, 29 October (1923) |
+| Constitution: | 7 November 1982; amended 17 May 1987, 1995, 2001, and 2007; note - amendment passed by referendum concerning presidential elections on 21 October 2007 |
+| Legal system: | civil law system derived from various European continental legal systems; note - member of the European Court of Human Rights (ECHR), although Turkey claims limited derogations on the ratified European Convention on Human Rights; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Abdullah GUL (since 28 August 2007) |
+| Executive branch: | head of government: Prime Minister Recep Tayyip ERDOGAN (since 14 March 2003); Deputy Prime Minister Cemil CICEK (since 29 August 2007); Deputy Prime Minister Ali BABACAN (since 1 May 2009); Deputy Prime Minister Bulent ARINC (since 1 May 2009) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the nomination of the prime minister |
+| Executive branch: | elections: president elected directly for a five-year term (eligible for a second term); prime minister appointed by the president from among members of parliament |
+| Executive branch: | election results: on 28 August 2007 the National Assembly elected Abdullah GUL president on the third ballot; National Assembly vote - 339 |
+| Executive branch: | note: in October 2007 Turkish voters approved a referendum package of constitutional amendments including a provision for direct presidential elections |
+| Legislative branch: | unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (550 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held on 22 July 2007 (next to be held in November 2012) |
+| Legislative branch: | election results: percent of vote by party - AKP 46.7%, CHP 20.8%, MHP 14.3%, independents 5.2%, and other 13.0%; seats by party - AKP 341, CHP 112, MHP 71, independents 26; note - seats by party as of 31 January 2009 - AKP 340, CHP 97, MHP 70, DTP 21, DSP 13, ODP 1, BBP 1, independents 5, vacant 2 (DTP entered parliament as independents; DSP entered parliament on CHP's party list); only parties surpassing the 10% threshold are entitled to parliamentary seats |
+| Judicial branch: | Constitutional Court; High Court of Appeals (Yargitay); Council of State (Danistay); Court of Accounts (Sayistay); Military High Court of Appeals; Military High Administrative Court |
+| Political parties and leaders: | Anavatan Partisi (Motherland Party) or Anavatan [Erkan MUMCU]; note - True Path Party or DYP has merged with the Motherland Party; Democratic Party or DP [Husamettin CINDORUK]; Democratic Left Party or DSP [Masum TURKER]; Democratic Society Party or DTP [Ahmet TURK]; Felicity Party or SP [Numan KURTULMUS] (sometimes translated as Contentment Party); Freedom and Solidarity Party or ODP [Hayri KOZANOGLU]; Grand Unity Party or BBP; note - Mushin YAZICIOGLU, former leader of the Grand Unity Party was killed in an March 2009 helicopter crash; Justice and Development Party or AKP [Recep Tayyip ERDOGAN]; Nationalist Movement Party or MHP [Devlet BAHCELI] (sometimes translated as Nationalist Action Party); People's Rise Party (Halkin Yukselisi Partisi) or HYP [Yasar Nuri OZTURK]; Republican People's Party or CHP [Deniz BAYKAL]; Social Democratic People's Party or SHP [Ugur CILASUN (acting)]; Young Party or GP [Cem Cengiz UZAN] |
+| Political parties and leaders: | note: the parties listed above are some of the more significant of the 49 parties that Turkey had as of 31 January 2009 |
+| Political pressure groups and leaders: | Confederation of Public Sector Unions or KESK [Sami EVREN]; Confederation of Revolutionary Workers Unions or DISK [Suleyman CELEBI]; Independent Industrialists' and Businessmen's Association or MUSIAD [Omer Cihad VARDAN]; Moral Rights Workers Union or Hak-Is [Salim USLU]; Turkish Confederation of Employers' Unions or TISK [Tugurl KUDATGOBILIK]; Turkish Confederation of Labor or Turk-Is [Mustafa KUMLU]; Turkish Confederation of Tradesmen and Craftsmen or TESK [Dervis GUNDAY]; Turkish Industrialists' and Businessmen's Association or TUSIAD [Arzuhan Dogan YALCINDAG]; Turkish Union of Chambers of Commerce and Commodity Exchanges or TOBB [M. Rifat HISARCIKLIOGLU] |
+| International organization participation: | ADB (nonregional member), Australia Group, BIS, BSEC, CE, CERN (observer), EAPC, EBRD, ECO, EU (applicant), FAO, G-20, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, PCA, SECI, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIS, UNOCI, UNOMIG, UNRWA, UNWTO, UPU, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Nabi SENSOY |
+| Diplomatic representation in the US: | chancery: 2525 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 612-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 612-6744 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador James F. JEFFREY |
+| Diplomatic representation from the US: | embassy: 110 Ataturk Boulevard, Kavaklidere, 06100 Ankara |
+| Diplomatic representation from the US: | mailing address: PSC 93, Box 5000, APO AE 09823 |
+| Diplomatic representation from the US: | telephone: [90] (312) 455-5555 |
+| Diplomatic representation from the US: | FAX: [90] (312) 467-0019 |
+| Diplomatic representation from the US: | consulate(s) general: Istanbul |
+| Diplomatic representation from the US: | consulate(s): Adana; note - there is a Consular Agent in Izmir |
+| Flag description: | red with a vertical white crescent (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening |

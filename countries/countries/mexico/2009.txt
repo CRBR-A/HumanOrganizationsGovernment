@@ -1,0 +1,44 @@
+| Government | Mexico |
+| --- | --- |
+| Country name: | conventional long form: United Mexican States |
+| Country name: | conventional short form: Mexico |
+| Country name: | local long form: Estados Unidos Mexicanos |
+| Country name: | local short form: Mexico |
+| Government type: | federal republic |
+| Capital: | name: Mexico City (Distrito Federal) |
+| Capital: | geographic coordinates: 19 26 N, 99 08 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Sunday in April; ends last Sunday in October |
+| Capital: | note: Mexico is divided into three time zones |
+| Administrative divisions: | 31 states (estados, singular - estado) and 1 federal district* (distrito federal); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila de Zaragoza, Colima, Distrito Federal*, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan de Ocampo, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro de Arteaga, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz-Llave, Yucatan, Zacatecas |
+| Independence: | 16 September 1810 (declared); 27 September 1821 (recognized by Spain) |
+| National holiday: | Independence Day, 16 September (1810) |
+| Constitution: | 5 February 1917 |
+| Legal system: | mixture of US constitutional theory and civil law system; judicial review of legislative acts; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory (but not enforced) |
+| Executive branch: | chief of state: President Felipe de Jesus CALDERON Hinojosa (since 1 December 2006); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Felipe de Jesus CALDERON Hinojosa (since 1 December 2006) |
+| Executive branch: | cabinet: Cabinet appointed by the president; note - appointment of attorney general requires consent of the Senate |
+| Executive branch: | elections: president elected by popular vote for a single six-year term; election last held on 2 July 2006 (next to be held 1 July 2012) |
+| Executive branch: | election results: Felipe CALDERON elected president; percent of vote - Felipe CALDERON 35.89%, Andres Manuel LOPEZ OBRADOR 35.31%, Roberto MADRAZO 22.26%, other 6.54% |
+| Legislative branch: | bicameral National Congress or Congreso de la Union consists of the Senate or Camara de Senadores (128 seats; 96 members are elected by popular vote to serve six-year terms, and 32 seats are allocated on the basis of each party's popular vote) and the Chamber of Deputies or Camara de Diputados (500 seats; 300 members are elected by popular vote; remaining 200 members are allocated on the basis of each party's popular vote; to serve three-year terms) |
+| Legislative branch: | elections: Senate - last held 2 July 2006 for all of the seats (next to be held 1 July 2012); Chamber of Deputies - last held 2 July 2006 (next to be held 5 July 2009) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - PAN 52, PRI 33, PRD 26, PVEM 6, CD 5, PT 5, independent 1; Chamber of Deputies - percent of vote by party - NA; seats by party - PAN 207, PRD 127, PRI 106, PVEM 17, CD 17, PT 11, other 15 |
+| Judicial branch: | Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (justices or ministros are appointed by the president with consent of the Senate) |
+| Political parties and leaders: | Convergence for Democracy or CD [Luis MALDONADO Venegas]; Institutional Revolutionary Party or PRI [Beatriz PAREDES]; Labor Party or PT [Alberto ANAYA Gutierrez]; Mexican Green Ecological Party or PVEM [Jorge Emilio GONZALEZ Martinez]; National Action Party (Partido Accion Nacional) or PAN [German MARTINEZ Cazares]; New Alliance Party (Partido Nueva Alianza) or PNA [Jorge Antonio KAHWAGI Macari]; Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Leonel COTA Montano]; Social Democratic and Peasant Alternative Party (Partido Alternativa Socialdemocrata y Campesina) or Alternativa [Alberto BEGNE Guerra] |
+| Political pressure groups and leaders: | Broad Progressive Front or FAP; Businessmen's Coordinating Council or CCE; Confederation of Employers of the Mexican Republic or COPARMEX; Confederation of Industrial Chambers or CONCAMIN; Confederation of Mexican Workers or CTM; Confederation of National Chambers of Commerce or CONCANACO; Coordinator for Foreign Trade Business Organizations or COECE; Federation of Unions Providing Goods and Services or FESEBES; National Chamber of Transformation Industries or CANACINTRA; National Peasant Confederation or CNC; National Small Business Chamber or CANACOPE; National Syndicate of Education Workers or SNTE; National Union of Workers or UNT; Popular Assembly of the People of Oaxaca or APPO; Roman Catholic Church |
+| International organization participation: | APEC, BCIE, BIS, CAN (observer), Caricom (observer), CDB, CE (observer), CSN (observer), EBRD, FAO, G-20, G-3, G-15, G-24, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, OAS, OECD, OPANAL, OPCW, PCA, RG, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Arturo SARUKHAN Casamitjana |
+| Diplomatic representation in the US: | chancery: 1911 Pennsylvania Avenue NW, Washington, DC 20006 |
+| Diplomatic representation in the US: | telephone: [1] (202) 728-1600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 728-1698 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso, Houston, Laredo (Texas), Los Angeles, Miami, New York, Nogales (Arizona), Phoenix, Sacramento, Saint Paul (Minnesota), San Antonio, San Diego, San Francisco, San Jose, San Juan (Puerto Rico) |
+| Diplomatic representation in the US: | consulate(s): Albuquerque, Brownsville (Texas), Calexico (California), Del Rio (Texas), Detroit, Douglas (Arizona), Eagle Pass (Texas), Fresno (California), Indianapolis (Indiana), Kansas City (Missouri), Laredo (Texas), Las Vegas, Little Rock (Arkansas), McAllen (Texas), New Orleans, Omaha, Orlando, Oxnard (California), Philadelphia, Portland (Oregon), Presidio (Texas), Raleigh, Salt Lake City, San Bernardino, Santa Ana (California), Seattle, Tucson, Yuma (Arizona) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Antonio O. GARZA, Jr. |
+| Diplomatic representation from the US: | embassy: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal |
+| Diplomatic representation from the US: | mailing address: P. O. Box 9000, Brownsville, TX 78520-9000 |
+| Diplomatic representation from the US: | telephone: [52] (55) 5080-2000 |
+| Diplomatic representation from the US: | FAX: [52] (55) 5511-9980 |
+| Diplomatic representation from the US: | consulate(s) general: Ciudad Juarez, Guadalajara, Monterrey, Tijuana |
+| Diplomatic representation from the US: | consulate(s): Hermosillo, Matamoros, Merida, Nogales, Nuevo Laredo |
+| Flag description: | three equal vertical bands of green (hoist side), white, and red; the coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band |

@@ -1,0 +1,32 @@
+| Government | United States |
+| --- | --- |
+| Country name: | conventional long form: United States of America |
+| Country name: | conventional short form: United States |
+| Country name: | abbreviation: US or USA |
+| Government type: | Constitution-based federal republic; strong democratic tradition |
+| Capital: | name: Washington, DC |
+| Capital: | geographic coordinates: 38 53 N, 77 02 W |
+| Capital: | time difference: UTC-5 (during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in March; ends first Sunday in November |
+| Capital: | note: the US is divided into six time zones |
+| Administrative divisions: | 50 states and 1 district*; Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming |
+| Dependent areas: | American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake Island |
+| Dependent areas: | note: from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political units: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994) |
+| Independence: | 4 July 1776 (from Great Britain) |
+| National holiday: | Independence Day, 4 July (1776) |
+| Constitution: | 17 September 1787, effective 4 March 1789 |
+| Legal system: | federal court system based on English common law; each state has its own unique legal system, of which all but one (Louisiana, which is still influenced by the Napoleonic Code) is based on English common law; judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President George W. BUSH (since 20 January 2001); Vice President Richard B. CHENEY (since 20 January 2001); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President George W. BUSH (since 20 January 2001); Vice President Richard B. CHENEY (since 20 January 2001) |
+| Executive branch: | cabinet: Cabinet appointed by the president with Senate approval |
+| Executive branch: | elections: president and vice president elected on the same ticket by a college of representatives who are elected directly from each state; president and vice president serve four-year terms (eligible for a second term); election last held 2 November 2004 (next to be held on 4 November 2008) |
+| Executive branch: | election results: George W. BUSH reelected president; percent of popular vote - George W. BUSH 50.9%, John KERRY 48.1%, other 1.0% |
+| Legislative branch: | bicameral Congress consists of the Senate (100 seats, 2 members are elected from each state by popular vote to serve six-year terms; one-third are elected every two years) and the House of Representatives (435 seats; members are directly elected by popular vote to serve two-year terms) |
+| Legislative branch: | elections: Senate - last held 7 November 2006 (next to be held November 2008); House of Representatives - last held 7 November 2006 (next to be held November 2008) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - Democratic Party 49, Republican Party 49, independent 2; House of Representatives - percent of vote by party - NA; seats by party - Democratic Party 233, Republican Party 202 |
+| Judicial branch: | Supreme Court (nine justices; nominated by the president and confirmed with the advice and consent of the Senate; appointed to serve for life); United States Courts of Appeal; United States District Courts; State and County Courts |
+| Political parties and leaders: | Democratic Party [Howard DEAN]; Green Party; Libertarian Party [William (Bill) REDPATH]; Republican Party [Robert M. (Mike) DUNCAN] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | AfDB, ANZUS, APEC, Arctic Council, ARF, AsDB, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CE (observer), CERN (observer), CP, EAPC, EBRD, FAO, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC, MIGA, MINUSTAH, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Paris Club, PCA, PIF (partner), SAARC (observer), SECI (observer), SPC, UN, UN Security Council, UNCTAD, UNESCO, UNHCR, UNITAR, UNMEE, UNMIL, UNMOVIC, UNOMIG, UNRWA, UNTSO, UPU, WCL, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Flag description: | 13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; known as Old Glory; the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico |

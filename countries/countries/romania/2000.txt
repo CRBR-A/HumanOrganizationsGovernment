@@ -1,0 +1,40 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Romania |
+| Country name: | local long form: none |
+| Country name: | local short form: Romania |
+| Data code: | RO |
+| Government type: | republic |
+| Capital: | Bucharest |
+| Administrative divisions: | 40 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dimbovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Vilcea, Vrancea |
+| Independence: | 1881 (from Turkey; republic proclaimed 30 December 1947) |
+| National holiday: | National Day of Romania, 1 December (1990) |
+| Constitution: | 8 December 1991 |
+| Legal system: | former mixture of civil law system and communist legal theory; is now based on the constitution of France's Fifth Republic |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Emil CONSTANTINESCU (since 29 November 1996) |
+| Executive branch: | head of government: Prime Minister Mugur ISARESCU (since 22 December 1998) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections: president elected by popular vote for a four-year term; election last held 3 November 1996, with runoff between the top two candidates held 17 November 1996 (next to be held NA November/December 2000); prime minister appointed by the president |
+| Executive branch: | election results: percent of vote - Emil CONSTANTINESCU 54.4%, Ion ILIESCU 45.6% |
+| Legislative branch: | bicameral Parliament or Parlament consists of the Senate or Senat (143 seats; members are elected by direct popular vote on a proportional representation basis to serve four-year terms) and the Chamber of Deputies or Adunarea Deputatilor (343 seats; members are elected by direct popular vote on a proportional representation basis to serve four-year terms) |
+| elections: | Senate - last held 3 November 1996 (next to be held fall 2000); Chamber of Deputies - last held 3 November 1996 (next to be held fall 2000) |
+| election results: | Senate - percent of vote by party - CDR 30.7%, PDSR 23.1%, USD 13.2%, UDMR 6.8%, PRM 4.5%, PUNR 4.2%, others 17.5%; seats by party - CDR 53, PDSR 41, USD 23, UDMR 11, PRM 8, PUNR 7; Chamber of Deputies - percent of vote by party - CDR 30.2%, PDSR 21.5%, USD 12.9%, UDMR 6.6% PRM 4.5%, PUNR 4.4%, others 19.9%; seats by party - CDR 122, PDSR 91, USD 53, UDMR 25, PRM 19, PUNR 18, ethnic minorities 15 |
+| Judicial branch: | Supreme Court of Justice, judges are appointed by the president on the recommendation of the Superior Council of Magistrates |
+| Political parties and leaders: | Agrarian Democratic Party of Romania or PDAR [Mihai BERCA]; Alliance Party for Romania or APR [Tedor MELESCANU]; Civic Alliance Party or PAC [Nicolae MANOLESCU, chairman]; Democratic Party or PD [Petre ROMAN]; Democratic Union of Hungarians in Romania or UDMR [Bela MARKO]; Liberal Party '93 or PL-93 [Dinu PATRICIU]; National Liberal Party or PNL [Mircea IONESCU-QUINTUS]; National Liberal Party-Democratic Convention or PNL-CD [Nicolae CERVENI]; National Peasants' Christian and Democratic Party or PNTCD [Ion DIACONESCU]; Party of Social Democracy in Romania or PDSR [Ion ILIESCU]; Romania Mare Party (Greater Romanian Party) or PRM [Corneliu Vadim TUDOR]; Romanian National Unity Party or PUNR [Valeriu TABARA]; Romanian Social Democratic Party or PSDR [Alexamdru ATHANASIU]; Socialist Labor Party or PSM [Ilie VERDET]; Socialist Party or PS [Tudor MOHORA]; The Democratic Convention or CDR [Ion DIACONESCU] |
+| note: to increase their voting strength several of the above-mentioned parties united under umbrella organizations: | PNTCD, PNL, and PNL-CD form the bulk of the Democratic Convention or CDR [Ion DIACONESCU]; PD and PSDR form the Union of Social Democrats or USD [Petre ROMAN]; and PAC and PL-93 form the National Liberal Alliance or ANL [Nicolae MANOLESCU]; PSM, PS, ANL, and numerous other small parties failed to gain representation in the most recent election |
+| Political pressure groups and leaders: | various human rights and professional associations |
+| International organization participation: | ACCT, BIS, BSEC, CCC, CE, CEI, EAPC, EBRD, ECE, EU (applicant), FAO, G- 9, G-77, IAEA, IBRD, ICAO, ICFTU, ICRM, IFAD, IFC, IFRCS, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, LAIA (observer), MONUC, NAM (guest), NSG, OAS (observer), OPCW, OSCE, PCA, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIKOM, UNMIBH, UNMIK, UPU, WCL, WEU (associate partner), WFTU, WHO, WIPO, WMO, WToO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mircea Dan GEOANA |
+| Diplomatic representation in the US: | chancery: 1607 23rd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-4846, 4848, 4851 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-4748 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles and New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador James C. ROSAPEPE |
+| Diplomatic representation from the US: | embassy: Strada Tudor Arghezi 7-9, Bucharest |
+| Diplomatic representation from the US: | mailing address: American Embassy Bucharest, Department of State, Washington, DC 20521-5260 (pouch) |
+| Diplomatic representation from the US: | telephone: [40] (1) 210 01 49, 210 40 42 |
+| Diplomatic representation from the US: | FAX: [40] (1) 210 03 95 |
+| Diplomatic representation from the US: | branch office: Cluj-Napoca |
+| Flag description: | three equal vertical bands of blue (hoist side), yellow, and red; the national coat of arms that used to be centered in the yellow band has been removed; now similar to the flag of Chad, also resembles the flags of Andorra and Moldova |

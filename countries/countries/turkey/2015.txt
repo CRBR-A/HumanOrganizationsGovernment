@@ -1,0 +1,72 @@
+| Government | TURKEY |
+| --- | --- |
+| Country name: | conventional long form: Republic of Turkey |
+| Country name: | conventional short form: Turkey |
+| Country name: | local long form: Turkiye Cumhuriyeti |
+| Country name: | local short form: Turkiye |
+| Government type: | republican parliamentary democracy |
+| Capital: | name: Ankara |
+| Capital: | geographic coordinates: 39 56 N, 32 52 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak |
+| Independence: | 29 October 1923 (successor state to the Ottoman Empire) |
+| National holiday: | Republic Day, 29 October (1923) |
+| Constitution: | several previous; latest ratified 9 November 1982; amended 2001, 2007, 2010 (2010) |
+| Legal system: | civil law system based on various European legal systems notably the Swiss civil code |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Recep Tayyip ERDOGAN (since 10 August 2014) |
+| Executive branch: | head of government: Prime Minister Ahmet DAVUTOGLU (since 28 August 2014); Deputy Prime Ministers Yalcin AKDOGAN, Bulent ARINC, Ali BABACAN (all since 29 August 2014) |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister, appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prime minister appointed by the president from among members of parliament; note - a 2007 constitutional amendment changed the presidential electoral process to direct popular vote; prime minister appointed by the president from among members of the Grand National Assembly of Turkey |
+| Executive branch: | election results: Recep Tayyip ERDOGAN elected president; Recep Tayyip ERDOGAN (AKP) 51.8%, Ekmeleddin IHSANOGLU (independent) 38.4%, Selahattin DEMIRTAS (HDP) 9.8% |
+| Legislative branch: | description: unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (550 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 7 June 2015 (next to be held on June 2019) |
+| Legislative branch: | election results: percent of vote by party - AKP 40.9%, CHP 25.1%, MHP 16.4%, HDP 13.1%, other 4.5%; seats by party - AKP 256, CHP 132, MHP 80, HDP 82; note - only parties surpassing the 10% threshold can win parliamentary seats |
+| Judicial branch: | highest court: Constitutional Court or Anayasa Mahkemesi (consists of 17 members); Supreme Court of Appeals (consists of about 390 judges and organized into 15 divisions with 23 civil and 15 criminal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative &ndash; each with a division head and at least 5 members) |
+| Judicial branch: | judge selection and term of office: Constitutional Court members - 3 appointed by the Grand National Assembly and 14 by the president of the republic from among candidates nominated by the plenary assemblies of the high courts (with the exception of the Court of High Accounts), the Higher Education Council, and from among senior government administrators, lawyers, judges and prosecutors, and Constitutional Court rapporteurs; court president and 2 deputy presidents appointed from among its members for 4-year terms; judges appointed for 12-year, non-renewable terms with mandatory retirement at age 65; Supreme Court of Appeals judges appointed by the Supreme Council of Judges and Public Prosecutors (SCJP), an independent body of judicial officials; judges appointed until retirement at age 65; Council of State members appointed by the SCJP and by the president of the republic; members appointed for renewable, 4-year terms |
+| Judicial branch: | subordinate courts: basic (first instance) courts, military courts, specialized courts, including administrative and audit |
+| Political parties and leaders: | Anatolia Party or AnaParti [Emine Ulker TARHAN] |
+| Political parties and leaders: | Center Party [Abdurrahim KARSLI] |
+| Political parties and leaders: | Democratic Left Party or DSP [Masum TURKER] |
+| Political parties and leaders: | Democratic Party or DP [Gultekin UYSAL] |
+| Political parties and leaders: | Democratic Regions Party or DBP [Emine AYNA and Kamuran YUKSEK, co-chairs] |
+| Political parties and leaders: | Electronic Democracy Party or e-Parti [Emrehan HALICI] |
+| Political parties and leaders: | Felicity Party or SP [Mustafa KAMALAK] |
+| Political parties and leaders: | Freedom and Solidarity Party or ODP [Alper TAS and Bilge Seckin CETINKAYA, co-chairs] |
+| Political parties and leaders: | Grand Unity Party or BBP [Mustafa DESTICI] |
+| Political parties and leaders: | Independent Turkey Party or BTP [Haydar BAS] |
+| Political parties and leaders: | Justice and Development Party or AKP [Ahmet DAVUTOGLU] |
+| Political parties and leaders: | Nation and Justice Party or MILAD [Idris Naim SAHIN] |
+| Political parties and leaders: | Nationalist Movement Party or MHP [Devlet BAHCELI] |
+| Political parties and leaders: | People's Democratic Party or HDP [Selahattin DEMIRTAS and Figen YUKSEKDAG, co-chairs] |
+| Political parties and leaders: | Republican People's Party or CHP [Kemal KILICDAROGLU] |
+| Political pressure groups and leaders: | Confederation of Businessmen and Industrialists of Turkey or TUSKON [Rizanur MERAL] |
+| Political pressure groups and leaders: | Confederation of Public Sector Unions or KESK [Lami OZGEN, Sazyie KOSE, co-chairs] |
+| Political pressure groups and leaders: | Confederation of Revolutionary Workers Unions or DISK [Tayfun GORGUN] |
+| Political pressure groups and leaders: | Independent Industrialists' and Businessmen's Association or MUSIAD [Nail OLPAK] |
+| Political pressure groups and leaders: | Moral Rights Workers Union or Hak-Is [Mahmut ARSLAN] |
+| Political pressure groups and leaders: | Turkish Confederation of Employers' Unions or TISK [Tugrul KUDATGOBILIK] |
+| Political pressure groups and leaders: | Turkish Confederation of Labor or Turk-Is [Ergun ATALAY] |
+| Political pressure groups and leaders: | Turkish Confederation of Tradesmen and Craftsmen or TESK [Bendevi PALANDOKEN] |
+| Political pressure groups and leaders: | Turkish Industrialists' and Businessmen's Association or TUSIAD [Muharrem YILMAZ] |
+| Political pressure groups and leaders: | Turkish Union of Chambers of Commerce and Commodity Exchanges or TOBB [M. Rifat HISARCIKLIOGLU] |
+| International organization participation: | ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Serdar KILIC (since 21 May 2014) |
+| Diplomatic representation in the US: | chancery: 2525 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 612-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 612-6744 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Houston, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador John R. BASS (since 20 October 2014) |
+| Diplomatic representation from the US: | embassy: 110 Ataturk Boulevard, Kavaklidere, 06100 Ankara |
+| Diplomatic representation from the US: | mailing address: PSC 93, Box 5000, APO AE 09823 |
+| Diplomatic representation from the US: | telephone: [90] (312) 455-5555 |
+| Diplomatic representation from the US: | FAX: [90] (312) 467-0019 |
+| Diplomatic representation from the US: | consulate(s) general: Istanbul |
+| Diplomatic representation from the US: | consulate(s): Adana; note - there is a Consular Agent in Izmir |
+| Flag description: | red with a vertical white crescent moon (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening; the flag colors and designs closely resemble those on the banner of the Ottoman Empire, which preceded modern-day Turkey; the crescent moon and star serve as insignia for Turkic peoples (the crescent represents the mythical moon god, Ay Ata, and the star the sun goddess, Gun Ana); according to one legend, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors |
+| National symbol(s): | star and crescent; national colors: red, white |
+| National anthem: | name: "Istiklal Marsi" (Independence March) |
+| National anthem: | lyrics/music: Mehmet Akif ERSOY/Zeki UNGOR |
+| National anthem: | note: lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932 |

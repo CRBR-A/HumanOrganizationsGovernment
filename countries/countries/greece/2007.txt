@@ -1,0 +1,43 @@
+| Government | Greece |
+| --- | --- |
+| Country name: | conventional long form: Hellenic Republic |
+| Country name: | conventional short form: Greece |
+| Country name: | local long form: Elliniki Dhimokratia |
+| Country name: | local short form: Ellas or Ellada |
+| Country name: | former: Kingdom of Greece |
+| Government type: | parliamentary republic |
+| Capital: | name: Athens |
+| Capital: | geographic coordinates: 37 59 N, 23 44 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 51 prefectures (nomoi, singular - nomos) and 1 autonomous region*; Achaia, Agion Oros* (Mt. Athos), Aitolia kai Akarnania, Argolis, Arkadia, Arta, Attiki, Chalkidiki, Chanion, Chios, Dodekanisos, Drama, Evros, Evrytania, Evvoia, Florina, Fokidos, Fthiotis, Grevena, Ileia, Imathia, Ioannina, Irakleion, Karditsa, Kastoria, Kavala, Kefallinia, Kerkyra, Kilkis, Korinthia, Kozani, Kyklades, Lakonia, Larisa, Lasithi, Lefkas, Lesvos, Magnisia, Messinia, Pella, Pieria, Preveza, Rethynnis, Rodopi, Samos, Serrai, Thesprotia, Thessaloniki, Trikala, Voiotia, Xanthi, Zakynthos |
+| Independence: | 1829 (from the Ottoman Empire) |
+| National holiday: | Independence Day, 25 March (1821) |
+| Constitution: | 11 June 1975; amended March 1986 and April 2001 |
+| Legal system: | based on codified Roman law; judiciary divided into civil, criminal, and administrative courts; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Karolos PAPOULIAS (since 12 March 2005) |
+| Executive branch: | head of government: Prime Minister Konstandinos (Kostas) KARAMANLIS (since 7 March 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections: president elected by parliament for a five-year term (eligible for a second term); election last held 8 February 2005 (next to be held by February 2010); according to the Greek Constitution, presidents may only serve two terms; president appoints leader of the party securing plurality of vote in election to become prime minister and form a government |
+| Executive branch: | election results: Karolos PAPOULIAS elected president; number of parliamentary votes, 279 out of 300 |
+| Legislative branch: | unicameral Parliament or Vouli ton Ellinon (300 seats; members are elected by direct popular vote to serve four-year terms) |
+| Legislative branch: | elections: elections last held 16 September 2007 (next to be held by 2011) |
+| Legislative branch: | election results: percent of vote by party - ND 41.8%, PASOK 38.1%, KKE 8.2%, Synaspismos 5%, LAOS 3.8%, other 3.1%; seats by party - ND 152, PASOK 102, KKE 22, Synaspismos 14, LAOS 10 |
+| Judicial branch: | Supreme Judicial Court; Special Supreme Tribunal; all judges appointed for life by the president after consultation with a judicial council |
+| Political parties and leaders: | Coalition of the Left and Progress (Synaspismos) [Alekos ALAVANOS]; Communist Party of Greece or KKE [Aleka PAPARIGA]; New Democracy or ND (conservative) [Konstandinos KARAMANLIS]; Panhellenic Socialist Movement or PASOK [Yiorgos PAPANDREOU]; Popular Orthodox Rally or LAOS [Yeoryios KARATZAFERIS] |
+| Political pressure groups and leaders: | General Confederation of Greek Workers or GSEE [Ioannis PANAGOPOULOS]; Federation of Greek Industries or SEV [Odysseas KYRIAKOPOULOS]; Civil Servants Confederation or ADEDY [Spyros PAPASPYROS] |
+| International organization participation: | Australia Group, BIS, BSEC, CE, CERN, EAPC, EBRD, EIB, EMU, EU, FAO, G- 6, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SECI, UN, UN Security Council (temporary), UNCTAD, UNESCO, UNHCR, UNIDO, UNMEE, UNMIS, UNOMIG, UNWTO, UPU, WCO, WEU, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Alexandros P. MALLIAS |
+| Diplomatic representation in the US: | chancery: 2221 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-1300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 939-1324 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Los Angeles, New York, San Francisco, Tampa |
+| Diplomatic representation in the US: | consulate(s): Atlanta, Houston, New Orleans |
+| Diplomatic representation from the US: | chief of mission: Ambassador Daniel V. SPECKHARD |
+| Diplomatic representation from the US: | embassy: 91 Vasilisis Sophias Avenue, 10160 Athens |
+| Diplomatic representation from the US: | mailing address: PSC 108, APO AE 09842-0108 |
+| Diplomatic representation from the US: | telephone: [30] (210) 721-2951 |
+| Diplomatic representation from the US: | FAX: [30] (210) 645-6282 |
+| Diplomatic representation from the US: | consulate(s) general: Thessaloniki |
+| Flag description: | nine equal horizontal stripes of blue alternating with white; there is a blue square in the upper hoist-side corner bearing a white cross; the cross symbolizes Greek Orthodoxy, the established religion of the country |

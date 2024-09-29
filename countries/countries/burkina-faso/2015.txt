@@ -1,0 +1,71 @@
+| Government | BURKINA FASO |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Burkina Faso |
+| Country name: | local long form: none |
+| Country name: | local short form: Burkina Faso |
+| Country name: | former: Upper Volta, Republic of Upper Volta |
+| Government type: | parliamentary republic |
+| Capital: | name: Ouagadougou |
+| Capital: | geographic coordinates: 12 22 N, 1 31 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest |
+| Independence: | 5 August 1960 (from France) |
+| National holiday: | Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community |
+| Constitution: | several previous; latest approved by referendum 2 June 1991, adopted 11 June 1991; amended several times, last in 2012 (2012) |
+| Legal system: | civil law based on the French model and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Interim President Michel KAFANDO (since 1 November 2014); note - President Blaise COMPAORE resigned on 31 October 2014 after efforts to amend the constitution to enable him to run for another term led to violent protests; military chief Gen. Honore TRAORE temporarily assumed power on 31 October 2014, but the army named Lt. Col. Yacouba Isaac ZIDA as the head of a transitional government on 1 November 2014; on 14 November, military and opposition party leaders agreed to a charter returning the government to civilian rule and holding elections in late 2015; Michel KAFANDO became interim president on 18 November 2014 and ZIDA became prime minister on 19 November 2014; KAFANDO and ZIDA were ousted in a military coup on 16 September 2015 and returned to power on 23 September 2015 |
+| Executive branch: | head of government: Prime Minister Lt. Col. Yacouba Issac ZIDA (since 19 November 2014) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections/appointments: president elected by absolute majority popular vote in two rounds, if needed, for a 5-year term (eligible for a second); election last held on 21 November 2010 (the scheduled 11 October 2015 election has been postponed); prime minister appointed by the president with consent of the National Assembly |
+| Executive branch: | election results: Blaise COMPAORE reelected president; percent of vote - Blaise COMPAORE 80.2%, Hama Arba DIALLO 8.2%, Benewende Stanislas SANKARA 6.3%, other 5.3%; note - President COMPAORE resigned on 31 October 2014; Michel KAFANDO took office as interim president on 18 November 2014, after being selected by a special electoral college; Lt. Col. Yacouba Isaac ZIDA was appointed as prime minister on 19 November 2014; a 25-member transitional government will rule until elections on 11 October 2015; a 90-member national transitional council will serve as a legislative body; KAFANDO was ousted in a 16 September 2015 military coup and replaced with a National Council of Democracy led by Gen. Gilbert DIENDERE but was restored to power on 23 September 2015 |
+| Legislative branch: | description: unicameral Transitional National Council - interim legislative body (90 seats; members serve a nominal 1-year term) |
+| Legislative branch: | elections: last held on 2 December 2012 (the scheduled 11 October 2015 election has been postponed) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - CDP 70, ADF-RDA 19, Union for Progress and Reform 19, UNIR-MS 4, UPR 4, CFD-B 3, PDS/Metba 2, other 6 |
+| Judicial branch: | highest court(s): Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 3 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judge appointments mostly controlled by the president of Burkina Faso; judge tenure NA; Constitutional Council judges appointed by the president of Burkina Faso upon the proposal of the minister of justice and the president of the National Assembly; judges appointed for 9-year terms with one-third of judges renewed every 3 years |
+| Judicial branch: | subordinate courts: Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts |
+| Political parties and leaders: | African Democratic Rally-Alliance for Democracy and Federation or ADF-RDA [Gilbert OUEDRAOGO] |
+| Political parties and leaders: | Citizen's Popular Rally or RPC [Antoine QUARE] |
+| Political parties and leaders: | Coalition of Democratic Forces of Burkina or CFD-B [Zio Eric FRANCOIS] |
+| Political parties and leaders: | Congress for Democracy and Progress or CDP [Assimi KOUANDA] |
+| Political parties and leaders: | Democratic and Popular Rally or RDP [Nana THIBAUT] |
+| Political parties and leaders: | Movement for Tolerance and Progress or MTP [Nayabtigungou Congo KABORE] |
+| Political parties and leaders: | Party for African Independence or PAI [Soumane TOURE] |
+| Political parties and leaders: | Party for Democracy and Progress-Socialist Party or PDP-PS [Francois O. KABORE] |
+| Political parties and leaders: | Party for Democracy and Socialism/Metba or PDS/Metba [Hama Arba DIALLO] |
+| Political parties and leaders: | Party for National Rebirth or PAREN [Barry TAHIROU] |
+| Political parties and leaders: | People's Movement for Progress or MPP [Roch March KABORE] |
+| Political parties and leaders: | Rally for the Development of Burkina or RDB [Celestin Saidou COMPAORE] |
+| Political parties and leaders: | Rally of Ecologists of Burkina Faso or RDEB [Ram OUEDRAGO] |
+| Political parties and leaders: | Republican Party for Integration and Solidarity or PARIS |
+| Political parties and leaders: | Union for Democracy and Social Progress or UDPS [Fidele HIEN] |
+| Political parties and leaders: | Union for Progress and Change or UPC [Zephirin DIABRE] |
+| Political parties and leaders: | Union for Rebirth - Sankarist Movement or UNIR-MS [Benewende Stanislas SANKARA] |
+| Political parties and leaders: | Union for the Republic or UPR [Toussaint Abel COULIBALY] |
+| Political parties and leaders: | Union of Sankarist Parties or UPS [Ernest Nongma OUEDRAOGO] |
+| Political pressure groups and leaders: | Burkinabe General Confederation of Labor or CGTB [Tole SAGNON] |
+| Political pressure groups and leaders: | Burkinabe Movement for Human Rights or MBDHP [Chrysigone ZOUGMORE] |
+| Political pressure groups and leaders: | Citizen's Resistance Front [Luc Marius IBRIGA] |
+| Political pressure groups and leaders: | Group of 14 February [Benewende Stanislas SANKARA] |
+| Political pressure groups and leaders: | National Confederation of Burkinabe Workers or CNTB [Laurent OUEDRAOGO] |
+| Political pressure groups and leaders: | National Organization of Free Unions or ONSL [Paul KABORE] |
+| Political pressure groups and leaders: | other: watchdog/political action groups throughout the country in both organizations and communities |
+| International organization participation: | ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Seydou SINKA (since 1 November 2014) |
+| Diplomatic representation in the US: | chancery: 2340 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-5577 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-1882 |
+| Diplomatic representation from the US: | chief of mission: A mbassador Tulinabo Salama MUSHINGI (since 5 August 2013) |
+| Diplomatic representation from the US: | embassy: Rue 15.873, Avenue Sembene Ousmane, Ouaga 2000, Secteur 15 |
+| Diplomatic representation from the US: | mailing address: 01 B. P. 35, Ouagadougou 01; pouch mail - US Department of State, 2440 Ouagadougou Place, Washington, DC 20521-2440 |
+| Diplomatic representation from the US: | telephone: [226] 25-49-53-00 |
+| Diplomatic representation from the US: | FAX: [226] 25-49-56-28 |
+| Flag description: | two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | white stallion; national colors: red, yellow, green |
+| National anthem: | name: "Le Ditanye" (Anthem of Victory) |
+| National anthem: | lyrics/music: Thomas SANKARA |
+| National anthem: | note: adopted 1974; also known as "Une Seule Nuit" (One Single Night); written by the country's president, an avid guitar player |

@@ -1,0 +1,65 @@
+| Government | Cambodia |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Cambodia |
+| Country name: | conventional short form: Cambodia |
+| Country name: | local long form: Preahreacheanachakr Kampuchea (phonetic transliteration) |
+| Country name: | local short form: Kampuchea |
+| Country name: | former: Khmer Republic, Democratic Kampuchea, People's Republic of Kampuchea, State of Cambodia |
+| Country name: | etymology: the English name Cambodia is an anglicization of the French Cambodge, which is the French transliteration of the native name Kampuchea |
+| Government type: | parliamentary constitutional monarchy |
+| Capital: | name: Phnom Penh |
+| Capital: | geographic coordinates: 11 33 N, 104 55 E |
+| Capital: | time difference: UTC+7 (12 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 24 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural) |
+| Administrative divisions: | provinces: Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum; |
+| Administrative divisions: | municipalities: Phnom Penh (Phnum Penh) |
+| Independence: | 9 November 1953 (from France) |
+| National holiday: | Independence Day, 9 November (1953) |
+| Constitution: | history: previous 1947; latest promulgated 21 September 1993 (2017) |
+| Constitution: | amendments: proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one-fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended 1999, 2008, 2014 (2017) |
+| Legal system: | civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Cambodia |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts in Cambodia (also called the Khmer Rouge Tribunal) were established and began hearings for the first case in 2009; court proceeding were ongoing in 2016 |
+| Judicial branch: | judge selection and term of office: Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years |
+| Judicial branch: | subordinate courts: Appellate Court; provincial and municipal courts; Military Court |
+| Executive branch: | chief of state: King Norodom SIHAMONI (since 29 October 2004) |
+| Executive branch: | head of government: Prime Minister HUN SEN (since 14 January 1985); Permanent Deputy Prime Minister MEN SAM AN (since 25 September 2008); Deputy Prime Ministers SAR KHENG (since 3 February 1992), TEA BANH, Gen., HOR NAMHONG, NHEK BUNCHHAY (all since 16 July 2004), BIN CHHIN (since 5 September 2007), KEAT CHHON, YIM CHHAI LY (since 24 September 2008), KE KIMYAN (since 12 March 2009) |
+| Executive branch: | cabinet: Council of Ministers named by the prime minister and appointed by the monarch |
+| Executive branch: | elections/appointments: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch |
+| Legislative branch: | description: bicameral Parliament of Cambodia consists of: |
+| Legislative branch: | Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms) |
+| Legislative branch: | National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023) |
+| Legislative branch: | election results: Â  |
+| Legislative branch: | Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5% |
+| Legislative branch: | National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2% |
+| Political parties and leaders: | Cambodia National Rescue Party or CNRP [KHEM SOKHA] (dissolved by the government in November 2017; formed from a 2012 merger of the Sam Rangsi Party or SRP and the former Human Rights Party or HRP [KHEM SOKHA, also spelled KEM SOKHA]) |
+| Political parties and leaders: | Cambodian Nationality Party or CNP [SENG SOKHENG] |
+| Political parties and leaders: | Cambodian People's Party or CPP [HUN SEN] |
+| Political parties and leaders: | Khmer Economic Development Party or KEDP [HUON REACH CHAMROEUN] |
+| Political parties and leaders: | Khmer National Unity Party or KNUP [NHEK Bun Chhay] |
+| Political parties and leaders: | Khmer Will Party [KONG MONIKA] |
+| Political parties and leaders: | League for Democracy Party or LDP [KHEM Veasna] |
+| Political parties and leaders: | National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM RANARIDDH] |
+| International organization participation: | ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador CHUM SOUNRY (since 17 September 2018) |
+| Diplomatic representation in the US: | chancery: 4530 16th Street NW, Washington, DC 20011 |
+| Diplomatic representation in the US: | telephone: [1] (202) 726-7742 |
+| Diplomatic representation in the US: | FAX: [1] (202) 726-8381 |
+| Diplomatic representation from the US: | chief of mission: Ambassador William A. HEIDT (since 2 December 2015) |
+| Diplomatic representation from the US: | embassy: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh |
+| Diplomatic representation from the US: | mailing address: Unit 8166, Box P, APO AP 96546 |
+| Diplomatic representation from the US: | telephone: [855] (23) 728-000 |
+| Diplomatic representation from the US: | FAX: [855] (23) 728-600 |
+| Flag description: | three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors |
+| Flag description: | note: only national flag to incorporate an actual building into its design |
+| National symbol(s): | Angkor Wat temple, kouprey (wild ox); national colors: red, blue |
+| National anthem: | name: "Nokoreach" (Royal Kingdom) |
+| National anthem: | lyrics/music: CHUON NAT/F. PERRUCHOT and J. JEKYLL |
+| National anthem: | note: adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime |

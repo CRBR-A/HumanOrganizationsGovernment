@@ -1,0 +1,58 @@
+| Government | Luxembourg |
+| --- | --- |
+| Country name: | conventional long form: Grand Duchy of Luxembourg |
+| Country name: | conventional short form: Luxembourg |
+| Country name: | local long form: Grand Duche de Luxembourg |
+| Country name: | local short form: Luxembourg |
+| Country name: | etymology: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the surrounding city and then to the country itself |
+| Government type: | constitutional monarchy |
+| Capital: | name: Luxembourg |
+| Capital: | geographic coordinates: 49 36 N, 6 07 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress |
+| Administrative divisions: | 12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz |
+| Independence: | 1839 (from the Netherlands) |
+| National holiday: | National Day (birthday of Grand Duke HENRI), 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the national festivities were shifted in 1962 to allow observance during a more favorable time of year |
+| Constitution: | history: previous 1842 (heavily amended 1848, 1856); latest effective 17 October 1868 |
+| Constitution: | amendments: proposed by the Chamber of Deputies or by the monarch to the Chamber; passage requires at least two-thirds majority vote by the Chamber in two successive readings three months apart; a referendum can be substituted for the second reading if approved by more than a quarter of the Chamber members or by 25,000 valid voters; adoption by referendum requires a majority of all valid voters; amended many times, last in 2009 |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: limited to situations where the parents are either unknown, stateless, or when the nationality law of the parents' state of origin does not permit acquisition of citizenship by descent when the birth occurs outside of national territory |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Luxembourg |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981) |
+| Executive branch: | head of government: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Etienne SCHNEIDER (since 4 December 2013); Deputy Prime Minister Felix BRAZ (since 5 December 2018) |
+| Executive branch: | cabinet: Council of Ministers recommended by the prime minister, appointed by the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies |
+| Legislative branch: | description: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies |
+| Legislative branch: | elections: last held onÂ 14 October 2018 (next to be held by October 2023) |
+| Legislative branch: | election results: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3% |
+| Judicial branch: | highest courts: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members) |
+| Judicial branch: | judge selection and term of office: judges of both courts appointed by the monarch for life |
+| Judicial branch: | subordinate courts: Court of Accounts; district and local tribunals and courts |
+| Political parties and leaders: | Alternative Democratic Reform Party or ADR [Jean SCHOOS] |
+| Political parties and leaders: | Christian Social People's Party or CSV [Marc SPAUTZ] |
+| Political parties and leaders: | Democratic Party or DP [Corinne CAHEN] |
+| Political parties and leaders: | Green Party [Francoise FOLMER, Christian KMIOTEK] |
+| Political parties and leaders: | Luxembourg Socialist Workers' Party or LSAP [Claude HAAGEN] |
+| Political parties and leaders: | The Left (dei Lenk/la Gauche) [collective leadership, Central Committee] |
+| Political parties and leaders: | other minor parties |
+| International organization participation: | ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sylvie LUCAS (since 16 September 2016) |
+| Diplomatic representation in the US: | chancery: 2200 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-4171 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-8270 |
+| Diplomatic representation in the US: | consulate(s) general: New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador James Randolph "Randy" EVANS (since 19 June 2018) |
+| Diplomatic representation from the US: | telephone: [352] 46-01-23 00 |
+| Diplomatic representation from the US: | embassy: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City |
+| Diplomatic representation from the US: | mailing address: Unit 3560, APO AE 09126-3560 (official mail) |
+| Diplomatic representation from the US: | FAX: [352] 46-14-01 |
+| Flag description: | three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field) |
+| National symbol(s): | red, rampant lion; national colors: red, white, light blue |
+| National anthem: | name: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William) |
+| National anthem: | lyrics/music: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown |
+| National anthem: | note: "Ons Heemecht," adopted 1864, is the national anthem, while "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg |

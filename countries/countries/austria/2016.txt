@@ -1,0 +1,65 @@
+| Government | AUSTRIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Austria |
+| Country name: | conventional short form: Austria |
+| Country name: | local long form: Republik Oesterreich |
+| Country name: | local short form: Oesterreich |
+| Country name: | etymology: the name Oesterreich means "eastern realm" or "eastern march" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria, and in fact of all the Germans; the word Austria is a Latinization of the German name |
+| Government type: | federal parliamentary republic |
+| Capital: | name: Vienna |
+| Capital: | geographic coordinates: 48 12 N, 16 22 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna) |
+| Independence: | 12 November 1918 (republic proclaimed); notable earlier dates: 976 (Margravate of Austria established); 17 September 1156 (Duchy of Austria founded); 11 August 1804 (Austrian Empire proclaimed) |
+| National holiday: | National Day, 26 October (1955); note - commemorates the passage of the law on permanent neutrality |
+| Constitution: | several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934 (authoritarian-corporate constitution), replaced by German Weimar constitution in 1938 following German annexation; latest reinstated 1 May 1945 (1920 constitution with 1929 revisions); amended many times, last in 2014 (2016) |
+| Legal system: | civil law system; judicial review of legislative acts by the Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Austria |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 16 years of age; universal |
+| Executive branch: | chief of state: Acting Presidents Doris BURES (SPOe), Karlheinz KOPF (OeVP), Norbert HOFER (FPOe) (since 8 July 2016) |
+| Executive branch: | head of government: Chancellor Christian KERN (SPOe) (since 17 May 2016); Vice Chancellor Reinhold MITTERLEHNER (OeVP) (since 1 September 2014) |
+| Executive branch: | cabinet: Council of Ministers chosen by the president on the advice of the chancellor |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round) and 22 May 2016 (second round), the latter was ruled invalid and a re-vote will be held 4 December 2016; next presidential elections to be held in April 2022; chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor |
+| Executive branch: | election results: percent of vote: first-round results - Norbet HOFER (FPOe) 35.1%, Alexander van der BELLIEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; second round results - Alexander van der BELLIEN 50.3%, Norbet HOFER 49.7%; on 1 July 2016, the Constitutional Court ordered a rerun of the 22 May 2016 runoff election to be held 2 October 2016; former President Heinz FISCHER's term ended July 8; his functions were replaced by the three Presidents of the National Council Doris BURES (SPOe), Karlheinz KOPF (OeVP), and Norbert HOFER (FPOe) |
+| Legislative branch: | description: bicameral Federal Assembly or Bundesversammlung consists of the Federal Council or Bundesrat (62 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms) and the National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: National Council - last held on 29 September 2013 (next to be held by September 2018) |
+| Legislative branch: | election results: National Council - percent of vote by party - SPOe 26.8%, OeVP 24.0%, FPOe 20.5%, Greens 12.4%, Team Stronach 5.7%, NEOS 5.0%, other 5.6%; seats by party - SPOe 52, OeVP 47, FPOe 40, Greens 24, Team Stronach 11, NEOS 9; note - currently: SPOe 52, OeVP 50, FPOe 38, Greens 24, NEOS 9, Team Stronach 6, without faction 4 |
+| Judicial branch: | highest court(s): Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by executive branch departments and appointed by the president; judges serve for life; Constitutional Court judges nominated by several executive branch departments and approved by the president; judges serve for life; Administrative Court judges recommended by executive branch departments and appointed by the president; terms of judges and members determined by the president |
+| Judicial branch: | subordinate courts: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts |
+| Political parties and leaders: | Austrian People's Party or OeVP [Reinhold MITTERLEHNER] |
+| Political parties and leaders: | Communist Party of Austria or KPOe [Mirko MESSNER] |
+| Political parties and leaders: | Freedom Party of Austria or FPOe [Heinz Christian STRACHE] |
+| Political parties and leaders: | The Greens [Eva GLAWISCHNIG] |
+| Political parties and leaders: | NEOS - The New Austria [Matthias STROLZ] |
+| Political parties and leaders: | Social Democratic Party of Austria or SPOe [Christian KERN] |
+| Political parties and leaders: | "Team Stronach" [Frank STRONACH] |
+| Political pressure groups and leaders: | Austrian Trade Union Federation or OeGB (nominally independent but primarily Social Democratic) |
+| Political pressure groups and leaders: | Federal Agriculture Chamber (OeVP-dominated) |
+| Political pressure groups and leaders: | Federal Economic Chamber (OeVP-dominated) |
+| Political pressure groups and leaders: | Labor Chamber or AK (Social Democratic-leaning think tank) |
+| Political pressure groups and leaders: | OeVP-oriented Association of Austrian Industrialists or IV |
+| Political pressure groups and leaders: | Roman Catholic Church, including its chief lay organization, Catholic Action |
+| Political pressure groups and leaders: | other: three composite leagues of the Austrian People's Party or OeVP representing business, labor, farmers, and other nongovernment organizations in the areas of environment and human rights |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Wolfgang WALDNER (since 28 January 2016) |
+| Diplomatic representation in the US: | chancery: 3524 International Court NW, Washington, DC 20008-3035 |
+| Diplomatic representation in the US: | telephone: [1] (202) 895-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 895-6750 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation in the US: | consulate(s): Chicago |
+| Diplomatic representation from the US: | chief of mission: Ambassador Alexa Lange WESNER (since 22 October 2013) |
+| Diplomatic representation from the US: | embassy: Boltzmanngasse 16, A-1090, Vienna |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [43] (1) 31339-0 |
+| Diplomatic representation from the US: | FAX: [43] (1) 3100682 |
+| Flag description: | three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner |
+| National symbol(s): | golden eagle, edelweiss, Alpine gentian; national colors: red, white |
+| National anthem: | name: "Bundeshymne" (Federal Hymn) |
+| National anthem: | lyrics/music: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed) |
+| National anthem: | note: adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012 |

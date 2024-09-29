@@ -1,0 +1,40 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Federal Republic of Germany |
+| Country name: | conventional short form: Germany |
+| Country name: | local long form: Bundesrepublik Deutschland |
+| Country name: | local short form: Deutschland |
+| Data code: | GM |
+| Government type: | federal republic |
+| Capital: | Berlin |
+| Administrative divisions: | 16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thueringen |
+| Independence: | 18 January 1871 (German Empire unification); divided into four zones of occupation (UK, US, USSR, and later, France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed 7 October 1949 and included the former USSR zone; unification of West Germany and East Germany took place 3 October 1990; all four powers formally relinquished rights 15 March 1991 |
+| National holiday: | German Unity Day (Day of Unity), 3 October (1990) |
+| Constitution: | 23 May 1949, known as Basic Law; became constitution of the united German people 3 October 1990 |
+| Legal system: | civil law system with indigenous concepts; judicial review of legislative acts in the Federal Constitutional Court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Johannes RAU (since 1 July 1999) |
+| Executive branch: | head of government: Chancellor Gerhard SCHROEDER (since 27 October 1998) |
+| Executive branch: | cabinet: Cabinet or Bundeskanzler appointed by the president on the recommendation of the chancellor |
+| Executive branch: | elections: president elected for a five-year term by a Federal Convention including all members of the Federal Assembly and an equal number of delegates elected by the Land Parliaments; election last held 23 May 1999 (next to be held 23 May 2004); chancellor elected by an absolute majority of the Federal Assembly for a four-year term; election last held 27 September 1998 (next to be held in the fall of 2002) |
+| Executive branch: | election results: Johannes RAU elected president; percent of Federal Convention vote - 57.6%; Gerhard SCHROEDER elected chancellor; percent of Federal Assembly - 52.7% |
+| Legislative branch: | bicameral Parliament or Parlament consists of the Federal Assembly or Bundestag (656 seats usually, but 669 for the 1998 term; elected by popular vote under a system combining direct and proportional representation; a party must win 5% of the national vote or three direct mandates to gain representation; members serve four-year terms) and the Federal Council or Bundesrat (69 votes; state governments are directly represented by votes; each has 3 to 6 votes depending on population and are required to vote as a block) |
+| elections: | Federal Assembly - last held 27 September 1998 (next to be held by the fall of 2002); note - there are no elections for the Bundesrat; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election |
+| election results: | Federal Assembly - percent of vote by party - SPD 40.9%, Alliance '90/Greens 6.7%, CDU/CSU 35.1%, FDP 6.2%, PDS 5.1%; seats by party - SPD 298, Alliance '90/Greens 47, CDU/CSU 245, FDP 43, PDS 36; Federal Council - current composition - votes by party - SPD-led states 26, CDU-led states 28, grand coalitions 15 |
+| Judicial branch: | Federal Constitutional Court or Bundesverfassungsgericht, half the judges are elected by the Bundestag and half by the Bundesrat |
+| Political parties and leaders: | Alliance '90/Greens [Gunda ROESTEL and Antje RADCKE]; Christian Democratic Union or CDU [Angela MERKEL]; Christian Social Union or CSU [Edmund STOIBER, chairman]; Free Democratic Party or FDP [Wolfgang GERHARDT, chairman]; Party of Democratic Socialism or PDS [Lothar BISKY, chairman]; Social Democratic Party or SPD [Gerhard SCHROEDER, chairman] |
+| Political pressure groups and leaders: | employers' organizations; expellee, refugee, trade unions, and veterans groups |
+| International organization participation: | AfDB, AsDB, Australia Group, BDEAC, BIS, CBSS, CCC, CDB (non-regional), CE, CERN, EAPC, EBRD, ECE, EIB, EMU, ESA, EU, FAO, G- 5, G- 7, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, MONUC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM, UNITAR, UNMIBH, UNMIK, UNOMIG, UPU, WADB (nonregional), WEU, WHO, WIPO, WMO, WToO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Juergen CHROBOG |
+| Diplomatic representation in the US: | chancery: 4645 Reservoir Road NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-8141 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-4249 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation in the US: | consulate(s): Wellington (America Samoa) |
+| Diplomatic representation from the US: | chief of mission: Ambassador John C. KORNBLUM |
+| Diplomatic representation from the US: | embassy: Neustaedtische Kirchstrasse 4-5, 10117 Berlin |
+| Diplomatic representation from the US: | mailing address: PSC 120, Box 1000, APO AE 09265 |
+| Diplomatic representation from the US: | telephone: [49] (30) 238-5174 |
+| Diplomatic representation from the US: | FAX: [49] (30) 238-6290 |
+| Diplomatic representation from the US: | consulate(s) general: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich |
+| Flag description: | three equal horizontal bands of black (top), red, and gold |

@@ -1,0 +1,52 @@
+| Government | ZAMBIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Zambia |
+| Country name: | conventional short form: Zambia |
+| Country name: | former: Northern Rhodesia |
+| Country name: | etymology: name derived from the Zambezi River, which flows through the western part of the country and forms its southern border with neighboring Zimbabwe |
+| Government type: | presidential republic |
+| Capital: | name: Lusaka |
+| Capital: | geographic coordinates: 15 25 S, 28 17 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western |
+| Independence: | 24 October 1964 (from the UK) |
+| National holiday: | Independence Day, 24 October (1964) |
+| Constitution: | several previous; latest adopted 24 August 1991, promulgated 30 August 1991; amended 1996, 2015 (2016) |
+| Legal system: | mixed legal system of English common law and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent: yes |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: not specified |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015 |
+| Executive branch: | cabinet: Cabinet appointed by president from among members of the National Assembly |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 August 2016 (next to be held in 2021) |
+| Executive branch: | election results: Edgar LUNGU reelected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2.0% |
+| Legislative branch: | description: unicameral National Assembly (164 seats; 156 members directly elected in single-seat constituencies by simple majority vote, and 8 appointed by the president; members serve 5-year terms); note - 6 additional electoral seats were added for the 11 August 2016 election, up from 150 electoral seats in the 2011 election |
+| Legislative branch: | elections: last held on 11 August 2016 (next to be held in 2021) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PF 80, UPND 58, MMD 3, FDD 1, independent 14 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and deputy chief justices, and at least 11 judges); Constitutional Court (consists of the court president, vice-president, and 11 judges); note - the Constitutional Court began operation in June 2016 |
+| Judicial branch: | judge selection and term of office: Supreme Court and Constitutional Court judges appointed by the president upon the advice of the 9-member Judicial Service Commission headed by the chief justice, and ratified by the National Assembly; judges normally serve until age 65 |
+| Judicial branch: | subordinate courts: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (three levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved) |
+| Political parties and leaders: | Alliance for Democracy and Development or ADD [Charles MILUPI] |
+| Political parties and leaders: | Forum for Democracy and Development or FDD [Edith NAWAKWI] |
+| Political parties and leaders: | Movement for Multiparty Democracy or MMD [Nevers MUMBA] |
+| Political parties and leaders: | Patriotic Front or PF [Edgar LUNGU] |
+| Political parties and leaders: | United Party for National Development or UPND [Hakainde HICHILEMA] |
+| International organization participation: | ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Palan MULONDA (since 8 January 2013) |
+| Diplomatic representation in the US: | chancery: 2419 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-9717 through 9719 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-0826 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Eric T. SCHULTZ (since 12 December 2014) |
+| Diplomatic representation from the US: | embassy: Eastern end of Kabulonga Road, Ibex Hill, Lusaka |
+| Diplomatic representation from the US: | mailing address: P. O. Box 31617, Lusaka |
+| Diplomatic representation from the US: | telephone: [260] (211) 357-000 |
+| Diplomatic representation from the US: | FAX: [260] ) (211) 357-224 |
+| Flag description: | green field with a panel of three vertical bands of red (hoist side), black, and orange below a soaring orange eagle, on the outer edge of the flag; green stands for the country's natural resources and vegetation, red symbolizes the struggle for freedom, black the people of Zambia, and orange the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems |
+| National symbol(s): | African fish eagle; national colors: green, red, black, orange |
+| National anthem: | name: "Lumbanyeni Zambia" (Stand and Sing of Zambia, Proud and Free) |
+| National anthem: | lyrics/music: multiple/Enoch Mankayi SONTONGA |
+| National anthem: | note: adopted 1964; the melody, from the popular song "God Bless Africa," is the same as that of Tanzania but with different lyrics; the melody is also incorporated into South Africa's anthem |

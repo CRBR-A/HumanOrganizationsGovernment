@@ -1,0 +1,44 @@
+| Government | PUERTO RICO |
+| --- | --- |
+| Country name: | conventional long form: Commonwealth of Puerto Rico |
+| Country name: | conventional short form: Puerto Rico |
+| Dependency status: | unincorporated, organized territory of the US with commonwealth status; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President |
+| Government type: | commonwealth |
+| Capital: | name: San Juan |
+| Capital: | geographic coordinates: 18 28 N, 66 07 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | none (territory of the US with commonwealth status); there are no first-order administrative divisions as defined by the US Government, but there are 78 municipalities (municipios, singular - municipio) at the second order; Adjuntas, Aguada, Aguadilla, Aguas Buenas, Aibonito, Anasco, Arecibo, Arroyo, Barceloneta, Barranquitas, Bayamon, Cabo Rojo, Caguas, Camuy, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Coamo, Comerio, Corozal, Culebra, Dorado, Fajardo, Florida, Guanica, Guayama, Guayanilla, Guaynabo, Gurabo, Hatillo, Hormigueros, Humacao, Isabela, Jayuya, Juana Diaz, Juncos, Lajas, Lares, Las Marias, Las Piedras, Loiza, Luquillo, Manati, Maricao, Maunabo, Mayaguez, Moca, Morovis, Naguabo, Naranjito, Orocovis, Patillas, Penuelas, Ponce, Quebradillas, Rincon, Rio Grande, Sabana Grande, Salinas, San German, San Juan, San Lorenzo, San Sebastian, Santa Isabel, Toa Alta, Toa Baja, Trujillo Alto, Utuado, Vega Alta, Vega Baja, Vieques, Villalba, Yabucoa, Yauco |
+| Independence: | none (territory of the US with commonwealth status) |
+| National holiday: | US Independence Day, 4 July (1776); Puerto Rico Constitution Day, 25 July (1952) |
+| Constitution: | previous 1900 (Organic Act, or Foraker Act); latest ratified 3 March 1952, approved 3 July 1952, effective 25 July 1952; note - constitutional amendments introduced in 2012 were rejected in a referendum (2015) |
+| Legal system: | civil law system based on the Spanish civil code and within the framework of the US federal system |
+| Citizenship: | see United States |
+| Suffrage: | 18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections |
+| Executive branch: | chief of state: President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009) |
+| Executive branch: | head of government: Governor Alejandro GARCIA Padilla (since 2 January 2013) |
+| Executive branch: | cabinet: Cabinet appointed by governor with the consent of the Legislative Assembly |
+| Executive branch: | elections/appointments: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of  Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 6 November 2012 (next to be held in November 2016) |
+| Executive branch: | election results: Alejandro GARCIA Padilla elected governor; percent of vote -  Alejandro GARCIA Padilla (Democratic Party) 48.2%, Luis FORTUNO (PNP) 47.1%, other 4.7% |
+| Legislative branch: | description: bicameral Legislative Assembly or Asamblea Legislativa consists of the Senate or Senado (27 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 11 at-large members directly elected by simple majority vote to serve 4-year terms); the House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) |
+| Legislative branch: | elections: Senate - last held on 6 November 2012 (next to be held on 8 November 2016); House of Representatives - last held on 6 November 2012 (next to be held on 8 November 2016) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - PPD 18, PNP 8, PIP 1; House of Representatives - percent of vote by party - NA; seats by party - PPD 28, PNP 23 |
+| Legislative branch: | note: Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a &ldquo;full floor&rdquo; House vote; election of commissioner last held on 6 November 2012 (next to be held on 8 November 2016) |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and 8 associate justices) |
+| Judicial branch: | judge selection and term of office: justices appointed by the governor and confirmed by majority Senate vote; judges serve until compulsory retirement at age 70 |
+| Judicial branch: | subordinate courts: Court of Appeals; First Instance Court comprised of superior and municipal courts |
+| Judicial branch: | note: the Commonwealth of Puerto Rico Judiciary Act of 2003 reformed the judicial system |
+| Political parties and leaders: | National Democratic Party [Roberto PRATS] |
+| Political parties and leaders: | National Republican Party of Puerto Rico [Carlos MENDEZ] |
+| Political parties and leaders: | New Progressive Party or PNP [Pedro PIERLUISI] (pro-US statehood) |
+| Political parties and leaders: | Popular Democratic Party or PPD [Alejandro Garcia PADILLA] (pro-commonwealth) |
+| Political parties and leaders: | Puerto Rican Independence Party or PIP [Ruben BERRIOS Martinez] (pro-independence) |
+| Political pressure groups and leaders: | Boricua Popular Army or EPB (a revolutionary group also known as Los Macheteros) |
+| International organization participation: | AOSIS (observer), Caricom (observer), Interpol (subbureau), IOC, UNWTO (associate), UPU, WFTU (NGOs) |
+| Diplomatic representation in the US: | none (territory of the US) |
+| Diplomatic representation from the US: | none (territory of the US with commonwealth status) |
+| Flag description: | five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace |
+| Flag description: | note: design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed |
+| National symbol(s): | Puerto Rican spindalis (bird), coqui (frog); national colors: red, white, blue |
+| National anthem: | name: "La Borinquena" (The Puerto Rican) |
+| National anthem: | lyrics/music: Manuel Fernandez JUNCOS/Felix Astol ARTES |
+| National anthem: | note: music adopted 1952, lyrics adopted 1977; the local anthem's name is a reference to the indigenous name of the island, Borinquen; the music was originally composed as a dance in 1867 and gained popularity in the early 20th century; there is some evidence that the music was written by Francisco RAMIREZ; as a commonwealth of the United States, "The Star-Spangled Banner" is official (see United States) |

@@ -1,0 +1,41 @@
+| Government | Lithuania |
+| --- | --- |
+| Country name: | conventional long form: Republic of Lithuania |
+| Country name: | conventional short form: Lithuania |
+| Country name: | local long form: Lietuvos Respublika |
+| Country name: | local short form: Lietuva |
+| Country name: | former: Lithuanian Soviet Socialist Republic |
+| Government type: | parliamentary democracy |
+| Capital: | name: Vilnius |
+| Capital: | geographic coordinates: 54 41 N, 25 19 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 10 counties (apskritys, singular - apskritis); Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus |
+| Independence: | 11 March 1990 (declared); 6 September 1991 (recognized by Soviet Union) |
+| National holiday: | Independence Day, 16 February (1918); note - 16 February 1918 was the date Lithuania declared its independence from Soviet Russia and established its statehood; 11 March 1990 was the date it declared its independence from the Soviet Union |
+| Constitution: | adopted 25 October 1992 |
+| Legal system: | based on civil law system; legislative acts can be appealed to the constitutional court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Valdas ADAMKUS (since 12 July 2004) |
+| Executive branch: | head of government: Prime Minister Andrius KUBILIUS (since 27 November 2008) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the nomination of the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 13 and 27 June 2004 (next to be held in June 2009); prime minister appointed by the president on the approval of the Parliament |
+| Executive branch: | election results: Valdas ADAMKUS elected president; percent of vote - Valdas ADAMKUS 52.2%, Kazimiera PRUNSKIENE 47.8%; Andrius KUBILIUS approved by Parliament 89-27 with 16 abstentions |
+| Legislative branch: | unicameral Parliament or Seimas (141 seats; 71 members are elected by popular vote, 70 are elected by proportional representation; serve four-year terms) |
+| Legislative branch: | elections: last held 12 and 26 October 2008 (next to be held October 2012) |
+| Legislative branch: | election results: percent of vote by party - TS 19.7%, TPP 15.1%, TT 12.7%, LSDP 11.7%, KDP+J 9%, LRLS 5.7%, LCS 5.3%, LLRA 4.8%, LVLS 3.7%, NS 3.6%, other 8.7%; seats by faction - TS 44, LSDP 26, TPP 16, TT 15, LRLS 11, KDP+J 10, LCS 8, LLRA 3, LVLS 3, NS 1, independent 4 |
+| Judicial branch: | Constitutional Court; Supreme Court; Court of Appeal; judges for all courts appointed by the president |
+| Political parties and leaders: | Civil Democracy Party or PDP [Viktor MUNTIANAS]; Coalition of Labor Party and Youth or KDP+J [Viktor USPASKICH]; Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASZEVSKI]; Homeland Union - Lithuanian Christian Democrats or TS [Andrius KUBILIUS]; Lithuanian Peasant Popular Union or LVLS [Kazimiera PRUNSKIENE]; Liberal and Center Union or LCS [Arturas ZUOKAS]; Liberal Movement or LRLS [Eligijus MASIULIS]; National Revival or TPP [Arunas VALINSKAS]; New Union (Social Liberal) or NS [Arturas PAULAUSKAS]; Order and Justice Party or TT [Rolandas PAKSAS]; Social Democratic Party or LSDP [Gediminas KIRKILAS]; Young Lithuania and New Nationalists [Stanislovas BUSKEVICIUS] |
+| Political pressure groups and leaders: | Europe House (promotes the EU); European Movement (promotes the EU); Lithuanian Future Forum (promotes the EU) |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CE, EAPC, EBRD, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC, MIGA, NATO, NIB, NSG, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNOMIG, UNWTO, UPU, WCL, WCO, WEU (associate partner), WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Audrius BRUZGA |
+| Diplomatic representation in the US: | chancery: temporary address: 2300 Clarendon Boulevard, Suite 302, Arlington, VA 22201 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-5860 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-0466 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador John A. CLOUD |
+| Diplomatic representation from the US: | embassy: Akmenu gatve 6, Vilnius, LT-03106 |
+| Diplomatic representation from the US: | mailing address: American Embassy, Akmenu Gatve 6, Vilnius LT-03106 |
+| Diplomatic representation from the US: | telephone: [370] (5) 266 5500 |
+| Diplomatic representation from the US: | FAX: [370] (5) 266 5510 |
+| Flag description: | three equal horizontal bands of yellow (top), green, and red |

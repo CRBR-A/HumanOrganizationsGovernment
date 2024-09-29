@@ -1,0 +1,58 @@
+| Government | Russia |
+| --- | --- |
+| Country name: | conventional long form: Russian Federation |
+| Country name: | conventional short form: Russia |
+| Country name: | local long form: Rossiyskaya Federatsiya |
+| Country name: | local short form: Rossiya |
+| Country name: | former: Russian Empire, Russian Soviet Federative Socialist Republic |
+| Government type: | federation |
+| Capital: | name: Moscow |
+| Capital: | geographic coordinates: 55 45 N, 37 36 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr; note - Russia has announced that it will remain on daylight saving time permanently, which began on 27 March 2011 |
+| Capital: | note: Russia is divided into 9 time zones |
+| Administrative divisions: | 46 provinces (oblastey, singular - oblast), 21 republics (respublik, singular - respublika), 4 autonomous okrugs (avtonomnykh okrugov, singular - avtonomnyy okrug), 9 krays (krayev, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast') |
+| Administrative divisions: | oblasts: Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl' |
+| Administrative divisions: | republics: Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk) |
+| Administrative divisions: | autonomous okrugs: Chukotka (Anadyr'), Khanty-Mansi (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard) |
+| Administrative divisions: | krays: Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime] (Vladivostok), Stavropol', Zabaykal'sk (Chita) |
+| Administrative divisions: | federal cities: Moscow [Moskva], Saint Petersburg [Sankt-Peterburg] |
+| Administrative divisions: | autonomous oblast: Yevrey [Jewish] (Birobidzhan) |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) |
+| Independence: | 24 August 1991 (from the Soviet Union); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 January 1547 (Tsardom of Muscovy established); 22 October 1721 (Russian Empire proclaimed); 30 December 1922 (Soviet Union established) |
+| National holiday: | Russia Day, 12 June (1990) |
+| Constitution: | adopted 12 December 1993 |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Vladimir Vladimirovich PUTIN (since 7 May 2012) |
+| Executive branch: | head of government: Dmitriy Anatolyevich MEDVEDEV (since 8 May 2012); First Deputy Premier Igor Ivanovich SHUVALOV (since 12 May 2008); Deputy Premiers Arkadiy Vladimirovich DVORKOVICH (since 21 May 2012), Olga Yuryevna GOLODETS (since 21 May 2012), Aleksandr Gennadiyevich KHLOPONIN (since 19 January 2010), Dmitriy Nikolayevich KOZAK (since 14 October 2008), Dmitriy Olegovich ROGOZIN (since 23 December 2011), Vladislav Yuryevich SURKOV (since 27 December 2011) |
+| Executive branch: | cabinet: the "Government" is composed of the premier, his deputies, and ministers; all are appointed by the president, and the premier is also confirmed by the Duma |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | note: there is also a Presidential Administration (PA) that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president |
+| Executive branch: | elections: president elected by popular vote for a six-year term (eligible for a second term); election last held 4 March 2012 (next to be held in March 2018); note - the term length was extended from four to six years in late 2008 and went into effect after the 2012 election; there is no vice president; if the president dies in office, cannot exercise his powers because of ill health, is impeached, or resigns, the premier serves as acting president until a new presidential election is held, which must be within three months; premier appointed by the president with the approval of the Duma |
+| Executive branch: | election results: Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN 63.6%, Gennadiy ZYUGANOV 17.2%, Mikhail PROKHOROV 8%, Vladimir ZHIRINOVSKIY 6.2%, Sergey MIRONOV 3.9%, other 1.1%; Dmitriy MEDVEDEV approved by Duma 299 to 144 |
+| Legislative branch: | bicameral Federal Assembly or Federalnoye Sobraniye consists of an upper house, the Federation Council or Sovet Federatsii (166 seats; members appointed by the top executive and legislative officials in each of the 83 federal administrative units - oblasts, krays, republics, autonomous okrugs and oblasts, and the federal cities of Moscow and Saint Petersburg; members to serve four-year terms) and a lower house, the State Duma or Gosudarstvennaya Duma (450 seats; as of 2007, all members elected by proportional representation from party lists winning at least 7% of the vote; members elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: State Duma - last held on 4 December 2011 (next to be held in December 2015) |
+| Legislative branch: | election results: State Duma - United Russia 49.6%, CPRF 19.2%, Just Russia 13.2%, LDPR 11.7%, other 6.3%; total seats by party - United Russia 238, CPRF 92, Just Russia 64, LDPR 56 |
+| Judicial branch: | Constitutional Court; Supreme Court; Supreme Arbitration Court; judges for all courts are appointed for life by the Federation Council on the recommendation of the president |
+| Political parties and leaders: | A Just Russia [Sergey MIRONOV]; Communist Party of the Russian Federation or CPRF [Gennadiy ZYUGANOV]; Liberal Democratic Party of Russia or LDPR [Vladimir ZHIRINOVSKIY]; Right Cause [Andrey DUNAYEV]; Rodina [Aleksey ZHURAVLEV]; United Russia [Dmitriy MEDVEDEV]; Yabloko Party [Sergey MITROKHIN] |
+| Political pressure groups and leaders: | Association of Citizens with Initiative of Russia (TIGR); Confederation of Labor of Russia (KTR); Federation of Independent Labor Unions of Russia; Freedom of Choice Interregional Organization of Automobilists; Glasnost Defense Foundation; Golos Association in Defense of Voters' Rights; Greenpeace Russia; Human Rights Watch (Russian chapter); Institute for Collective Action; Memorial (human rights group); Movement Against Illegal Migration; Pamjat (preservation of historical monuments and recording of history); PARNAS; Russian Orthodox Church; Russian Federation of Car Owners; Russian-Chechen Friendship Society; Solidarnost; SOVA Analytical-Information Center; Union of the Committees of Soldiers' Mothers; World Wildlife Fund (Russian chapter) |
+| International organization participation: | APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD, CE, CERN (observer), CICA, CIS, CSTO, EAEC, EAPC, EAS, EBRD, FAO, FATF, G-20, G-8, GCTU, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MONUSCO, NSG, OAS (observer), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNSC (permanent), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sergey Ivanovich KISLYAK |
+| Diplomatic representation in the US: | chancery: 2650 Wisconsin Avenue NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-5700, 5701, 5704, 5708 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-5735 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael A. MCFAUL |
+| Diplomatic representation from the US: | embassy: Bolshoy Deviatinskiy Pereulok No. 8, 121099 Moscow |
+| Diplomatic representation from the US: | mailing address: PSC-77, APO AE 09721 |
+| Diplomatic representation from the US: | telephone: [7] (495) 728-5000 |
+| Diplomatic representation from the US: | FAX: [7] (495) 728-5090 |
+| Diplomatic representation from the US: | consulate(s) general: Saint Petersburg, Vladivostok, Yekaterinburg |
+| Flag description: | three equal horizontal bands of white (top), blue, and red |
+| Flag description: | note: the colors may have been based on those of the Dutch flag; despite many popular interpretations, there is no official meaning assigned to the colors of the Russian flag; this flag inspired other Slav countries to adopt horizontal tricolors of the same colors but in different arrangements, and so red, blue, and white became the Pan-Slav colors |
+| National symbol(s): | bear; double-headed eagle |
+| National anthem: | name: "Gimn Rossiyskoy Federatsii" (National Anthem of the Russian Federation) |
+| National anthem: | lyrics/music: Sergei Vladimirovich MIKHALKOV/Alexandr Vasilievich ALEXANDROV |
+| National anthem: | note: in 2000, Russia adopted the tune of the anthem of the former Soviet Union (composed in 1939); the lyrics, also adopted in 2000, were written by the same person who authored the Soviet lyrics in 1943 |

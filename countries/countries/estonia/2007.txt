@@ -1,0 +1,42 @@
+| Government | Estonia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Estonia |
+| Country name: | conventional short form: Estonia |
+| Country name: | local long form: Eesti Vabariik |
+| Country name: | local short form: Eesti |
+| Country name: | former: Estonian Soviet Socialist Republic |
+| Government type: | parliamentary republic |
+| Capital: | name: Tallinn |
+| Capital: | geographic coordinates: 59 26 N, 24 43 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 counties (maakonnad, singular - maakond): Harjumaa (Tallinn), Hiiumaa (Kardla), Ida-Virumaa (Johvi), Jarvamaa (Paide), Jogevamaa (Jogeva), Laanemaa (Haapsalu), Laane-Virumaa (Rakvere), Parnumaa (Parnu), Polvamaa (Polva), Raplamaa (Rapla), Saaremaa (Kuressaare), Tartumaa (Tartu), Valgamaa (Valga), Viljandimaa (Viljandi), Vorumaa (Voru) |
+| Administrative divisions: | note: counties have the administrative center name following in parentheses |
+| Independence: | 20 August 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia; 20 August 1991 was the date it declared its independence from the Soviet Union |
+| Constitution: | adopted 28 June 1992 |
+| Legal system: | based on civil law system; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal for all Estonian citizens |
+| Executive branch: | chief of state: President Toomas Hendrik ILVES (since 9 October 2006) |
+| Executive branch: | head of government: Prime Minister Andrus ANSIP (since 12 April 2005) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister, approved by Parliament |
+| Executive branch: | elections: president elected by Parliament for a five-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after three rounds of balloting in the Parliament, then an electoral assembly (made up of Parliament plus members of local governments) elects the president, choosing between the two candidates with the largest percentage of votes; election last held 23 September 2006 (next to be held in the fall of 2011); prime minister nominated by the president and approved by Parliament |
+| Executive branch: | election results: Toomas Hendrik ILVES elected president on 23 September 2006 by a 345-member electoral assembly; ILVES received 174 votes to incumbent Arnold RUUTEL's 162; remaining 9 ballots left blank or invalid |
+| Legislative branch: | unicameral Parliament or Riigikogu (101 seats; members are elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 4 March 2007 (next to be held in March 2011) |
+| Legislative branch: | election results: percent of vote by party - Estonian Reform Party 27.8%, Center Party of Estonia 26.1%, Union of Pro Patria and Res Publica 17.9%, Social Democratic Party 10.6%, Estonian Greens 7.1%, Estonian People's Union 7.1%, other 5%; seats by party - Reform Party 31, Center Party 29, Union of Pro Patria and Res Publica 19, Social Democrats 10, Estonian Greens 6, People's Union 6 |
+| Judicial branch: | National Court (chairman appointed by Parliament for life) |
+| Political parties and leaders: | Center Party of Estonia (Keskerakond) [Edgar SAVISAAR]; Estonian Greens; Estonian People's Union (Rahvaliit) [Villu REILJAN]; Estonian Reform Party (Reformierakond) [Andrus ANSIP]; Estonian United Russian People's Party or EUVRP [Yevgeniy TOMBERG]; Social Democratic Party (formerly People's Party Moodukad or Moderates) [Ivari PADAR]; Union of Pro Patria and Res Publica (Isamaa je Res Publica Liit) [Tonis LUKAS and Taavi VESKIMAGI] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CE, EAPC, EBRD, EIB, EU, FAO, IAEA, IBRD, ICAO, ICCt, ICRM, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC, MIGA, NATO, NIB, NSG, OAS (observer), OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNTSO, UPU, WCO, WEU (associate partner), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Vaino REINART |
+| Diplomatic representation in the US: | chancery: 2131 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-0101 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-0108 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Stanley Davis PHILLIPS |
+| Diplomatic representation from the US: | embassy: Kentmanni 20, 15099 Tallinn |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [372] 668-8100 |
+| Diplomatic representation from the US: | FAX: [372] 668-8134 |
+| Flag description: | pre-1940 flag restored by Supreme Soviet in May 1990 - three equal horizontal bands of blue (top), black, and white |

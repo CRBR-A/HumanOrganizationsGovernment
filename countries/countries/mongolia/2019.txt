@@ -1,0 +1,58 @@
+| Government | Mongolia |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Mongolia |
+| Country name: | local long form: none |
+| Country name: | local short form: Mongol Uls |
+| Country name: | former: Outer Mongolia, Mongolian People's Republic |
+| Country name: | etymology: the name means "Land of the Mongols" in Latin; the Mongolian name Mongol Uls translates as "Mongol State" |
+| Government type: | semi-presidential republic |
+| Capital: | name: Ulaanbaatar |
+| Capital: | geographic coordinates: 47 55 N, 106 55 E |
+| Capital: | time difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Saturday in March; ends last Saturday in September |
+| Capital: | note: Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC) |
+| Capital: | etymology: the name means "red hero" in Mongolian and honors national hero Damdin Sukhbaatar, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s |
+| Administrative divisions: | 21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs |
+| Independence: | 29 December 1911 (independence declared from China; in actuality, autonomy attained); 11 July 1921 (from China) |
+| National holiday: | Naadam (games) holiday (commemorates independence from China in the 1921 Revolution), 11-15 July; Constitution Day (marks the date that the Mongolian People's Republic was created under a new constitution), 26 November (1924) |
+| Constitution: | history: several previous; latest adopted 13 January 1992, effective 12 February 1992 |
+| Constitution: | amendments: proposed by the State Great Hural, by the president of the republic, by the government, or by petition submitted to the State Great Hural by the Constitutional Court; conducting referenda on proposed amendments requires at least two-thirds majority vote of the State Great Hural; passage of amendments by the State Great Hural requires at least three-quarters majority vote; passage by referendum requires majority participation of qualified voters and a majority of votes; amended 1999, 2000 (2019) |
+| Legal system: | civil law system influenced by Soviet and Romano-Germanic legal systems; constitution ambiguous on judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: both parents must be citizens of Mongolia; one parent if born within Mongolia |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Khaltmaa BATTULGA (since 10 July 2017) |
+| Executive branch: | head of government: Prime Minister Ukhnaa KHURELSUKH (since 4 October 2017); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017); note - Prime Minister Jargaltulga ERDENEBAT (since 8 July 2016) was voted out of office by the Parliament on 7 September 2017 |
+| Executive branch: | cabinet: Cabinet nominated by the prime minister in consultation with the president, confirmed by the State Great Hural (parliament) |
+| Executive branch: | elections/appointments: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 26 June 2017 with a runoff held 7 July 2017 (next to be held in 2021); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural |
+| Executive branch: | election results: Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8% |
+| Legislative branch: | description: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 29 June 2016 (next to be held in June 2020) |
+| Legislative branch: | election results: percent of vote by party - MPP 45.1%, DP 33.1%, MPRP 8.0%, independent 4.8%, other 9.0%; seats by party - MPP 65, DP 9, MPRP 1, independent 1; composition - men 63, women 13, percent of women 17.1% |
+| Judicial branch: | highest courts: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice and judges appointed by the president upon recommendation by the General Council of Courts - a 14-member body of judges and judicial officials - to the State Great Hural; appointment is for life; chairman of the Constitutional Court elected from among its members; members appointed from nominations by the State Great Hural - 3 each by the president, the State Great Hural, and the Supreme Court; appointment is 6 years; chairmanship limited to a single renewable 3-year term |
+| Judicial branch: | subordinate courts: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts |
+| Political parties and leaders: | Democratic Party or DP [Sodnomzundui ERDENE] |
+| Political parties and leaders: | Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL] |
+| Political parties and leaders: | Mongolian People's Party or MPP [Ukhnaa KHURELSUKH] |
+| Political parties and leaders: | Mongolian People's Revolutionary Party or MPRP [Nambar ENKHBAYAR] |
+| International organization participation: | ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Yondon OTGONBAYAR (since 28 March 2018) |
+| Diplomatic representation in the US: | chancery: 2833 M Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 333-7117 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-9227 |
+| Diplomatic representation in the US: | consulate(s) general: New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael S. KLECHESKI (since 22 February 2019) |
+| Diplomatic representation from the US: | telephone: [976] 7007-6001 |
+| Diplomatic representation from the US: | embassy: Denver Street #3, 11th Micro-District, Big Ring Road, Ulaanbaatar, 14190 Mongolia |
+| Diplomatic representation from the US: | mailing address: P.O. Box 341, Ulaanbaatar 14192 |
+| Diplomatic representation from the US: | FAX: [976] 7007-6016 |
+| Flag description: | three, equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem ("soyombo" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol); blue represents the sky, red symbolizes progress and prosperity |
+| National symbol(s): | soyombo emblem; national colors: red, blue, yellow |
+| National anthem: | name: "Mongol ulsyn toriin duulal" (National Anthem of Mongolia) |
+| National anthem: | lyrics/music: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJORJ |
+| National anthem: | note: music adopted 1950, lyrics adopted 2006; lyrics altered on numerous occasions |

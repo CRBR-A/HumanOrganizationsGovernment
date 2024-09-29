@@ -1,0 +1,44 @@
+| Government | Hungary |
+| --- | --- |
+| Country name: | conventional long form: Republic of Hungary |
+| Country name: | conventional short form: Hungary |
+| Country name: | local long form: Magyar Koztarsasag |
+| Country name: | local short form: Magyarorszag |
+| Government type: | parliamentary democracy |
+| Capital: | name: Budapest |
+| Capital: | geographic coordinates: 47 30 N, 19 05 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 19 counties (megyek, singular - megye), 23 urban counties (singular - megyei varos), and 1 capital city (fovaros) |
+| Administrative divisions: | counties: Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala |
+| Administrative divisions: | urban counties: Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg |
+| Administrative divisions: | capital city: Budapest |
+| Independence: | 25 December 1000 (crowning of King STEPHEN I, traditional founding date) |
+| National holiday: | Saint Stephen's Day, 20 August |
+| Constitution: | 18 August 1949, effective 20 August 1949; revised 19 April 1972; 18 October 1989 revision ensured legal rights for individuals and constitutional checks on the authority of the prime minister and also established the principle of parliamentary oversight; 1997 amendment streamlined the judicial system |
+| Legal system: | based on the German-Austrian legal system; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Laszlo SOLYOM (since 5 August 2005) |
+| Executive branch: | head of government: Prime Minister Ferenc GYURCSANY (since 29 September 2004) |
+| Executive branch: | cabinet: Council of Ministers prime minister elected by the National Assembly on the recommendation of the president; other ministers proposed by the prime minister and appointed and relieved of their duties by the president |
+| Executive branch: | elections: president elected by the National Assembly for a five-year term (eligible for a second term); election last held 6-7 June 2005 (next to be held by June 2010); prime minister elected by the National Assembly on the recommendation of the president; election last held 29 September 2004 |
+| Executive branch: | election results: Laszlo SOLYOM elected president by a simple majority in the third round of voting, 185 to 182; Ferenc GYURCSANY elected prime minister; result of legislative vote - 197 to 12 |
+| Executive branch: | note: to be elected, the president must win two-thirds of legislative vote in the first two rounds or a simple majority in the third round |
+| Legislative branch: | unicameral National Assembly or Orszaggyules (386 seats; members are elected by popular vote under a system of proportional and direct representation to serve four-year terms) |
+| Legislative branch: | elections: last held 9 and 23 April 2006 (next to be held in April 2010) |
+| Legislative branch: | election results: percent of vote by party (5% or more of the vote required for parliamentary representation in the first round) - MSzP 43.2%, Fidesz-KDNP 42%, SzDSz 6.5%, MDF 5%, other 3.3%; seats by party - MSzP 190, Fidesz-KDNP 164, SzDSz 20, MDF 11, independent 1; seats by party as of September 2008 - MSzP 189, Fidesz-KDNP 162, SzDSz 20, MDF 11, independent 3, vacant 1 |
+| Judicial branch: | Constitutional Court (judges are elected by the National Assembly for nine-year terms) |
+| Political parties and leaders: | Alliance of Free Democrats or SzDSz [Gabor FODOR]; Christian Democratic People's Party or KDNP [Zsolt SEMJEN]; Hungarian Civic Alliance or Fidesz [Viktor ORBAN, chairman]; Hungarian Democratic Forum or MDF [Ibolya DAVID]; Hungarian Socialist Party or MSzP [Ferenc GYURCSANY] |
+| Political pressure groups and leaders: | Air Work Group (works to reduce air pollution in towns and cities); Company For Freedom Rights (Tarsasag a Szabadsagjogokert) or TASZ (personal data protection); Danube Circle (protests the building of the Gabchikovo-Nagymaros dam); Green Future (protests the impact of lead contamination of local factory on health of the people); environmentalists: Hungarian Ornithological and Nature Conservation Society (Magyar Madartani Egyesulet)or MME; Green Alternative (Zold Alternativa) |
+| International organization participation: | Australia Group, BIS, CE, CEI, CERN, EAPC, EBRD, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SECI, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNOMIG, UNWTO, UPU, WCL, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ferenc SOMOGYI |
+| Diplomatic representation in the US: | chancery: 3910 Shoemaker Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 362-6730 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-8135 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador April H. FOLEY |
+| Diplomatic representation from the US: | embassy: Szabadsag ter 12, H-1054 Budapest |
+| Diplomatic representation from the US: | mailing address: pouch: American Embassy Budapest, 5270 Budapest Place, US Department of State, Washington, DC 20521-5270 |
+| Diplomatic representation from the US: | telephone: [36] (1) 475-4400 |
+| Diplomatic representation from the US: | FAX: [36] (1) 475-4764 |
+| Flag description: | three equal horizontal bands of red (top), white, and green |

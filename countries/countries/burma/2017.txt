@@ -1,0 +1,80 @@
+| Government | BURMA |
+| --- | --- |
+| Country name: | conventional long form: Union of Burma |
+| Country name: | conventional short form: Burma |
+| Country name: | local long form: Pyidaungzu Thammada Myanma Naingngandaw (translated as the Republic of the Union of Myanmar) |
+| Country name: | local short form: Myanma Naingngandaw |
+| Country name: | former: Socialist Republic of the Union of Burma, Union of Myanmar |
+| Country name: | note: since 1989 the military authorities in Burma and the current parliamentary government have promoted the name Myanmar as a conventional name for their state; the US Government has not adopted the name |
+| Country name: | etymology: both "Burma" and "Myanmar" derive from the name of the majority Burmese Bamar ethnic group |
+| Government type: | parliamentary republic |
+| Capital: | name: Rangoon (Yangon); note - Nay Pyi Taw is the administrative capital |
+| Capital: | geographic coordinates: 16 48 N, 96 09 E |
+| Capital: | time difference: UTC+6.5 (11.5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 7 regions (taing-myar, singular - taing), 7 states (pyi ne-myar, singular - pyi ne), 1 union territory |
+| Administrative divisions: | regions: Ayeyawady (Irrawaddy), Bago, Magway, Mandalay, Sagaing, Taninthayi, Yangon (Rangoon) |
+| Administrative divisions: | states: Chin, Kachin, Kayah, Kayin, Mon, Rakhine, Shan |
+| Administrative divisions: | union territory: Nay Pyi Taw |
+| Independence: | 4 January 1948 (from the UK) |
+| National holiday: | Independence Day, 4 January (1948); Union Day, 12 February (1947) |
+| Constitution: | history: previous 1947, 1974 (suspended until 2008); latest drafted 9 April 2008, approved by referendum 29 May 2008; amended 2015 |
+| Constitution: | amendments: proposals require at least 20% approval by the Assembly of the Union membership; passage of amendments to sections of the constitution on basic principles, government structure, branches of government, state emergencies, and amendment procedures requires 75% approval by the Assembly and approval in a referendum by absolute majority of registered voters; passage of amendments to other sections requires only 75% Assembly approval (2017) |
+| Legal system: | mixed legal system of English common law (as introduced in codifications designed for colonial India) and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: both parents must be citizens of Burma |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: none |
+| Citizenship: | note: an applicant for naturalization must be the child or spouse of a citizen |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President HTIN KYAW (since 30 March 2016); Vice Presidents MYINT SWE (since 30 March 2016) and HENRY VAN THIO (since 30 March 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President HTIN KYAW (since 30 March 2016); Vice Presidents MYINT SWE (since 30 March 2016) and HENRY VAN THIO (since 30 March 2016) |
+| Executive branch: | note: a parliamentary bill creating the position of "state counsellor" was signed into law by President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch |
+| Executive branch: | state counsellor: State Counsellor AUNG SAN SUU KYI (since 6 April 2016); she concurrently serves as minister of foreign affairs and minister for the office of the president |
+| Executive branch: | cabinet: Cabinet appointments shared by the president and the commander-in-chief |
+| Executive branch: | elections/appointments: president indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice-presidents (president elected for a 5-year term); election last held on 15 March 2016 (next to be held in 2021) |
+| Executive branch: | election results: HTIN KYAW elected president; Assembly of the Union vote: HTIN KYAW (NLD) 360, MYINT SWE (USDP) 213, HENRY VAN THIO (NLD) 79 (652 votes cast) |
+| Legislative branch: | description: bicameral Assembly of the Union or Pyidaungsu consists of an upper house - the House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members serve 5-year terms) and a lower house - the House of Representatives or Pyithu Hluttaw, (440 seats; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 8 November 2015 (next to be held in 2020) |
+| Legislative branch: | election results: Upper House - percent of vote by party - NLD 60.3%, USDP 4.9%, ANP 4.5%, SNLD 1.3%, military 25%, other 4%, ; seats by party - NLD 135, USDP 11, ANP 10, SNLD 3, ZCD 2, TNP 2, independent 2, other 3, military appointees 56; Lower House - percent of vote by party - NLD 58%, USDP 6.8%, ANP 2.7%, SNLD 2.7%, military 25%, other 4.8%; seats by party - NLD 255, USDP 30, ANP 12, SNLD 12, PNO 3, TNP 3, ZCD 2, LNDP 2, independent 1, other 3, canceled due to insurgence 7, military appointees 110 |
+| Judicial branch: | highest court(s): Supreme Court of the Union (consists of the chief justice and 7-11 judges) |
+| Judicial branch: | judge selection and term of office: chief justice and judges nominated by the president, with approval of the Lower House, and appointed by the president; judges normally serve until mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: High Courts of the Region; High Courts of the State; Court of the Self-Administered Division; Court of the Self-Administered Zone; district and township courts; special courts (for juvenile, municipal, and traffic offenses); courts martial |
+| Political parties and leaders: | All Mon Region Democracy Party or AMRDP [NAING NGWE THEIN] |
+| Political parties and leaders: | Arakan National Party or ANP [Dr. AYE MAUNG] (formed from the 2013 merger of the Rakhine Nationalities Development Party and the Arakan League for Democracy) |
+| Political parties and leaders: | National Democratic Force or NDF [KHIN MAUNG SWE] |
+| Political parties and leaders: | National League for Democracy or NLD [AUNG SAN SUU KYI] |
+| Political parties and leaders: | National Unity Party or NUP [THAN TIN] |
+| Political parties and leaders: | Pa-O National Organization or PNO [AUNG KHAN HTI] |
+| Political parties and leaders: | Shan Nationalities Democratic Party or SNDP [SAI AIK PAUNG] |
+| Political parties and leaders: | Shan Nationalities League for Democracy or SNLD [KHUN HTUN OO] |
+| Political parties and leaders: | Ta'ang National Party or TNP [AIK MONE] |
+| Political parties and leaders: | Union Solidarity and Development Party or USDP [THAN HTAY] |
+| Political parties and leaders: | Zomi Congress for Democracy or ZCD [PU CIN SIAN THANG] |
+| Political parties and leaders: | numerous smaller parties |
+| Political pressure groups and leaders: | Thai border: Ethnic Nationalities Council or ENC |
+| Political pressure groups and leaders: | Federation of Trade Unions-Burma or FTUB (exiled trade union and labor advocates) |
+| Political pressure groups and leaders: | United Nationalities Federal Council or UNFC [NAI HONG SAR] |
+| Political pressure groups and leaders: | inside Burma: Kachin Independence Organization or KIO [Gen. LANYAW ZAWNG HRA] |
+| Political pressure groups and leaders: | Karen National Union or KNU [Gen. SAW MUTU SAY POE] |
+| Political pressure groups and leaders: | Karenni National People's Party or KNPP [KHUN ABEL TWEED] |
+| Political pressure groups and leaders: | United Wa State Army or UWSA [BAO YOU-XIANG] |
+| Political pressure groups and leaders: | 88 Generation Students Group [collective leadership] (pro-democracy movement) |
+| Political pressure groups and leaders: | several other Chin, Karen, Mon, and Shan factions |
+| Political pressure groups and leaders: | note: many restrictions on freedom of expression have been relaxed by the government; a limited number of political groups, other than parties, are approved by the government |
+| International organization participation: | ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), NAM, OPCW (signatory), SAARC (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador AUNG LYNN (since 16 September 2016) |
+| Diplomatic representation in the US: | chancery: 2300 S Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-3344 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-4351 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Scot MARCIEL (since 27 April 2016) |
+| Diplomatic representation from the US: | embassy: 110 University Avenue, Kamayut Township, Rangoon |
+| Diplomatic representation from the US: | mailing address: Box B, APO AP 96546 |
+| Diplomatic representation from the US: | telephone: [95] (1) 536-509, 535-756, 538-038 |
+| Diplomatic representation from the US: | FAX: [95] (1) 511-069 |
+| Flag description: | design consists of three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a large white five-pointed star that partially overlaps onto the adjacent colored stripes; the design revives the triband colors used by Burma from 1943-45, during the Japanese occupation |
+| National symbol(s): | chinthe (mythical lion); national colors: yellow, green, red, white |
+| National anthem: | name: "Kaba Ma Kyei" (Till the End of the World, Myanmar) |
+| National anthem: | lyrics/music: SAYA TIN |
+| National anthem: | note: adopted 1948; Burma is among a handful of non-European nations that have anthems rooted in indigenous traditions; the beginning portion of the anthem is a traditional Burmese anthem before transitioning into a Western-style orchestrated work |

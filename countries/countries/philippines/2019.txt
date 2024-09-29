@@ -1,0 +1,72 @@
+| Government | Philippines |
+| --- | --- |
+| Country name: | conventional long form: Republic of the Philippines |
+| Country name: | conventional short form: Philippines |
+| Country name: | local long form: Republika ng Pilipinas |
+| Country name: | local short form: Pilipinas |
+| Country name: | etymology: named in honor of King PHILLIP II of Spain by Spanish explorer Ruy LOPEZ de VILLALOBOS, who visited some of the islands in 1543 |
+| Government type: | presidential republic |
+| Capital: | name: Manila |
+| Capital: | geographic coordinates: 14 36 N, 120 58 E |
+| Capital: | time difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: derives from the Tagalog "may-nila" meaning "where there is indigo" and refers to the presence of indigo-yielding plants growing in the area surrounding the original settlement |
+| Administrative divisions: | 81 provinces and 38 chartered cities |
+| Administrative divisions: | provinces: Abra, Agusan del Norte, Agusan del Sur, Aklan, Albay, Antique, Apayao, Aurora, Basilan, Bataan, Batanes, Batangas, Biliran, Benguet, Bohol, Bukidnon, Bulacan, Cagayan, Camarines Norte, Camarines Sur, Camiguin, Capiz, Catanduanes, Cavite, Cebu, Compostela, Cotabato, Davao del Norte, Davao del Sur, Davao Occidental, Davao Oriental, Dinagat Islands, Eastern Samar, Guimaras, Ifugao, Ilocos Norte, Ilocos Sur, Iloilo, Isabela, Kalinga, Laguna, Lanao del Norte, Lanao del Sur, La Union, Leyte, Maguindanao, Marinduque, Masbate, Mindoro Occidental, Mindoro Oriental, Misamis Occidental, Misamis Oriental, Mountain, Negros Occidental, Negros Oriental, Northern Samar, Nueva Ecija, Nueva Vizcaya, Palawan, Pampanga, Pangasinan, Quezon, Quirino, Rizal, Romblon, Samar, Sarangani, Siquijor, Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat, Sulu, Surigao del Norte, Surigao del Sur, Tarlac, Tawi-Tawi, Zambales, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay; |
+| Administrative divisions: | chartered cities: Angeles, Bacolod, Baguio, Butuan, Cagayan de Oro, Caloocan, Cebu, Cotabato, Dagupan, Davao, General Santos, Iligan, Iloilo, Lapu-Lapu, Las Pinas, Lucena, Makati, Malabon, Mandaluyong, Mandaue, Manila, Marikina, Muntinlupa, Naga, Navotas, Olongapo, Ormoc, Paranaque, Pasay, Pasig, Puerto Princesa, Quezon, San Juan, Santiago, Tacloban, Taguig, Valenzuela, Zamboanga |
+| Administrative divisions: | (2012) |
+| Independence: | 4 July 1946 (from the US) |
+| National holiday: | Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from the US |
+| Constitution: | history: several previous; latest ratified 2 February 1987, effective 11 February 1987 |
+| Constitution: | amendments: proposed by Congress if supported by three fourths of the membership, by a constitutional convention called by Congress, or by public petition; passage by either of the three proposal methods requires a majority vote in a national referendum; note - the constitution has not been amended since its enactment in 1987 (2017) |
+| Legal system: | mixed legal system of civil, common, Islamic (sharia), and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; withdrew from the ICCt in March 2019 |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the Philippines |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016) |
+| Executive branch: | cabinet: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2016 (next to be held in May 2022) |
+| Executive branch: | election results: Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9% |
+| Legislative branch: | description: bicameral Congress or Kongreso consists of: |
+| Legislative branch: | Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years) |
+| Legislative branch: | House of Representatives or Kapulungan Ng Mga Kinatawan (297 seats; 238 members directly elected in single-seat constituencies by simple majority vote and 59 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - elections last held on 9 May 2016 (next to be held on 13 May 2019) |
+| Legislative branch: | House of Representatives - elections last held on 9 May 2016 (next to be heldÂ on 13Â May 2019) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - LP 31.3%, NPC 10.1%, UNA 7.6%, Akbayan 5.0%, other 30.9%, independent 15.1%; seats by party - LP 6, NPC 3, UNA 4, Akbayan 1, other 10; composition - men 18, women 6, percent of women 25% |
+| Legislative branch: | House of Representatives - percent of vote by party - LP 41.7%, NPC 17.0%, UNA 6.6%, NUP 9.7%, NP 9.4%, independent 6.0%, others 10.1%; seats by party - LP 115, NPC 42, NUP 23, NP 24, UNA 11, other 19, independent 4, party-list 59; composition - men 210, women 87, percent of women 29.8%; note - total Congress percent of women 29.4% |
+| Judicial branch: | highest courts: Supreme Court (consists of a chief justice and 14 associate justices) |
+| Judicial branch: | judge selection and term of office: justices are appointed by the president on the recommendation of the Judicial and Bar Council, a constitutionally created, 6-member body that recommends Supreme Court nominees; justices serve until age 70 |
+| Judicial branch: | subordinate courts: Court of Appeals; Sandiganbayan (special court for corruption cases of government officials); Court of Tax Appeals; regional, metropolitan, and municipal trial courts; sharia courts |
+| Political parties and leaders: | Akbayon [Machris CABREROS] |
+| Political parties and leaders: | Laban ng Demokratikong Pilipino (Struggle of Filipino Democrats) or LDP [Edgardo ANGARA] |
+| Political parties and leaders: | Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD [Ferdinand Martin ROMUALDEZ] |
+| Political parties and leaders: | Liberal Party or LP [Francis PANGILINAN] |
+| Political parties and leaders: | Nacionalista Party or NP [Manuel "Manny" VILLAR] |
+| Political parties and leaders: | Nationalist People's Coalition or NPC [Eduardo COJUNGCO, Jr.] |
+| Political parties and leaders: | National Unity Party or NUP [Albert GARCIA] |
+| Political parties and leaders: | PDP-Laban [Aquilino PIMENTEL III] |
+| Political parties and leaders: | People's Reform Party or PRP [Narcisco SANTIAGO] |
+| Political parties and leaders: | Puwersa ng Masang Pilipino (Force of the Philippine Masses) or PMP [Joseph ESTRADA] |
+| Political parties and leaders: | United Nationalist Alliance or UNA |
+| International organization participation: | ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 November 2017) |
+| Diplomatic representation in the US: | chancery: 1600 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 467-9300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-7614 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Sung KIM (since 6 December 2016) |
+| Diplomatic representation from the US: | telephone: [63] (2) 301-2000 |
+| Diplomatic representation from the US: | embassy: 1201 Roxas Boulevard, Manila 1000 |
+| Diplomatic representation from the US: | mailing address: PSC 500, FPO AP 96515-1000 |
+| Diplomatic representation from the US: | FAX: [63] (2) 301-2017 |
+| Flag description: | two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897 |
+| Flag description: | note: in wartime the flag is flown upside down with the red band at the top |
+| National symbol(s): | three stars and sun, Philippine eagle; national colors: red, white, blue, yellow |
+| National anthem: | name: "Lupang Hinirang" (Chosen Land) |
+| National anthem: | lyrics/music: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE |
+| National anthem: | note: music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; although the original lyrics were written in Spanish, later English and Filipino versions were created; today, only the Filipino version is used |

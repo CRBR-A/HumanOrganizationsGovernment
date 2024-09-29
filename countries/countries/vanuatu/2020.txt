@@ -1,0 +1,66 @@
+| Government | Vanuatu |
+| --- | --- |
+| Country name: | conventional long form: Republic of Vanuatu |
+| Country name: | conventional short form: Vanuatu |
+| Country name: | local long form: Ripablik blong Vanuatu |
+| Country name: | local short form: Vanuatu |
+| Country name: | former: New Hebrides |
+| Country name: | etymology: derived from the words "vanua" (home or land) and "tu" (stand) that occur in several of the Austonesian languages spoken on the islands and which provide a meaning of "the land remains" but which also convey a sense of "independence" or "our land" |
+| Government type: | parliamentary republic |
+| Capital: | name: Port-Vila (on Efate) |
+| Capital: | geographic coordinates: 17 44 S, 168 19 E |
+| Capital: | time difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: there are two possibilities for the origin of the name: early European settlers were Portuguese and "vila" means "village or town" in Portuguese, hence "Port-Vila" would mean "Port Town"; alternatively, the site of the capital is referred to as "Efil" or "Ifira" in native languages, "Vila" is a likely corruption of these names |
+| Administrative divisions: | 6 provinces; Malampa, Penama, Sanma, Shefa, Tafea, Torba |
+| Independence: | 30 July 1980 (from France and the UK) |
+| National holiday: | Independence Day, 30 July (1980) |
+| Constitution: | history: draft completed August 1979, finalized by constitution conference 19 September 1979, ratified by French and British Governments 23 October 1979, effective 30 July 1980 at independence |
+| Constitution: | amendments: proposed by the prime minister or by the Parliament membership; passage requires at least two-thirds majority vote by Parliament in special session with at least three fourths of the membership; passage of amendments affecting the national and official languages, or the electoral and parliamentary system also requires approval in a referendum; amended several times, last in 2013 |
+| Legal system: | mixed legal system of English common law, French law, and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: both parents must be citizens of Vanuatu; in the case of only one parent, it must be the father who is a citizen |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Tallis Obed MOSES (since 6 July 2017) |
+| Executive branch: | head of government: Prime Minister Bob LOUGHMAN (since 20 April 2020) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister, responsible to Parliament |
+| Executive branch: | elections/appointments: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 17 June 2017 (next to be held in 2022); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024) |
+| Executive branch: | election results: Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN 31 votes, Ralph REGENVANU 21 votes |
+| Legislative branch: | description: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote) |
+| Legislative branch: | elections: last held on 19â€“20 March 2020 (next to be held in 2024) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - GJP 9, RMC 7, VP 7, LPV 5, UMP 5, NUP 4, other 15; composition - men 52, women 0; percent of women 0%; note - political party associations are fluid |
+| Legislative branch: | note: the National Council of Chiefs advises on matters of culture and language |
+| Judicial branch: | highest courts: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate) |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice appointed by the president after consultation with the prime minister and the leader of the opposition; other judges appointed by the president on the advice of the Judicial Service Commission, a 4-member advisory body; judges serve until the age of retirement |
+| Judicial branch: | subordinate courts: Magistrates Courts; Island Courts |
+| Political parties and leaders: | Greens Confederation or GC [Moana CARCASSES Kalosil] |
+| Political parties and leaders: | Iauko Group or IG [Tony NARI] |
+| Political parties and leaders: | Land and Justice Party (Graon mo Jastis Pati) or GJP [Ralph REGENVANU] |
+| Political parties and leaders: | Melanesian Progressive Party or MPP [Barak SOPE] |
+| Political parties and leaders: | Nagriamel movement or NAG [Frankie STEVENS] |
+| Political parties and leaders: | Natatok Indigenous People's Democratic Party or (NATATOK) or NIPDP [Alfred Roland CARLOT] |
+| Political parties and leaders: | National United Party or NUP [Ham LINI] |
+| Political parties and leaders: | People's Progressive Party or PPP [Sato KILMAN] |
+| Political parties and leaders: | People's Service Party or PSP [Don KEN] |
+| Political parties and leaders: | Reunification of Movement for Change or RMC [Charlot SALWAI] |
+| Political parties and leaders: | Rural Development Party or RDP [Jay NGWELE, spokesman] |
+| Political parties and leaders: | Union of Moderate Parties or UMP [Serge VOHOR] |
+| Political parties and leaders: | Vanua'aku Pati (Our Land Party) or VP [Edward NATAPEI] |
+| Political parties and leaders: | Vanuatu Democratic Party [Maxime Carlot KORMAN] |
+| Political parties and leaders: | Vanuatu First or Vanuatu [Russel NARI] |
+| Political parties and leaders: | Vanuatu Liberal Movement or VLM [Gaetan PIKIOUNE] |
+| Political parties and leaders: | Vanuatu Liberal Democratic Party or VLDP [Tapangararua WILLIE] |
+| Political parties and leaders: | Vanuatu National Party or VNP [Issac HAMARILIU] |
+| Political parties and leaders: | Vanuatu National Development Party or VNDP [Robert Bohn SIKOL] |
+| Political parties and leaders: | Vanuatu Republican Party or VRP [Marcellino PIPITE] |
+| International organization participation: | ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | none; the Vanuatu Permanent Mission to the UN serves as the embassy; it is headed by Odo TEVI (since 8 September 2017); address: 800 Second Avenue, Suite 400B, New York, NY 10017; telephone: [1] (212) 661-4303; FAX: [1] (212) 422-2437 |
+| Diplomatic representation from the US: | the US does not have an embassy in Vanuatu; the US Ambassador to Papua New Guinea is accredited to Vanuatu |
+| Flag description: | two equal horizontal bands of red (top) and green with a black isosceles triangle (based on the hoist side) all separated by a black-edged yellow stripe in the shape of a horizontal Y (the two points of the Y face the hoist side and enclose the triangle); centered in the triangle is a boar's tusk encircling two crossed namele fern fronds, all in yellow; red represents the blood of boars and men, as well as unity, green the richness of the islands, and black the ni-Vanuatu people; the yellow Y-shape - which reflects the pattern of the islands in the Pacific Ocean - symbolizes the light of the Gospel spreading through the islands; the boar's tusk is a symbol of prosperity frequently worn as a pendant on the islands; the fern fronds represent peace |
+| Flag description: | note: one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Brazil, and Eritrea |
+| National symbol(s): | boar's tusk with crossed fern fronds; national colors: red, black, green, yellow |
+| National anthem: | name: "Yumi, Yumi, Yumi" (We, We, We) |
+| National anthem: | lyrics/music: Francois Vincent AYSSAV |
+| National anthem: | note: adopted 1980; the anthem is written in Bislama, a Creole language that mixes Pidgin English and French |

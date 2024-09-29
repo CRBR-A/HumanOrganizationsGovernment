@@ -1,0 +1,44 @@
+| Government | Bolivia |
+| --- | --- |
+| Country name: | conventional long form: Plurinational State of Bolivia |
+| Country name: | conventional short form: Bolivia |
+| Country name: | local long form: Estado Plurinacional de Bolivia |
+| Country name: | local short form: Bolivia |
+| Government type: | republic; note - the new constitution defines Bolivia as a "Social Unitarian State" |
+| Capital: | name: La Paz (administrative capital) |
+| Capital: | geographic coordinates: 16 30 S, 68 09 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC during Standard Time) |
+| Capital: | note: Sucre (constitutional capital) |
+| Administrative divisions: | 9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija |
+| Independence: | 6 August 1825 (from Spain) |
+| National holiday: | Independence Day, 6 August (1825) |
+| Constitution: | 2 February 1967; revised in August 1994; voters approved a new constitution on 25 January 2009 |
+| Legal system: | based on Spanish law and Napoleonic Code; has not accepted compulsory ICJ jurisdiction; the 2009 Constitution incorporates indigenous community justice into Bolivia's judicial system |
+| Suffrage: | 18 years of age, universal and compulsory (married); 21 years of age, universal and compulsory (single) |
+| Executive branch: | chief of state: President Juan Evo MORALES Ayma (since 22 January 2006); Vice President Alvaro GARCIA Linera (since 22 January 2006); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Juan Evo MORALES Ayma (since 22 January 2006); Vice President Alvaro GARCIA Linera (since 22 January 2006) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for a single five-year term; election last held 18 December 2005 (next to be held in December 2009) |
+| Executive branch: | election results: Juan Evo MORALES Ayma elected president; percent of vote - Juan Evo MORALES Ayma 53.7%; Jorge Fernando QUIROGA Ramirez 28.6%; Samuel DORIA MEDINA Arana 7.8%; Michiaki NAGATANI Morishit 6.5%; Felipe QUISPE Huanca 2.2%; Guildo ANGULA Cabrera 0.7% |
+| Legislative branch: | bicameral National Congress or Congreso Nacional consists of Chamber of Senators or Camara de Senadores (27 seats; members are elected by proportional representation from party lists to serve five-year terms) and Chamber of Deputies or Camara de Diputados (130 seats; 70 members are directly elected from their districts and 60 are elected by proportional representation from party lists to serve five-year terms); note - under representational rules established by the 2009 Constitution, the National Congress will become the Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional; the number of Deputies will remain at 130, but the number of Senators will rise to 36 |
+| Legislative branch: | elections: Chamber of Senators and Chamber of Deputies - last held 18 December 2005 (next to be held in December 2009) |
+| Legislative branch: | election results: Chamber of Senators - percent of vote by party - NA; seats by party - PODEMOS 13, MAS 12, UN 1, MNR 1; Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 73, PODEMOS 43, UN 8, MNR 6 |
+| Judicial branch: | Supreme Court or Corte Suprema (judges appointed for 10-year terms by National Congress); District Courts (one in each department); provincial and local courts (to try minor cases); Constitutional Tribunal (five primary or titulares and five alternate or suplente magistrates appointed by Congress; to rule on constitutional issues); National Electoral Court (six members elected by Congress, Supreme Court, the president, and the political party with the highest vote in the last election for four-year terms); note - under the 2009 Constitution, all Constitutional and Supreme Court judges will be elected by popular vote |
+| Political parties and leaders: | Free Bolivia Movement or MBL [Franz BARRIOS]; Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]; Movement Without Fear or MSM [Juan DEL GRANADO]; National Revolutionary Movement or MNR [Mirta QUEVEDO]; National Unity [Samuel DORIA MEDINA Arana]; Poder Democratico Nacional or PODEMOS [Jorge Fernando QUIROGA Ramirez]; Social Alliance [Rene JOAQUINO] |
+| Political pressure groups and leaders: | Sole Confederation of Campesino Workers of Bolivia or CSUTCB |
+| Political pressure groups and leaders: | other: Cocalero groups; indigenous organizations; labor unions |
+| International organization participation: | CAN, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINURCAT, MINUSTAH, MONUC, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Erika Angela DUENAS Loayza |
+| Diplomatic representation in the US: | chancery: 3014 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 483-4410 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-3712 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation in the US: | note: as of September 2008, the US has expelled the Bolivian ambassador to the US |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Krishna URS |
+| Diplomatic representation from the US: | embassy: Avenida Arce 2780, Casilla 425, La Paz |
+| Diplomatic representation from the US: | mailing address: P. O. Box 425, La Paz; APO AA 34032 |
+| Diplomatic representation from the US: | telephone: [591] (2) 216-8000 |
+| Diplomatic representation from the US: | FAX: [591] (2) 216-8111 |
+| Diplomatic representation from the US: | note: as of September 2008, the Bolivian Government has expelled the US Ambassador to Bolivia |
+| Flag description: | three equal horizontal bands of red (top), yellow, and green with the coat of arms centered on the yellow band |
+| Flag description: | note: similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag |

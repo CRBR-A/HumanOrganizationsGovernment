@@ -1,0 +1,74 @@
+| Government | IRELAND |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Ireland |
+| Country name: | local long form: none |
+| Country name: | local short form: Eire |
+| Country name: | etymology: the modern Irish name "Eire" evolved from the Gaelic "Eriu," the name of the matron goddess of Ireland (goddess of the land); the names "Ireland" in English and "Eire" in Irish are direct translations of each other |
+| Government type: | parliamentary republic |
+| Capital: | name: Dublin |
+| Capital: | geographic coordinates: 53 19 N, 6 14 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 28 counties and 3 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, South Dublin, Tipperary, Waterford, Westmeath, Wexford, Wicklow |
+| Independence: | 6 December 1921 (from the UK by treaty) |
+| National holiday: | Saint Patrick's Day, 17 March; note - marks the traditional death date of Saint Patrick, patron saint of Ireland, during the latter half of the fifth century A.D. (most commonly cited years are c. 461 and c. 493); although Saint Patrick's feast day was celebrated in Ireland as early as the ninth century, it only became an official public holiday in Ireland in 1903 |
+| Constitution: | history: previous 1922; latest drafted 14 June 1937, adopted by plebiscite 1 July 1937, effective 29 December 1937 |
+| Constitution: | amendments: proposed as bills by Parliament; passage requires majority vote by both the Senate and House of Representatives, majority vote in a referendum, and presidential signature; amended many times, last in 2015 (2016) |
+| Legal system: | common law system based on the English model but substantially modified by customary law; judicial review of legislative acts by Supreme Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 4 of the previous 8 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Michael D. HIGGINS (since 11 November 2011) |
+| Executive branch: | head of government: Taoiseach (Prime Minister) Leo VARADKAR (since 14 June 2017) |
+| Executive branch: | cabinet: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament) |
+| Executive branch: | elections/appointments: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 29 October 2011 (next to be held in October 2018); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president |
+| Executive branch: | election results: Michael D. HIGGINS elected president; percent of vote - Michael D. HIGGINS (Labor Party) 39.6%, Sean GALLAGHER (independent) 28.5%, Martin MCGUINNESS (Sinn Fein) 13.7%, Gay MITCHELL (Fine Gael) 6.4%, David NORRIS (independent) 6.2%, other 5.6% |
+| Legislative branch: | description: bicameral Parliament or Oireachtas consists of the Senate or Seanad Eireann (60 seats; 43 members indirectly elected by panels of various vocational interests, 11 appointed by the prime minister, and 6 elected by graduates of the University of Dublin and the National University of Ireland; members serve 5-year terms) and the House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: Senate - last held in April and May 2016 (next to be held no later than 2021); House of Representatives - last held on 26 February 2016 (next to be held no later than 2021) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14 |
+| Legislative branch: | House of Representatives - percent of vote by party - Fine Gael 25.5%, Fianna Fail 24.4%, Sinn Fein 13.8%, Labor Party 6.6%, AAA-PBD 4.0%, Social Democrats 3.0%, Green Party 2.7%, Renua Ireland 2.2% independent 17.8%; seats by party - Fine Gael 50, Fianna Fail 44, Sinn Fein 23, Labor Party 7, AAA-PBP 6, Social Democrats 3, Green Party 2, independent 23 |
+| Judicial branch: | highest court(s): Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law) |
+| Judicial branch: | judge selection and term of office: judges nominated by the prime minister and Cabinet and appointed by the president; chief justice serves in the position for 7 years; judges can serve until age 70 |
+| Judicial branch: | subordinate courts: High Court, Court of Appeal; circuit and district courts; criminal courts |
+| Political parties and leaders: | Anti-Austerity Alliance-People Before Profit or AAA-PBP [collective leadership] |
+| Political parties and leaders: | Fianna Fail [Micheal MARTIN] |
+| Political parties and leaders: | Fine Gael [Leo VARADKAR] |
+| Political parties and leaders: | Green Party [Eamon RYAN] |
+| Political parties and leaders: | Labor (Labour) Party [Brendan HOWLIN] |
+| Political parties and leaders: | Renua Ireland [John LEAHY] |
+| Political parties and leaders: | Sinn Fein [Gerry ADAMS] |
+| Political parties and leaders: | Social Democratic Party [Stephen DONNELLY, Catherine MURPHY, Roisin SHORTALL] |
+| Political parties and leaders: | Socialist Party [collective leadership] |
+| Political parties and leaders: | The Workers' Party [Michael DONNELLY] |
+| Political pressure groups and leaders: | Continuity IRA (terrorist group) |
+| Political pressure groups and leaders: | Families Acting for Innocent Relatives or FAIR [Brian MCCONNELL] (seek compensation for victims of violence) |
+| Political pressure groups and leaders: | Iona Institute [David QUINN] (a conservative Catholic think tank) |
+| Political pressure groups and leaders: | Irish Anti-War Movement [Richard BOYD BARRETT] (campaigns against wars around the world) |
+| Political pressure groups and leaders: | Keep Ireland Open (environmental group) |
+| Political pressure groups and leaders: | Oglaigh na hEireann (terrorist group) |
+| Political pressure groups and leaders: | Midland Railway Action Group or MRAG [Willie ALLEN] (transportation promoters) |
+| Political pressure groups and leaders: | New Irish Republican Army (terrorist group combining elements of the former Real IRA and Republican Action Against Drugs) |
+| Political pressure groups and leaders: | Peace and Neutrality Alliance or PANA [Roger COLE] (campaigns to protect Irish neutrality) |
+| Political pressure groups and leaders: | Rail Users Ireland (formerly the Platform 11 - transportation promoters) |
+| Political pressure groups and leaders: | 32 Country Sovereignty Movement or 32CSM (supports unifying Northern Ireland with the rest of the island under Irish government sovereignty) |
+| International organization participation: | ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Daniel Gerard MULHALL (since 8 September 2017) |
+| Diplomatic representation in the US: | chancery: 2234 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-3939 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-5993 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant) Charge d'Affaires L. Reece SMYTH (since 20 January 2017) |
+| Diplomatic representation from the US: | embassy: 42 Elgin Road, Ballsbridge, Dublin 4 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [353] (1) 668-8777 |
+| Diplomatic representation from the US: | FAX: [353] (1) 668-9946 |
+| Flag description: | three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange |
+| Flag description: | note: similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red |
+| National symbol(s): | harp, shamrock (trefoil); national colors: blue, green |
+| National anthem: | name: "Amhran na bhFiann" (The Soldier's Song) |
+| National anthem: | lyrics/music: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY |
+| National anthem: | note: adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used at athletic events where citizens of Ireland and Northern Ireland compete as a unified team |

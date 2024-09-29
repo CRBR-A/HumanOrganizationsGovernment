@@ -1,0 +1,51 @@
+| Government | Kiribati |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kiribati |
+| Country name: | conventional short form: Kiribati |
+| Country name: | local long form: Republic of Kiribati |
+| Country name: | local short form: Kiribati |
+| Country name: | former: Gilbert Islands |
+| Country name: | etymology: the name is the local pronunciation of "Gilberts," the former designation of the islands; originally named after explorer Thomas GILBERT, who mapped many of the islands in 1788 |
+| Country name: | note: pronounced keer-ree-bahss |
+| Government type: | presidential republic |
+| Capital: | name: Tarawa |
+| Capital: | geographic coordinates: 1 21 N, 173 02 E |
+| Capital: | time difference: UTC+12 (17 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | note: Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14 |
+| Administrative divisions: | 3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina) |
+| Independence: | 12 July 1979 (from the UK) |
+| National holiday: | Independence Day, 12 July (1979) |
+| Constitution: | history: The Gilbert and Ellice Islands Order in Council 1915, The Gilbert Islands Order in Council 1975 (preindependence); latest promulgated 12 July 1979 (at independence) (2017) |
+| Constitution: | amendments: proposed by the House of Assembly; passage requires two-thirds majority vote by the Assembly membership; passage of amendments affecting the constitutional section on amendment procedures and parts of the constitutional chapter on citizenship requires deferral of the proposal to the next Assembly meeting where approval is required by at least two-thirds majority vote of the Assembly membership and support of the nominated or elected Banaban member of the Assembly; amendments affecting the protection of fundamental rights and freedoms also requires approval by at least two-thirds majority in a referendum; amended 1995, 2013 (2017) |
+| Legal system: | English common law supplemented by customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a native-born citizen of Kiribati |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues |
+| Judicial branch: | judge selection and term of office: chief justice appointed by the president on the advice of the cabinet in consultation with the Public Service Commission (PSC); other judges appointed by the president on the advice of the chief justice along with the PSC |
+| Judicial branch: | subordinate courts: Court of Appeal; magistrates' courts |
+| Executive branch: | chief of state: President Taneti MAAMAU (since 11 March 2016); Vice President Kourabi NENEM (since 17 March 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Taneti MAAMAU (since 11 March 2016); Vice President Kourabi NENEM (since 17 March 2016) |
+| Executive branch: | cabinet: Cabinet appointed by the president from among House of Assembly members |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members; term is 4 years (eligible for 2 additional terms); election last held on 9 March 2016 (next to be held in 2020); vice president appointed by the president |
+| Executive branch: | election results: Taneti MAAMAU elected president; percent of vote - Taneti MAAMAU 60%, Rimeta BENIAMINA (BTK) 38.6%, Taneti IOANE (BTK) 1.4% |
+| Legislative branch: | description: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two-rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms) |
+| Legislative branch: | elections: legislative elections were held in two rounds - the first on 30 December 2015 and the second on 7 January 2016 (next to be held in 2019) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - BTK 26, KTK and MKP 19, other 2 (includes attorney general); composition - men 43, women 3, percent of women 6.5% |
+| Political parties and leaders: | Boutokaan Te Koaua Party or BTK or Pillars of Truth [Anote TONG] |
+| Political parties and leaders: | Kamaeuraoan Te I-Kiribati Party or KTK [Tetaua TAITAI] |
+| Political parties and leaders: | Maurin Kiribati Pati or MKP [Rimeta BENIAMINA] |
+| Political parties and leaders: | Tobwaan Kiribati Party or TKP [Taneti MAAMAU] |
+| Political parties and leaders: | note: there is no tradition of formally organized political parties in Kiribati; they more closely resemble factions or interest groups because they have no party headquarters, formal platforms, or party structures |
+| International organization participation: | ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WHO, WIPO, WMO |
+| Diplomatic representation in the US: | none; the Kiribati Permanent Mission to the UN serves as the Embassy; it is headed by Teburoro TITO (since 13 September 2017); address: 800 Second Avenue, Suite 400A, New York, NY 10017; telephone: [1](212)867-3310; FAX: [1](212)867-3320 |
+| Diplomatic representation in the US: | note: honorary consulate in Honolulu |
+| Diplomatic representation from the US: | the US does not have an embassy in Kiribati; the US Ambassador to Fiji is accredited to Kiribati |
+| Flag description: | the upper half is red with a yellow frigatebird flying over a yellow rising sun, and the lower half is blue with three horizontal wavy white stripes to represent the Pacific ocean; the white stripes represent the three island groups - the Gilbert, Line, and Phoenix Islands; the 17 rays of the sun represent the 16 Gilbert Islands and Banaba (formerly Ocean Island); the frigatebird symbolizes authority and freedom |
+| National symbol(s): | frigatebird; national colors: red, white, blue, yellow |
+| National anthem: | name: "Teirake kaini Kiribati" (Stand Up, Kiribati) |
+| National anthem: | lyrics/music: Urium Tamuera IOTEBA |
+| National anthem: | note: adopted 1979 |

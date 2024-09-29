@@ -1,0 +1,39 @@
+| Government | European Union |
+| --- | --- |
+| Union name: | conventional long form: European Union |
+| Union name: | abbreviation: EU |
+| Political structure: | a hybrid intergovernmental and supranational organization |
+| Capital: | name: Brussels (Belgium) |
+| Capital: | geographic coordinates: 50 50 N, 4 20 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: the Council of the European Union meets in Brussels, the European Parliament meets in Strasbourg, France, and the Court of Justice of the European Communities meets in Luxembourg |
+| Member states: | 25 countries: Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, UK; note - Canary Islands (Spain), Azores and Madeira (Portugal), French Guyana, Guadeloupe, Martinique, and Reunion (France) are sometimes listed separately even though they are legally a part of Spain, Portugal, and France; candidate countries: Bulgaria, Croatia, Macedonia, Romania, Turkey |
+| Independence: | 7 February 1992 (Maastricht Treaty signed establishing the EU); 1 November 1993 (Maastricht Treaty entered into force) |
+| National holiday: | Europe Day 9 May (1950); note - a Union-wide holiday, the day that Robert SCHUMAN proposed the creation of an organized Europe |
+| Constitution: | based on a series of treaties: the Treaty of Paris, which set up the European Coal and Steel Community (ECSC) in 1951; the Treaties of Rome, which set up the European Economic Community (EEC) and the European Atomic Energy Community (Euratom) in 1957; the Single European Act in 1986; the Treaty on European Union (Maastricht) in 1992; the Treaty of Amsterdam in 1997; and the Treaty of Nice in 2001; note - a new draft Constitutional Treaty, signed on 29 October 2004 in Rome, gave member states two years for ratification either by parliamentary vote or national referendum before it was scheduled to take effect on 1 November 2006; defeat in French and Dutch referenda in May-June 2005 caused a suspension of the ratification process |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of union: President of the European Commission Jose Manuel DURAO BARROSO (since 22 November 2004) |
+| Executive branch: | cabinet: European Commission (composed of 25 members, one from each member country; each commissioner responsible for one or more policy areas) |
+| Executive branch: | elections: the president of the European Commission is designated by member governments; the president-designate then chooses the other Commission members; the European Parliament confirms the entire Commission for a five-year term; election last held 18 November 2004 (next to be held 2009) |
+| Executive branch: | election results: European Parliament approved the European Commission by an approval vote of 449 to 149 with 82 abstentions |
+| Executive branch: | note: the European Council brings together heads of state and government and the president of the European Commission and meets at least twice a year; its aim is to provide the impetus for the major political issues relating to European integration and to issue general policy guidelines |
+| Legislative branch: | Council of the European Union (25 member-state ministers having 321 votes; the number of votes is roughly proportional to member-states' population); note - the Council is the main decision-making body of the EU; European Parliament (732 seats; seats allocated among member states by proportion to population); members elected by direct universal suffrage for a five-year term |
+| Legislative branch: | elections: last held 10-13 June 2004 (next to be held June 2009) |
+| Legislative branch: | election results: percent of vote - NA%; seats by party - EPP-ED 268, PES 202, ALDE 88, Greens/EFA 42, EUL/NGL 41, IND/DEM 36, UEN 27, independents 28 |
+| Judicial branch: | Court of Justice of the European Communities (ensures that the treaties are interpreted and applied correctly) - 25 justices (one from each member state) appointed for a six-year term; note - for the sake of efficiency, the court can sit with 11 justices known as the "Grand Chamber"; Court of First Instance - 25 justices appointed for a six-year term |
+| Political parties and leaders: | Confederal Group of the European United Left-Nordic Green Left or EUL/NGL [Francis WURTZ]; European People's Party-European Democrats or EPP-ED [Hans-Gert POETTERING]; Group of the Alliance of Liberals and Democrats for Europe or ALDE [Graham R. WATSON]; Group of Greens/European Free Alliance or Greens/EFA [Monica FRASSONI and Daniel Marc COHN-BENDIT]; Independence/Democracy Group or IND/DEM [Jens-Peter BONDE and Nigel FARAGE]; Socialist Group in the European Parliament or PES [Martin SCHULZ]; Union for Europe of the Nations Group or UEN [Brian CROWLEY and Cristiana MUSCARDINI] |
+| International organization participation: | European Union: ASEAN (dialogue member), ARF (dialogue member), IDA, OAS (observer), UN (observer), WTO |
+| International organization participation: | European Commission: Australian Group, CBSS, CERN, FAO, EBRD, G-10, NSG (observer), OECD, UNRWA, ZC (observer) |
+| International organization participation: | European Central Bank: BIS |
+| International organization participation: | European Investment Bank: EBRD, WADB (nonregional member) |
+| Diplomatic representation in the US: | chief of mission: Ambassador John BRUTON |
+| Diplomatic representation in the US: | chancery: 2300 M Street, NW, Washington, DC 20037 |
+| Diplomatic representation in the US: | telephone: [1] (202) 862-9500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 429-1766 |
+| Diplomatic representation from the US: | chief of mission: Ambassador C. Boyden GRAY |
+| Diplomatic representation from the US: | embassy: 13 Zinnerstraat/Rue Zinner, B-1000 Brussels |
+| Diplomatic representation from the US: | mailing address: same as above |
+| Diplomatic representation from the US: | telephone: [32] (2) 508-2222 |
+| Diplomatic representation from the US: | FAX: [32] (2) 512-5720 |
+| Flag description: | on a blue field, 12 five-pointed gold stars arranged in a circle, representing the union of the peoples of Europe; the number of stars is fixed |

@@ -1,0 +1,42 @@
+| Government | Kyrgyzstan |
+| --- | --- |
+| Country name: | conventional long form: Kyrgyz Republic |
+| Country name: | conventional short form: Kyrgyzstan |
+| Country name: | local long form: Kyrgyz Respublikasy |
+| Country name: | local short form: Kyrgyzstan |
+| Country name: | former: Kirghiz Soviet Socialist Republic |
+| Government type: | republic |
+| Capital: | name: Bishkek |
+| Capital: | geographic coordinates: 42 52 N, 74 36 E |
+| Capital: | time difference: UTC+6 (11 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 7 provinces (oblastlar, singular - oblasty) and 1 city* (shaar); Batken Oblasty, Bishkek Shaary*, Chuy Oblasty (Bishkek), Jalal-Abad Oblasty, Naryn Oblasty, Osh Oblasty, Talas Oblasty, Ysyk-Kol Oblasty (Karakol) |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) |
+| Independence: | 31 August 1991 (from the Soviet Union) |
+| National holiday: | Independence Day, 31 August (1991) |
+| Constitution: | approved by referendum in November 2006 |
+| Constitution: | note: under the old constitution adopted on 5 May 1993, an amendment proposed by President Askar AKAEV and passed in a national referendum on 2 February 2003 significantly expanded the powers of the president at the expense of the legislature; during large-scale demonstrations in November 2006, President BAKIEV and the opposition negotiated a new constitution granting greater powers to the parliament and the government; amendments added on 30 December 2006 redistributed some power back to the president, but both November and December 2006 versions were annulled in September 2007, and a new version was approved by referendum on 21 October 2007; the BAKIEV-initiated referendum was criticized by Western observers for voting irregularities, particularly ballot stuffing |
+| Legal system: | based on French and Russian laws; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Kurmanbek BAKIEV (since 14 August 2005) |
+| Executive branch: | head of government: Prime Minister Daniyar USENOV (since 21 October 2009); First Deputy Prime Minister Akylbek JAPAROV (since 22 October 2009) |
+| Executive branch: | cabinet: Cabinet of Ministers proposed by the prime minister, appointed by the president; ministers in charge of defense and security, appointed solely by the president |
+| Executive branch: | elections: Kurmanbek BAKIEV reelected by popular vote for a five-year term; election last held 23 July 2009 (next scheduled for 2014); prime minister nominated by the parliamentary party holding more than 50% of the seats; if no such party exists, the president selects the party that will nominate a prime minister |
+| Executive branch: | election results: Kurmanbek BAKIEV elected president; percent of vote - Kurmanbek BAKIEV 76.1%, Almaz ATAMBAYEV 8.4%, Temir SARIYEV 6.7%, other candidates 8.8% |
+| Legislative branch: | unicameral Supreme Council or Jorgorku Kengesh (90 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held 16 December 2007 (next to be held in 2012) |
+| Legislative branch: | election results: Supreme Council - percent of vote by party - NA; seats by party - Ak Jol 71, Social Democratic Party 11, KCP 8 |
+| Judicial branch: | Supreme Court; Constitutional Court (judges of both the Supreme and Constitutional Courts are appointed for 10-year terms by the Jorgorku Kengesh on the recommendation of the president; their mandatory retirement age is 70 years); Higher Court of Arbitration; Local Courts (judges appointed by the president on the recommendation of the National Council on Legal Affairs for a probationary period of five years, then 10 years) |
+| Political parties and leaders: | Ak Jol (Good Luck) [Avtandil ARABAEV, Elmira IBRAIMOVA, Vladimir NIFADYEV, co-chairs]; Ak Shumkar (Gerfalcon) [Temir SARIYEV]; Ar-Namys (Dignity) Party [Emil ALIEV]; Asaba (Banner National Revival Party) [Sovetbek JAMALDINOV]]; Ata-Meken (Fatherland) [Omurbek TEKEBAEV]; Democratic Movement of Kyrgyzstan or DDK [Viktor TCHETRNOMORETS]; Erkindik (Freedom) Party [Topchubek TURGUNALIEV]; For Justice Movement [Alikbek JEKSHENKULOV]; Green Party [Erkin BULEKBAEV]; Moya Strana (My Country Party of Action) [Medet SADYRKULOV]; Party of Communists of Kyrgyzstan or KCP [Iskhak MASALIEV]; Party of Justice and Progress [Muratbek IMANALIEV]; Party of Peasants [Esengul ISAKOV]; Republican Party of Labor and Unity [Tabaldy OROZALIEV]; Revolutionary Committee [Azimbek BEKNAZAROV]; Sanjira (Tree of Life) [Ednan KARABAEV]; Social Democratic Party of Kyrgyzstan [Almaz ATAMBAEV]; Svoboda Vybora (Free Choice) Party [Vyacheslav LISOVSKIY]; Turan Party [Kanybek IMANALIYEV]; Uluu Birimdik (Solidarity) Party [Emilbek KAPTAGAEV]; Union of Democratic Forces [Osmon ARTYKBAEV]; United Kyrgyzstan [Amangeldi MURALIEV] |
+| Political pressure groups and leaders: | Adilet Legal Clinic [Cholpon JAKUPOVA]; Coalition for Democracy and Civil Society [Dinara OSHURAKHUNOVA]; Interbilim [Asiya SASYKBAEVA] |
+| International organization participation: | ADB, CIS, CSTO, EAEC, EAPC, EBRD, ECO, FAO, GCTU, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, MINURCAT, NAM (observer), OIC, OPCW, OSCE, PCA, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Zamira SYDYKOVA |
+| Diplomatic representation in the US: | chancery: 2360 Massachusetts Ave. NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 449-9822 |
+| Diplomatic representation in the US: | FAX: [1] (202) 386-7550 |
+| Diplomatic representation in the US: | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Tatiana C. GFOELLER |
+| Diplomatic representation from the US: | embassy: 171 Prospect Mira, Bishkek 720016 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [996] (312) 551-241, (517) 777-217 |
+| Diplomatic representation from the US: | FAX: [996] (312) 551-264 |
+| Flag description: | red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of the roof of the traditional Kyrgyz yurt |

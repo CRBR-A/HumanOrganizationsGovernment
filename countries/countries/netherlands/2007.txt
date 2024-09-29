@@ -1,0 +1,44 @@
+| Government | Netherlands |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of the Netherlands |
+| Country name: | conventional short form: Netherlands |
+| Country name: | local long form: Koninkrijk der Nederlanden |
+| Country name: | local short form: Nederland |
+| Government type: | constitutional monarchy |
+| Capital: | name: Amsterdam |
+| Capital: | geographic coordinates: 52 23 N, 4 54 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: The Hague (seat of government) |
+| Administrative divisions: | 12 provinces (provincies, singular - provincie); Drenthe, Flevoland, Friesland (Fryslan), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Utrecht, Zeeland, Zuid-Holland (South Holland) |
+| Dependent areas: | Aruba, Netherlands Antilles |
+| Independence: | 23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581 they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence) |
+| National holiday: | Queen's Day (Birthday of Queen-Mother JULIANA and accession to the throne of her oldest daughter BEATRIX), 30 April (1909 and 1980) |
+| Constitution: | adopted 1815; amended many times, most recently in 2002 |
+| Legal system: | based on civil law system incorporating French penal theory; constitution does not permit judicial review of acts of the States General; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen BEATRIX (since 30 April 1980); Heir Apparent WILLEM-ALEXANDER (born 27 April 1967), son of the monarch |
+| Executive branch: | head of government: Prime Minister Jan Peter BALKENENDE (since 22 July 2002); Deputy Prime Ministers Wouter BOS (since 22 February 2007) and Andre ROUVOET (since 22 February 2007) |
+| Executive branch: | cabinet: Council of Ministers appointed by the monarch |
+| Executive branch: | elections: none; the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or leader of a majority coalition is usually appointed prime minister by the monarch; deputy prime ministers appointed by the monarch |
+| Executive branch: | note: there is also a Council of State composed of the monarch, heir apparent, and councilors that provides consultations to the cabinet on legislative and administrative policy |
+| Legislative branch: | bicameral States General or Staten Generaal consists of the First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial councils to serve four-year terms) and the Second Chamber or Tweede Kamer (150 seats; members directly elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: First Chamber - last held 25 May 2003 (next to be held in May 2007); Second Chamber - last held 22 November 2006 (next to be held by early 2011) |
+| Legislative branch: | election results: First Chamber - percent of vote by party - NA%; seats by party - CDA 23, PvdA 19, VVD 15, Green Left Party 5, Socialist Party 4, D66 3, other 6; Second Chamber - percent of vote by party - CDA 26.5%, PvdA 21.2%, Socialist Party 16.6%, VVD 14.6%, Party for Freedom 5.9%, Green Party 4.6%, Christian Union 4.0%, other 6.6%; seats by party - CDA 41, PvdA 33, Socialist Party 25, VVD 22, Party for Freedom 9, Green Party 7, Christian Union 6, other 7 |
+| Judicial branch: | Supreme Court or Hoge Raad (justices are nominated for life by the monarch) |
+| Political parties and leaders: | Christian Democratic Appeal or CDA [Jan Peter BALKENENDE]; Christian Union Party [Andre ROUVOET]; Democrats 66 or D66 [Alexander PECHTOLD]; Green Left Party [Femke HALSEMA]; Labor Party or PvdA [Wouter BOS]; List Pim Fortuyn [Olaf STUGER]; Party for Freedom or PVV [Geert WILDERS]; Party for the Animals or PvdD [Marianne THIEME]; People's Party for Freedom and Democracy (Liberal) or VVD [Mark RUTTE]; Reformed Political Party of SGP [Bas VAN DER VLIES]; Socialist Party [Jan MARIJNISSEN]; plus a few minor parties |
+| Political pressure groups and leaders: | Netherlands Trade Union Federation or FNV (consisting of a merger of Socialist and Catholic trade unions); Christian Trade Union Federation or CNV; Trade Union Federation of Middle and High Personnel or MHP; Federation of Catholic and Protestant Employers Associations; Interchurch Peace Council or IKV; large multinational firms; the nondenominational Federation of Netherlands Enterprises |
+| International organization participation: | AfDB, Arctic Council (observer), AsDB, Australia Group, Benelux, BIS, CBSS (observer), CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, SECI (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIS, UNRWA, UNTSO, UNWTO, UPU, WCL, WCO, WEU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Christiaan Mark Johan KROENER |
+| Diplomatic representation in the US: | chancery: 4200 Linnean Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-5300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 362-3430 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, Miami, New York |
+| Diplomatic representation in the US: | consulate(s): Boston |
+| Diplomatic representation from the US: | chief of mission: Ambassador Roland E. ARNALL |
+| Diplomatic representation from the US: | embassy: Lange Voorhout 102, 2514 EJ, The Hague |
+| Diplomatic representation from the US: | mailing address: PSC 71, Box 1000, APO AE 09715 |
+| Diplomatic representation from the US: | telephone: [31] (70) 310-2209 |
+| Diplomatic representation from the US: | FAX: [31] (70) 361-4688 |
+| Diplomatic representation from the US: | consulate(s) general: Amsterdam |
+| Flag description: | three equal horizontal bands of red (top), white, and blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; one of the oldest flags in constant use, originating with WILLIAM I, Prince of Orange, in the latter half of the 16th century |

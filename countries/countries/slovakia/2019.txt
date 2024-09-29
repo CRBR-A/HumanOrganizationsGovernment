@@ -1,0 +1,65 @@
+| Government | Slovakia |
+| --- | --- |
+| Country name: | conventional long form: Slovak Republic |
+| Country name: | conventional short form: Slovakia |
+| Country name: | local long form: Slovenska republika |
+| Country name: | local short form: Slovensko |
+| Country name: | etymology: related to the Slavic autonym (self-designation) "Slovenin," a derivation from "slovo" (meaning "word"), denoting "people who speak (the same language)" (i.e., people who understand each other) |
+| Government type: | parliamentary republic |
+| Capital: | name: Bratislava |
+| Capital: | geographic coordinates: 48 09 N, 17 07 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: "slava" means glory, so the city's name literally means "Braslav's glory"; Braslav was a ninth century Slavic duke |
+| Administrative divisions: | 8 regions (kraje, singular - kraj); Banskobystricky, Bratislavsky, Kosicky, Nitriansky, Presovsky, Trenciansky, Trnavsky, Zilinsky |
+| Independence: | 1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia) |
+| National holiday: | Constitution Day, 1 September (1992) |
+| Constitution: | history: several previous (preindependence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992 |
+| Constitution: | amendments: proposed by the National Council; passage requires at least three-fifths majority vote of Council members; amended many times, last in 2017 (2017) |
+| Legal system: | civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Slovakia |
+| Citizenship: |     dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Zuzana CAPUTOVA (since 15 June 2014) |
+| Executive branch: | head of government: Prime Minister Peter PELLIGRINI (since 22 March 2018); Deputy Prime Ministers Richard RASI (since 22 March 2018), Laszlo SOLYMOS (since 22 March 2018), Gabriela MATECNA (since 29 November 2017) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 March and 30 March 2019 (next to be held March 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council |
+| Executive branch: | election results: Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6% |
+| Legislative branch: | description: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 5 March 2016 (next to be held in March 2020) |
+| Legislative branch: | election results: percent of vote by party - Smer-SD 28.3%, SaS 12.1%, OLaNO-NOVA 11%, SNS 8.6%, LSNS 8%, Sme-Rodina 6.6%, Most-Hid 6.5%, Siet 5.6%, other 13.3%; seats by party - Smer-SD 49, SaS 21, OLaNO-NOVA 19, SNS 15, LSNS 14, Sme-Rodina 11, Most-Hid 11, Siet 10; composition - men 120, women 30, percent of women 20% |
+| Legislative branch: | note - seats by party as of May 2019 - Smer-SD 48, SaS 20, OLaNO-NOVA 16, SNS 15, LSNS 13, Sme-Rodina 8, Most-Hid 13, independent 17; composition as of May 2019 - men 118, women 32, percent of women 21.3% |
+| Judicial branch: | highest courts: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels) |
+| Judicial branch: | judge selection and term of office: Supreme Court judge candidates nominated by the Judicial Council of the Slovak Republic, an 18-member self-governing body that includes the Supreme Court chief justice and presidential, governmental, parliamentary, and judiciary appointees; judges appointed by the president serve for life subject to removal by the president at age 65; Constitutional Court judges nominated by the National Council of the Republic and appointed by the president; judges serve 12-year terms |
+| Judicial branch: | subordinate courts: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit; |
+| Political parties and leaders: | Christian Democratic Movement or KDH [Alojz HLINA] |
+| Political parties and leaders: | Bridge or Most-Hid [Bela BUGAR] |
+| Political parties and leaders: | Direction-Social Democracy or Smer-SD [Robert FICO] |
+| Political parties and leaders: | Freedom and Solidarity or SaS [Richard SULIK] |
+| Political parties and leaders: | Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA] |
+| Political parties and leaders: | Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC] |
+| Political parties and leaders: | Party of the Hungarian Community or SMK [Jozsef MENYHART] |
+| Political parties and leaders: | Progressive Slovakia or PS [Michal TRUBAN] |
+| Political parties and leaders: | Slovak National Party or SNS [Andrej DANKO] |
+| Political parties and leaders: | Together or Spolu [Miroslav BEBLAVY] |
+| Political parties and leaders: | We Are Family or Sme-Rodina [Boris KOLLAR] |
+| International organization participation: | Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | Ambassador Ivan KORCOK (since 17 September 2018) |
+| Diplomatic representation in the US: | chancery: 3523 International Court NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 237-1054 |
+| Diplomatic representation in the US: | FAX: [1] (202) 237-6438 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Bridget A. BRINK (since 20 August 2019) |
+| Diplomatic representation from the US: | telephone: [421] (2) 5443-3338 |
+| Diplomatic representation from the US: | embassy: P.O. Box 309, 814 99 Bratislava |
+| Diplomatic representation from the US: | mailing address: P.O. Box 309, 814 99 Bratislava |
+| Diplomatic representation from the US: | FAX: [421] (2) 5441-5148 |
+| Flag description: | three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side |
+| Flag description: | note: the Pan-Slav colors were inspired by the 19th-century flag of Russia |
+| National symbol(s): | double-barred cross (Cross of St. Cyril and St. Methodius) surmounting three peaks; national colors: white, blue, red |
+| National anthem: | name: "Nad Tatrou sa blyska" (Lightning Over the Tatras) |
+| National anthem: | lyrics/music: Janko MATUSKA/traditional |
+| National anthem: | note: adopted 1993, in use since 1844; music based on the Slovak folk song "Kopala studienku" |

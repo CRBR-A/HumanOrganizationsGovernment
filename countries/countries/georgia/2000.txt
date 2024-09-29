@@ -1,0 +1,39 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Georgia |
+| Country name: | local long form: none |
+| Country name: | local short form: Sak'art'velo |
+| Country name: | former: Georgian Soviet Socialist Republic |
+| Data code: | GG |
+| Government type: | republic |
+| Capital: | T'bilisi |
+| Administrative divisions: | 53 rayons (raionebi, singular - raioni), 9 cities* (k'alak'ebi, singular - k'alak'i), and 2 autonomous republics** (avtomnoy respubliki, singular - avtom respublika); Abashis, Abkhazia or Ap'khazet'is Avtonomiuri Respublika** (Sokhumi), Adigenis, Ajaria or Acharis Avtonomiuri Respublika** (Bat'umi), Akhalgoris, Akhalk'alak'is, Akhalts'ikhis, Akhmetis, Ambrolauris, Aspindzis, Baghdat'is, Bolnisis, Borjomis, Chiat'ura*, Ch'khorotsqus, Ch'okhatauris, Dedop'listsqaros, Dmanisis, Dushet'is, Gardabanis, Gori*, Goris, Gurjaanis, Javis, K'arelis, Kaspis, Kharagaulis, Khashuris, Khobis, Khonis, K'ut'aisi*, Lagodekhis, Lanch'khut'is, Lentekhis, Marneulis, Martvilis, Mestiis, Mts'khet'is, Ninotsmindis, Onis, Ozurget'is, P'ot'i*, Qazbegis, Qvarlis, Rust'avi*, Sach'kheris, Sagarejos, Samtrediis, Senakis, Sighnaghis, T'bilisi*, T'elavis, T'erjolis, T'et'ritsqaros, T'ianet'is, Tqibuli*, Ts'ageris, Tsalenjikhis, Tsalkis, Tsqaltubo*, Vanis, Zestap'onis, Zugdidi*, Zugdidis |
+| note: | administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) |
+| Independence: | 9 April 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 26 May (1991) |
+| Constitution: | adopted 17 October 1995 |
+| Legal system: | based on civil law system |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Eduard Amvrosiyevich SHEVARDNADZE (previously elected chairman of the Government Council 10 March 1992, Council has since been disbanded; previously elected chairman of Parliament 11 October 1992; president since 26 November 1995); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Eduard Amvrosiyevich SHEVARDNADZE (previously elected chairman of the Government Council 10 March 1992, Council has since been disbanded; previously elected chairman of Parliament 11 October 1992; president since 26 November 1995); note - the president is both the chief of state and head of government |
+| Executive branch: | cabinet: Cabinet of Ministers |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 5 November 1995 (next to be held 9 April 2000) |
+| Executive branch: | election results: Eduard SHEVARDNADZE elected president; percent of vote - Eduard SHEVARDNADZE 74% |
+| Legislative branch: | unicameral Supreme Council (commonly referred to as Parliament) or Umaghiesi Sabcho (235 seats; members are elected by popular vote to serve four-year terms) |
+| elections: | last held 31 October 1999 (next to be held NA 2003) |
+| election results: | percent of vote by party - CUG 41.85%, AGUR 25.65%, IWSG 7.8%, all other parties received less than 7% each; seats by party - CUG 130, AGUR 59, IWSG 15, Abkhaz deputies 12, independents 14, other 5 |
+| Judicial branch: | Supreme Court, judges elected by the Supreme Council on the president's recommendation; Constitutional Court |
+| Political parties and leaders: | Citizen's Union of Georgia or CUG [Eduard SHEVARDNADZE]; Georgian United Communist Party or UCPG [Panteleimon GIORGADZE, chairman]; Greens Party [Giorgi GACHECHILADZE]; Industry Will Save Georgia or IWSG [Georgi Topadze]; Labor Party [Shalva NATELASHVILI]; National Democratic Party or NDP [Irina SARISHVILI-CHANTURIA]; National Independent Party or NIP [Irakli TSERETELI, chairman]; People's Party [Mamuka GIORGADZE]; Socialist Party or SPG [Vakhtang RCHEULISHVILI]; Union for "Revival" Party or AGUR [Alsan ABASHIDZE]; Union of Traditionalists or UGT [Akaki ASATIANI]; United Republican Party or URP [Nodar NATADZE, chairman] |
+| Political pressure groups and leaders: | Georgian refugees from Abkhazia (Abkhaz faction in Georgian Parliament); separatist elements in the breakaway region of Abkhazia; supporters of the late ousted President Zviad GAMSAKHURDYA remain a source of opposition |
+| International organization participation: | BSEC, CCC, CE, CE (guest), CIS, EAPC, EBRD, ECE, FAO, IAEA, IBRD, ICAO, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Inmarsat, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WToO, WTrO (applicant) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Tedo JAPARIDZE |
+| Diplomatic representation in the US: | chancery: Suite 300, 1615 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-2390 |
+| Diplomatic representation in the US: | FAX: [1] (202) 393-4537 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kenneth S. YALOWITZ |
+| Diplomatic representation from the US: | embassy: #25 Antoneli Street, T'bilisi 380026 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [995] (32) 989-967 |
+| Diplomatic representation from the US: | FAX: [995] (32) 933-759 |
+| Flag description: | maroon field with small rectangle in upper hoist side corner; rectangle divided horizontally with black on top, white below |

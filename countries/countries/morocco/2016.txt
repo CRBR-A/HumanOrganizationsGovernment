@@ -1,0 +1,90 @@
+| Government | MOROCCO |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Morocco |
+| Country name: | conventional short form: Morocco |
+| Country name: | local long form: Al Mamlakah al Maghribiyah |
+| Country name: | local short form: Al Maghrib |
+| Country name: | note: the English name "Morocco" derives from, respectively, the Spanish and Portuguese names "Marruecos" and "Marrocos," which stem from "Marrakesh" the Latin name for the former capital of ancient Morocco; the Arabic name "Al Maghrib" translates as "The West" |
+| Government type: | parliamentary constitutional monarchy |
+| Capital: | name: Rabat |
+| Capital: | geographic coordinates: 34 01 N, 6 49 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1 hr, begins last Sunday in April; ends last Sunday in September |
+| Administrative divisions: | 11 regions (recognized); Beni Mellal-Khenifra, Casablanca-Settat, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia al Hamra, Oriental, Marrakech-Safi, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima |
+| Administrative divisions: | note: Morocco claims the territory of Western Sahara, the political status of which is considered undetermined by the US Government; portions of the regions Guelmim-Oued Noun and Laayoune-Sakia al Hamra as claimed by Morocco lie within Western Sahara; Morocco also claims a 12th region, Dakhla-Oued ed Dahab, that falls entirely within Western Sahara |
+| Independence: | 2 March 1956 (from France) |
+| National holiday: | Throne Day (accession of King MOHAMMED VI to the throne), 30 July (1999) |
+| Constitution: | several previous; latest drafted 17 June 2011, approved by referendum 1 July 2011; note - sources disagree on whether the 2011 referendum was for a new constitution or for reforms to the previous constitution (2016) |
+| Legal system: | mixed legal system of civil law based on French law and Islamic law; judicial review of legislative acts by Constitutional Court |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Morocco; if the father is unknown or stateless, the mother must be a citizen |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: King MOHAMMED VI (since 30 July 1999) |
+| Executive branch: | head of government: Prime Minister Abdelillah BENKIRANE (since 29 November 2011) |
+| Executive branch: | cabinet: Council of Ministers chosen by the prime minister in consultation with Parliament and appointed by the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary; prime minister appointed by the monarch from the majority party following legislative elections |
+| Legislative branch: | description: bicameral Parliament consists of the Chamber of Advisors (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms) and the Chamber of Representatives (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40 |
+| Legislative branch: | elections: Chamber of Advisors - last held on 2 October 2015 (next to be held in fall 2021); Chamber of Representatives - last held on 7 October 2016 (next to be held in fall 2021) |
+| Legislative branch: | election results: Chamber of Advisors- percent of vote by party - NA; seats by party - NA; Chamber of Representatives - percent of vote by party - JDP 31.7%, PAM 25.8%, PI 11.7%, RNI 9.4%, MP 6.8%, USFP 5.1%, UC 4.8%, PPS 3.0%, MDS 0.8%, other 1.0%; seats by party - PJD 125, PAM 102, PI 46, RNI 37, MP 27, USFP 20, UC 19, PPS 12, MDS 3, other 4 |
+| Judicial branch: | highest court(s): Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the Superior Council of Judicial Power, a 20-member body presided by the monarch and including the Supreme Court president, the prosecutor general, representatives of the appeals and first instance courts - among them 1 woman magistrate, the president of the National Council of the Rights of Man, and 5 "notable persons" appointed by the monarch; judges appointed for life; Constitutional Court members - 6 designated by the monarch and 6 elected by Parliament; court president appointed by the monarch from among the court members; members serve 9-year non-renewable terms |
+| Judicial branch: | subordinate courts: courts of appeal; High Court of Justice; administrative and commercial courts; regional and sadad courts (for religious, civil and administrative, and penal adjudication); first instance courts |
+| Political parties and leaders: | Action Party or PA [Mohammed EL IDRISSI] |
+| Political parties and leaders: | Amal (hope) Party [Mohamed BANI] |
+| Political parties and leaders: | An-Nahj Ad-Dimocrati or An-Nahj [Mustapha BRAHMA] |
+| Political parties and leaders: | Authenticity and Modernity Party or PAM [Ilyas EL OMARI] |
+| Political parties and leaders: | Constitutional Union Party or UC [Mohamed SAJID] |
+| Political parties and leaders: | Democratic and Social Movement or MDS [Abdessamad ARCHANE] |
+| Political parties and leaders: | Democratic Forces Front or FFD [Mustapha BENALI] |
+| Political parties and leaders: | Democratic Oath Party or SD |
+| Political parties and leaders: | Democratic Socialist Vanguard Party or PADS [Abderrahman BENAMROU] |
+| Political parties and leaders: | Democratic Society Party [Zhour CHAKKAFI] |
+| Political parties and leaders: | Environment and Development Party or PED [Karim HRITAN] |
+| Political parties and leaders: | Green Left Party [Mohamed FARES] |
+| Political parties and leaders: | Istiqlal (Independence) Party or PI [Hamid CHABAT] |
+| Political parties and leaders: | Ittihadi National Congress or CNI [Abdesalam EL AZIZ] |
+| Political parties and leaders: | Labor Party or PT |
+| Political parties and leaders: | Moroccan Liberal Party or PML [Mohammed ZIANE] |
+| Political parties and leaders: | Moroccan Union for Democracy or UMD [Jamal MANDRI] |
+| Political parties and leaders: | National Rally of Independents or RNI [Aziz AKHANNOUCH] |
+| Political parties and leaders: | Neo-Democrats Party [Mohamed DARIF] |
+| Political parties and leaders: | Party of Development Reform or PRD [Abderrahmane EL KOHEN] |
+| Political parties and leaders: | Party of Justice and Development or PJD [Abdelillah BENKIRANE] |
+| Political parties and leaders: | Party of Liberty and Social Justice [Miloud MOUSSAOUI] |
+| Political parties and leaders: | Popular Movement or MP [Mohand LAENSER] |
+| Political parties and leaders: | Progress and Socialism Party or PPS [Nabil BENABDELLAH] |
+| Political parties and leaders: | Renaissance and Virtue Party [Mohamed KHALIDI] |
+| Political parties and leaders: | Renaissance Party [Said EL GHENNIOUI] |
+| Political parties and leaders: | Renewal and Equity Party or PRE [Chakir ACHEHABAR] |
+| Political parties and leaders: | Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI] |
+| Political parties and leaders: | Social Center Party or PCS [Lahcen MADIH] |
+| Political parties and leaders: | Socialist Party [Abdelmajid BOUZOUBAA] |
+| Political parties and leaders: | Socialist Union of Popular Forces or USFP [Driss LACHGAR] |
+| Political parties and leaders: | Unified Socialist Party or GSU [Nabila MOUNIB] |
+| Political parties and leaders: | Unity and Democracy Party [Ahmed FITRI] |
+| Political pressure groups and leaders: | Democratic Confederation of Labor or CDT [Noubir EL AMAOUI] |
+| Political pressure groups and leaders: | General Union of Moroccan Workers or UGTM [Mohamed KAFI CHERRAT] |
+| Political pressure groups and leaders: | Justice and Charity Organization or JCO [Mohammed ben Abdesslam ABBADI] |
+| Political pressure groups and leaders: | Moroccan Employers Association or CGEM [Miriem BENSALAH-CHAQROUN] |
+| Political pressure groups and leaders: | National Labor Union of Morocco or UNMT [Mohamed YATIM] |
+| Political pressure groups and leaders: | Union of Moroccan Workers or UMT [Miloudi EL MOUKHARIK] |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AMU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mohammed Rachad BOUHLAL (since 22 December 2011) |
+| Diplomatic representation in the US: | chancery: 1601 21st Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-7979 |
+| Diplomatic representation in the US: | FAX: [1] (202) 462-7643 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Dwight L. BUSH, Sr. (since 8 April 2014) |
+| Diplomatic representation from the US: | embassy: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170 |
+| Diplomatic representation from the US: | mailing address: Unit 9400, Box Front Office, DPO, AE 09718 |
+| Diplomatic representation from the US: | telephone: [212] 537 637 200 |
+| Diplomatic representation from the US: | FAX: [212] 537 637 201 |
+| Diplomatic representation from the US: | consulate(s) general: Casablanca |
+| Flag description: | red with a green pentacle (five-pointed, linear star) known as Sulayman's (Solomon's) seal in the center of the flag; red and green are traditional colors in Arab flags, although the use of red is more commonly associated with the Arab states of the Persian Gulf; the pentacle represents the five pillars of Islam and signifies the association between God and the nation; design dates to 1912 |
+| National symbol(s): | pentacle symbol, lion; national colors: red, green |
+| National anthem: | name: "Hymne Cherifien" (Hymn of the Sharif) |
+| National anthem: | lyrics/music: Ali Squalli HOUSSAINI/Leo MORGAN |
+| National anthem: | note: music adopted 1956, lyrics adopted 1970 |

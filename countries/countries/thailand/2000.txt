@@ -1,0 +1,36 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Thailand |
+| Country name: | conventional short form: Thailand |
+| Data code: | TH |
+| Government type: | constitutional monarchy |
+| Capital: | Bangkok |
+| Administrative divisions: | 76 provinces (changwat, singular and plural); Amnat Charoen, Ang Thong, Buriram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Krung Thep Mahanakhon (Bangkok), Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lamphu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa Kaeo, Sakon Nakhon, Samut Prakan, Samut Sakhon, Samut Songkhram, Sara Buri, Satun, Sing Buri, Sisaket, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon |
+| Independence: | 1238 (traditional founding date; never colonized) |
+| National holiday: | Birthday of His Majesty the King, 5 December (1927) |
+| Constitution: | new constitution signed by King PHUMIPHON on 11 October 1997 |
+| Legal system: | based on civil law system, with influences of common law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: King PHUMIPHON Adunyadet (since 9 June 1946) |
+| Executive branch: | head of government: Prime Minister CHUAN Likphai (since 15 November 1997) |
+| Executive branch: | cabinet: Council of Ministers |
+| Executive branch: | note: there is also a Privy Council |
+| Executive branch: | elections: none; the monarch is hereditary; prime minister designated from among the members of the House of Representatives; following a national election for the House of Representatives, the leader of the party that can organize a majority coalition usually becomes prime minister |
+| Legislative branch: | bicameral National Assembly or Rathasapha consists of the Senate or Wuthisapha (a 253-member appointed body which will be phased into a 200-member elected body starting in March 2000; members serve six-year terms) and the House of Representatives or Sapha Phuthaen Ratsadon (currently has 392 members, but will become a 500-member body after the next election; members elected by popular vote to serve four-year terms) |
+| elections: | House of Representatives - last held 17 November 1996 (next scheduled to be held by 17 November 2000, but may be held earlier) |
+| election results: | House of Representatives - percent of vote by party - NA; seats by party - NAP 125, DP 123, NDP 52, TNP 39, SAP 20, TCP 18, SP 8, LDP 4, MP 2, PDP 1 |
+| Judicial branch: | Supreme Court (Sandika), judges appointed by the monarch |
+| Political parties and leaders: | Democratic Party or DP (Prachathipat Party) [CHUAN Likphai]; Liberal Democratic Party or LDP (Seri Tham) [PHINIT Charusombat]; Mass Party or MP [CHALERM Yoobamrung, SOPHON Petchsavang]; National Development Party or NDP (Chat Phattana) [KON Thappharangsi]; New Aspiration Party or NAP (Khwamwang Mai) [Gen. CHAWALIT Yongchaiyut]; Phalang Dharma Party or PDP (Phalang Tham) [CHAIWAT Sinsuwong]; Social Action Party or SAP (Kitsangkhom Party) [SUWIT Khunkitti]; Solidarity Party or SP (Ekkaphap Party) [CHAIYOT Sasomsap]; Thai Citizen's Party or TCP (Prachakon Thai) [SAMAK Sunthonwet]; Thai Nation Party or TNP (Chat Thai Party) [BANHAN Sinlapa-acha]; Thai Rak Thai Party or TRT [THAKSIN Chinnawat] |
+| International organization participation: | APEC, AsDB, ASEAN, CCC, CP, ESCAP, FAO, G-77, IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, NAM, OAS (observer), OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM, UNITAR, UNMIBH, UNTAET, UNU, UPU, WCL, WFTU, WHO, WIPO, WMO, WToO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador NIT Phibunsongkhram (due to leave March 2000) |
+| Diplomatic representation in the US: | chancery: 1024 Wisconsin Avenue NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 944-3600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 944-3611 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, and New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard HECKLINGER |
+| Diplomatic representation from the US: | embassy: 120 Wireless Road, Bangkok |
+| Diplomatic representation from the US: | mailing address: APO AP 96546 |
+| Diplomatic representation from the US: | telephone: [66] (2) 205-4000 |
+| Diplomatic representation from the US: | FAX: [66] (2) 254-2990 |
+| Diplomatic representation from the US: | consulate(s) general: Chiang Mai |
+| Flag description: | five horizontal bands of red (top), white, blue (double width), white, and red |

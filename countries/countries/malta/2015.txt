@@ -1,0 +1,51 @@
+| Government | MALTA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Malta |
+| Country name: | conventional short form: Malta |
+| Country name: | local long form: Repubblika ta' Malta |
+| Country name: | local short form: Malta |
+| Government type: | republic |
+| Capital: | name: Valletta |
+| Capital: | geographic coordinates: 35 53 N, 14 30 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq |
+| Independence: | 21 September 1964 (from the UK) |
+| National holiday: | Independence Day, 21 September (1964); Republic Day, 13 December (1974) |
+| Constitution: | many previous; latest adopted 21 September 1964; amended many times, last in 2014 (2014) |
+| Legal system: | mixed legal system of English common law and civil law (based on the Roman and Napoleonic civil codes) |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age (16 in Local Council elections); universal |
+| Executive branch: | chief of state: President Marie-Louise Coleiro PRECA (since 4 April 2014) |
+| Executive branch: | head of government: Prime Minister Joseph MUSCAT (since 11 March 2013) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the advice of the prime minister |
+| Executive branch: | elections/appointments: president indirectly elected by the House of Representatives for a 5-year term (1-term limit); election last held on 4 April 2014 (next to be held by April 2019); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister |
+| Executive branch: | election results: Marie-Louise Coleiro PRECA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) appointed prime minister |
+| Legislative branch: | description: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 has 69 seats |
+| Legislative branch: | elections: last held on 9 March 2013 (next to be held by mid-summer 2018) |
+| Legislative branch: | election results: percent of vote by party - PL 54.8%, PN 43.3%, other 1.9%; seats by party - PL 39, PN 30 |
+| Judicial branch: | highest court(s): Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges) |
+| Judicial branch: | judge selection and term of office: Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65 |
+| Judicial branch: | subordinate courts: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino} |
+| Political parties and leaders: | Alternativa Demokratika/Alliance for Social Justice or AD (Green Party) [Arnold CASSOLA] |
+| Political parties and leaders: | Labor Party or PL [Joseph MUSCAT] |
+| Political parties and leaders: | Nationalist Party or PN [Simon BUSUTTIL] |
+| Political pressure groups and leaders: | Alliance of Liberal Democrats Malta (Alleanza Liberali-Demokratika Malta) or ALDM (for divorce, abortion, gay marriage, women's rights) |
+| Political pressure groups and leaders: | Alliance for Change (Alleanza Bidla) (Euros-septic) |
+| Political pressure groups and leaders: | Together for a Better Environment (Flimkien Ghal-Ambjent Ahjar) or FAA (pro-environment) |
+| Political pressure groups and leaders: | other: environmentalists |
+| International organization participation: | Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marisa Maria Louise MICALLEF (since 22 August 2013) |
+| Diplomatic representation in the US: | chancery: 2017 Connecticut Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-3611 through 3612 |
+| Diplomatic representation in the US: | FAX: [1] (202) 387-5470 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Gina ABERCROMBIE-WINSTANLEY (since 18 April 2012) |
+| Diplomatic representation from the US: | embassy: Ta' Qali National Park, Attard, ATD 4000 |
+| Diplomatic representation from the US: | mailing address: 5800 Valletta Place, Dulles, VA 20189 |
+| Diplomatic representation from the US: | telephone: [356] 2561 4000 |
+| Diplomatic representation from the US: | FAX: [356] 2124 3229 |
+| Flag description: | two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the United Kingdom awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field |
+| National symbol(s): | Maltese eight-pointed cross; national colors: red, white |
+| National anthem: | name: "L-Innu Malti" (The Maltese Anthem) |
+| National anthem: | lyrics/music: Dun Karm PSAILA/Robert SAMMUT |
+| National anthem: | note: adopted 1945; written in the form of a prayer |

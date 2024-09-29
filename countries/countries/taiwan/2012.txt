@@ -1,0 +1,51 @@
+| Government | Taiwan |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Taiwan |
+| Country name: | local long form: none |
+| Country name: | local short form: Taiwan |
+| Country name: | former: Formosa |
+| Government type: | multiparty democracy |
+| Capital: | name: Taipei |
+| Capital: | geographic coordinates: 25 02 N, 121 31 E |
+| Capital: | time difference: UTC+8 (13 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 18 counties (hsien, singular and plural), 3 municipalities (shih, singular and plural), and 4 special municipalities (chih-hsia-shih, singular and plural) |
+| Administrative divisions: | note: Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems; names for administrative divisions that follow are taken from the Taiwan Yearbook 2007 published by the Government Information Office in Taipei. |
+| Administrative divisions: | counties: Changhua, Chiayi (county), Hsinchu (county), Hualien, Kaohsiung (county), Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taichung, Tainan (county), Taipei (county), Taitung (county), Taoyuan, Yilan, Yunlin |
+| Administrative divisions: | municipalities: Chiayi (city), Hsinchu (city), Keelung |
+| Administrative divisions: | special municipalities: Kaohsiung (city), Taichung (city), Tainan (city), Taipei (city) |
+| National holiday: | Republic Day (Anniversary of the Chinese Revolution), 10 October (1911) |
+| Constitution: | adopted 25 December 1946; promulgated 1 January 1947; effective 25 December 1947; amended many times |
+| Legal system: | civil law system |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 20 years of age; universal |
+| Executive branch: | chief of state: President MA Ying-jeou (since 20 May 2008); Vice President WU Den-yih (since 20 May 2012) |
+| Executive branch: | head of government: Premier Sean C. CHEN (President of the Executive Yuan) (since 6 February 2012); Vice Premier JIANG Yi-huah (since 6 February 2012) |
+| Executive branch: | cabinet: Executive Yuan - ministers appointed by president on recommendation of premier |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for four-year terms (eligible for a second term); election last held on 14 January 2012 (next to be held in January 2016); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier |
+| Executive branch: | election results: MA Ying-jeou elected president; percent of vote - MA Ying-jeou 51.6%, TSAI Ing-wen 45.6%, James SONG Chu-ye 2.8% |
+| Legislative branch: | unicameral Legislative Yuan (113 seats - 73 district members elected by popular vote, 34 at-large members elected on basis of proportion of islandwide votes received by participating political parties, 6 elected by popular vote among aboriginal populations; members to serve four-year terms); parties must receive 5% of vote to qualify for at-large seats |
+| Legislative branch: | elections: Legislative Yuan - last held on 14 January 2011 (next to be held in January 2016) |
+| Legislative branch: | election results: Legislative Yuan - percent of vote by party - KMT 44.6%, DPP 34.6%, TSU 9.0%, PFP 5.5%, others 6.3%; seats by party - KMT 64, DPP 40, PFP 3, TSU 3, NPSU 2, independent 1 |
+| Judicial branch: | Judicial Yuan (justices appointed by the president with consent of the Legislative Yuan) |
+| Political parties and leaders: | Democratic Progressive Party or DPP [SU Tseng-chang]; Kuomintang or KMT (Nationalist Party) [MA Ying-jeou]; Non-Partisan Solidarity Union or NPSU [LIN Pin-kuan]; People First Party or PFP [James SOONG] |
+| Political pressure groups and leaders: | environmental groups; independence movement; various business groups |
+| Political pressure groups and leaders: | note: debate on Taiwan independence has become acceptable within the mainstream of domestic politics on Taiwan; public opinion polls consistently show a substantial majority of Taiwan people supports maintaining Taiwan's status quo for the foreseeable future; advocates of Taiwan independence oppose the stand that the island will eventually unify with mainland China; advocates of eventual unification predicate their goal on the democratic transformation of the mainland |
+| International organization participation: | ADB, APEC, BCIE, ICC (national committees), IOC, ITUC (NGOs), WTO |
+| Diplomatic representation in the US: | none; commercial and cultural relations with the people in the United States are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts |
+| Diplomatic representation in the US: | representative: KING Pu-tsung |
+| Diplomatic representation in the US: | office: 4201 Wisconsin Avenue NW, Washington, DC 20016 |
+| Diplomatic representation in the US: | telephone: [1] 202 895-1800 |
+| Diplomatic representation in the US: | Taipei Economic and Cultural Offices (branch offices): Atlanta, Boston, Chicago, Guam, Houston, Honolulu, Kansas City, Los Angeles, Miami, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | none; commercial and cultural relations with the people on Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts |
+| Diplomatic representation from the US: | director: Christopher J. MARUT |
+| Diplomatic representation from the US: | office: #7 Lane 134, Hsin Yi Road, Section 3, Taipei, Taiwan |
+| Diplomatic representation from the US: | telephone: [1] [886] (02) 2162-2000 |
+| Diplomatic representation from the US: | FAX: [1] [886] (07) 238-7744 |
+| Diplomatic representation from the US: | other offices: Kaohsiung |
+| Flag description: | red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy; red stands for fraternity, sacrifice, and nationalism, white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours) |
+| National symbol(s): | white, 12-rayed sun on blue field |
+| National anthem: | name: "Zhonghua Minguo guoge" (National Anthem of the Republic of China) |
+| National anthem: | lyrics/music: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun |
+| National anthem: | note: adopted 1930; the anthem is also the song of the Kuomintang Party; it is informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the "National Banner Song" has gained popularity in Taiwan and is commonly used during flag raisings |

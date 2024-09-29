@@ -1,0 +1,39 @@
+| Government | Gabon |
+| --- | --- |
+| Country name: | conventional long form: Gabonese Republic |
+| Country name: | conventional short form: Gabon |
+| Country name: | local long form: Republique gabonaise |
+| Country name: | local short form: Gabon |
+| Government type: | republic; multiparty presidential regime |
+| Capital: | name: Libreville |
+| Capital: | geographic coordinates: 0 23 N, 9 27 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem |
+| Independence: | 17 August 1960 (from France) |
+| National holiday: | Founding of the Gabonese Democratic Party (PDG), 12 March (1968) |
+| Constitution: | adopted 14 March 1991 |
+| Legal system: | based on French civil law system and customary law; judicial review of legislative acts in Constitutional Chamber of the Supreme Court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 21 years of age; universal |
+| Executive branch: | chief of state: President El Hadj Omar BONGO Ondimba (since 2 December 1967) |
+| Executive branch: | head of government: Prime Minister Jean Eyeghe NDONG (since 20 January 2006) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister in consultation with the president |
+| Executive branch: | elections: president elected by popular vote for a seven-year term (no term limits); election last held 27 November 2005 (next to be held in 2012); prime minister appointed by the president |
+| Executive branch: | election results: President El Hadj Omar BONGO Ondimba reelected; percent of vote - El Hadj Omar BONGO Ondimba 79.2%, Pierre MAMBOUNDOU 13.6%, Zacharie MYBOTO 6.6% |
+| Legislative branch: | bicameral legislature consists of the Senate (91 seats; members elected by members of municipal councils and departmental assemblies) and the National Assembly or Assemblee Nationale (120 seats; members are elected by direct, popular vote to serve five-year terms) |
+| Legislative branch: | elections: Senate - last held 26 January and 9 February 2003 (next to be held by January 2009); National Assembly - last held 9 and 23 December 2001 (next to be held December 2006) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - PDG 53, RNB 20, PGP 4, ADERE 3, RDP 1, CLR 1, independents 9; National Assembly - percent of vote by party - NA; seats by party - PDG 86, RNB-RPG 8, PGP 3, ADERE 3, CLR 2, PUP 1, PSD 1, independents 13, others 3 |
+| Judicial branch: | Supreme Court or Cour Supreme consisting of three chambers - Judicial, Administrative, and Accounts; Constitutional Court; Courts of Appeal; Court of State Security; County Courts |
+| Political parties and leaders: | Circle of Liberal Reformers or CLR [General Jean Boniface ASSELE]; Congress for Democracy and Justice or CDJ [Jules Aristide Bourdes OGOULIGUENDE]; Democratic and Republican Alliance or ADERE [Divungui-di-Ndinge DIDJOB]; Gabonese Democratic Party or PDG [Simplice Nguedet MANZELA] (former sole party); Gabonese Party for Progress or PGP [Pierre-Louis AGONDJO-OKAWE]; National Rally of Woodcutters or RNB; National Rally of Woodcutters-Rally for Gabon or RNB-RPG (Bucherons) [Fr. Paul M'BA-ABESSOLE]; People's Unity Party or PUP [Louis Gaston MAYILA]; Rally for Democracy and Progress or RDP [Pierre EMBONI]; Social Democratic Party or PSD [Pierre Claver MAGANGA-MOUSSAVOU]; Union for Democracy and Social Integration or UDIS; Union of Gabonese People or UPG [Pierre MAMBOUNDOU] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT, ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIS, UPU, WCL, WCO, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jules Marius OGOUEBANDJA |
+| Diplomatic representation in the US: | chancery: Suite 200, 2034 20th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 797-1000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-0668 |
+| Diplomatic representation in the US: | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Barrie R. WALKLEY |
+| Diplomatic representation from the US: | embassy: Boulevard du Bord de Mer, Libreville |
+| Diplomatic representation from the US: | mailing address: Centre Ville, B. P. 4000, Libreville |
+| Diplomatic representation from the US: | telephone: [241] 76 20 03 through 76 20 04, after hours - 74 34 92 |
+| Diplomatic representation from the US: | FAX: [241] 74 55 07 |
+| Flag description: | three equal horizontal bands of green (top), yellow, and blue |

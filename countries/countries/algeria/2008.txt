@@ -1,0 +1,40 @@
+| Government | Algeria |
+| --- | --- |
+| Country name: | conventional long form: People's Democratic Republic of Algeria |
+| Country name: | conventional short form: Algeria |
+| Country name: | local long form: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah |
+| Country name: | local short form: Al Jaza'ir |
+| Government type: | republic |
+| Capital: | name: Algiers |
+| Capital: | geographic coordinates: 36 45 N, 3 03 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 48 provinces (wilayat, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanghasset, Tebessa, Tiaret, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen |
+| Independence: | 5 July 1962 (from France) |
+| National holiday: | Revolution Day, 1 November (1954) |
+| Constitution: | 8 September 1963; revised 19 November 1976, effective 22 November 1976; revised 3 November 1988, 23 February 1989, 28 November 1996, and 12 November 2008 |
+| Legal system: | socialist, based on French and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials, including several Supreme Court justices; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Abdelaziz BOUTEFLIKA (since 28 April 1999) |
+| Executive branch: | head of government: Prime Minister Ahmed OUYAHIA (since 23 June 2008) |
+| Executive branch: | cabinet: Cabinet of Ministers appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a third term under 2008 amendment to constitution); election last held 8 April 2004 (next to be held in April 2009); prime minister appointed by the president |
+| Executive branch: | election results: Abdelaziz BOUTEFLIKA reelected president for second term; percent of vote - Abdelaziz BOUTEFLIKA 85%, Ali BENFLIS 6.4%, Abdellah DJABALLAH 5% |
+| Legislative branch: | bicameral Parliament consists of the National People's Assembly or Al-Majlis Al-Shabi Al-Watani (389 seats; members elected by popular vote to serve five-year terms) and the Council of Nations (Senate) (144 seats; one-third of the members appointed by the president, two-thirds elected by indirect vote; to serve six-year terms; the constitution requires half the council to be renewed every three years) |
+| Legislative branch: | elections: National People's Assembly - last held 17 May 2007 (next to be held in 2012); Council of Nations (Senate) - last held 28 December 2006 (next to be held in 2009) |
+| Legislative branch: | election results: National People's Assembly - percent of vote by party - NA; seats by party - FLN 136, RND 61, MSP 52, PT 26, RCD 19, FNA 13, other 49, independents 33; Council of Nations - percent of vote by party - NA; seats by party - FLN 29, RND 12, MSP 3, RCD 1, independents 3, presidential appointees (unknown affiliation) 24; note - Council seating reflects the number of replaced council members rather than the whole Council |
+| Judicial branch: | Supreme Court |
+| Political parties and leaders: | Ahd 54 [Ali Fauzi REBAINE]; Algerian National Front or FNA [Moussa TOUATI]; Islamic Salvation Front or FIS (outlawed April 1992) [Ali BELHADJ, Dr. Abassi MADANI, Rabeh KEBIR]; National Democratic Rally (Rassemblement National Democratique) or RND [Ahmed OUYAHIA]; National Entente Movement or MEN [Ali BOUKHAZNA]; National Liberation Front or FLN [Abdelaziz BELKHADEM, secretary general]; National Reform Movement or Islah (formerly MRN) [Mohamed BOULAHIA]; National Renewal Party or PRA [Mohamed BENSMAIL]; Rally for Culture and Democracy or RCD [Said SADI]; Renaissance Movement or EnNahda Movement [Fatah RABEI]; Socialist Forces Front or FFS [Hocine Ait AHMED]; Social Liberal Party or PSL [Ahmed KHELIL]; Society of Peace Movement or MSP [Boudjerra SOLTANI]; Workers Party or PT [Louisa HANOUNE] |
+| Political parties and leaders: | note: a law banning political parties based on religion was enacted in March 1997 |
+| Political pressure groups and leaders: | The Algerian Human Rights League or LADDH [Hocine ZEHOUANE]; SOS Disparus [Nacera DUTOUR]; Somoud [Ali MERABET] |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAS, MIGA, MONUC, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Abdallah BAALI |
+| Diplomatic representation in the US: | chancery: 2118 Kalorama Road NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-2800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-2174 |
+| Diplomatic representation from the US: | chief of mission: Ambassador David D. PEARCE |
+| Diplomatic representation from the US: | embassy: 05 Chemin Cheikh Bachir, El-Ibrahimi, El-Biar 16000 Algiers |
+| Diplomatic representation from the US: | mailing address: B. P. 408, Alger-Gare, 16030 Algiers |
+| Diplomatic representation from the US: | telephone: [213] 770-08-2000 |
+| Diplomatic representation from the US: | FAX: [213] 21-60-7355 |
+| Flag description: | two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary |
+| Flag description: | note: the crescent, star, and color green are traditional symbols of Islam (the state religion) |

@@ -1,0 +1,40 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Croatia |
+| Country name: | conventional short form: Croatia |
+| Country name: | local long form: Republika Hrvatska |
+| Country name: | local short form: Hrvatska |
+| Data code: | HR |
+| Government type: | presidential/parliamentary democracy |
+| Capital: | Zagreb |
+| Administrative divisions: 20 counties (zupanije, zupanija - singular), 1 city (grad -singular)*: | Bjelovarsko-Bilogorska Zupanija, Brodsko-Posavska Zupanija, Dubrovacko-Neretvanska Zupanija, Istarska Zupanija, Karlovacka Zupanija, Koprivnicko-Krizevacka Zupanija, Krapinsko-Zagorska Zupanija, Licko-Senjska Zupanija, Medimurska Zupanija, Osjecko-Baranjska Zupanija, Pozesko-Slavonska Zupanija, Primorsko-Goranska Zupanija, Sibensko-Kninska Zupanija, Sisacko-Moslavacka Zupanija, Splitsko-Dalmatinska Zupanija, Varazdinska Zupanija, Viroviticko-Podravska Zupanija, Vukovarsko-Srijemska Zupanija, Zadarska Zupanija, Zagreb*, Zagrebacka Zupanija |
+| Independence: | 25 June 1991 (from Yugoslavia) |
+| National holiday: | Statehood Day, 30 May (1990) |
+| Constitution: | adopted on 22 December 1990 |
+| Legal system: | based on civil law system |
+| Suffrage: | 18 years of age; universal (16 years of age, if employed) |
+| Executive branch: | chief of state: President Stjepan (Stipe) MESIC (since 18 February 2000) |
+| Executive branch: | head of government: Prime Minister Ivica RACAN (since 27 January 2000); Deputy Prime Ministers Goran GRANIC (since NA February 2000), Zeljka ANTUNOVIC (since NA February 2000), Slavko LINIC (since NA February 2000) |
+| Executive branch: | cabinet: Council of Ministers named by the prime minister and approved by the president and the House of Representatives |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 7 February 2000 (next to be held NA 2005); prime minister appointed by the president |
+| Executive branch: | election results: Stjepan MESIC elected president; percent of vote - Stjepan MESIC (HNS) 56%, Drazen BUDISA (HSLS) 44% |
+| Executive branch: | note: government coalition - SDP, HSLS, HSS, LP, HNS, IDS |
+| Legislative branch: | bicameral Assembly or Sabor consists of the House of Counties or Zupanijski Dom (68 seats - 63 directly elected by popular vote, 5 appointed by the president; members serve four-year terms) and House of Representatives or the Zastupnicki Dom (151 seats, members elected by popular vote to serve four-year terms) |
+| elections: | House of Counties - last held 13 April 1997 (next to be held NA 2001); House of Representatives - last held 2-3 January 2000 (next to be held NA 2004) |
+| election results: | House of Counties - percent of vote by party - NA; seats by party - HDZ 42, HDZ/HSS 11, HSS 2, IDS 2, SDP/PGS/HNS 2, SDP/HNS 2, HSLS/HSS/HNS 1, HSLS 1; note - in some districts certain parties ran as coalitions, while in others they ran alone; House of Representatives - percent of vote by party - NA; seats by party - HDZ 46, SDP 44, HSLS 24, HSS 17, HSP/HKDU 5, IDS 4, HNS 2, independents 4, others 5 |
+| Judicial branch: | Supreme Court, judges appointed for eight-year terms by the Judicial Council of the Republic, which is elected by the House of Representatives; Constitutional Court, judges appointed for eight-year terms by the Judicial Council of the Republic, which is elected by the House of Representatives |
+| Political parties and leaders: | Action of the Social Democrats of Croatia or ASH [Silvije DEGEN]; Alliance of Croatian Coast and Mountains Department or PGS [Luciano SUSANJ]; Croatian Christian Democratic Union or HKDU [Marko VESELICA, president]; Croatian Democratic Independents or HND [Josip MANOLIC, president]; Croatian Democratic Union or HDZ [Vladimir SEKS, acting president]; Croatian Party of Rights or HSP [Anto DJAPIC]; Croatian Party of Rights 1861 or HSP 1861 [Dobrislav PARAGA]; Croatian Peasant Party or HSS [Zlatko TOMCIC]; Croatian People's Party or HNS [Radimir CACIC, president]; Croatian Social Liberal Party or HSLS [Drazen BUDISA, president]; Independent Democratic Serb Party or SDSS [Vojislav STANIMIROVIC]; Istrian Democratic Assembly or IDS [Ivan JAKOVCIC]; Liberal Party or LP [Vlado GOTOVAC, president]; Party of Democratic Action or SDA [Semso TANKOVIC]; Primorje Gorski Kotar Alliance [leader NA]; Serbian National Party or SNS [Milan DJUKIC]; Slanvonsko-Baranja Croatian Party or SBHS [Damir JURIC]; Social Democratic Party of Croatia or SDP [Ivica RACAN] |
+| note: | the Social Democratic Party or SDP and the Croatian Social Liberal Party or HSLS formed a coalition as did the HSS, HNS, LP, and IDS, which together defeated the Croatian Democratic Union or HDZ in the 2000 lower house parliamentary election |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | BIS, CCC, CE, CEI, EBRD, ECE, FAO, IADB, IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, NAM (observer), OAS (observer), OPCW, OSCE, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WToO, WTrO (applicant) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Miomir ZUZUL |
+| Diplomatic representation in the US: | chancery: 2343 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-5899 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-8936 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Cleveland, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador William D. MONTGOMERY |
+| Diplomatic representation from the US: | embassy: Andrije Hebranga 2, Zagreb |
+| Diplomatic representation from the US: | mailing address: use street address |
+| Diplomatic representation from the US: | telephone: [385] (1) 455-55-00 |
+| Diplomatic representation from the US: | FAX: [385] (1) 455-85-85 |
+| Flag description: | red, white, and blue horizontal bands with Croatian coat of arms (red and white checkered) |

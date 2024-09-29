@@ -1,0 +1,82 @@
+| Government | Chile |
+| --- | --- |
+| Country name: | conventional long form: Republic of Chile |
+| Country name: | conventional short form: Chile |
+| Country name: | local long form: Republica de Chile |
+| Country name: | local short form: Chile |
+| Country name: | etymology: derivation of the name is unclear, but it may come from the Mapuche word "chilli" meaning "limit of the earth" or from the Quechua "chiri" meaning "cold" |
+| Government type: | presidential republic |
+| Capital: | name: Santiago; note - Valparaiso is the seat of the national legislature |
+| Capital: | geographic coordinates: 33 27 S, 70 40 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year |
+| Capital: | etymology: Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; "Santiago" derives from the local Galician evolution of the Vulgar Latin "Sanctu Iacobu"; Valparaiso derives from the Spanish "Valle Paraiso" meaning "Paradise Valley" |
+| Capital: | note: Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5 |
+| Administrative divisions: | 16 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso |
+| Administrative divisions: | note: the US does not recognize any claims to Antarctica |
+| Independence: | 18 September 1810 (from Spain) |
+| National holiday: | Independence Day, 18 September (1810) |
+| Constitution: | history: many previous; latest adopted 11 September 1980, effective 11 March 1981; note - in March 2018, days before her term ended, President BACHELET sent a proposal for a new constitution to the National Congress, but it has not been pursued by her successor |
+| Constitution: | amendments: proposed by members of either house of the National Congress or by the president of the republic; passage requires at least three-fifths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles, such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process, requires at least two-third majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment; amended many times, last in 2018 (2019) |
+| Legal system: | civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Sebastian PINERA Echenique (since 11 March 2018); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Sebastian PINERA Echenique (since 11 March 2018) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (next to be held in November 2021) |
+| Executive branch: | election results: Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4% |
+| Legislative branch: | description: bicameral National Congress or Congreso Nacional consists of: |
+| Legislative branch: | Senate or Senado (43 seats following the 2017 election; to increase to 50 in 2021); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years) |
+| Legislative branch: | Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by oen party-list proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 19 November 2017 (next to be held in 2021) |
+| Legislative branch: | Chamber of Deputies - last held on 19 November 2017 (next to be held in 2021) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3% |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7% |
+| Judicial branch: | highest courts: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court president and judges (ministers) appointed by the president of the republic and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 3 by the president of the republic, 2 by the Chamber of Deputies, and 2 by the Senate; members serve 9-year terms with partial membership replacement every 3 years (the court reviews constitutionality of legislation); Elections Qualifying Court members appointed by lottery - 1 by the former president or vice president of the Senate and 1 by the former president or vice president of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparaiso; members appointed for 4-year terms |
+| Judicial branch: | subordinate courts: Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs |
+| Political parties and leaders: | Amplitude (Amplitud) [Lily PEREZ] |
+| Political parties and leaders: | Broad Front Coalition (Frente Amplio) or FA (includes RD, PL, PH, PEV, Igualdad, and Poder) [Beatriz SANCHEZ] |
+| Political parties and leaders: | Broad Social Movement of Leftist Citizens (includes former MAS and Izquierda Ciudadana) [Fernando ZAMORANO] |
+| Political parties and leaders: | Christian Democratic Party or PDC [Fuad CHAHIN] |
+| Political parties and leaders: | Citizen Power (Poder) [Karina OLIVA] |
+| Political parties and leaders: | Communist Party of Chile or PC [Guillermo TEILLIER del Valle] |
+| Political parties and leaders: | Democratic Revolution or RD [Rodrigo ECHECOPAR] |
+| Political parties and leaders: | Equality Party (Igualdad) [Guillermo GONZALEZ] |
+| Political parties and leaders: | Green Ecological Party or PEV [Felix GONZALEZ] |
+| Political parties and leaders: | Humanist Party or PH [Octavio GONZALEZ] |
+| Political parties and leaders: | Independent Democratic Union or UDI [Jacqueline VAN RYSSELBERGHE Herrera]) |
+| Political parties and leaders: | Independent Regionalist Democratic Party or PRI [Hugo ORTIZ de Filippi] |
+| Political parties and leaders: | Letâ€™s Go Chile Coalition (Chile Vamos) [Sebastian PINERA] (includes EVOPOLI, PRI, RN, UDI) |
+| Political parties and leaders: | Liberal Party (Partido Liberal de Chile) or PL [Luis Felipe RAMOS] |
+| Political parties and leaders: | National Renewal or RN [Mario DESBORDES] |
+| Political parties and leaders: | New Majority Coalition (Nueva Mayoria) [Michelle BACHELET] (includes PDC, PC, PPD, PRSD, PS); note - dissolved in March 2018 |
+| Political parties and leaders: | Party for Democracy or PPD [Heraldo MUNOZ] |
+| Political parties and leaders: | Political Evolution or EVOPOLI [Hernan LARRAIN MATTE] |
+| Political parties and leaders: | Progressive Party or PRO [Camilo LAGOS] |
+| Political parties and leaders: | Radical Social Democratic Party or PRSD [Carlos MALDONADO Curti], |
+| Political parties and leaders: | Socialist Party or PS [Alvaro ELIZALDE Soto] (formerly known as Concertacion) |
+| International organization participation: | APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Oscar Alfonso Sebastian SILVA Navarro (since 17 September 2018) |
+| Diplomatic representation in the US: | chancery: 1732 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 785-1746 |
+| Diplomatic representation in the US: | FAX: [1] (202) 887-5579 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Baxter HUNT (since January 2019) |
+| Diplomatic representation from the US: | telephone: [56] (2) 2330-3000 |
+| Diplomatic representation from the US: | embassy: Avenida Andres Bello 2800, Las Condes, Santiago |
+| Diplomatic representation from the US: | mailing address: APO AA 34033 |
+| Diplomatic representation from the US: | FAX: [56] (2) 2330-3710, 2330-3160 |
+| Flag description: | two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence |
+| Flag description: | note: design influenced by the US flag |
+| National symbol(s): | huemul (mountain deer), Andean condor; national colors: red, white, blue |
+| National anthem: | name: "Himno Nacional de Chile" (National Anthem of Chile) |
+| National anthem: | lyrics/music: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle |
+| National anthem: | note: music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990 |

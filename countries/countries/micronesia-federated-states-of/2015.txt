@@ -1,0 +1,48 @@
+| Government | MICRONESIA, FEDERATED STATES OF |
+| --- | --- |
+| Country name: | conventional long form: Federated States of Micronesia |
+| Country name: | conventional short form: none |
+| Country name: | local long form: Federated States of Micronesia |
+| Country name: | local short form: none |
+| Country name: | former: Trust Territory of the Pacific Islands, Ponape, Truk, and Yap Districts |
+| Country name: | abbreviation: FSM |
+| Government type: | constitutional government in free association with the US; the Compact of Free Association entered into force on 3 November 1986 and the Amended Compact entered into force in May 2004 |
+| Capital: | name: Palikir |
+| Capital: | geographic coordinates: 6 55 N, 158 09 E |
+| Capital: | time difference: UTC+11 (16 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap |
+| Independence: | 3 November 1986 (from the US-administered UN trusteeship) |
+| National holiday: | Constitution Day, 10 May (1979) |
+| Constitution: | drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979; amended 1990 (2012) |
+| Legal system: | mixed legal system of common and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Peter M. CHRISTIAN (since 12 May 2015); Vice President Yosiwo P. GEORGE (since 12 May 2015); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Peter M. CHRISTIAN (since 12 May 2015); Vice President Yosiwo P. GEORGE (since 12 May 2015) |
+| Executive branch: | cabinet: Cabinet includes the vice president and the heads of the 8 executive departments |
+| Executive branch: | elections/appointments: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 11 May 2011 (next to be held in May 2015) |
+| Executive branch: | election results: Peter M. CHRISTIAN elected president by Congress; Yosiwo P. GEORGE elected vice president |
+| Legislative branch: | description: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 directly elected from each of the 4 states by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 5 March 2013 (next to be held in March 2015) |
+| Legislative branch: | election results: percent of vote - NA; seats - independent 14 |
+| Judicial branch: | highest court(s): Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions) |
+| Judicial branch: | judge selection and term of office: justices appointed by the president of the Federated States of Micronesia with the approval of two-thirds of Congress; justices appointed for life |
+| Judicial branch: | subordinate courts: the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court |
+| Political parties and leaders: | no formal parties |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACP, ADB, AOSIS, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, IMF, IOC, IOM, IPU, ITSO, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO, WMO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Asterio R. TAKESY (since 13 January 2012) |
+| Diplomatic representation in the US: | chancery: 1725 N Street NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 223-4383 |
+| Diplomatic representation in the US: | FAX: [1] (202) 223-4391 |
+| Diplomatic representation in the US: | consulate(s) general: Honolulu, Tamuning (Guam) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Dorothea-Maria (Doria) ROSEN (since 9 August 2012) |
+| Diplomatic representation from the US: | embassy: 101 Upper Pics Road, Kolonia |
+| Diplomatic representation from the US: | mailing address: P. O. Box 1286, Kolonia, Pohnpei, 96941; U.S. Embassy in Micronesia, 4120 Kolonia Place, Washington, D.C. 20521-4120 |
+| Diplomatic representation from the US: | telephone: [691] 320-2187 |
+| Diplomatic representation from the US: | FAX: [691] 320-2186 |
+| Flag description: | light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap |
+| National symbol(s): | four, five-pointed, white stars on a light blue field; national colors: light blue, white |
+| National anthem: | name: "Patriots of Micronesia" |
+| National anthem: | lyrics/music: unknown |
+| National anthem: | note: adopted 1991; also known as "Across All Micronesia"; the music is based on the 1820 German patriotic song "Ich hab mich ergeben", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' "Festival Overture" and Gustav Mahler's "Third Symphony" |

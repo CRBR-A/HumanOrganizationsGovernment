@@ -1,0 +1,62 @@
+| Government | GREECE |
+| --- | --- |
+| Country name: | conventional long form: Hellenic Republic |
+| Country name: | conventional short form: Greece |
+| Country name: | local long form: Elliniki Dimokratia |
+| Country name: | local short form: Ellas or Ellada |
+| Country name: | former: Kingdom of Greece |
+| Government type: | parliamentary republic |
+| Capital: | name: Athens |
+| Capital: | geographic coordinates: 37 59 N, 23 44 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean) |
+| Independence: | 1830 (from the Ottoman Empire) |
+| National holiday: | Independence Day, 25 March (1821) |
+| Constitution: | many previous; latest entered into force 11 June 1975; amended 1986, 2001, 2008 (2013) |
+| Legal system: | civil legal system based on Roman law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Karolos PAPOULIAS (since 12 March 2005) |
+| Executive branch: | head of government: Prime Minister Alexis TSIPRAS (since 21 September 2015); note - Vassiliki THANOU-CHRISTOPHILOU served as Interim Prime Minister beginning on 27 August 2015 after the resignation of Alexis TSIPRAS on 20 August 2015; she was Greece's first female prime minister |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections/appointments: president indirectly elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on 18 February 2015 (next to be held by February 2020); president appoints as prime minister the leader of the majority party in the Hellenic Parliament |
+| Executive branch: | election results: Prokopis PAVLOPOULOS (ND) elected president by Parliament - 233 of 300 votes |
+| Legislative branch: | description: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 288 members directly elected in single- and multi-seat constituencies by proportional representation vote and 12 seats are filled from nationwide party lists; 50 seats allocated to the party with the highest total valid vote count and remaining seats are apportioned according to each party's or coalition's vote pecentage; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 20 September 2015 (next to be held in 2019); note - snap elections were called because of upheaval in the ruling Syriza party over a new bailout deal with international creditors |
+| Legislative branch: | election results: percent of vote by party - SYRIZA 35.5%, ND 28.1%, Golden Dawn 7.0%, PASOK-DIMAR 6.3%, KKE 5.6%, To Potami 4.1%, ANEL 3.7%, EK 3.4%, other 6.3%; seats by party - SYRIZA 145, ND 75, Golden Dawn 18, PASOK-DIMAR 17, KKE 15, To Potami 11, ANEL 10, EK 9; note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold |
+| Judicial branch: | highest court(s): Hellenic Supreme Court of Civil and Penal Law (consists of 56 judges) |
+| Judicial branch: | judge selection and term of office: judges selected by the Supreme Judicial Council which includes the president of the Supreme Court, other judges, and the prosecutor of the Supreme Court; judges appointed for life following a 2-year probationary  period |
+| Judicial branch: | subordinate courts: Supreme Administrative Court;  Courts of Appeal; Courts of First Instance; Court of Auditors |
+| Political parties and leaders: | Coalition of the Radical Left or SYRIZA [Alexis TSIPRAS] |
+| Political parties and leaders: | Communist Party of Greece or KKE [Dimitris KOUTSOUMBAS] |
+| Political parties and leaders: | Democratic Left or DIMAR [Thanassis THEOHAROPOULOS] |
+| Political parties and leaders: | Golden Dawn [Nikolaos MICHALOLIAKOS] |
+| Political parties and leaders: | Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS] |
+| Political parties and leaders: | Movement of Democratic Socialists or KIDISO [George PAPANDREOU] |
+| Political parties and leaders: | New Democracy or ND [Vangelis MEIMARAKIS] |
+| Political parties and leaders: | Panhellenic Socialist Movement or PASOK [Fofi GENIMMATA] |
+| Political parties and leaders: | Popular Unity [Panagiotis LAFAZANIS] |
+| Political parties and leaders: | To Potami (The River) [Stavros THEODORAKIS] |
+| Political parties and leaders: | Union of Centrists or EK [Vassilis LEVENTIS] |
+| Political pressure groups and leaders: | Supreme Administration of Civil Servants Unions or ADEDY [Spyros PAPASPYROS] |
+| Political pressure groups and leaders: | Federation of Greek Industries or SEV [Dimitris DASKALOPOULOS] |
+| Political pressure groups and leaders: | General Confederation of Greek Workers or GSEE [Ioannis PANAGOPOULOS] |
+| International organization participation: | Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Christos P. PANAGOPOULOUS (since 17 September 2012) |
+| Diplomatic representation in the US: | chancery: 2217 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-1300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 939-1324 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Los Angeles, New York, Tampa (FL), San Francisco |
+| Diplomatic representation in the US: | consulate(s): Atlanta, Houston, New Orleans |
+| Diplomatic representation from the US: | chief of mission: Ambassador David D. PEARCE (since 18 October 2013) |
+| Diplomatic representation from the US: | embassy: 91 Vasillisis Sophias Avenue, 10160 Athens |
+| Diplomatic representation from the US: | mailing address: PSC 108, APO AE 09842-0108 |
+| Diplomatic representation from the US: | telephone: [30] (210) 721-2951 |
+| Diplomatic representation from the US: | FAX: [30] (210) 645-6282 |
+| Diplomatic representation from the US: | consulate(s) general: Thessaloniki (2012) |
+| Flag description: | nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors; the exact shade of blue has never been set by law and has varied from a light to a dark blue over time |
+| National symbol(s): | Greek cross (white cross on blue field, arms equal length); national colors: blue, white |
+| National anthem: | name: "Ymnos eis tin Eleftherian" (Hymn to Liberty) |
+| National anthem: | lyrics/music: Dionysios SOLOMOS/Nikolaos MANTZAROS |
+| National anthem: | note: adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses "Hymn to Liberty" as its anthem |

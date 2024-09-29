@@ -1,0 +1,72 @@
+| Government | HUNGARY |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Hungary |
+| Country name: | local long form: none |
+| Country name: | local short form: Magyarorszag |
+| Country name: | etymology: the Byzantine Greeks refered to the tribes that arrived on the steppes of Eastern Europe in the 9th century as the "Oungroi," a name that was later Latinized to "Ungri" and which became "Hungari"; the name originally meant an "[alliance of] ten tribes"; the Hungarian name "Magyarorszag" means "Land of the Magyars"; the term may derive from the most prominent of the Hungarian tribes, the Megyer |
+| Government type: | parliamentary republic |
+| Capital: | name: Budapest |
+| Capital: | geographic coordinates: 47 30 N, 19 05 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros) |
+| Administrative divisions: | counties: Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala |
+| Administrative divisions: | cities with county rights: Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg |
+| Administrative divisions: | capital city: Budapest |
+| Independence: | 16 November 1918 (republic proclaimed); notable earlier dates: 25 December 1000 (crowning of King STEPHEN I, traditional founding date); 30 March 1867 (Austro-Hungarian dual monarchy established) |
+| National holiday: | Saint Stephen's Day, 20 August; note - commemorates the date when his remains were transferred to Buda (now Budapest) |
+| Constitution: | history: previous 1949 (heavily amended in 1989 following the collapse of communism); latest approved 18 April 2011, signed 25 April 2011, effective 1 January 2012 |
+| Constitution: | amendments: proposed by the president of the republic, by the government, by parliamentary committee, or by Parliament members; passage requires two-thirds majority vote of Parliament members and approval by the president; amended several times, last in 2013 (2016) |
+| Legal system: | civil legal system influenced by the German model |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Hungary |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 8 years |
+| Suffrage: | 18 years of age, 16 if married; universal |
+| Executive branch: | chief of state: Janos ADER (since 10 May 2012) |
+| Executive branch: | head of government: Prime Minister Viktor ORBAN (since 29 May 2010) |
+| Executive branch: | cabinet: Cabinet of Ministers proposed by the prime minister and appointed by the president |
+| Executive branch: | elections/appointments: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 2 May 2012 (next to be held by May 2017); prime minister elected by the National Assembly on the recommendation of the president |
+| Executive branch: | election results: Janos ADER (Fidesz) elected president; National Assembly vote - 262 to 40; Viktor ORBAN (Fidesz) elected prime minister; National Assembly vote - 130 to 57 (in 2014) |
+| Legislative branch: | description: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 6 April 2014 (next to be held by April 2018) |
+| Legislative branch: | election results: percent of vote by party - Fidesz-KDNP 44.5%, Unity 26%, Jobbik 20.5%, LMP 5.3%, other 3.7%; seats by party - Fidesz-KDNP 133, Unity 38, Jobbik 23, LMP 5 |
+| Judicial branch: | highest court(s): Curia or Supreme Judicial Court (consists of the Curia president, vice president, and approximately 76 judges organized into 16 civil chambers, 3 criminal chambers, and 4 administrative chambers); Constitutional Court (consists of 15 judges including the court president and 2 vice-presidents) |
+| Judicial branch: | judge selection and term of office: Curia president elected from among its members for 9 years by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement age; Constitutional Court judges elected by two-thirds vote of the National Assembly; members serve single renewable 12-year terms with mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative and labor courts; 111 district or local courts |
+| Political parties and leaders: | Christian Democratic People's Party or KDNP [Zsolt SEMJEN] |
+| Political parties and leaders: | Democratic Coalition or DK [Ferenc GYURCSANY] |
+| Political parties and leaders: | Dialogue for Hungary or PM [Javor BENEDEK, Timea SZABO, co-chairs] |
+| Political parties and leaders: | Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN] |
+| Political parties and leaders: | Hungarian Liberal Party or MLP [Gabor FODOR] |
+| Political parties and leaders: | Hungarian Socialist Party or MSZP [Jozsef TOBIAS] |
+| Political parties and leaders: | Movement for a Better Hungary or Jobbik [Gabor VONA] |
+| Political parties and leaders: | Politics Can Be Different or LMP [Andras SCHIFFER, Bernadett SZEL] |
+| Political parties and leaders: | Together 2014 or Egyutt [Peter JUHASZ, Peter KONYA, Viktor SZIGETVARI] |
+| Political pressure groups and leaders: | Civil Osszefogas Forum ("Civil Unity Forum," nominally independent organization that serves as the steering committee for the pro-government mass organization Bekemenet (Peace March), supporting ORBAN government's policies) |
+| Political pressure groups and leaders: | Hungarian Civil Liberties Union (Tarsasag a Szabadsagjogokert) or TASZ (freedom of expression, information privacy) |
+| Political pressure groups and leaders: | Hungarian Helsinki Committee (asylum seekers' rights, human rights in law enforcement and the judicial system) |
+| Political pressure groups and leaders: | MigSzol (Migrant Solidarity Group of Hungary) (independent advocacy group on migration crisis) |
+| Political pressure groups and leaders: | MostMi ("Now Us") [Bori TAKACS, Zsolt VARADY](Facebook group that was a major participant at anti-government demonstrations in late 2014-early 2015; pro-Europe, anti-establishment movement that blames Fidesz for the state of the country, but also blames all established political parties for perceived political and economic failures since the fall of communism) |
+| Political pressure groups and leaders: | Okotars (empowerment of civil society in Hungary) |
+| other: | Energy Club (Energia Klub) |
+| other: | Greenpeace Hungary (Greenpeace Magyarorszag) |
+| International organization participation: | Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Reka SZEMERKENYI (since 23 February 2015) |
+| Diplomatic representation in the US: | chancery: 3910 Shoemaker Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 362-6730 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-8135 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation in the US: | consulate(s): Boston |
+| Diplomatic representation from the US: | chief of mission: Ambassador Colleen Bradley BELL (since 21 January 2015) |
+| Diplomatic representation from the US: | embassy: Szabadsag ter 12, H-1054 Budapest |
+| Diplomatic representation from the US: | mailing address: pouch: American Embassy Budapest, 5270 Budapest Place, US Department of State, Washington, DC 20521-5270 |
+| Diplomatic representation from the US: | telephone: [36] (1) 475-4400 |
+| Diplomatic representation from the US: | FAX: [36] (1) 475-4764 |
+| Flag description: | three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country |
+| National symbol(s): | Holy Crown of Hungary (Crown of Saint Stephen); national colors: red, white, green |
+| National anthem: | name: "Himnusz" (Hymn) |
+| National anthem: | lyrics/music: Ferenc KOLCSEY/Ferenc ERKEL |
+| National anthem: | note: adopted 1844 |

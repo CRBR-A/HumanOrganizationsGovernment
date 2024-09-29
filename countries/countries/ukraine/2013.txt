@@ -1,0 +1,76 @@
+| Government | Ukraine |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Ukraine |
+| Country name: | local long form: none |
+| Country name: | local short form: Ukrayina |
+| Country name: | former: Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic |
+| Government type: | republic |
+| Capital: | name: Kyiv (Kiev) |
+| Capital: | note: pronounced KAY-yiv |
+| Capital: | geographic coordinates: 50 26 N, 30 31 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities (mista, singular - misto) with oblast status**; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol'), Dnipropetrovs'k, Donets'k, Ivano-Frankivs'k, Kharkiv, Kherson, Khmel'nyts'kyy, Kirovohrad, Kyiv**, Kyiv, Luhans'k, L'viv, Mykolayiv, Odesa, Poltava, Rivne, Sevastopol'**, Sumy, Ternopil', Vinnytsya, Volyn' (Luts'k), Zakarpattya (Uzhhorod), Zaporizhzhya, Zhytomyr |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) |
+| Independence: | 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus), 1648 (establishment of Cossack Hetmanate) |
+| National holiday: | Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence (from Soviet Russia) and the day the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day |
+| Constitution: | several previous; latest adopted and ratified 28 June 1996; amended 2004, 2010 (2010) |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Viktor YANUKOVYCH (since 25 February 2010) |
+| Executive branch: | head of government: Prime Minister Mykola AZAROV (since 11 March 2010); First Deputy Prime Minister Serhiy ARBUZOV (since 24 December 2012); Deputy Prime Ministers Yuriy BOYKO, Kostyantyn HRYSHCHENKO, Oleksandr VILKUL (all since 24 December 2012) |
+| Executive branch: | cabinet: Cabinet of Ministers nominated by the president |
+| Executive branch: | (For more information visit the World Leaders website&nbsp;) |
+| Executive branch: | note: there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a Presidential Administration helps draft presidential edicts and provides policy support to the president |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held on 17 January 2010 with runoff on 7 February 2010 (next to be held in October 2015) |
+| Executive branch: | election results: Viktor YANUKOVYCH elected president; percent of vote - Viktor YANUKOVYCH 48.9%, Yuliya TYMOSHENKO 45.5%, other 5.6% |
+| Legislative branch: | unicameral Supreme Council or Verkhovna Rada (450 seats; 50% of seats allocated on a proportional basis to those parties that gain 5% or more of the national electoral vote and 50% to members elected in single mandate districts; members serve five-year terms) |
+| Legislative branch: | elections: last held on 28 October 2012 (next to be held fall 2017) |
+| Legislative branch: | election results: percent of vote by party - Party of Regions 30%, Batkivshchyna 25.5%, UDAR 14%, CPU 13.2%, Svoboda 10.4%, other parties 6.9%; seats by party - Party of Regions 185, Batkivshchyna 101, UDAR 40, Svoboda 37, CPU 32, United Center 3, People's Party 2, Radical 1, Union 1, independents 43, vacant 5; composition as of mid-April 2013 - Party of Regions 207, Batkivshchyna 95, UDAR 42, Svoboda 36, CPU 32, independents 32, vacant 6 |
+| Judicial branch: | highest court(s): Supreme Court of Ukraine (consists of 95 judges organized into civil, criminal, commercial, and administrative chambers, and a military panel); Constitutional Court (consists of 18 justices) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges proposed by the Supreme Council of Justice or SCJ (a 20-member independent body of judicial officials and other appointees) and appointed by presidential decree; judges initially appointed for 5 years and, if approved by the SCJ, serve until mandatory retirement at age 65; Constitutional Court justices appointed - 6 each by the president, by the SCU, and by the Verkhovna Rada; justices appointed for 9-year non-renewable terms |
+| Judicial branch: | subordinate courts: specialized high courts; Courts of Cassation; Courts of Appeal; regional, district, city, and town courts |
+| Political parties and leaders: | Batkivshchyna (All-Ukrainian Union "Fatherland") [Yuliya TYMOSHENKO] |
+| Political parties and leaders: | Communist Party of Ukraine or CPU [Petro SYMONENKO] |
+| Political parties and leaders: | European Party of Ukraine [Mykola KATERYNCHUK] |
+| Political parties and leaders: | Front of Change [Arseniy YATSENYUK] |
+| Political parties and leaders: | Our Ukraine [Viktor YUSHCHENKO] |
+| Political parties and leaders: | Party of Industrialists and Entrepreneurs [Anatoliy KINAKH] |
+| Political parties and leaders: | Party of Regions [Mykola AZAROV, chairman] |
+| Political parties and leaders: | Party of the Defenders of the Fatherland [Yuriy KARMAZIN] |
+| Political parties and leaders: | People's Movement of Ukraine (Rukh) [Borys TARASYUK] |
+| Political parties and leaders: | People's Party [Volodymyr LYTVYN] |
+| Political parties and leaders: | Peoples' Self-Defense Party [Oleh NOVIKOV] |
+| Political parties and leaders: | Progressive Socialist Party [Natalya VITRENKO] |
+| Political parties and leaders: | Radical Party [Oleh LYASHKO] |
+| Political parties and leaders: | Reforms and Order Party [Viktor PYNZENYK] |
+| Political parties and leaders: | Republican Party Sobor [Anatoliy MATVIYENKO] |
+| Political parties and leaders: | Social Democratic Party (United) or SDPU(o) [Yuriy ZAHORODNIY] |
+| Political parties and leaders: | Socialist Party of Ukraine or SPU [Oleksandr MOROZ] |
+| Political parties and leaders: | Svoboda [Oleh TYAHNYBOK] |
+| Political parties and leaders: | Ukraine-Forward! [Natalia KOROLEVSKA] |
+| Political parties and leaders: | Ukrainian Democratic Alliance for Reforms or UDAR [Vitaliy KLYCHKO] |
+| Political parties and leaders: | Ukrainian People's Party [Yuriy KOSTENKO] |
+| Political parties and leaders: | Union [Lev MIRIMSKY] |
+| Political parties and leaders: | United Center [Viktor BALOHA] |
+| Political parties and leaders: | Viche [Inna BOHOSLOVSKA] |
+| Political pressure groups and leaders: | Committee of Voters of Ukraine [Aleksandr CHERNENKO] |
+| Political pressure groups and leaders: | OPORA [Olha AIVAZOVSKA] |
+| International organization participation: | Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter although it participates in meetings), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Oleksandr MOTSYK (since 24 June 2010) |
+| Diplomatic representation in the US: | chancery: 3350 M Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 349-2920 |
+| Diplomatic representation in the US: | FAX: [1] (202) 333-0817 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Geoffrey R. PYATT (since 30 July 2013) |
+| Diplomatic representation from the US: | embassy: 4 Igor Sikorsky Street, 04112 Kyiv |
+| Diplomatic representation from the US: | mailing address: 5850 Kyiv Place, Washington, DC 20521-5850 |
+| Diplomatic representation from the US: | telephone: [380] (44) 521-5000 |
+| Diplomatic representation from the US: | FAX: [380] (44) 521-5155 |
+| Flag description: | two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky |
+| National symbol(s): | trident (tryzub) |
+| National anthem: | name: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished) |
+| National anthem: | lyrics/music: Paul CHUBYNSKYI/Mikhail VERBYTSKYI |
+| National anthem: | note: music adopted 1991, lyrics adopted 2003; the song was first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003 |

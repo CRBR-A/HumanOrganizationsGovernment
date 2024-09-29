@@ -1,0 +1,41 @@
+| Government | Benin |
+| --- | --- |
+| Country name: | conventional long form: Republic of Benin |
+| Country name: | conventional short form: Benin |
+| Country name: | local long form: Republique du Benin |
+| Country name: | local short form: Benin |
+| Country name: | former: Dahomey |
+| Government type: | republic |
+| Capital: | name: Porto-Novo (official capital) |
+| Capital: | geographic coordinates: 6 29 N, 2 37 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | note: Cotonou (seat of government) |
+| Administrative divisions: | 12 departments; Alibori, Atakora, Atlantique, Borgou, Collines, Kouffo, Donga, Littoral, Mono, Oueme, Plateau, Zou |
+| Independence: | 1 August 1960 (from France) |
+| National holiday: | National Day, 1 August (1960) |
+| Constitution: | December 1990 |
+| Legal system: | based on French civil law and customary law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President YAYI Boni (since 6 April 2006); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President YAYI Boni (since 6 April 2006) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president reelected by popular vote for a five-year term (eligible for a second term); runoff election held 19 March 2006 (next to be held March 2011) |
+| Executive branch: | election results: YAYI Boni elected president; percent of vote - YAYI Boni 74.5%, Adrien HOUNGBEDJI 25.5% |
+| Legislative branch: | unicameral National Assembly or Assemblee Nationale (83 seats; members are elected by direct popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 30 March 2003 (next to be held March 2007) |
+| Legislative branch: | election results: percent of vote by party - NA%; seats by party - Presidential Movement (UBF, MADEP, FC, Alliance MDC-PC-CPP, IPD, AFP, MDS, RDP) 52, opposition (PRB, PRD, E'toile, and 5 other small parties) 31 |
+| Judicial branch: | Constitutional Court or Cour Constitutionnelle; Supreme Court or Cour Supreme; High Court of Justice |
+| Political parties and leaders: | Alliance of Progress Forces or AFP; African Movement for Democracy and Progress or MADEP [Sefou FAGBOHOUN]; Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]; Impulse for Progress and Democracy or IPD; Key Force or FC; Movement for Development and Solidarity or MDS; Movement for Development by the Culture-Salute Party-Congress of People for Progress Alliance or Alliance MDC-PS-CPP; New Alliance or NA; Rally for Democracy and Progress or RDP; Renaissance Party du Benin or RB [Nicephore SOGLO]; The Star Alliance (Alliance E'toile) [Sacca LAFIA]; Union of Tomorrow's Benin or UBF [Bruno AMOUSSOU] |
+| Political parties and leaders: | note: approximately 20 additional minor parties |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT, ACP, AfDB, AU, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, MONUC, NAM, OIC, OIF, ONUB, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNOCI, UPU, WADB (regional), WAEMU, WCL, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Cyrille Segbe OGUIN |
+| Diplomatic representation in the US: | chancery: 2124 Kalorama Road NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 232-6656 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-1996 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Wayne NEILL |
+| Diplomatic representation from the US: | embassy: Rue Caporal Bernard Anani, Cotonou |
+| Diplomatic representation from the US: | mailing address: 01 B. P. 2012, Cotonou |
+| Diplomatic representation from the US: | telephone: [229] 30-06-50 |
+| Diplomatic representation from the US: | FAX: [229] 30-06-70 |
+| Flag description: | two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side |

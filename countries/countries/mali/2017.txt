@@ -1,0 +1,67 @@
+| Government | MALI |
+| --- | --- |
+| Country name: | conventional long form: Republic of Mali |
+| Country name: | conventional short form: Mali |
+| Country name: | local long form: Republique de Mali |
+| Country name: | local short form: Mali |
+| Country name: | former: French Sudan and Sudanese Republic |
+| Country name: | etymology: name derives from the West African Mali Empire of the 13th to 16th centuries A.D. |
+| Government type: | semi-presidential republic |
+| Capital: | name: Bamako |
+| Capital: | geographic coordinates: 12 39 N, 8 00 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 8 regions (regions, singular - region), 1 district*; District de Bamako*, Gao, Kayes, Kidal, Koulikoro, Mopti, Segou, Sikasso, Tombouctou (Timbuktu); note - two new regions, Menaka and Taoudenni, were reportedly created in early 2016, but these have not yet been vetted by the US Board on Geographic Names |
+| Independence: | 22 September 1960 (from France) |
+| National holiday: | Independence Day, 22 September (1960) |
+| Constitution: | history: several previous; latest drafted August 1991, approved by referendum 12 January 1992, effective 25 February 1992, suspended briefly in 2012 |
+| Constitution: | amendments: roposed by the president of the republic or by members of the National Assembly; passage requires two-thirds majority vote by the Assembly and approval in a referendum; constitutional sections on the integrity of the state, its republican and secular form of government, and its multiparty system cannot be amended; amended 1999 (2017) |
+| Legal system: | civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Mali |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Ibrahim Boubacar KEITA (since 4 September 2013) |
+| Executive branch: | head of government: Prime Minister Abdoulaye Idrissa MAIGA (since 8 April 2017) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 July 2013 with a runoff on 11 August 2013 (election delayed from April 2012 due to a coup in March 2012); prime minister appointed by the president |
+| Executive branch: | election results: Ibrahim Boubacar KEITA elected president in second round; percent of vote - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4% |
+| Legislative branch: | description: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 24 November and 15 December 2013 (next to be held in 2018); note - the scheduled July 2012 election was canceled due to a coup d'etat and the Tuareg Rebellion |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - RPM 66, URD 17, ADEMA 16, FARE 6, CODEM 5, SADI 5, CNID 4, other 24, independent 4 |
+| Judicial branch: | highest court(s): Supreme Court or Cour Supreme (consists of 19 members organized into 3 civil chambers and a criminal chamber); Constitutional Court (consists of 9 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court members appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court members selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms |
+| Judicial branch: | subordinate courts: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); magistrate courts; first instance courts; labor dispute courts; special court of state security |
+| Political parties and leaders: | African Solidarity for Democracy and Independence or SADI [Oumar MARIKO] |
+| Political parties and leaders: | Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE] |
+| Political parties and leaders: | Alliance for Democracy and Progress or ADP (coalition includes ADEMA and URD) |
+| Political parties and leaders: | Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Soumeylou Boubeye MAIGA] |
+| Political parties and leaders: | Alternative Forces for Renewal and Emergence or FARE [Modibo SIDIBE] |
+| Political parties and leaders: | Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO] |
+| Political parties and leaders: | Economic and Social Development Party or PDES [Jamille BITTAR] |
+| Political parties and leaders: | Front for Democracy and the Republic or FDR (coalition of smaller opposition parties) |
+| Political parties and leaders: | National Congress for Democratic Initiative or CNID [Mountaga TALL] |
+| Political parties and leaders: | Party for National Renewal or PARENA [Tiebile DRAME] |
+| Political parties and leaders: | Patriotic Movement for Renewal or MPR [Choguel Kokalla MAIGA] |
+| Political parties and leaders: | Rally for Mali or RPM [Ibrahim Boubacar KEITA] |
+| Political parties and leaders: | Union for Republic and Democracy or URD [Younoussi TOURE] |
+| Political pressure groups and leaders: | Malian Company for Textile Development or CMDT |
+| Political pressure groups and leaders: | Malian Defence Force |
+| Political pressure groups and leaders: | other: Islamic authorities |
+| International organization participation: | ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Mohamed CISSE (since 13 April 2017) |
+| Diplomatic representation in the US: | chancery: 2130 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-2249, 939-8950 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-6603 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Paul A. FOLMSBEE (since 3 June 2015) |
+| Diplomatic representation from the US: | embassy: located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district |
+| Diplomatic representation from the US: | mailing address: ACI 2000, Rue 243, Porte 297, Bamako |
+| Diplomatic representation from the US: | telephone: [223] 2070-2300 |
+| Diplomatic representation from the US: | FAX: [223] 2070-2479 |
+| Flag description: | three equal vertical bands of green (hoist side), yellow, and red |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea |
+| National symbol(s): | Great Mosque of Djenne; national colors: green, yellow, red |
+| National anthem: | name: "Le Mali" (Mali) |
+| National anthem: | lyrics/music: Seydou Badian KOUYATE/Banzoumana SISSOKO |
+| National anthem: | note: adopted 1962; also known as "Pour L'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel Mali" (At Your Call, Mali) |

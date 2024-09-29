@@ -1,0 +1,48 @@
+| Government | Cyprus |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cyprus |
+| Country name: | conventional short form: Cyprus |
+| Country name: | local long form: Kypriaki Dimokratia/Kibris Cumhuriyeti |
+| Country name: | local short form: Kypros/Kibris |
+| Country name: | note: the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" (TRNC) |
+| Government type: | republic |
+| Government type: | note: a separation of the two ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified after the Turkish intervention in July 1974 that followed a Greek junta-supported coup attempt gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government; on 15 November 1983 Turkish Cypriot "President" Rauf DENKTASH declared independence and the formation of a "Turkish Republic of Northern Cyprus" (TRNC), which is recognized only by Turkey |
+| Capital: | name: Nicosia (Lefkosia) |
+| Capital: | geographic coordinates: 35 10 N, 33 22 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 6 districts; Famagusta, Kyrenia, Larnaca, Limassol, Nicosia, Paphos; note - Turkish Cypriot area's administrative divisions include Kyrenia, all but a small part of Famagusta, and small parts of Lefkosia (Nicosia) |
+| Independence: | 16 August 1960 (from UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are only recognized by Turkey |
+| National holiday: | Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as Independence Day |
+| Constitution: | 16 August 1960 |
+| Constitution: | note: from December 1963, the Turkish Cypriots no longer participated in the government; negotiations to create the basis for a new or revised constitution to govern the island and for better relations between Greek and Turkish Cypriots have been held intermittently since the mid-1960s; in 1975, following the 1974 Turkish intervention, Turkish Cypriots created their own constitution and governing bodies within the "Turkish Federated State of Cyprus," which became the "Turkish Republic of Northern Cyprus (TRNC)" when the Turkish Cypriots declared their independence in 1983; a new constitution for the "TRNC" passed by referendum on 5 May 1985, although the "TRNC" remains unrecognized by any country other than Turkey |
+| Legal system: | based on English common law, with civil law modifications; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Dimitris CHRISTOFIAS (since 28 February 2008); note - the president is both the chief of state and head of government; post of vice president is currently vacant; under the 1960 constitution, the post is reserved for a Turkish Cypriot |
+| Executive branch: | head of government: President Dimitris CHRISTOFIAS (since 28 February 2008) |
+| Executive branch: | cabinet: Council of Ministers appointed jointly by the president and vice president |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 17 and 24 February 2008 (next to be held in February 2013) |
+| Executive branch: | election results: Dimitris CHRISTOFIAS elected president; percent of vote (first round) - Ioannis KASOULIDIS 33.5%, Dimitris CHRISTOFIAS 33.3%, Tassos PAPADOPOULOS 31.8%; (second round) Dimitris CHRISTOFIAS 53.4%, Ioannis KASOULIDIS 46.6% |
+| Executive branch: | note: Mehmet Ali TALAT became "president" of the "TRNC", 24 April 2005, after "presidential" elections on 17 April 2005; results - Mehmet Ali TALAT 55.6%, Dervis EROGLU 22.7%; Ferdi Sabit SOYER is "TRNC prime minister" and heads the Council of Ministers (cabinet) in coalition with "Foreign Minister and Deputy Prime Minister" Turgay AVCI |
+| Legislative branch: | unicameral - area under government control: House of Representatives or Vouli Antiprosopon (80 seats, 56 assigned to the Greek Cypriots, 24 to Turkish Cypriots; note - only those assigned to Greek Cypriots are filled; members are elected by popular vote to serve five-year terms); area administered by Turkish Cypriots: Assembly of the Republic or Cumhuriyet Meclisi (50 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: area under government control: last held 21 May 2006 (next to be held 2011); area administered by Turkish Cypriots: last held 14 December 2003 (next to be held in 2008) |
+| Legislative branch: | election results: area under government control: House of Representatives - percent of vote by party - AKEL 31.1%, DISY 30.3%, DIKO 17.9%, EDEK 8.9%, EURO.KO 5.8%, Greens 2.0%; seats by party - AKEL (Communist) 18, DISY 18, DIKO 11, EDEK 5, EURO.KO 3, Greens 1; area administered by Turkish Cypriots: Assembly of the Republic - percent of vote by party - CTP 35.8%, UBP 32.3%, Peace and Democratic Movement 13.4%, DP 12.3%; seats by party - CTP 19, UBP 18, Peace and Democratic Movement 6, DP 7; note - "TRNC" seats by party as of September 2006 - CTP 25, OP 3, UBP 13, DP 6, BDH 1, independents 2 |
+| Judicial branch: | Supreme Court (judges are appointed jointly by the president and vice president) |
+| Judicial branch: | note: there is also a Supreme Court in the area administered by Turkish Cypriots |
+| Political parties and leaders: | area under government control: Democratic Party or DIKO [Marios KAROYIAN]; Democratic Rally or DISY [Nikos ANASTASIADHIS]; European Democracy or EURO.DI [Prodromos PRODROMOU] (evolved from For Europe which merged with New Horizons); European Party or EURO.KO [Demetris SYLLOURIS]; Fighting Democratic Movement or ADIK [Dinos MIKHAILIDIS]; Green Party of Cyprus [George PERDIKIS]; Movement for Social Democrats or EDEK [Yannakis OMIROU]; Political Movement of Hunters [Michalis PAFITANIS]; Progressive Party of the Working People or AKEL (Communist Party) [Dimitris CHRISTOFIAS]; United Democrats or EDI [Michalis PAPAPETROU] |
+| Political parties and leaders: | area administered by Turkish Cypriots: Communal Liberation Party or TKP [Huseyin ANGOLEMLI]; Cyprus Socialist Party or KSP [Kazim ONGEN]; Democratic Party or DP [Serder DENKTASH]; Freedom and Reform Party or OP [Turgay AVCI]; National Unity Party or UBP [Tahsin ERTUGRULOGLU]; Nationalist Justice Party or MAP [Ata TEPE]; New Party or YP [Huseyin TURAN]; Our Party or BP [Okyay SADIKOGLU]; Patriotic Unity Movement or YBH [Oguz OZEN]; Peace and Democratic Movement or BDH [Mustafa AKINCI]; Renewal Progress Party or YAP [Ertugrul HASIPOGLU]; Republican Turkish Party or CTP [Ferdi Sabit SOYER]; United Cyprus Party or BKP [Isset IZCAN] |
+| Political pressure groups and leaders: | Confederation of Cypriot Workers or SEK (pro-West); Confederation of Revolutionary Labor Unions or Dev-Is; Federation of Turkish Cypriot Labor Unions or Turk-Sen; Pan-Cyprian Labor Federation or PEO (Communist controlled) |
+| International organization participation: | Australia Group, C, CE, EBRD, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt, IFAD, IFC, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM (guest), NSG, OAS (observer), OIF (associate member), OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Andreas KAKOURIS |
+| Diplomatic representation in the US: | chancery: 2211 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-5772, 462-0873 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-6710 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation in the US: | note: representative of the Turkish Cypriot community in the US is Hilmi AKIL; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Frank C. URBANCIC, Jr. |
+| Diplomatic representation from the US: | embassy: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia |
+| Diplomatic representation from the US: | mailing address: P. O. Box 24536, 1385 Nicosia |
+| Diplomatic representation from the US: | telephone: [357] (22) 393939 |
+| Diplomatic representation from the US: | FAX: [357] (22) 780944 |
+| Flag description: | white with a copper-colored silhouette of the island (the name Cyprus is derived from the Greek word for copper) above two green crossed olive branches in the center of the flag; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities |
+| Flag description: | note: the "Turkish Republic of Northern Cyprus" flag has a white field with narrow horizontal red stripes positioned a small distance from the top and bottom edges between which is centered a red crescent and a red five-pointed star |

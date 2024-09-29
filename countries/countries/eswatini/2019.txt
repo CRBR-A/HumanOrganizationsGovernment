@@ -1,0 +1,61 @@
+| Government | Eswatini |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Eswatini |
+| Country name: | conventional short form: Eswatini |
+| Country name: | local long form: Umbuso weSwatini |
+| Country name: | local short form: eSwatini |
+| Country name: | former: Swaziland |
+| Country name: | etymology: the country name derives from 19th century King MSWATI II, under whose rule Swati territory was expanded and unified |
+| Country name: | note: pronounced ay-swatini or eh-swatini |
+| Government type: | absolute monarchy |
+| Capital: | name: Mbabane (administrative capital); Lobamba (royal and legislative capital) |
+| Capital: | geographic coordinates: 26 19 S, 31 08 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: named after a Swati chief, Mbabane Kunene, who lived in the area at the onset of British settlement |
+| Administrative divisions: | 4 regions; Hhohho, Lubombo, Manzini, Shiselweni |
+| Independence: | 6 September 1968 (from the UK) |
+| National holiday: | Independence Day (Somhlolo Day), 6 September (1968) |
+| Constitution: | history: previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006 |
+| Constitution: | amendments: proposed at a joint sitting of both houses of Parliament; passage requires majority vote by both houses and/or majority vote in a referendum, and assent of the king; passage of amendments affecting "specially entrenched" constitutional provisions requires at least three-fourths majority vote by both houses, passage by simple majority vote in a referendum, and assent of the king; passage of "entrenched" provisions requires at least two-thirds majority vote of both houses, passage in a referendum, and assent of the king (2017) |
+| Legal system: | mixed legal system of civil, common, and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: both parents must be citizens of Eswatini |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age |
+| Executive branch: | chief of state: King MSWATI III (since 25 April 1986) |
+| Executive branch: | head of government: Prime Minister Ambrose Mandvulo DLAMINI (since 27 October 2018); Deputy Prime Minister Themba MASUKU (since 6 November 2018) |
+| Executive branch: | cabinet: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly |
+| Executive branch: | elections/appointments: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly |
+| Legislative branch: | description: bicameral Parliament (Libandla) consists of: |
+| Legislative branch: | Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms) |
+| Legislative branch: | House of Assembly (73 seats; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%;Â members serve 5-year terms) |
+| Legislative branch: | elections: Senate - last held on 23 October 2018 (next to be held - 31 October 2023) |
+| Legislative branch: | House of Assembly - last held on 21 September 2018 (next to be held in 2023) |
+| Legislative branch: | election results: Senate - percent of seats by party - NA; seats by party - NA; composition - men 20, women 10, percent of women 33.3% |
+| Legislative branch: | House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 60, women 5, percent of women 7.7%; note - total Parliament percent of women 15.8% |
+| Judicial branch: | highest courts: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters |
+| Judicial branch: | judge selection and term of office: justices of the Supreme Court and High Court appointed by the monarch on the advice of the Judicial Service Commission (JSC), a judicial advisory body consisting of the Supreme Court Chief Justice, 4 members appointed by the monarch, and the chairman of the Civil Service Commission; justices of both courts eligible for retirement at age 65 with mandatory retirement at age 75 |
+| Judicial branch: | subordinate courts: magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens) |
+| Political parties and leaders: | political parties exist, but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations: |
+| Political parties and leaders: | African United Democratic Party or AUDP [Sibusiso DLAMINI] |
+| Political parties and leaders: | Ngwane National Liberatory Congress or NNLC [Dr. Alvit DLAMINI] |
+| Political parties and leaders: | People's United Democratic Movement or PUDEMO [Mario MASUKU] |
+| Political parties and leaders: | Swazi Democratic Party or SWADEPA [Jan SITHOLE] |
+| International organization participation: | ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Njabuliso Busisiwe Sikhulile GWEBU (since 24 April 2017) |
+| Diplomatic representation in the US: | chancery: 1712 New Hampshire Avenue, NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-5002 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-8254 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Lisa J. PETERSON (since February 2016) |
+| Diplomatic representation from the US: | telephone: [268] 2417-9000 |
+| Diplomatic representation from the US: | embassy: corner of MR 103 and Cultural Center Drive, Ezulwini, |
+| Diplomatic representation from the US: | P.O. Box 0202,The Gables, H106, Eswatini |
+| Diplomatic representation from the US: | mailing address: P.O. Box D202, The Gables, H106 |
+| Diplomatic representation from the US: | FAX: [268] 2416-3344 |
+| Flag description: | three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence |
+| National symbol(s): | lion, elephant; national colors: blue, yellow, red |
+| National anthem: | name: "Nkulunkulu Mnikati wetibusiso temaSwati" (Oh God, Bestower of the Blessings of the Swazi) |
+| National anthem: | lyrics/music: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT |
+| National anthem: | note: adopted 1968; uses elements of both ethnic Swazi and Western music styles |

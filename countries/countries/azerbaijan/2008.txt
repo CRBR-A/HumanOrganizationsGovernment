@@ -1,0 +1,46 @@
+| Government | Azerbaijan |
+| --- | --- |
+| Country name: | conventional long form: Republic of Azerbaijan |
+| Country name: | conventional short form: Azerbaijan |
+| Country name: | local long form: Azarbaycan Respublikasi |
+| Country name: | local short form: Azarbaycan |
+| Country name: | former: Azerbaijan Soviet Socialist Republic |
+| Government type: | republic |
+| Capital: | name: Baku (Baki, Baky) |
+| Capital: | geographic coordinates: 40 23 N, 49 52 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 59 rayons (rayonlar; rayon - singular), 11 cities (saharlar; sahar - singular), 1 autonomous republic (muxtar respublika) |
+| Administrative divisions: | rayons: Abseron Rayonu, Agcabadi Rayonu, Agdam Rayonu, Agdas Rayonu, Agstafa Rayonu, Agsu Rayonu, Astara Rayonu, Balakan Rayonu, Barda Rayonu, Beylaqan Rayonu, Bilasuvar Rayonu, Cabrayil Rayonu, Calilabad Rayonu, Daskasan Rayonu, Davaci Rayonu, Fuzuli Rayonu, Gadabay Rayonu, Goranboy Rayonu, Goycay Rayonu, Haciqabul Rayonu, Imisli Rayonu, Ismayilli Rayonu, Kalbacar Rayonu, Kurdamir Rayonu, Lacin Rayonu, Lankaran Rayonu, Lerik Rayonu, Masalli Rayonu, Neftcala Rayonu, Oguz Rayonu, Qabala Rayonu, Qax Rayonu, Qazax Rayonu, Qobustan Rayonu, Quba Rayonu, Qubadli Rayonu, Qusar Rayonu, Saatli Rayonu, Sabirabad Rayonu, Saki Rayonu, Salyan Rayonu, Samaxi Rayonu, Samkir Rayonu, Samux Rayonu, Siyazan Rayonu, Susa Rayonu, Tartar Rayonu, Tovuz Rayonu, Ucar Rayonu, Xacmaz Rayonu, Xanlar Rayonu, Xizi Rayonu, Xocali Rayonu, Xocavand Rayonu, Yardimli Rayonu, Yevlax Rayonu, Zangilan Rayonu, Zaqatala Rayonu, Zardab Rayonu |
+| Administrative divisions: | cities: Ali Bayramli Sahari, Baki Sahari, Ganca Sahari, Lankaran Sahari, Mingacevir Sahari, Naftalan Sahari, Saki Sahari, Sumqayit Sahari, Susa Sahari, Xankandi Sahari, Yevlax Sahari |
+| Administrative divisions: | autonomous republic: Naxcivan Muxtar Respublikasi |
+| Independence: | 30 August 1991 (from Soviet Union) |
+| National holiday: | Founding of the Democratic Republic of Azerbaijan, 28 May (1918) |
+| Constitution: | adopted 12 November 1995 |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Ilham ALIYEV (since 31 October 2003) |
+| Executive branch: | head of government: Prime Minister Artur RASIZADE (since 4 November 2003); First Deputy Prime Minister Yaqub EYYUBOV (since June 2006) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president and confirmed by the National Assembly |
+| Executive branch: | elections: president elected by popular vote to a five-year term (eligible for a second term); election last held 15 October 2008 (next to be held in October 2013); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly |
+| Executive branch: | election results: Ilham ALIYEV reelected president; percent of vote - Ilham ALIYEV 88.7%, Igbal AGHAZADE 2.9%, five other candidates with smaller percentages |
+| Executive branch: | note: several political parties boycotted the election due to unfair conditions; OSCE observers concluded that the election did not meet international standards |
+| Legislative branch: | unicameral National Assembly or Milli Mejlis (125 seats; members elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held 6 November 2005 (next to be held in November 2010) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - Yeni 58, Azadliq coalition 8, CSP 2, Motherland 2, other parties with single seats 9, independents 42, undetermined 4 |
+| Judicial branch: | Supreme Court |
+| Political parties and leaders: | Azadliq (Freedom) coalition (Popular Front Party, Liberal Party, Citizens' Development Party); Azerbaijan Democratic Party or ADP [Sardar JALALOGLU]; Azerbaijan Democratic Reforms Party (ADRP) Youth Movement [Ramin HAJILI]; Azerbaijan Popular Front or APF, now split in two [Ali KARIMLI, leader of "Reform" APF party; Mirmahmud MIRALI-OGLU, leader of "Classic" APF party]; Azerbaijan Public Forum [Eldar NAMAZOV]; Citizens' Development Party [Ali ALIYEV]; Civil Solidarity Party or CSP [Sabir RUSTAMKHANLY]; Dalga Youth Movement [Vafa JAFAROVA]; Green Party [Mais GULALIYEV and Tarana MAMMADOVA]; Hope (Umid) Party [Iqbal AGAZADE]; Ireli Youth Movement [Jeyhun OSMANLI, Roya TALIBOVA, Farhad MAMMADOV, Elnara GARIBOVA, Elnur MAMMADOV, Ziya ALIYEV]; Justice Party [Ilyas ISMAILOV]; Liberal Party of Azerbaijan [Lala Shovkat HACIYEVA]; Magam Youth Movement [Emin HUSEYNOV]; Motherland Party [Fazail AGAMALI]; Musavat (Equality) [Isa GAMBAR, chairman]; Musavat Party Youth Movement [Elnur MAMMADLI]; National Democratic Party or Grey Wolves (Nationalist, Pan-Turkic) [Iskender HAMIDOV]; Open Society Party [Rasul GULIYEV, in exile in the US]; Party for National Independence of Azerbaijan or PNIA [Ayaz RUSTAMOV]; Popular Front Party Youth Movement [Seymur KHAZIYEV]; Social Democratic Party of Azerbaijan or SDP [Araz ALIZADE and Ayaz MUTALIBOV (in exile)]; Turkish Nationalist Party [Vugar BAYTURAN]; United Azerbaijan Party [Karrar ABILOV]; United Azerbaijan National Unity Party [Hajibaba AZIMOV]; United Party [Tahir KARIMLI]; Yeni (New) Azerbaijan Party [President Ilham ALIYEV]; Yeni Azerbaijan Party Youth Movement [Ramil HASANOV]; Yox (No) Youth Movement [Ali ISMAYILOV] |
+| Political parties and leaders: | note: opposition parties regularly factionalize and form new parties; |
+| Political pressure groups and leaders: | Armenian Nagorno-Karabakh Republic (self-proclaimed); Karabakh Liberation Organization; Sadval, Lezgin movement; Talysh independence movement; Union of Pro-Azerbaijani Forces or UPAF |
+| International organization participation: | ADB, BSEC, CE, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM (observer), OAS (observer), OIC, OPCW, OSCE, PFP, SECI (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Yashar ALIYEV |
+| Diplomatic representation in the US: | chancery: 2741 34th Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 337-3500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 337-5911 |
+| Diplomatic representation in the US: | Consulate(s) general: Los Angeles |
+| Diplomatic representation from the US: | chief of mission: Ambassador Anne E. DERSE |
+| Diplomatic representation from the US: | embassy: 83 Azadlig Prospecti, Baku AZ1007 |
+| Diplomatic representation from the US: | mailing address: American Embassy Baku, US Department of State, 7050 Baku Place, Washington, DC 20521-7050 |
+| Diplomatic representation from the US: | telephone: [994] (12) 4980-335 through 337 |
+| Diplomatic representation from the US: | FAX: [994] (12) 4656-671 |
+| Flag description: | three equal horizontal bands of blue (top), red, and green; a crescent and eight-pointed star in white are centered in red band |

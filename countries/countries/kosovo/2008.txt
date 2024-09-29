@@ -1,0 +1,37 @@
+| Government | Kosovo |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kosovo |
+| Country name: | conventional short form: Kosovo |
+| Country name: | local long form: Republika e Kosoves (Republika Kosova) |
+| Country name: | local short form: Kosova (Kosovo) |
+| Country name: | former: Kosovo and Metohija Autonomous Province |
+| Government type: | republic |
+| Capital: | name: Pristina (Prishtine) |
+| Capital: | geographic coordinates: 42 40 N, 21 10 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 30 municipalities (komunat, singular - komuna in Albanian; opstine, singular - opstina in Serbian); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gllogoc/Drenas (Glogovac), Gjilan (Gnjilane), Istog (Istok), Kacanik, Kamenice/Dardana (Kamenica), Kline (Klina), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mitrovice (Mitrovica), Novoberde (Novo Brdo), Obiliq (Obilic), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Shtime (Stimlje), Shterpce (Strpce), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan |
+| Independence: | 17 February 2008 (from Serbia) |
+| National holiday: | Independence Day, 17 February (2008) |
+| Constitution: | ratified 9 April 2008; effective 15 June 2008 |
+| Legal system: | evolving legal system based on terms of UN Special Envoy Martti AHTISAARI's Plan for Kosovo's supervised independence |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Fatmir SEJDIU (since 10 February 2006) |
+| Executive branch: | head of government: Prime Minister Hashim THACI (since 9 January 2008) |
+| Executive branch: | cabinet: ministers; elected by the Kosovo Assembly |
+| Executive branch: | elections: the president is elected for a five-year term by the Kosovo Assembly; election last held 9 January 2008 (next to be held by in 2013); the prime minister is elected by the Kosovo Assembly |
+| Executive branch: | election results: Fatmir SEJDIU reelected president; first round: Fatmir SEDIU 62, Naim MALOKU 37; second round: Fatmir SEDIU 61, Naim MALOKU 37; and Hashim THACI elected to be prime minister by the Assembly |
+| Legislative branch: | unicameral Kosovo Assembly of the Provisional Government (120 seats; 100 seats directly elected, 10 seats for Serbs, 10 seats for other minorities; to serve three-year terms) |
+| Legislative branch: | elections: last held 17 November 2007 (next to be held in 2011) |
+| Legislative branch: | election results: percent of vote by party - PDK 34.3%, LDK 22.6%, AKR 12.3%, LDD 10.0%, AAK 9.6%, other 11.2%; seats by party - PDK 37, LDK 25, AKR 13, LDD 11, AAK 10, other 4 |
+| Judicial branch: | Supreme Court judges are appointed by the Special Representative of the Secretary-General (SRSG); district courts judges are appointed by the SRSG; municipal courts judges are appointed by the SRSG |
+| Judicial branch: | note: after the termination of UNMIK's mandate, the Kosovo Judicial Council (KJC) will propose to the president candidates for appointment or reappointment as judges and prosecutors; the KJC is also responsible for decisions on the promotion and transfer of judges and disciplinary proceedings against judges; at least 15% of Supreme Court and district court judges shall be from nonmajority communities |
+| Political parties and leaders: | Albanian Christian Democratic Party of Kosovo or PShDK [Mark KRASNIQI]; Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]; Alliance of Independent Social Democrats of Kososvo and Metohija or SDSKIM [Slavisa PETKOVIC]; Autonomous Liberal Party of SLS [Slobodan PETROVIC]; Bosniak Vakat Coalition [Dzezair MURATI]; Citizens' Initiative of Gora or GIG [Murselj HALILI]; Council of Independent Social Democrats of Kosovo or SNSDKIM [Ljubisa ZIVIC]; Democratic League of Dardania or LDD [Nexhat DACI]; Democratic League of Kosovo or LDK [Fatmir SEJDIU]; Democratic Party of Ashkali of Kosovo or PDAK [Sabit RAHMANI]; Democratic Party of Kosovo or PDK [Hashim THACI]; Kosovo Democratic Turkish Party of KDTP [Mahir YAGCILAR]; New Democratic Initiative of Kosovo or IRDK [Xhevdet NEZIRAJ]; New Democratic Party or ND [Branislav GRBIC]; New Kosovo Alliance or AKR [Behxhet PACOLLI]; Popular Movement of Kosovo or LPK [Emrush XHEMAJLI]; Reform Party Ora; Serb National Party or SNS [Mihailo SCEPANOVIC]; Serbian Kosovo and Metohija Party or SKMS [Dragisa MIRIC]; United Roma Party of Kosovo or PREBK [Haxhi Zylfi MERXHA]; Democratic Action Party or SDA [Numan BALIC]; Serbian List for Kosovo and Metohija [Oliver IVANOVIC]; Serbian National Council of Northern Kosovo and Metohija or SNV [Milan IVANOVIC]; Democratic Party of Bosniaks [Dzezair MURAIT]; Democratic Party Vatan [Sadik IDRIZI]; Gorani Citizens Initiative [Mursel HALJILJI]; Serbian People Party [Mihailo SCEPANOVIC]; Serbian Democratic Party of Kosovo and Metohija [Slavisa PETKOVIC]; Serb Liberal Party [Slobodan PETROVIC]; Independent League of Social-Democrats of Kosovo and Metohija [Ljubisa ZIVIC] |
+| Political pressure groups and leaders: | Council for the Defense of Human Rights and Freedom (human rights); Humanitarian Law Centre (human rights); Movement for Self-Determination; Serb National Council (SNV) |
+| International organization participation: | ITUC, WFTU |
+| Diplomatic representation from the US: | chief of mission: Ambassador Tina KAIDANOW |
+| Diplomatic representation from the US: | embassy: Arberia/Dragodan, Nazim Hikmet 30, Pristina, Kosovo |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: 381 38 59 59 3000 |
+| Diplomatic representation from the US: | FAX: 381 38 549 890 |
+| Flag description: | centered on a dark blue field is the geographical shape of Kosovo in a gold color surmounted by six white, five-pointed stars - each representing one of the major ethnic groups of Kosovo - arrayed in a slight arc |

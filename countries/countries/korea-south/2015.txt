@@ -1,0 +1,65 @@
+| Government | KOREA, SOUTH |
+| --- | --- |
+| Country name: | conventional long form: Republic of Korea |
+| Country name: | conventional short form: South Korea |
+| Country name: | local long form: Taehan-min'guk |
+| Country name: | local short form: Han'guk |
+| Country name: | abbreviation: ROK |
+| Government type: | republic |
+| Capital: | name: Seoul |
+| Capital: | geographic coordinates: 37 33 N, 126 59 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi) |
+| Administrative divisions: | provinces: Chungbuk (North Chungcheong), Chungnam (South Chungcheong), Gangwon, Gyeongbuk (North Gyeongsang), Gyeonggi, Gyeongnam (South Gyeongsang), Jeju, Jeonbuk (North Jeolla), Jeonnam (South Jeolla) |
+| Administrative divisions: | metropolitan cities: Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan |
+| Administrative divisions: | special city: Seoul |
+| Administrative divisions: | special self-governing city: Sejong |
+| Independence: | 15 August 1945 (from Japan) |
+| National holiday: | Liberation Day, 15 August (1945) |
+| Constitution: | effective 17 July 1948; amended several times, last in 1987 (2013) |
+| Legal system: | mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 19 years of age; universal |
+| Executive branch: | chief of state: President PARK Geun-hye (since 25 February 2013) |
+| Executive branch: | head of government: Prime Minister HWANG Kyo-ahn (since 18 June 2015); Deputy Prime Ministers HWANG Woo-yea (since 7 November 2014), CHOI Kyung-hwan (since 13 June 2014) |
+| Executive branch: | cabinet: State Council appointed by the president on the prime minister's recommendation |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a single 5-year term; election last held on 19 December 2012 (next to be held in December 2017); prime minister appointed by president, approved by National Assembly |
+| Executive branch: | election results: PARK Geun-Hye elected president; percent of vote - PARK Geun-Hye (NFP) 51.6%, MOON Jae-In (DUP) 48%, other 0.4% |
+| Legislative branch: | description: unicameral National Assembly or Kuk Koe (300 seats; 246 members directly elected in single-seat constituencies by simple majority vote and 54 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 11 April 2012 (next to be held in April 2016) |
+| Legislative branch: | election results: percent of vote by party - NFP 42.8%, DUP 36.5%, UPP 10.3%, LFP 3.2%, other 7.2%; seats by party - NFP 152, DUP 127, UPP 13, LFP 5, independent 3 |
+| Legislative branch: | note: seats by negotiation group as of August 2015 - NFP 160, NPAD 130, Justice Party 5, Independents 3; note - 2 seats are vacant |
+| Judicial branch: | highest court(s): Supreme Court of South Korea (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices) |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year non-renewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65 |
+| Judicial branch: | subordinate courts: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues |
+| Political parties and leaders: | Justice Party [CHEON Ho-sun] |
+| Political parties and leaders: | Liberty Forward Party or LFP (merged with NFP in October 2012) |
+| Political parties and leaders: | New Frontier Party (NFP) or Saenuri (formerly Grand National Party) [KIM Moo-sung] |
+| Political parties and leaders: | New Politics Alliance for Democracy or NPAD [MOON Jae-in] (merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014) |
+| Political parties and leaders: | Unified Progressive Party or UPP (disbanded in December 2014) |
+| Political pressure groups and leaders: | Catholic Priests' Association for Justice |
+| Political pressure groups and leaders: | Christian Council of Korea |
+| Political pressure groups and leaders: | Citizen's Coalition for Economic Justice |
+| Political pressure groups and leaders: | Federation of Korean Industries |
+| Political pressure groups and leaders: | Federation of Korean Trade Unions |
+| Political pressure groups and leaders: | Korean Confederation of Trade Unions |
+| Political pressure groups and leaders: | Korean Veterans' Association |
+| Political pressure groups and leaders: | Lawyers for a Democratic Society |
+| Political pressure groups and leaders: | National Council of Churches in Korea |
+| Political pressure groups and leaders: | People's Solidarity for Participatory Democracy |
+| International organization participation: | ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador AHN Ho-young (since 7 June 2013) |
+| Diplomatic representation in the US: | chancery: 2450 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-5600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 797-0595 |
+| Diplomatic representation in the US: | consulate(s) general: Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador Mark William LIPPERT (since 21 November 2014) |
+| Diplomatic representation from the US: | embassy: 188 Sejong-daero, Jongno-gu, Seoul 110-710 |
+| Diplomatic representation from the US: | mailing address: US Embassy Seoul, Unit |
+| Diplomatic representation from the US: | telephone: [82] (2) 397-4114 |
+| Diplomatic representation from the US: | FAX: [82] (2) 725-0152 |
+| Flag description: | white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony |
+| National symbol(s): | taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon); national colors: red, white, blue, black |
+| National anthem: | name: "Aegukga" (Patriotic Song) |
+| National anthem: | lyrics/music: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay |
+| National anthem: | note: adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics |

@@ -1,0 +1,45 @@
+| Government | Guam |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Guam |
+| Country name: | local long form: none |
+| Country name: | local short form: Guahan |
+| Country name: | abbreviation: GU |
+| Country name: | etymology: the native Chamorro name for the island "Guahan" (meaning "we have" or "ours") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US |
+| Dependency status: | unincorporated organized territory of the US with policy relations between Guam and theÂ federal governmentÂ under the jurisdiction of the Office of Insular Affairs, US Department of the Interior |
+| Government type: | republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government |
+| Capital: | name: Hagatna (Agana) |
+| Capital: | geographic coordinates: 13 28 N, 144 44 E |
+| Capital: | time difference: UTC+10 (15 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the name is derived from the Chamoru word "haga," meaning "blood", and may refer to the bloodlines of the various families that established the original settlement |
+| Administrative divisions: | none (territory of the US) |
+| Independence: | none (territory of the US) |
+| National holiday: | Discovery Day (or Magellan Day), first Monday in March (1521) |
+| Constitution: | history: effective 1 July 1950 (Guam Act of 1950 serves as a constitution) |
+| Constitution: | amendments: amended many times, last in 2015 (2017) |
+| Legal system: | common law modeled on US system; US federal laws apply |
+| Citizenship: | see United States |
+| Suffrage: | 18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections |
+| Executive branch: | chief of state: President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017) |
+| Executive branch: | head of government: Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019) |
+| Executive branch: | cabinet: Cabinet appointed by the governor with the consent of the Legislature |
+| Executive branch: | elections/appointments: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022) |
+| Executive branch: | election results: Lourdes LEON GUERRERO elected governor; percent of vote - Â Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor |
+| Legislative branch: | description: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms) |
+| Legislative branch: | elections: last held onÂ 6 November 2018 (next to be held in November 2020) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7% |
+| Legislative branch: | note: Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a â€œfull floorâ€? House vote; election of delegate last held on 6 November 2018 (next to be held in November 2020); election results - seat by party - Democratic Party 1; composition 1 man |
+| Judicial branch: | highest courts: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court |
+| Judicial branch: | judge selection and term of office: justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years |
+| Judicial branch: | subordinate courts: Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit) |
+| Political parties and leaders: | Democratic Party [Joaquin "Kin" PEREZ] |
+| Political parties and leaders: | Republican Party [Jerry CRISOSTOMO] |
+| International organization participation: | AOSIS (observer), IOC, PIF (observer), SPC, UPU |
+| Diplomatic representation in the US: | none (territory of the US) |
+| Diplomatic representation from the US: | none (territory of the US) |
+| Flag description: | territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression |
+| Flag description: | note: the US flag is the national flag |
+| National symbol(s): | coconut tree; national colors: deep blue, red |
+| National anthem: | name: "Fanohge Chamoru" (Stand Ye Guamanians) |
+| National anthem: | lyrics/music: Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN |
+| National anthem: | note: adopted 1919; the local anthem is also known as "Guam Hymn"; as a territory of the United States, "The Star-Spangled Banner," which generally follows the playing of "Stand Ye Guamanians," is official (see United States) |

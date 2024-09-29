@@ -1,0 +1,60 @@
+| Government | Gambia, The |
+| --- | --- |
+| Country name: | conventional long form: Republic of The Gambia |
+| Country name: | conventional short form: The Gambia |
+| Country name: | etymology: named for the Gambia River that flows through the heart of the country |
+| Government type: | presidential republic |
+| Capital: | name: Banjul |
+| Capital: | geographic coordinates: 13 27 N, 16 34 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; "bang julo" is Mandinka for "rope fiber"; mispronunciation over time caused the term became the word Banjul |
+| Administrative divisions: | 5 regions, 1 city*, and 1 municipality**; Banjul*, Central River, Kanifing**, Lower River, North Bank, Upper River, West Coast |
+| Independence: | 18 February 1965 (from the UK) |
+| National holiday: | Independence Day, 18 February (1965) |
+| Constitution: | history: previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997; note - referendum on new constitution planned over the next 2 years |
+| Constitution: | amendments: proposed by the National Assembly; passage requires at least three-fourths majority vote by the Assembly membership in each of several readings and approval by the president of the republic; a referendum is required for amendments affecting national sovereignty, fundamental rights and freedoms, government structures and authorities, taxation, and public funding; passage by referendum requires participation of at least 50% of eligible voters and approval by at least 75% of votes cast; amended 2001, 2004, 2010 |
+| Legal system: | mixed legal system of English common law, Islamic law, and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 1 December 2016 (next to be held in 2021); vice president appointed by the president |
+| Executive branch: | election results: Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1% |
+| Legislative branch: | description: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 6 April 2017 (next to be held in 2022) |
+| Legislative branch: | election results: percent of vote by party - UDP 37.5%, GDC 17.4%, APRC 16%, PDOIS 9%, NRP 6.3%, PPP 2.5%, other 1.7%, independent 9.6%; seats by party - UDP 31, APRC 5, GDC 5, NRP 5, PDOIS 4, PPP 2, independent 1; composition - men 52, women 6, percent of women 10.3% |
+| Judicial branch: | highest courts: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices) |
+| Judicial branch: | judge selection and term of office: justices appointed by the president after consultation with the Judicial Service Commission, a 6-member independent body of high-level judicial officials, a presidential appointee, and a National Assembly appointee; justices appointed for life or until mandatory retirement at age 75 |
+| Judicial branch: | subordinate courts: Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts |
+| Political parties and leaders: | Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA] |
+| Political parties and leaders: | Coalition 2016 [collective leadership] (electoral coalition includes UDP, PDOIS, NRP, GMC, GDC, PPP, and GPDP) |
+| Political parties and leaders: | Gambia Democratic Congress or GDC [Mama KANDEH] |
+| Political parties and leaders: | Gambia Moral Congress or GMC [Mai FATTY] |
+| Political parties and leaders: | Gambia Party for Democracy and Progress or GPDP [Sarja JARJOU] |
+| Political parties and leaders: | National Convention Party or NCP [YayaÂ  SANYANG and Majanko SAMUSA (both claiming leadership)] |
+| Political parties and leaders: | National Democratic Action Movement or NDAM [Lamin Yaa JUARA] |
+| Political parties and leaders: | National People's Party or NPP [Adama BARROW] |
+| Political parties and leaders: | National Reconciliation Party or NRP [Hamat BAH] |
+| Political parties and leaders: | People's Democratic Organization for Independence and Socialism or PDOIS [Sidia JATTA] |
+| Political parties and leaders: | People's Progressive Party or PPP [Yaya CEESAY)] |
+| Political parties and leaders: | United Democratic Party or UDP [Ousainou DARBOE] |
+| International organization participation: | ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Dawda D. FADERA (since 24 January 2018) |
+| Diplomatic representation in the US: | chancery: 5630 16th Street NW, Washington, DC 20011 |
+| Diplomatic representation in the US: | telephone: [1] (202) 785-1399 |
+| Diplomatic representation in the US: | FAX: [1] (202) 342-0240 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard "Carl" PASCHALL (since 9 April 2019) |
+| Diplomatic representation from the US: | telephone: [220] 439-2856 |
+| Diplomatic representation from the US: | embassy: Kairaba Avenue, Fajara, P.M.B.19, Banjul |
+| Diplomatic representation from the US: | mailing address: P.M.B. 19, Banjul |
+| Diplomatic representation from the US: | FAX: [220] 439-2475 |
+| Flag description: | three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue represents the Gambia River, and green symbolizes forests and agriculture; the white stripes denote unity and peace |
+| National symbol(s): | lion; national colors: red, blue, green, white |
+| National anthem: | name: For The Gambia, Our Homeland |
+| National anthem: | lyrics/music: Virginia Julie HOWE/adapted by Jeremy Frederick HOWE |
+| National anthem: | note: adopted 1965; the music is an adaptation of the traditional Mandinka song "Foday Kaba Dumbuya" |

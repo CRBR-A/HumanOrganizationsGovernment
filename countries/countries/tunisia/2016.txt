@@ -1,0 +1,73 @@
+| Government | TUNISIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Tunisia |
+| Country name: | conventional short form: Tunisia |
+| Country name: | local long form: Al Jumhuriyah at Tunisiyah |
+| Country name: | local short form: Tunis |
+| Country name: | note: the country name derives from the capital city of Tunis |
+| Government type: | parliamentary republic |
+| Capital: | name: Tunis |
+| Capital: | geographic coordinates: 36 48 N, 10 11 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 24 governorates (wilayat, singular - wilayah); Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), L'Ariana (Aryanah), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bouzid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan) |
+| Independence: | 20 March 1956 (from France) |
+| National holiday: | Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011) |
+| Constitution: | several previous; latest approved by Constituent Assembly 26 January 2014, signed by president on 27 January 2014 (2016) |
+| Legal system: | mixed legal system of civil law, based on the French civil code, and Islamic law; some judicial review of legislative acts in the Supreme Court in joint session |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Tunisia |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal except for active government security forces (including the police and the military), people with mental disabilities, people who have served more than three months in prison (criminal cases only), and people given a suspended sentence of more than six months |
+| Executive branch: | chief of state: President Beji CAID ESSEBSI (since 31 December 2014) |
+| Executive branch: | head of government: Prime Minister Youssef CHAHED (since 27 August 2016) |
+| Executive branch: | cabinet: selected by the prime minister and approved by the Constituent Assembly |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 November and 21 December 2014 (next to be held in 2019); following legislative elections, the prime minister is selected by the majority party or majority coalition and appointed by the president |
+| Executive branch: | election results: Beji CAID ESSEBSI elected president; percent of vote in runoff - Beji CAID ESSEBSI (Tunisia's Call) 55.7%, Moncef MARZOUKI (CPR) 44.3% |
+| Legislative branch: | description: unicameral Chamber of the People's Deputies (217 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: initial election held on 26 October 2014 (next to be held in 2019) |
+| Legislative branch: | election results: percent of vote by party - Tunisia's Call 39.6%, al-Nahda 31.8%, UPL 7.4%, Popular Front 6.9%, Afek Tounes 3.7%, CPR 1.8%, other 8.8%; seats by party - Tunisia's Call 86, al-Nahda 69, UPL 16, Popular Front 15, Afek Tounes 8, CPR 4, other 17, independent 2 |
+| Judicial branch: | highest court(s): Court of Cassation or Cour de Cassation (organized into 1 civil and 3 criminal chambers); Constitutional Court (consists of 12 members) |
+| Judicial branch: | note: the new Tunisian constitution of January 2014 called for the creation of a constitutional court by the end of 2015; the court will consist of 12 members - 4 each appointed by the president, Supreme Judicial Council or SJC (an independent 4-part body consisting mainly of elected judges and the remainder legal specialists), and the Chamber of the People's Deputies (parliament); members will serve 9-year terms with one-third of the membership renewed every 3 years; in late 2015, the International Commission of Jurists called on Tunisia's parliament to revise the draft on the constitutional court to ensure compliance with international standards |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by the Supreme Judicial Council (SJC), a body of elected and appointed judges and specialized staff, after consultation with the prime minister; judge tenure based on terms of appointment; Constitutional Court members appointed 3 each by the president of the republic, the Chamber of the People's Deputies, and the SJC; members serve 9-year terms with one-third of the membership renewed every 3 years |
+| Judicial branch: | subordinate courts: Courts of Appeal; administrative courts; Court of Audit; Housing Court; courts of first instance; lower district courts; military courts |
+| Political parties and leaders: | Afek Tounes [Yassine BRAHIM] |
+| Political parties and leaders: | Congress for the Republic or CPR [Imed DAIMI] |
+| Political parties and leaders: | Current of Love [Mohamed HAMDI] (formerly the Popular Petition party) |
+| Political parties and leaders: | Democratic Alliance Party [Mohamed HAMDI] |
+| Political parties and leaders: | Democratic Current [Mohamed ABBOU] |
+| Political parties and leaders: | Democratic Patriots' Unified Party |
+| Political parties and leaders: | Ennahda Movement (The Renaissance) [Rachid GHANNOUCHI] |
+| Political parties and leaders: | Free Patriotic Union or UPL (Union patriotique libre) [Slim RIAHI] |
+| Political parties and leaders: | Green Tunisia Party [Abdelkader ZITOUNI] |
+| Political parties and leaders: | Movement of Socialist Democrats or MDS [Ahmed KHASKHOUSSI] |
+| Political parties and leaders: | National Destourian Initiative or El Moubadra [Kamel MORJANE] |
+| Political parties and leaders: | Party of the Democratic Arab Vanguard |
+| Political parties and leaders: | People's Movement [Zouheir MAGHZAOUI] |
+| Political parties and leaders: | Popular Front (a coalition of 9 parties including Democractic Patriots' Unified Party, Workers' Party, Green Tunisia, Tunisian Ba'ath Movement, and Party of the Democractic Arab Vanguard) |
+| Political parties and leaders: | Popular Petition (Aridha Chaabia) [Hachemi HAMDI] |
+| Political parties and leaders: | Republican Party [Maya JRIBI] |
+| Political parties and leaders: | The Initiative [Kamel MORJANE] (formerly the Constitutional Democratic Rally or RCD) |
+| Political parties and leaders: | Tunisian Ba'ath Movement [Omar Othman BEKHADJ, secretary general] |
+| Political parties and leaders: | Tunisia's Call (Nidaa Tounes) [Mohamed ENNACEUR] |
+| Political parties and leaders: | Workers' Party [Hamma HAMMAMI] |
+| Political pressure groups and leaders: | 18 October Group [collective leadership] |
+| Political pressure groups and leaders: | Tunisian League for Human Rights or LTDH [Mokhtar TRIFI] |
+| Political pressure groups and leaders: | Tunisian General Labor Union or UGTT [Hassine ABASSI] |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AMU, AU, BSEC (observer), CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Faycal GOUIA (since 18 May 2015) |
+| Diplomatic representation in the US: | chancery: 1515 Massachusetts Avenue NW, Washington, DC 20005 |
+| Diplomatic representation in the US: | telephone: [1] (202) 862-1850 |
+| Diplomatic representation in the US: | FAX: [1] (202) 862-1858 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Daniel H. RUBINSTEIN (Since 22 October 2015) |
+| Diplomatic representation from the US: | embassy: Zone Nord-Est des Berges du Lac Nord de Tunis 1053 |
+| Diplomatic representation from the US: | mailing address: Zone Nord-Est des Berges du Lac Nord de Tunis 1053 |
+| Diplomatic representation from the US: | telephone: [216] 71 107-000 |
+| Diplomatic representation from the US: | FAX: [216] 71 963-263 |
+| Flag description: | red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; resembles the Ottoman flag (red banner with white crescent and star) and recalls Tunisia's history as part of the Ottoman Empire; red represents the blood shed by martyrs in the struggle against oppression, white stands for peace; the crescent and star are traditional symbols of Islam |
+| Flag description: | note: the flag is based on that of Turkey, itself a successor state to the Ottoman Empire |
+| National symbol(s): | encircled red star and crescent; national colors: red, white |
+| National anthem: | name: "Humat Al Hima" (Defenders of the Homeland) |
+| National anthem: | lyrics/music: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAHAB |
+| National anthem: | note: adopted 1957, replaced 1958, restored 1987; Mohamad Abdel WAHAB also composed the music for the anthem of the United Arab Emirates |

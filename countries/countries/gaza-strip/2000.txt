@@ -1,0 +1,7 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Gaza Strip |
+| Country name: | local long form: none |
+| Country name: | local short form: Qita Ghazzah |
+| Data code: | GZ |

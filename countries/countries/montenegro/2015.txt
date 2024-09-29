@@ -1,0 +1,56 @@
+| Government | MONTENEGRO |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Montenegro |
+| Country name: | local long form: none |
+| Country name: | local short form: Crna Gora |
+| Country name: | former: People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro |
+| Government type: | republic |
+| Capital: | name: Podgorica; note - Cetinje retains the status of "Old Royal Capital" |
+| Capital: | geographic coordinates: 42 26 N, 19 16 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1 hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 23 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnijica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Ulcinj, Zabljak |
+| Independence: | 3 June 2006 (from the State Union of Serbia and Montenegro) |
+| National holiday: | National Day, 13 July (1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against Nazi occupiers and sided with the partisan Communist movement) |
+| Constitution: | several previous; latest adopted 19 October 2007, promulagated 22 October 2007; amended 2013 (to strengthen independence of judiciary) (2015) (2015) |
+| Legal system: | civil law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Filip VUJANOVIC (since 6 April 2008) |
+| Executive branch: | head of government: Prime Minister Milo DJUKANOVIC (since 4 December 2012) |
+| Executive branch: | cabinet: Ministers act as cabinet |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 April 2013 (next to be held in 2018); prime minister nominated by the president, approved by the Assembly |
+| Executive branch: | election results: Filip VUJANOVIC reelected president; Filip VUJANOVIC (DPS) 51.2%, Miodrag LEKIC (independent) 48.8%% |
+| Legislative branch: | description: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 14 October 2012 (next to be held in October 2016) |
+| Legislative branch: | election results: percent of vote by party/coalition - Coalition for European Montenegro 45.6%, Democratic Front 22.8%, SNP 11.1%, Positive Montenegro 8.2%, Bosniak Party 4.2%, other (including Albanian and Croatian minority parties) 8.1%; seats by party - Coalition for European Montenegro 39, Democratic Front 20, SNP 9, Positive Montenegro 7, Bosniak Party 3, Albanian and Croatian minority parties 3 |
+| Legislative branch: | note: seats by party/coaltion as of May 2015 - Coalition for European Montenegro 39, Democratic Front 20, SNP 9, Positive Montenegro 5, Bosniak Party 3, Albanian and Croatian minority parties 3, independent 2 |
+| Judicial branch: | highest court(s): Supreme Court or Vrhovni Sud (consists of the court president, deputy president and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court president proposed by general session of the Supreme Court and elected by the Judicial Council, a 9-member body consisting of judges, lawyers designated by the Assembly, and the minister of judicial affairs; Supreme Court president elected for a single renewable, 5-year term; other judges elected by the Judicial Council for life; Constitutional Court judges - 2 proposed by the president of Montenegro and 5 by the Assembly, and elected by the Assembly; court president elected from among the court members; court president elected for 3 years, other judges 9 years |
+| Judicial branch: | subordinate courts: Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts |
+| Political parties and leaders: | Albanian Coalition (includes Democratic League in Montenegro or DSCG [Mehmet BARDHI], Democratic Party [Fatmir DJEKA], and Albanian Alternative or AA [Gjergj CAMAJ]) |
+| Political parties and leaders: | Bosniak Party or BS [Rafet HUSOVIC] |
+| Political parties and leaders: | Coalition for European Montenegro [Milo DJUKANOVIC] (includes Democratic Party of Socialists or DPS [Milo DJUKANOVIC], Liberal Party of Montenegro or LP [Andrija POPOVIC], and Social Democratic Party or SDP [Ranko KRIVOKAPIC]) |
+| Political parties and leaders: | Coalition FORCA for Unity (includes FORCA [Nazif CUNGU] and Civic Initiative [Vaselj SINISTAJ]) |
+| Political parties and leaders: | Croatian Civic Initiative or HGI [Marija VUCINOVIC] |
+| Political parties and leaders: | Democratic Front or DF [Miodrag LEKIC] (includes New Serb Democracy or NOVA [Andrija MANDIC] and Movement for Change or PZP [Nebojsa MEDOJEVIC]) |
+| Political parties and leaders: | Positive Montenegro [Darko PAJOVIC] |
+| Political parties and leaders: | Socialist People's Party or SNP [Srdan MILIC] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Srdjan DARMANOVIC (since 30 November 2010) |
+| Diplomatic representation in the US: | chancery: 1610 New Hampshire Avenue NW, Washington, DC, 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-6108 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-6109 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Margaret UYEHARA (since 19 February 2015) |
+| Diplomatic representation from the US: | embassy: Dzona Dzeksona 2, 81000 Podgorica, Montenegro |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [382] (0) 20 410 500 |
+| Diplomatic representation from the US: | FAX: [382] (0) 20 241 358 |
+| Flag description: | a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is symbol of episcopal authority and harkens back to the three and a half centuries that Montenegro was ruled as a theocracy |
+| National symbol(s): | double-headed eagle; national colors: red, gold |
+| National anthem: | name: "Oj, svijetla majska zoro" (Oh, Bright Dawn of May) |
+| National anthem: | lyrics/music: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC |
+| National anthem: | note: adopted 2004; music based on a Montenegrin folk song |

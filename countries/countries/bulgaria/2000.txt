@@ -1,0 +1,36 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Bulgaria |
+| Country name: | conventional short form: Bulgaria |
+| Data code: | BU |
+| Government type: | parliamentary democracy |
+| Capital: | Sofia |
+| Administrative divisions: | 9 provinces (oblasti, singular - oblast); Burgas, Grad Sofiya, Khaskovo, Lovech, Montana, Plovdiv, Ruse, Sofiya, Varna |
+| Independence: | 22 September 1908 (from Ottoman Empire) |
+| National holiday: | Independence Day, 3 March (1878) |
+| Constitution: | adopted 12 July 1991 |
+| Legal system: | civil law and criminal law based on Roman law; accepts compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Petar STOYANOV (since 22 January 1997); Vice President Todor KAVALDZHIEV (since 22 January 1997) |
+| Executive branch: | head of government: Chairman of the Council of Ministers (Prime Minister) Ivan KOSTOV (since 19 May 1997); Deputy Prime Minister Petur ZHOTEV (since 21 December 1999) |
+| Executive branch: | cabinet: Council of Ministers elected by the National Assembly |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for five-year terms; election last held 27 October and 3 November 1996 (next to be held NA 2001); chairman of the Council of Ministers (prime minister) nominated by the president; deputy prime ministers nominated by the prime minister |
+| Executive branch: | election results: Petar STOYANOV elected president; percent of vote - Petar STOYANOV 59.73% |
+| Legislative branch: | unicameral National Assembly or Narodno Sobranie (240 seats; members elected by popular vote to serve four-year terms) |
+| elections: | last held 19 April 1997 (next to be held NA 2001) |
+| election results: percent of vote by party - UtdDF 52%, BSP 22%, ANS 7%, Euro-left 5.5%, BBB 4.95%; seats by party - UtdDF 137, BSP 58, ANS 19, Euro-left 14, BBB 12; note - seating as of May 1997: | UtdDF 126, DL 58, ANS 19, Euro-left 17, PU 11, independents 9 |
+| Judicial branch: | Supreme Court, chairman appointed for a seven-year term by the president; Constitutional Court, 12 justices appointed or elected for nine-year terms |
+| Political parties and leaders: | Alliance for National Salvation or ANS (coalition led mainly by Movement for Rights and Freedoms or DPS) [Ahmed DOGAN]; Bulgarian Business Bloc or BBB [Georgi GANCHEV]; Bulgarian Socialist Party or BSP [Georgi PURVANOV, chairman]; Democratic Left of DL [leader NA]; Euro-left [Aleksandur TOMOV]; Movement for Rights and Freedoms or DPS (member of LDU) [Ahmed DOGAN]; People's Union or PU [Anastasiya MOZER]; Union of Democratic Forces or UtdDF (an alliance of pro-democratic parties) [Ivan KOSTOV] |
+| Political pressure groups and leaders: | agrarian movement; Bulgarian Agrarian National Union - United or BZNS; Bulgarian Democratic Center; Confederation of Independent Trade Unions of Bulgaria or CITUB; Democratic Alliance for the Republic or DAR; Gergiov Den; Internal Macedonian Revolutionary Organization or IMRO; New Union for Democracy or NUD; "Nikola Petkov" Bulgarian Agrarian National Union; Podkrepa Labor Confederation; numerous regional, ethnic, and national interest groups with various agendas |
+| International organization participation: | ACCT, BIS, BSEC, CCC, CE, CEI, CERN, EAPC, EBRD, ECE, EU (applicant), FAO, G- 9, IAEA, IBRD, ICAO, ICFTU, ICRM, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, NAM (guest), NSG, OAS (observer), OPCW, OSCE, PCA, PFP, UN, UNCTAD, UNESCO, UNIDO, UNMIBH, UNMIK, UNMOP, UPU, WEU (associate partner), WFTU, WHO, WIPO, WMO, WToO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Philip DIMITROV |
+| Diplomatic representation in the US: | chancery: 1621 22nd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-0174, 387-0365, 483-1386 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-7973 |
+| Diplomatic representation in the US: | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard MILES |
+| Diplomatic representation from the US: | embassy: 1 Saborna Street, Sofia |
+| Diplomatic representation from the US: | mailing address: American Embassy Sofia, Department of State, Washington, DC 20521-5740 |
+| Diplomatic representation from the US: | telephone: [359] (2) 980-52-41 through 48 |
+| Diplomatic representation from the US: | FAX: [359] (2) 981-89-77 |
+| Flag description: | three equal horizontal bands of white (top), green, and red; the national emblem formerly on the hoist side of the white stripe has been removed - it contained a rampant lion within a wreath of wheat ears below a red five-pointed star and above a ribbon bearing the dates 681 (first Bulgarian state established) and 1944 (liberation from Nazi control) |

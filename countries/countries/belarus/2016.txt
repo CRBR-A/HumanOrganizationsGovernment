@@ -1,0 +1,79 @@
+| Government | BELARUS |
+| --- | --- |
+| Country name: | conventional long form: Republic of Belarus |
+| Country name: | conventional short form: Belarus |
+| Country name: | local long form: Respublika Byelarus'/Respublika Belarus' |
+| Country name: | local short form: Byelarus'/Belarus' |
+| Country name: | former: Belorussian (Byelorussian) Soviet Socialist Republic |
+| Country name: | etymology: the name is a compound of the Belarusian words "bel" (white) and "Rus" (the Old East Slavic ethnic designation) to form the meaning White Rusian or White Ruthenian |
+| Government type: | presidential republic in name, although in fact a dictatorship |
+| Capital: | name: Minsk |
+| Capital: | geographic coordinates: 53 54 N, 27 34 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 6 provinces (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk) |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian |
+| Independence: | 25 August 1991 (from the Soviet Union) |
+| National holiday: | Independence Day, 3 July (1944); note - 3 July 1944 was the date Minsk was liberated from German troops, 25 August 1991 was the date of independence from the Soviet Union |
+| Constitution: | several previous; latest drafted between late 1991 and early 1994, signed 15 March 1994; amended 1996, 2004 (2016) |
+| Legal system: | civil law system; note - nearly all major codes (civil, civil procedure, criminal, criminal procedure, family, and labor) have been revised and came into force in 1999 or 2000 |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Belarus |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: president Aleksandr LUKASHENKO (since 20 July 1994) |
+| Executive branch: | head of government: prime minister Andrey KABYAKOV (since 27 December 2014); first deputy prime minister Vasily MATYUSHEVSKIY (since 27 December 2014) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election took place on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999, however, Aleksandr LUKASHENKO extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the president to run in a third (19 March 2006), fourth (19 December 2010), and fifth election (11 October 2015); next election in 2020; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly |
+| Executive branch: | election results: Aleksandr LUKASHENKO reelected president; percent of vote - Aleksandr LUKASHENKO (independent) 83.5%, Tatsiana KARATKEVICH (Tell the Truth) 4.4%, Sergey GAYDUKEVICH (LDP) 3.3%, other 8.8%; note - election marred by electoral fraud |
+| Legislative branch: | description: bicameral National Assembly or Natsionalnoye Sobraniye consists of the Council of the Republic or Sovet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms) and the Chamber of Representatives or Palata Predstaviteley (110 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - the US does not recognize the legitimacy of the National Assembly |
+| Legislative branch: | elections: Palata Predstaviteley - last held on 11 September 2016 (next to be held in 2020); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKO candidates won virtually every seat with only the UCP member and one independent forming opposition representation in the chamber; international observers determined that the previous elections, on 28 September 2008 and 23 September 2012, also fell short of democratic standards, with pro-LUKASHENKO candidates winning every seat |
+| Legislative branch: | election results: Sovet Respubliki - percent of vote by party - NA; seats by party - NA; Palata Predstaviteley - percent of vote by party - NA; seats by party - KPB 8, Belarusian Patriotic Party 3, Republican Party of Labor and Justice 3, LDP 1, UCP 1, independents 104 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chairman, deputy chairman, and organized into several specialized panels including economic and military; number of judges set by the president of the republic and the court chairman); Constitutional Court (consists of 12 judges including a chairman and deputy chairman) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the president with the consent of the Council of the Republic; judges initially appointed for 5 years and evaluated for life appointment; Constitutional Court judges - 6 including the court chairman appointed by the president and 6 elected by the Chamber of Representatives; judges can serve for 11 years with an age limit of 70 |
+| Judicial branch: | subordinate courts: provincial (including Minsk city) courts; first instance (district) courts; economic courts; military courts |
+| Political parties and leaders: | pro-government parties: |
+| Political parties and leaders: | Belarusian Agrarian Party or AP [Mikhail SHIMANSKIY] |
+| Political parties and leaders: | Belarusian Patriotic Party [Nikolai ULAKHOVICH] |
+| Political parties and leaders: | Belarusian Socialist Sporting Party [Vladimir ALEKSANDROVICH] |
+| Political parties and leaders: | Communist Party of Belarus or KPB [Igor KARPENKO] |
+| Political parties and leaders: | Liberal Democratic Party or LDP [Sergey GAYDUKEVICH] |
+| Political parties and leaders: | Republican Party [Vladimir BELOZOR] |
+| Political parties and leaders: | Republican Party of Labor and Justice [Vasiliy ZADNEPRYANIY] |
+| opposition parties: | Belarusian Christian Democracy Party [Pavel SEVERINETS] (unregistered) |
+| opposition parties: | Belarusian Liberal Party of Freedom and Progress [Vladimir NOVOSYAD] (unregistered) |
+| opposition parties: | Belarusian Party of the Green [Anastasiya DOROFEYEVA] |
+| opposition parties: | Belarusian Party of the Left "Fair World" [Sergey KALYAKIN] |
+| opposition parties: | Belarusian Popular Front or BPF [Aleksey YANUKEVICH] |
+| opposition parties: | Belarusian Social-Democratic Assembly [Stanislav SHUSHKEVICH] |
+| opposition parties: | Belarusian Social Democratic Party ("Assembly") or BSDPH [Irina VESHTARD] |
+| opposition parties: | Belarusian Social Democratic Party (People's Assembly) [Nikolay STATKEVICH] (unregistered) |
+| opposition parties: | Christian Conservative Party or BPF [Zyanon PAZNYAK] |
+| opposition parties: | United Civic Party or UCP [Anatoliy LEBEDKO] |
+| Political pressure groups and leaders: | Assembly of Pro-Democratic NGOs [Sergey MATSKEVICH] (unregistered) |
+| Political pressure groups and leaders: | Belarusian Association of Journalists [Andrei BASTUNETS] |
+| Political pressure groups and leaders: | Belarusian Congress of Democratic Trade Unions [Aleksandr YAROSHUK] |
+| Political pressure groups and leaders: | Belarusian Helsinki Committee [Aleh HULAK] |
+| Political pressure groups and leaders: | For Freedom Movement [Aleksandr Milinkevich] |
+| Political pressure groups and leaders: | Malady Front (Young Front) [Zmitser DASHKEVICH] (unregistered) |
+| Political pressure groups and leaders: | Vyasna (Spring) human rights center [Ales BELYATSKIY] (unregistered) |
+| Political pressure groups and leaders: | Perspektiva [Anatoliy SHUMCHENKO] (small business association) |
+| Political pressure groups and leaders: | "Tell the Truth" Movement [Tatsiana KARATKEVICH] (unregistered) |
+| Political pressure groups and leaders: | Women's Independent Democratic Movement [Ludmila PETINA] |
+| International organization participation: | BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant; recalled by Belarus in 2008); Charge d'Affaires Pavel SHIDLOVSKIY (since 23 April 2014) |
+| Diplomatic representation in the US: | chancery: 1619 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 986-1606 |
+| Diplomatic representation in the US: | FAX: [1] (202) 986-1805 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant; left in 2008 upon insistence of Belarusian Government); Charge d'Affaires Scott RAULAND (since 30 June 2014) |
+| Diplomatic representation from the US: | embassy: 46 Starovilenskaya Street, Minsk 220002 |
+| Diplomatic representation from the US: | mailing address: Unit 7010 Box 100, DPO AE 09769 |
+| Diplomatic representation from the US: | telephone: [375] (17) 210-12-83 |
+| Diplomatic representation from the US: | FAX: [375] (17) 334-7853 |
+| Flag description: | red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country |
+| National symbol(s): | no clearly defined current national symbol, the mounted knight known as Pahonia (the Chaser) is the traditional Belarusian symbol; national colors: green, red, white |
+| National anthem: | name: "My, Bielarusy" (We Belarusians) |
+| National anthem: | lyrics/music: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI |
+| National anthem: | note: music adopted 1955, lyrics adopted 2002; after the fall of the Soviet Union, Belarus kept the music of its Soviet-era anthem but adopted new lyrics; also known as "Dziarzauny himn Respubliki Bielarus" (State Anthem of the Republic of Belarus) |

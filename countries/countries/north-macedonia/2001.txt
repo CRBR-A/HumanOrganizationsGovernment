@@ -1,0 +1,40 @@
+| Government |
+| --- | --- |
+| Country name: | conventional long form: The Former Yugoslav Republic of Macedonia |
+| Country name: | conventional short form: none |
+| Country name: | local long form: Republika Makedonija |
+| Country name: | local short form: Makedonija |
+| Country name: | abbreviation: FYROM |
+| Government type: | emerging democracy |
+| Capital: | Skopje |
+| Administrative divisions: | 123 municipalities (opstini, singular - opstina); Aracinovo, Bac, Belcista, Berovo, Bistrica, Bitola, Blatec, Bogdanci, Bogomila, Bogovinje, Bosilovo, Brvenica, Cair (Skopje), Capari, Caska, Cegrane, Centar (Skopje), Centar Zupa, Cesinovo, Cucer-Sandevo, Debar, Delcevo, Delogozdi, Demir Hisar, Demir Kapija, Dobrusevo, Dolna Banjica, Dolneni, Dorce Petrov (Skopje), Drugovo, Dzepciste, Gazi Baba (Skopje), Gevgelija, Gostivar, Gradsko, Ilinden, Izvor, Jegunovce, Kamenjane, Karbinci, Karpos (Skopje), Kavadarci, Kicevo, Kisela Voda (Skopje), Klecevce, Kocani, Konce, Kondovo, Konopiste, Kosel, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kuklis, Kukurecani, Kumanovo, Labunista, Lipkovo, Lozovo, Lukovo, Makedonska Kamenica, Makedonski Brod, Mavrovi Anovi, Meseista, Miravci, Mogila, Murtino, Negotino, Negotino-Poloska, Novaci, Novo Selo, Oblesevo, Ohrid, Orasac, Orizari, Oslomej, Pehcevo, Petrovec, Plasnia, Podares, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Rostusa, Samokov, Saraj, Sipkovica, Sopiste, Sopotnika, Srbinovo, Star Dojran, Staravina, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Suto Orizari (Skopje), Sveti Nikole, Tearce, Tetovo, Topolcani, Valandovo, Vasilevo, Velesta, Veles, Vevcani, Vinica, Vitoliste, Vranestica, Vrapciste, Vratnica, Vrutok, Zajas, Zelenikovo, Zileno, Zitose, Zletovo, Zrnovci |
+| Administrative divisions: | note: the seven municipalities followed by Skopje in parentheses collectively constitute "greater Skopje" |
+| Independence: | 17 September 1991 (from Yugoslavia) |
+| National holiday: | Uprising Day, 2 August (1903) |
+| Constitution: | adopted 17 November 1991, effective 20 November 1991 |
+| Constitution: | note: Democratic Party for Albanians (DPA), which is now a member party of the government, is calling for a rewrite of the constitution to declare ethnic Albanians a constituent national group and allow for greater regional autonomy |
+| Legal system: | based on civil law system; judicial review of legislative acts |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Boris TRAJKOVSKI (since 15 December 1999) |
+| Executive branch: | head of government: Prime Minister Ljubco GEORGIEVSKI (since 30 November 1998) |
+| Executive branch: | cabinet: Council of Ministers elected by the majority vote of all the deputies in the Assembly; note - current cabinet formed by the government coalition parties VMRO-DPMNE, LDP, and DPA |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 14 November 1999 (next to be held NA October 2004); prime minister elected by parliament; election last held NA November 1998 (next to be held NA 2002) |
+| Executive branch: | election results: Boris TRAJKOVSKI elected president on second-round ballot; percent of vote - Boris TRAJKOVSKI 52.4%, Tito PETKOVSKI 46.2% |
+| Legislative branch: | unicameral Assembly or Sobranje (120 seats - 85 members are elected by popular vote, 35 members come from lists of candidates submitted by parties based on the percentage that parties gain from the overall vote; all serve four-year terms) |
+| Legislative branch: | elections: last held 18 October and 1 November 1998 (next to be held NA 2002) |
+| Legislative branch: | election results: percent of vote by party - NA%; seats by party - VMRO-DPMNE 43, SDSM 27, PDP 14, DA 13, DPA 11, VMRO-VMRO 6, LDP 4, SP 1, Roma Party 1 |
+| Judicial branch: | Constitutional Court; Judicial Court of the Republic; judges for both courts are elected by the Judicial Council |
+| Political parties and leaders: | Democratic Alternative or DA [Vasil TUPURKOVSKI, president]; Democratic Party for Albanians or DPA [Arben XHAFERI, president]; Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Ljubcho GEORGIEVSKI, president]; Internal Macedonian Revolutionary Organization-True Macedonian Reform Option or VMRO-VMRO [Boris STOJMANOV]; Liberal Democratic Party or LDP [Risto GUSTERVO]; Party for Democratic Prosperity or PDP [Imeri IMERI, president]; Social-Democratic Alliance of Macedonia or SDSM (former Communist Party) [Branko CRVENKOVSKI, president]; Socialist Party of Macedonia or SP [Ljubisav IVANOV, president]; Union of Romanies of Macedonia or SRM [leader NA] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT (associate), BIS, CCC, CE, CEI, EAPC, EBRD, ECE, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Intelsat (nonsignatory user), Interpol, IOC, IOM (observer), ISO, ITU, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO, WIPO, WMO, WToO, WTrO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ljubica Z. ACEVSKA |
+| Diplomatic representation in the US: | chancery: 3050 K Street, NW, Suite 210, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 337 3063 |
+| Diplomatic representation in the US: | FAX: [1] (202) 337-3093 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael M. EINIK |
+| Diplomatic representation from the US: | embassy: Bul. Ilinden bb, 91000 Skopje |
+| Diplomatic representation from the US: | mailing address: American Embassy Skopje, Department of State, Washington, DC 20521-7120 (pouch) |
+| Diplomatic representation from the US: | telephone: [389] (91) 116-180 |
+| Diplomatic representation from the US: | FAX: [389] (91) 117-103 |
+| Flag description: | a rising yellow sun with eight rays extending to the edges of the red field |

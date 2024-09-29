@@ -1,0 +1,62 @@
+| Government | LATVIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Latvia |
+| Country name: | conventional short form: Latvia |
+| Country name: | local long form: Latvijas Republika |
+| Country name: | local short form: Latvija |
+| Country name: | former: Latvian Soviet Socialist Republic |
+| Country name: | etymology: the name "Latvia" originates from the ancient Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.) |
+| Government type: | parliamentary republic |
+| Capital: | name: Riga |
+| Capital: | geographic coordinates: 56 57 N, 24 06 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 110 municipalities (novadi, singular - novads) and 9 cities |
+| Administrative divisions: | municipalities: Adazu Novads, Aglonas Novads, Aizkraukles Novads, Aizputes Novads, Aknistes Novads, Alojas Novads, Alsungas Novads, Aluksnes Novads, Amatas Novads, Apes Novads, Auces Novads, Babites Novads, Baldones Novads, Baltinavas Novads, Balvu Novads, Bauskas Novads, Beverinas Novads, Brocenu Novads, Burtnieku Novads, Carnikavas Novads, Cesu Novads, Cesvaines Novads, Ciblas Novads, Dagdas Novads, Daugavpils Novads, Dobeles Novads, Dundagas Novads, Durbes Novads, Engures Novads, Erglu Novads, Garkalnes Novads, Grobinas Novads, Gulbenes Novads, Iecavas Novads, Ikskiles Novads, Ilukstes Novads, Incukalna Novads, Jaunjelgavas Novads, Jaunpiebalgas Novads, Jaunpils Novads, Jekabpils Novads, Jelgavas Novads, Kandavas Novads, Karsavas Novads, Keguma Novads, Kekavas Novads, Kocenu Novads, Kokneses Novads, Kraslavas Novads, Krimuldas Novads, Krustpils Novads, Kuldigas Novads, Lielvardes Novads, Ligatnes Novads, Limbazu Novads, Livanu Novads, Lubanas Novads, Ludzas Novads, Madonas Novads, Malpils Novads, Marupes Novads, Mazsalacas Novads, Mersraga Novads, Nauksenu Novads, Neretas Novads, Nicas Novads, Ogres Novads, Olaines Novads, Ozolnieku Novads, Pargaujas Novads, Pavilostas Novads, Plavinu Novads, Preilu Novads, Priekules Novads, Priekulu Novads, Raunas Novads, Rezeknes Novads, Riebinu Novads, Rojas Novads, Ropazu Novads, Rucavas Novads, Rugaju Novads, Rujienas Novads, Rundales Novads, Salacgrivas Novads, Salas Novads, Salaspils Novads, Saldus Novads, Saulkrastu Novads, Sejas Novads, Siguldas Novads, Skriveru Novads, Skrundas Novads, Smiltenes Novads, Stopinu Novads, Strencu Novads, Talsu Novads, Tervetes Novads, Tukuma Novads, Vainodes Novads, Valkas Novads, Varaklanu Novads, Varkavas Novads, Vecpiebalgas Novads, Vecumnieku Novads, Ventspils Novads, Viesites Novads, Vilakas Novads, Vilanu Novads, Zilupes Novads |
+| Administrative divisions: | cities: Daugavpils, Jekabpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Valmiera, Ventspils |
+| Independence: | 4 May 1990 (declared); 6 September 1991 (recognized by the Soviet Union) |
+| National holiday: | Independence Day, 18 November (1918); note - 18 November 1918 was the date Latvia established its statehood and its concomitant independence from Soviet Russia; 4 May 1990 was the date it declared the restoration of Latvian statehood and its concomitant independence from the Soviet Union |
+| Constitution: | history: several previous (pre-1991 independence); note - following the restoration of independence in 1991, parts of the 1922 constitution were reintroduced 4 May 1990 and fully reintroduced 6 July 1993 |
+| Constitution: | amendments: proposed by two-thirds of Parliament members or by petition of one-tenth of qualified voters submitted through the president; passage requires at least two-thirds majority vote of Parliament in each of three readings; amendment of constitutional articles including national sovereignty, language, the parliamentary electoral system, and constitutional amendment procedure requires passage by majority vote of at least half of the electorate in a referendum; amended several times, last in 2014 (2016) |
+| Legal system: | civil law system with traces of socialist legal traditions and practices |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Latvia |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Raimonds VEJONIS (since 8 July 2015) |
+| Executive branch: | head of government: Prime Minister Maris KUCINSKIS (since 11 February 2016); Deputy Prime Minister Arvils ASERADENS (since 11 February 2016) |
+| Executive branch: | cabinet: Cabinet of Ministers nominated by the prime minister, appointed by Parliament |
+| Executive branch: | elections/appointments: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 3 June 2015 (next to be held in 2019); prime minister appointed by the president, confirmed by Parliament |
+| Executive branch: | election results: Raimonds VEJONIS elected president; Parliament vote - Raimonds VEJONIS 55 of 100 |
+| Legislative branch: | description: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 4 October 2014 (next to be held in October 2018) |
+| Legislative branch: | election results: percent of vote by party - SC 23%, Unity 21.9%, ZZS 19.5%, NA 16.6%, NSL 6.9%, LRA 6.7%, other 5.4%; seats by party - SC 24, Unity 23, ZZS 21, NA 17, LRA 8, NSL 7 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the Senate with 27 judges and Supreme Court of Chambers with 22 judges); Constitutional Court (consists of 7 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by chief justice and confirmed by the Saeima; judges serve until age 70, but term can be extended 2 years; Constitutional Court judges - 3 nominated by Saeima members, 2 by Cabinet ministers, and 2 by plenum of Supreme Court; all judges confirmed by Saeima majority vote; Constitutional Court president and vice president serve in their positions for 3 years; all judges serve 10-year terms; mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: district (city) and regional courts |
+| Political parties and leaders: | Alliance of Regions or LRA [Martins BONDARS] |
+| Political parties and leaders: | For Latvia from the Heart or NSL [Inguna SUDRABA] |
+| Political parties and leaders: | Social Democratic Party "Harmony" or SC [Nils USAKOVS] |
+| Political parties and leaders: | National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Gaidis BERZINS, Raivis DZINTARS] |
+| Political parties and leaders: | Union of Greens and Farmers or ZZS [Augusts BRIGMANIS] |
+| Political parties and leaders: | Unity [Solvita ABOLTINA] |
+| Political pressure groups and leaders: | Employers' Confederation of Latvia [Vitalijs GAVRILOVS] |
+| Political pressure groups and leaders: | Farmers' Parliament [Juris LAZDINS] |
+| Political pressure groups and leaders: | Free Trade Union Confederation of Latvia [Peteris KRIGERS] |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Andris TEIKMANIS (since 16 September 2016) |
+| Diplomatic representation in the US: | chancery: 2306 Massachusetts Ave. NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 328-2840 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-2860 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Nancy Bikoff PETTIT (since 8 September 2015) |
+| Diplomatic representation from the US: | embassy: 1 Samnera Velsa St, Riga LV-1510 |
+| Diplomatic representation from the US: | mailing address: Embassy of the United States of America, 1 Samnera Velsa St, Riga, LV-1510, Latvia |
+| Diplomatic representation from the US: | telephone: [371] 6710-7000 |
+| Diplomatic representation from the US: | FAX: [371] 6710-7050 |
+| Flag description: | three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world; a medieval chronicle mentions a red standard with a white stripe being used by Latvian tribes in about 1280 |
+| National symbol(s): | white wagtail (bird); national colors: maroon, white |
+| National anthem: | name: "Dievs, sveti Latviju!" (God Bless Latvia) |
+| National anthem: | lyrics/music: Karlis BAUMANIS |
+| National anthem: | note: adopted 1920, restored 1990; first performed in 1873 while Latvia was a part of Russia; banned during the Soviet occupation from 1940 to 1990 |

@@ -1,0 +1,65 @@
+| Government | Israel |
+| --- | --- |
+| Country name: | conventional long form: State of Israel |
+| Country name: | conventional short form: Israel |
+| Country name: | local long form: Medinat Yisra'el |
+| Country name: | local short form: Yisra'el |
+| Country name: | etymology: named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name "Israel" ("He who struggles with God") after he wrestled an entire night with an angel of the Lord; Jacob's 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel |
+| Government type: | parliamentary democracy |
+| Capital: | name: Jerusalem; note - the US recognized Jerusalem as Israelâ€™s capital in December 2017 without taking a position on the specific boundaries of Israeli sovereignty |
+| Capital: | geographic coordinates: 31 46 N, 35 14 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, Friday before the last Sunday in March; ends the last Sunday in October |
+| Capital: | etymology: Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; "uru-shalim" likely means "foundation of [by] the god Shalim", and derives from Hebrew/Semitic "yry", "to found or lay a cornerstone", and Shalim, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for "peace" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as "The City of Peace" or "The Abode of Peace" |
+| Administrative divisions: | 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv |
+| Independence: | 14 May 1948 (following League of Nations mandate under British administration) |
+| National holiday: | Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May |
+| Constitution: | history: no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended) |
+| Constitution: | amendments: proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2020 |
+| Legal system: | mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002 |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Israel |
+| Citizenship: | dual citizenship recognized: yes, but naturalized citizens are not allowed to maintain dual citizenship |
+| Citizenship: | residency requirement for naturalization: 3 out of the 5 years preceding the application for naturalization |
+| Citizenship: | note: Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren |
+| Suffrage: | 18 years of age; universal; 17 years of age for municipal elections |
+| Executive branch: | chief of state: Â President Reuben RIVLIN (since 27 July 2014) |
+| Executive branch: | head of government: Â Prime Minister Binyamin NETANYAHU (since 31 March 2009) |
+| Executive branch: | cabinet: Cabinet selected by prime minister and approved by the KnessetÂ  |
+| Executive branch: | elections/appointments: president indirectly elected by the Knesset for a single 7-year term; election last held on 10 June 2014 (next to be held in 2021); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government |
+| Executive branch: | election results: Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4; note - on 20 May 2020 â€“ after three national elections, each ending in failed bids by Prime Minister Binyamin NETANYAHU and Blue and White party leader Benny GANTZ to form a coalition government, both signed an agreement on the formation of a national emergency government in which NETANYAHU continues as prime minister for 18 months when GANTZ will replace him |
+| Legislative branch: | description: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% threshold to gain representation; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 2 March 2020 ( next to be held in 2024) |
+| Legislative branch: | election results: percent by party (preliminary) - Likud 29.2%, Blue and White 26.4%, Joint List 13.1%, Shas 7.7%, United Torah Judaism 6.2%, Yisrael Beiteinu 5.9%, Labor-Gesher-Meretz 5.7%, Yamina 5%, other 0.8%; seats by party (preliminary) - Likud 36, Blue and White 33, Joint List 15, Shas 9, United Torah Judaism 7, Yisrael Beiteinu 7, Labor-Gesher Meretz 7, Yamina 6; composition - NA |
+| Judicial branch: | highest courts: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices |
+| Judicial branch: | judge selection and term of office: judges selected by the 9-member Judicial Selection Committee, consisting of the Minister of Justice (chair), the president of the Supreme Court, two other Supreme Court justices, 1 other Cabinet minister, 2 Knesset members, and 2 representatives of the Israel Bar Association; judges can serve up to mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and religious courts |
+| Political parties and leaders: | Democratic Union [Nitzan HOROWITZ] (alliance includes Democratic Israel, Meretz, Green Movement) |
+| Political parties and leaders: | Joint List [Ayman ODEH] (alliance includes Hadash, Taâ€™al, United Arab List, Balad) |
+| Political parties and leaders: | Kahol Lavan [Benny GANTZ] (alliance includes Israeli Resilience, Yesh Atid, Telem) |
+| Political parties and leaders: | Labor-Gesher [Amir PERETZ] |
+| Political parties and leaders: | Likud [Binyamin NETANYAHU] |
+| Political parties and leaders: | Otzma Yehudit [Itamar BEN-GVIR] |
+| Political parties and leaders: | SHAS [Arye DERI] |
+| Political parties and leaders: | United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah) |
+| Political parties and leaders: | Yamina [Ayelet SHAKED] |
+| Political parties and leaders: | Yisrael Beiteinu [Avigdor LIEBERMAN] |
+| Political parties and leaders: | Zehut [Moshe FEIGLIN] |
+| International organization participation: | BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ron DERMER (since 3 December 2013) |
+| Diplomatic representation in the US: | chancery: 3514 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 364-5500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-5607 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador David M. FRIEDMAN (since 23 May 2017) |
+| Diplomatic representation from the US: | telephone: [972] (2) 630-4000 |
+| Diplomatic representation from the US: | embassy: David Flusser St.14, Jerusalem, 9378322 |
+| Diplomatic representation from the US: | FAX: NA |
+| Diplomatic representation from the US: | note: on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission |
+| Flag description: | white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times |
+| Flag description: | note: the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue |
+| National symbol(s): | Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white |
+| National anthem: | name: "Hatikvah" (The Hope) |
+| National anthem: | lyrics/music: Naftali Herz IMBER/traditional, arranged by Samuel COHEN |
+| National anthem: | note: adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart) |

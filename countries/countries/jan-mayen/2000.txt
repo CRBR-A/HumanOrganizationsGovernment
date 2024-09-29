@@ -1,0 +1,7 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Jan Mayen |
+| Data code: | JN |
+| Dependency status: | territory of Norway; administered from Oslo through a governor (sysselmann) resident in Longyearbyen (Svalbard); however, authority has been delegated to a station commander of the Norwegian Defense Communication Service |
+| Flag description: | the flag of Norway is used |

@@ -1,0 +1,80 @@
+| Government | CYPRUS |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cyprus |
+| Country name: | conventional short form: Cyprus |
+| Country name: | local long form: Kypriaki Dimokratia/Kibris Cumhuriyeti |
+| Country name: | local short form: Kypros/Kibris |
+| Country name: | note: the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris Turk Cumhuriyeti" or "KKTC") |
+| Country name: | etymology: the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper |
+| Government type: | Republic of Cyprus - presidential democracy; Turkish Republic of Northern Cyprus (self-declared) - semi-presidential democracy |
+| Government type: | note: a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot "President" Rauf DENKTAS declared independence and the formation of a "Turkish Republic of Northern Cyprus" ("TRNC"), which is recognized only by Turkey |
+| Capital: | name: Nicosia (Lefkosia/Lefkosa) |
+| Capital: | geographic coordinates: 35 10 N, 33 22 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 6 districts; Ammochostos (Famagusta); (all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "TRNC" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosia (Nicosia) |
+| Independence: | 16 August 1960 (from the UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are recognized only by Turkey |
+| National holiday: | Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as "Republic Day" |
+| Constitution: | ratified 16 August 1960; amended 1996, 2013; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution (2016) |
+| Legal system: | mixed legal system of English common law and civil law with European law supremacy |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Cyprus |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Nicos ANASTASIADES (since 28 February 2013); note - the president is both chief of state and head of government; vice president (vacant); note - vice presidency reserved for Turkish Cypriot |
+| Executive branch: | head of government: President Nicos ANASTASIADES (since 28 February 2013) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 17 and 24 February 2013 (next to be held in February 2018) |
+| Executive branch: | election results: Nicos ANASTASIADES elected president; percent of vote in first round - Nicos ANASTASIADES (DISY) 45.5%, Stavros MALAS (AKEL) 26.9%, Giorgos LILLIKAS (SP) 24.9%, other 2.7%; percent of vote in second round - Nicos ANASTASIADES 57.5%, Savros MALAS 42.5% |
+| Executive branch: | note: Mustafa AKINCI elected "president" of the "TRNC" on 30 April 2015; percent of vote in first round (19 April 2015) - Dervis EROGLU (UBP) 28.2%, Mustafa AKINCI (TDP) 26.9%, other 44.9%; percent of vote in runoff (26 April 2015) - AKINCI 60.5%, EROGLU 39.5%; Huseyin OZGURGUN is "TRNC prime minister" since 8 April 2016 |
+| Legislative branch: | description: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral Assembly of the Republic or Cumhuriyet Meclisi (50 seats; members directly elected by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: area under government control: last held on 22 May 2016 (next to be held in May 2021); area administered by Turkish Cypriots: last held on 28 July 2013 (next to be held on July 2018) |
+| Legislative branch: | election results: area under government control: House of Representatives - percent of vote by party - DISY 30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, Citizen's Alliance 5.0% Solidarity Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO 9, KS-EDEK 3, Citizen's Alliance 3, Solidarity Movement 3, other 7; area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - CTP-BG 38.4%, UBP 27.3%, DP-UG 23.2%, TDP 7.4%, other 3.7%; seats by party - CTP-BG 21, UBP 14, DP-UG 12, TDP 3 |
+| Judicial branch: | highest court(s): Supreme Court of Cyprus (consists of 13 judges including the court president); note - the highest court in the "Turkish Republic of Northern Cyprus (TRNC)" is the "Supreme Court" (consists of 8 "judges" including the "court president") |
+| Judicial branch: | judge selection and term of office: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees - 1 each by the president of the "TRNC" and by the "Legislative Assembly" - and 1 member elected by the bar association; judge tenure NA |
+| Judicial branch: | subordinate courts: Republic of Cyprus district courts; Assize Courts; specialized courts for issues relating to family, industrial disputes, military, and rent control; "TRNC Assize Courts"; "district and family courts" |
+| Political parties and leaders: | area under government control: |
+| Political parties and leaders: | Citizens' Alliance or SP [Giorgos LILLIKAS] |
+| Political parties and leaders: | Democratic Party or DIKO [Nikolas PAPADOPOULOS] |
+| Political parties and leaders: | Democratic Rally or DISY [Averof NEOPHYTOU (of Neofytou)] |
+| Political parties and leaders: | Ecological and Environmental Movement or KOP (Green Party) [Giorgos PERDIKIS] |
+| Political parties and leaders: | European Party or EVROKO [Dimitris SYLLOURIS] |
+| Political parties and leaders: | Movement of Social Democrats or KS-EDEK [Marinos SIZOPOULOS] |
+| Political parties and leaders: | National Popular Front or ELAM [Christos CHRISTOU] |
+| Political parties and leaders: | Progressive Party of the Working People or AKEL (Communist Party) [Andros KYPRIANOU] |
+| Political parties and leaders: | Solidarity Movement [Eleni THEOCHAROUS] |
+| Political parties and leaders: | United Democrats or EDI [Praxoula ANTONIADOU] |
+| area administered by Turkish Cypriots: | Communal Democracy Party or TDP [Cemal OZYIGIT] |
+| area administered by Turkish Cypriots: | Cyprus Socialist Party or KSP [Mehmet BIRINCI] |
+| area administered by Turkish Cypriots: | Democrat Party- National Forces or DP-UG [Serdar DENKTAS] |
+| area administered by Turkish Cypriots: | National Justice Party or UAP [Fatma SOLMAZ] |
+| area administered by Turkish Cypriots: | National Unity Party or UBP [Huseyin OZGURGUN] |
+| area administered by Turkish Cypriots: | New Cyprus Party or YKP [Murat KANATLI] |
+| area administered by Turkish Cypriots: | People's Party or HP [Kudret OZERSAY] |
+| area administered by Turkish Cypriots: | Republican Turkish Party-United Forces or CTP-BG [Mehmet Ali TALAT] |
+| area administered by Turkish Cypriots: | Social Democratic Party or SDP [Tozun TUNALI] |
+| area administered by Turkish Cypriots: | United Cyprus Party or BKP [Izzet IZCAN] |
+| Political pressure groups and leaders: | Confederation of Cypriot Workers or SEK [Nikos MOYSEOS] (pro-West) |
+| Political pressure groups and leaders: | Pan-Cyprian Labor Federation or PEO [Pambis KYRITSIS] (Communist controlled) |
+| Political pressure groups and leaders: | area administered by Turkish Cypriots: Confederation of Revolutionary Labor Unions or Dev-Is |
+| Political pressure groups and leaders: | Federation of Turkish Cypriot Labor Unions or Turk-Sen [Asian BICAKLI] |
+| International organization participation: | Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Leonidas PANTELIDIS (since 27 June 2016) |
+| Diplomatic representation in the US: | chancery: 2211 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-5772, 462-0873 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-6710 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation in the US: | note: representative of the Turkish Cypriot community in the US is Ismet KORUKOGLU; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kathleen Ann DOHERTY (since 7 October 2015) |
+| Diplomatic representation from the US: | embassy: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia |
+| Diplomatic representation from the US: | mailing address: P. O. Box 24536, 1385 Nicosia |
+| Diplomatic representation from the US: | telephone: [357] (22) 393939 |
+| Diplomatic representation from the US: | FAX: [357] (22) 780944 |
+| Flag description: | white with a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two green crossed olive branches in the center of the flag; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities |
+| Flag description: | note: the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed |
+| National symbol(s): | Cypriot mouflon (wild sheep), white dove; national colors: blue, white |
+| National anthem: | name: "Ymnos eis tin Eleftherian" (Hymn to Liberty) |
+| National anthem: | lyrics/music: Dionysios SOLOMOS/Nikolaos MANTZAROS |
+| National anthem: | note: adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish Cypriot community in Cyprus uses the anthem of Turkey |

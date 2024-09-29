@@ -1,0 +1,39 @@
+| Government | Burkina Faso |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Burkina Faso |
+| Country name: | local long form: none |
+| Country name: | local short form: Burkina Faso |
+| Country name: | former: Upper Volta, Republic of Upper Volta |
+| Government type: | parliamentary republic |
+| Capital: | name: Ouagadougou |
+| Capital: | geographic coordinates: 12 22 N, 1 31 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 45 provinces; Bale, Bam, Banwa, Bazega, Bougouriba, Boulgou, Boulkiemde, Comoe, Ganzourgou, Gnagna, Gourma, Houet, Ioba, Kadiogo, Kenedougou, Komondjari, Kompienga, Kossi, Koulpelogo, Kouritenga, Kourweogo, Leraba, Loroum, Mouhoun, Nahouri, Namentenga, Nayala, Noumbiel, Oubritenga, Oudalan, Passore, Poni, Sanguie, Sanmatenga, Seno, Sissili, Soum, Sourou, Tapoa, Tuy, Yagha, Yatenga, Ziro, Zondoma, Zoundweogo |
+| Independence: | 5 August 1960 (from France) |
+| National holiday: | Republic Day, 11 December (1958) |
+| Constitution: | 2 June 1991 approved by referendum, 11 June 1991 formally adopted; amended April 2000 |
+| Legal system: | based on French civil law system and customary law |
+| Suffrage: | universal |
+| Executive branch: | chief of state: President Blaise COMPAORE (since 15 October 1987) |
+| Executive branch: | head of government: Prime Minister Paramanga Ernest YONLI (since 6 November 2000) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 13 November 2005 (next to be held in 2010); in April 2000, the constitution was amended reducing the presidential term from seven to five years, enforceable as of 2005; prime minister appointed by the president with the consent of the legislature |
+| Executive branch: | election results: Blaise COMPAORE reelected president; percent of popular vote - Blaise COMPAORE 80.3%, Benewende Stanislas SANKARA 4.9% |
+| Legislative branch: | unicameral National Assembly or Assemblee Nationale (111 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: National Assembly election last held 5 May 2002 (next to be held May 2007) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - CDP 57, RDA-ADF 17, PDP/PS 10, CFD 5, PAI 5, other 17 |
+| Judicial branch: | Supreme Court; Appeals Court |
+| Political parties and leaders: | African Democratic Rally-Alliance for Democracy and Federation or RDA-ADF [Herman YAMEOGO]; Confederation for Federation and Democracy or CFD [Amadou Diemdioda DICKO]; Congress for Democracy and Progress or CDP [Roch Marc-Christian KABORE]; Movement for Tolerance and Progress or MTP [Nayabtigungou Congo KABORE]; Party for African Independence or PAI [Philippe OUEDRAOGO]; Party for Democracy and Progress or PDP [Joseph KI-ZERBO]; Socialist Party or PS; Union of Greens for the Development of Burkina Faso or UVDB [Ram OVEDRAGO] |
+| Political pressure groups and leaders: | Burkinabe General Confederation of Labor or CGTB; Burkinabe Movement for Human Rights or MBDHP; Group of 14 February; National Confederation of Burkinabe Workers or CNTB; National Organization of Free Unions or ONSL; watchdog/political action groups throughout the country in both organizations and communities |
+| International organization participation: | ACCT, ACP, AfDB, AU, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, MONUC, NAM, OIC, OIF, ONUB, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UPU, WADB (regional), WAEMU, WCL, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Tertius ZONGO |
+| Diplomatic representation in the US: | chancery: 2340 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-5577 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-1882 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Jeanine E. JACKSON |
+| Diplomatic representation from the US: | embassy: 602 Avenue Raoul Follereau, Koulouba, Secteur 4 |
+| Diplomatic representation from the US: | mailing address: 01 B. P. 35, Ouagadougou 01; pouch mail - US Department of State, 2440 Ouagadougou Place, Washington, DC 20521-2440 |
+| Diplomatic representation from the US: | telephone: [226] 50-30-67-23 |
+| Diplomatic representation from the US: | FAX: [226] 50-30-38-90, 50-31-23-68 |
+| Flag description: | two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; uses the popular pan-African colors of Ethiopia |

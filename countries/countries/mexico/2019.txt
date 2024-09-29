@@ -1,0 +1,72 @@
+| Government | Mexico |
+| --- | --- |
+| Country name: | conventional long form: United Mexican States |
+| Country name: | conventional short form: Mexico |
+| Country name: | local long form: Estados Unidos Mexicanos |
+| Country name: | local short form: Mexico |
+| Country name: | etymology: named after the capital city, whose name stems from the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain |
+| Government type: | federal presidential republic |
+| Capital: | name: Mexico City (Ciudad de Mexico) |
+| Capital: | geographic coordinates: 19 26 N, 99 08 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Sunday in April; ends last Sunday in October |
+| Capital: | note: Mexico has four time zones |
+| Capital: | etymology: named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain |
+| Administrative divisions: | 32 states (estados, singular - estado); Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Cuidad de Mexico, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan, Morelos, Nayarit, Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas |
+| Independence: | 16 September 1810 (declared independence from Spain); 27 September 1821 (recognized by Spain) |
+| National holiday: | Independence Day, 16 September (1810) |
+| Constitution: | history: several previous; latest approved 5 February 1917 |
+| Constitution: | amendments: proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures; amended many times, last in 2019 (2019) |
+| Legal system: | civil law system with US constitutional law influence; judicial review of legislative acts |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: not specified |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Andres Manuel LOPEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Andres Manuel LOPEZ OBRADOR (since 1 December 2018) |
+| Executive branch: | cabinet: Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held in July 2024) |
+| Executive branch: | election results: Andres Manuel LOPEZ OBRADOR elected president; percent of vote - Andres Manuel LOPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA (PAN) 22.3%, Jose Antonio MEADE Kuribrena (PRI) 16.4%, Jaime RODRIGUEZ Calderon 5.2% (independent), other 2.9% |
+| Legislative branch: | description: bicameral National Congress or Congreso de la Union consists of: |
+| Legislative branch: | Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms) |
+| Legislative branch: | Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 1 July 2018 (next to be held on 1 July 2024) |
+| Legislative branch: | Chamber of Deputies - last held on 1 July 2018 (next to be held on 1 July 2021) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3% |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 193, PAN 79, PT 61, PES 58, PRI 42, MC 26, PRD 23, PVEM 17, PNA/PANAL 1; composition - men 259, women 241, percent of women 48.2%; note - total National Congress percent of women 48.4% |
+| Legislative branch: | note: for the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms |
+| Judicial branch: | highest courts: Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve 15-year terms; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms |
+| Judicial branch: | subordinate courts: federal level includes circuit, collegiate, and unitary courts; state and district level courts |
+| Political parties and leaders: | Citizen's Movement (Movimiento Ciudadano) or MC [Clemente CASTANEDA] |
+| Political parties and leaders: | Institutional Revolutionary Party (Partido Revolucionario Institucional) or PRI [Claudia RUIZ Massieu] |
+| Political parties and leaders: | Labor Party (Partido del Trabajo) or PT [Alberto ANAYA Gutierrez] |
+| Political parties and leaders: | Mexican Green Ecological Party (Partido Verde Ecologista de Mexico) or PVEM [Carlos Alberto PUENTE Salas] |
+| Political parties and leaders: | Movement for National Regeneration (Movimiento Regeneracion Nacional) or MORENA [Andres Manuel LOPEZ Obrador] |
+| Political parties and leaders: | National Action Party (Partido Accion Nacional) or PAN [Damian ZEPEDA Vidales] |
+| Political parties and leaders: | Party of the Democratic Revolution (Partido de la Revolucion Democratica) or PRD [Manuel GRANADOS] |
+| International organization participation: | APEC, Australia Group, BCIE, BIS, CAN (observer), Caricom (observer), CD, CDB, CE (observer), CELAC, CSN (observer), EBRD, FAO, FATF, G-3, G-15, G-20, G-24, G-5, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, NAFTA, NAM (observer), NEA, NSG, OAS, OECD, OPANAL, OPCW, Pacific Alliance, Paris Club (associate), PCA, SICA (observer), UN, UNASUR (observer), UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Martha BARCENA Coqui (since 11 January 2019); note - Ambassador BARCENA Coqui is Mexico'a first-ever female ambassador to the US |
+| Diplomatic representation in the US: | Â  |
+| Diplomatic representation in the US: | chancery: 1911 Pennsylvania Avenue NW, Washington, DC 20006 |
+| Diplomatic representation in the US: | telephone: [1] (202) 728-1600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 728-1698 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso (TX), Houston, Laredo (TX), Los Angeles, Miami, New York, Nogales (AZ), Phoenix, Sacramento (CA), San Antonio (TX), San Diego, San Francisco, San Jose (CA), San Juan (Puerto Rico), Saint Paul (MN) |
+| Diplomatic representation in the US: | consulate(s): Albuquerque (NM), Anchorage (AK), Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit, Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas, Little Rock (AR), McAllen (TX), Minneapolis (MN), New Orleans, Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia, Portland (OR), Presidio (TX), Raleigh (NC), Salt Lake City, San Bernardino (CA), Santa Ana (CA), Seattle, Tucson (AZ), Yuma (AZ); note - Washington DC Consular Section is located in a separate building from the Mexican Embassy and has jurisdiction over DC, parts of Virginia, Maryland, and West Virginia |
+| Diplomatic representation in the US: | Â  |
+| Diplomatic representation from the US: | chief of mission: Ambassador Christopher LANDAU (since 26 August 2019) |
+| Diplomatic representation from the US: | telephone: (011) 52-55-5080-2000 |
+| Diplomatic representation from the US: | embassy: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal |
+| Diplomatic representation from the US: | mailing address: P. O. Box 9000, Brownsville, TX 78520-9000 |
+| Diplomatic representation from the US: | FAX: (011) 52-55-5080-2005 |
+| Diplomatic representation from the US: | consulate(s) general: Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana |
+| Flag description: | three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City |
+| Flag description: | note: similar to the flag of Italy, which is shorter, uses lighter shades of green and red, and does not display anything in its white band |
+| National symbol(s): | golden eagle; national colors: green, white, red |
+| National anthem: | name: "Himno Nacional Mexicano" (National Anthem of Mexico) |
+| National anthem: | lyrics/music: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA |
+| National anthem: | note: adopted 1943, in use since 1854; also known as "Mexicanos, al grito de Guerra" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed |

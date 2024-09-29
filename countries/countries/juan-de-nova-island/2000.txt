@@ -1,0 +1,12 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Juan de Nova Island |
+| Country name: | local long form: none |
+| Country name: | local short form: Ile Juan de Nova |
+| Data code: | JU |
+| Dependency status: | possession of France; administered by a high commissioner of the Republic, resident in Reunion |
+| Legal system: | NA |
+| Diplomatic representation in the US: | none (possession of France) |
+| Diplomatic representation from the US: | none (possession of France) |
+| Flag description: | the flag of France is used |

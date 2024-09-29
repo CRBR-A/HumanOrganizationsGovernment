@@ -1,0 +1,42 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: French Republic |
+| Country name: | conventional short form: France |
+| Country name: | local long form: Republique Francaise |
+| Country name: | local short form: France |
+| Data code: | FR |
+| Government type: | republic |
+| Capital: | Paris |
+| Administrative divisions: | 22 regions (regions, singular - region); Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Comte, Haute-Normandie, Ile-de-France, Languedoc-Roussillon, Limousin, Lorraine, Midi-Pyrenees, Nord-Pas-de-Calais, Pays de la Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote d'Azur, Rhone-Alpes |
+| note: | metropolitan France is divided into 22 regions (including the "territorial collectivity" of Corse or Corsica) and is subdivided into 96 departments; see separate entries for the overseas departments (French Guiana, Guadeloupe, Martinique, Reunion) and the overseas territorial collectivities (Mayotte, Saint Pierre and Miquelon) |
+| Dependent areas: | Bassas da India, Clipperton Island, Europa Island, French Polynesia, French Southern and Antarctic Lands, Glorioso Islands, Juan de Nova Island, New Caledonia, Tromelin Island, Wallis and Futuna |
+| note: | the US does not recognize claims to Antarctica |
+| Independence: | 486 (unified by Clovis) |
+| National holiday: | National Day, Taking of the Bastille, 14 July (1789) |
+| Constitution: | 28 September 1958, amended concerning election of president in 1962, amended to comply with provisions of EC Maastricht Treaty in 1992; amended to tighten immigration laws 1993 |
+| Legal system: | civil law system with indigenous concepts; review of administrative but not legislative acts |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Jacques CHIRAC (since 17 May 1995) |
+| Executive branch: | head of government: Prime Minister Lionel JOSPIN (since 3 June 1997) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the suggestion of the prime minister |
+| Executive branch: | elections: president elected by popular vote for a seven-year term; election last held 23 April and 7 May 1995 (next to be held by May 2002); prime minister nominated by the National Assembly majority and appointed by the president |
+| Executive branch: | election results: Jacques CHIRAC elected president; percent of vote, second ballot - Jacques CHIRAC (RPR) 52.64%, Lionel JOSPIN (PS) 47.36% |
+| Legislative branch: | bicameral Parliament or Parlement consists of the Senate or Senat (321 seats - 296 for metropolitan France, 13 for overseas departments and territories, and 12 for French nationals abroad; members are indirectly elected by an electoral college to serve nine-year terms; elected by thirds every three years) and the National Assembly or Assemblee Nationale (577 seats; members are elected by popular vote under a single-member majoritarian system to serve five-year terms) |
+| elections: | Senate - last held 27 September 1998 (next to be held September 2001); National Assembly - last held 25 May-1 June 1997 (next to be held NA May 2002) |
+| election results: | Senate - percent of vote by party - NA; seats by party - RPR 99, UDC 52, DL 47, PS 78, PCF 16, other 29; National Assembly - percent of vote by party - NA; seats by party - PS 245, RPR 140, UDF 109, PCF 37, PRS 13, MEI 8, MDC 7, LDI-MPF 1, FN 1, various left 9, various right 7 |
+| Judicial branch: | Supreme Court of Appeals or Cour de Cassation, judges are appointed by the president from nominations of the High Council of the Judiciary; Constitutional Council or Conseil Constitutionnel, three members appointed by the president, three members appointed by the president of the National Assembly, and three appointed by the president of the Senate; Council of State or Conseil d'Etat |
+| Political parties and leaders: | Citizens Movement or MdC [Jean Pierre CHEVENEMENT]; Democratic Force or FD [leader NA]; Ecology Gereration or GE [Brice LALONDE]; French Communist Party or PCF [Robert HUE]; Independent Ecological Movement or MEI [Jenevieve ANDUEZA]; Left Radical Party or PRG (previously Radical Socialist Party or PRS and the Left Radical Movement or MRG) [Jean-Michel BAYLET]; Liberal Democracy or DL (originally Republican Party or PR) [Alain MADELIN]; Movement for France or LDI-MPF [Philippe DEVILLIERS]; National Center of Independents and Peasants or CNIP [Jean PERRIN]; National Front or FN [Jean-Marie LE PEN]; National Front-National Movement [Bruno MEGRET]; Popular Party for French Democracy or PPDF [Herve de CHARETTE]; Radical Party or RRRS [Thierry CORNILLET]; Rally for the Republic or RPR [Michelle ALLIOT-MARIE]; Reformers' Movement or MR [Jean-Pierre SOISSON]; Socialist Party or PS [Francois HOLLANDE]; The Greens (Les Verts) [Jean-Luc BENNAHMIAS]; The Right (La Droite) [Charles MILLON]; Union for French Democracy or UDF (coalition of UDC, FD, RRRS, PPDF) [Francois LEOTARD]; Union of the Center or UDC [leader NA] |
+| Political pressure groups and leaders: | Communist-controlled labor union (Confederation Generale du Travail) or CGT, nearly 2.4 million members (claimed); independent labor union or Force Ouvriere, 1 million members (est.); independent white-collar union or Confederation Generale des Cadres, 340,000 members (claimed); National Council of French Employers (Conseil National du Patronat Francais) or CNPF or Patronat; Socialist-leaning labor union (Confederation Francaise Democratique du Travail) or CFDT, about 800,000 members (est.) |
+| International organization participation: | ACCT, AfDB, AsDB, Australia Group, BDEAC, BIS, CCC, CDB (non-regional), CE, CERN, EAPC, EBRD, ECA (associate), ECE, ECLAC, EIB, EMU, ESA, ESCAP, EU, FAO, FZ, G- 5, G- 7, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, InOC, Intelsat, Interpol, IOC, IOM, ISO, ITU, MINURSO, MIPONUH, MONUC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, SPC, UN, UN Security Council, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNIKOM, UNITAR, UNMIBH, UNMIK, UNOMIG, UNRWA, UNTSO, UNU, UPU, WADB (nonregional), WCL, WEU, WFTU, WHO, WIPO, WMO, WToO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Francois V. BUJON DE L'ESTANG |
+| Diplomatic representation in the US: | chancery: 4101 Reservoir Road NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 944-6000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 944-6166 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, and San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Felix G. ROHATYN |
+| Diplomatic representation from the US: | embassy: 2 Avenue Gabriel, 75382 Paris Cedex 08 |
+| Diplomatic representation from the US: | mailing address: PSC 116, APO AE 09777 |
+| Diplomatic representation from the US: | telephone: [33] (1) 43-12-22-22 |
+| Diplomatic representation from the US: | FAX: [33] (1) 42 66 97 83 |
+| Diplomatic representation from the US: | consulate(s) general: Marseille, Strasbourg |
+| Flag description: | three equal vertical bands of blue (hoist side), white, and red; known as the French Tricouleur (Tricolor); the design and colors are similar to a number of other flags, including those of Belgium, Chad, Ireland, Cote d'Ivoire, and Luxembourg; the official flag for all French dependent areas |

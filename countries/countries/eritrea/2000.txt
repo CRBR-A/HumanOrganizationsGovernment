@@ -1,0 +1,40 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: State of Eritrea |
+| Country name: | conventional short form: Eritrea |
+| Country name: | local long form: Hagere Ertra |
+| Country name: | local short form: Ertra |
+| Country name: | former: Eritrea Autonomous Region in Ethiopia |
+| Data code: | ER |
+| Government type: | transitional government |
+| note: | following a successful referendum on independence for the Autonomous Region of Eritrea on 23-25 April 1993, a National Assembly, composed entirely of the People's Front for Democracy and Justice or PFDJ, was established as a transitional legislature; a Constitutional Commission was also established to draft a constitution; ISAIAS Afworki was elected president by the transitional legislature; the constitution, ratified in August 1997, did not enter into effect, pending parliamentary and presidential elections; those elections have been postponed indefinitely following the start of the border conflict with Ethiopia |
+| Capital: | Asmara (formerly Asmera) |
+| Administrative divisions: | 8 provinces (singular - awraja); Akale Guzay, Barka, Denkel, Hamasen, Sahil, Semhar, Senhit, Seraye |
+| note: in May 1995 the National Assembly adopted a resolution stating that the administrative structure of Eritrea, which had been established by former colonial powers, would consist of only six provinces when the new constitution, then being drafted, became effective in 1997; the new provinces, the names of which had not been recommended by the US Board on Geographic Names for recognition by the US Government, pending acceptable definition of the boundaries, were: | Anseba, Debub, Debubawi Keyih Bahri, Gash-Barka, Maakel, and Semanawi Keyih Bahri; more recently, it has been reported that these provinces have been redesignated regions and renamed Southern Red Sea, Northern Red Sea, Anseba, Gash-Barka, Southern, and Central |
+| Independence: | 23-25 April 1993 referendum was held with vote for independence as the outcome; 24 May 1993 (from Ethiopia; formerly the Eritrea Autonomous Region) |
+| National holiday: | National Day (independence from Ethiopia), 24 May (1993) |
+| Constitution: | the transitional constitution, decreed on 19 May 1993, was replaced by a new constitution adopted on 23 May 1997, but not yet implemented |
+| Legal system: | operates on the basis of transitional laws that incorporate pre-independence statutes of the Eritrean People's Liberation Front, revised Ethiopian laws, customary laws, and post independence enacted laws |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President ISAIAS Afworki (since 8 June 1993); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President ISAIAS Afworki (since 8 June 1993); note - the president is both the chief of state and head of government |
+| Executive branch: | cabinet: State Council is the collective executive authority |
+| Executive branch: | note: the president is head of the State Council and National Assembly |
+| Executive branch: | elections: president elected by the National Assembly; election last held 8 June 1993 (next to be held NA) |
+| Executive branch: | election results: ISAIAS Afworki elected president; percent of National Assembly vote - ISAIAS Afworki 95% |
+| Legislative branch: | unicameral National Assembly (150 seats; term limits not established) |
+| elections: | in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until country-wide elections to a National Assembly are held; only 75 members will be elected to the National Assembly - the other 75 will be members of the Central Committee of the PFDJ |
+| Judicial branch: | Supreme Court; 10 provincial courts; 29 district courts |
+| Political parties and leaders: | People's Front for Democracy and Justice or PFDJ, the only party recognized by the government [ISAIAS Afworki, PETROS Solomon] |
+| Political pressure groups and leaders: | Eritrean Islamic Jihad or EIJ; Eritrean Liberation Front or ELF [ABDULLAH Muhammed]; Eritrean Liberation Front-Revolutionary Council or ELF-RC [Ahmed NASSER]; Eritrean Liberation Front-United Organization or ELF-UO [Mohammed Said NAWD] |
+| International organization participation: | ACP, AfDB, CCC, ECA, FAO, G-77, IBRD, ICAO, ICFTU, IDA, IFAD, IFC, IGAD, ILO, IMF, IMO, Intelsat (nonsignatory user), IOC, ITU, NAM, OAU, PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO |
+| Diplomatic representation in the US: | chief of mission: Ambassador SEMERE Russom |
+| Diplomatic representation in the US: | chancery: 1708 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 319-1991 |
+| Diplomatic representation in the US: | FAX: [1] (202) 319-1304 |
+| Diplomatic representation from the US: | chief of mission: Ambassador William D. CLARKE |
+| Diplomatic representation from the US: | embassy: Franklin D. Roosevelt Street, Asmara |
+| Diplomatic representation from the US: | mailing address: P. O. Box 211, Asmara |
+| Diplomatic representation from the US: | telephone: [291] (1) 120004 |
+| Diplomatic representation from the US: | FAX: [291] (1) 127584 |
+| Flag description: | red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle |

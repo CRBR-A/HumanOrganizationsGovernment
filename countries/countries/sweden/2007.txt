@@ -1,0 +1,40 @@
+| Government | Sweden |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Sweden |
+| Country name: | conventional short form: Sweden |
+| Country name: | local long form: Konungariket Sverige |
+| Country name: | local short form: Sverige |
+| Government type: | constitutional monarchy |
+| Capital: | name: Stockholm |
+| Capital: | geographic coordinates: 59 20 N, 18 03 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 21 counties (lan, singular and plural); Blekinge, Dalarnas, Gavleborgs, Gotlands, Hallands, Jamtlands, Jonkopings, Kalmar, Kronobergs, Norrbottens, Orebro, Ostergotlands, Skane, Sodermanlands, Stockholms, Uppsala, Varmlands, Vasterbottens, Vasternorrlands, Vastmanlands, Vastra Gotalands |
+| Independence: | 6 June 1523 (Gustav VASA elected king) |
+| National holiday: | Swedish Flag Day, 6 June (1916); National Day, 6 June (1983) |
+| Constitution: | 1 January 1975 |
+| Legal system: | civil law system influenced by customary law; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: King CARL XVI GUSTAF (since 19 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree, daughter of the monarch (born 14 July 1977) |
+| Executive branch: | head of government: Prime Minister Fredrik REINFELDT (since 5 October 2006) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections: the monarchy is hereditary; following legislative elections, the prime minister is elected by the parliament; election last held on 17 September 2006 (next to be held in September 2010) |
+| Executive branch: | election results: Fredrik REINFELDT elected prime minister with 175 out of 349 votes |
+| Legislative branch: | unicameral Parliament or Riksdag (349 seats; members are elected by popular vote on a proportional representation basis to serve four-year terms) |
+| Legislative branch: | elections: last held on 17 September 2006 (next to be held in September 2010) |
+| Legislative branch: | election results: percent of vote by party - Social Democrats 37.2%, Moderates 27.8%, Center Party 8.3%, People's Party 8.0%, Christian Democrats 6.9%, Left Party 6.3%, Greens 5.4%; seats by party - Social Democrats 130, Moderates 97, Center Party 29, People's Party 28, Christian Democrats 24, Left Party 22, Greens 19 |
+| Judicial branch: | Supreme Court or Hogsta Domstolen (judges are appointed by the prime minister and the cabinet) |
+| Political parties and leaders: | Center Party [Maud OLOFSSON]; Christian Democratic Party [Goran HAGGLUND]; Environment Party the Greens [no formal leader but party spokespersons are Maria WETTERSTRAND and Peter ERIKSSON]; Left Party or V (formerly Communist) [Lars OHLY]; Moderate Party (conservative) [Fredrik REINFELDT]; People's Party [Lars LEIJONBORG]; Social Democratic Party [Mona SAHLIN] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | AfDB, Arctic Council, AsDB, Australia Group, BIS, CBSS, CE, CERN, EAPC, EBRD, EIB, ESA, EU, FAO, G- 6, G- 9, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUC, NAM (guest), NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMEE, UNMIL, UNMIS, UNMOGIP, UNOMIG, UNRWA, UNTSO, UPU, WCO, WEU (observer), WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Gunnar LUND |
+| Diplomatic representation in the US: | chancery: 902 30th Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 467-2600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 467-2699 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael M. WOOD |
+| Diplomatic representation from the US: | embassy: Dag Hammarskjolds Vag 31, SE-11589 Stockholm |
+| Diplomatic representation from the US: | mailing address: American Embassy Stockholm, US Department of State, 5750 Stockholm Place, Washington, DC 20521-5750 |
+| Diplomatic representation from the US: | telephone: [46] (08) 783 53 00 |
+| Diplomatic representation from the US: | FAX: [46] (08) 661 19 64 |
+| Flag description: | blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag) |

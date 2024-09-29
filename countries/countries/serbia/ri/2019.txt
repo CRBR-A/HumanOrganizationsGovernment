@@ -1,0 +1,89 @@
+| Government | Serbia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Serbia |
+| Country name: | conventional short form: Serbia |
+| Country name: | local long form: Republika Srbija |
+| Country name: | local short form: Srbija |
+| Country name: | former: People's Republic of Serbia, Socialist Republic of Serbia |
+| Country name: | etymology: the origin of the name is uncertain, but seems to be related to the name of the West Slavic Sorbs who reside in the Lusatian region in present-day eastern Germany; by tradition, the Serbs migrated from that region to the Balkans in about the 6th century A.D. |
+| Government type: | parliamentary republic |
+| Capital: | name: Belgrade (Beograd) |
+| Capital: | geographic coordinates: 44 50 N, 20 30 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: the Serbian "Beograd" means "white fortress" or "white city" and dates back to the 9th century; the name derives from the white fortress wall that once enclosed the city |
+| Administrative divisions: | 119 municipalities (opstine, singular - opstina) and 26 cities (gradovi, singular - grad) |
+| Administrative divisions: | municipalities: Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bor, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Prokuplje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada; |
+| Administrative divisions: | cities: Beograd, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin* |
+| Administrative divisions: | note: the northern 37 municipalities and 8 cities - about 28% of Serbia's area - compose the Autonomous Province of Vojvodina and are indicated with * |
+| Independence: | 5 June 2006 (from the State Union of Serbia and Montenegro); notable earlier dates: 1217 (Serbian Kingdom established); 16 April 1346 (Serbian Empire established); 13 July 1878 (Congress of Berlin recognizes Serbian independence); 1 December 1918 (Kingdom of Serbs, Croats, and Slovenes (Yugoslavia) established) |
+| National holiday: | National Day (Statehood Day), 15 February (1835), the day the first constitution of the country was adopted |
+| Constitution: | history: many previous; latest adopted 30 September 2006, approved by referendum 28-29 October 2006, effective 8 November 2006 |
+| Constitution: | amendments: proposed by at least one third of deputies in the National Assembly, by the president of the republic, by the government, or by petition of at least 150,000 voters; passage of proposals and draft amendments each requires at least two-thirds majority vote in the Assembly; amendments to constitutional articles including the preamble, constitutional principles, and human and minority rights and freedoms also require passage by simple majority vote in a referendum (2016) |
+| Legal system: | civil law system |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Serbia |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 3 years |
+| Suffrage: | 18 years of age, 16 if employed; universal |
+| Executive branch: | chief of state: President Aleksandar VUCIC (since 31 May 2017) |
+| Executive branch: | head of government: Prime Minister Ana BRNABIC (since 29 June 2017) |
+| Executive branch: | cabinet: Cabinet elected by the National Assembly |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in 2022); prime minister elected by the National Assembly |
+| Executive branch: | election results: Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6% |
+| Legislative branch: | description: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms) |
+| Legislative branch: | elections: last held on 24 April 2016 (next to be held by April 2020) |
+| Legislative branch: | election results: percent of vote by party/coalition - Serbia is Winning 48.3%, SPS-JS-ZS-KP 11.0%, SRS 8.1%, For a Just Serbia 6.0%, DJB 6.0%, Alliance for a Better Serbia 5.0%, Dveri-DSS 5.0%, SVM 1.5%, other 9.1%; seats by party/coalition Serbia is Winning 131, SPS-JS-ZS-KP 29, SRS 22, For a Just Serbia 16, DJB 16, Alliance for a Better Serbia 13, Dveri-DSS 13, SVM 4, other 6; composition - men 165, women 85, percent of women 34% |
+| Legislative branch: | note: seats by party as of May 2019Â  - SNS 91, SRS 22, SPS 20, DS 13, SDPS 10, PUPS 9, Dveri 6, JS 6, LDP 4, SDS 4, SVM 4, other 36, independent 25; composition - men 157, women 93, percent of women 37.2% |
+| Judicial branch: | highest courts: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president) |
+| Judicial branch: | judge selection and term of office: Supreme Court justices proposed by the High Judicial Council (HJC), an 11-member independent body consisting ofÂ  8 judges elected by the National Assembly and 3 ex-officio members; justices appointed by the National Assembly; Constitutional Court judges elected - 5 each by the National Assembly, the president, and the Supreme Court of Cassation; initial appointment of Supreme Court judges by the HJC is 3 years and beyond that period tenure is permanent; Constitutional Court judges elected for 9-year terms |
+| Judicial branch: | subordinate courts: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts |
+| Political parties and leaders: | Alliance for a Better Serbia (electoral coalition including LDP, LSV, SDS) |
+| Political parties and leaders: | Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR] |
+| Political parties and leaders: | Communist Party or KP [Josip Joska BROZ] |
+| Political parties and leaders: | Democratic Party or DS [Zoran LUTOVAC] |
+| Political parties and leaders: | Democratic Party of Serbia or DSS [Milos JOVANOVIC] |
+| Political parties and leaders: | Dveri [Bosko OBRADOVIC] |
+| Political parties and leaders: | Enough is Enough or DJB [Branislav MIHAJLOVIC] |
+| Political parties and leaders: | For a Just Serbia (electoral coalition including DS, NS, DSVH, VVS) |
+| Political parties and leaders: | Greens of Serbia or ZS [Ivan KARIC] |
+| Political parties and leaders: | Justice and Reconciliation Party or SPP [Muamer ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS) |
+| Political parties and leaders: | League of Social Democrats of Vojvodina or LSV [Nenad CANAK] |
+| Political parties and leaders: | Liberal Democratic Party or LDP [Cedomir JOVANOVIC] |
+| Political parties and leaders: | Movement of Socialists or PS [Aleksandar VULIN] |
+| Political parties and leaders: | New Party or NOVA [Zoran ZIVKOVIC] |
+| Political parties and leaders: | New Serbia or NS [Velimir ILIC] |
+| Political parties and leaders: | Party for Democratic Action or PDD [Shaip KAMBERI] |
+| Political parties and leaders: | Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN] |
+| Political parties and leaders: | Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC] |
+| Political parties and leaders: | People's Party or NARODNA [Vuk JEREMIC] |
+| Political parties and leaders: | Serbia is Winning (electoral coalition including NDSS, NS, PS, PSS, PUPS, SDPS, SNP, SNS, SPO) |
+| Political parties and leaders: | Serbian People's Party or SNP [Nenad POPOVIC] |
+| Political parties and leaders: | Serbian Progressive Party or SNS [Aleksandar VUCIC] |
+| Political parties and leaders: | Serbian Radical Party or SRS [Vojislav SESELJ] |
+| Political parties and leaders: | Serbian Renewal Movement or SPO [Vuk DRASKOVIC] |
+| Political parties and leaders: | Social Democratic Party or SDS [Boris TADIC] |
+| Political parties and leaders: | Social Democratic Party of Serbia or SDPS [Rasim LJAJIC] |
+| Political parties and leaders: | Socialist Party of Serbia or SPS [Ivica DACIC] |
+| Political parties and leaders: | Strength of Serbia or PSS [Bogoljub KARIC] |
+| Political parties and leaders: | Together for Serbia or ZZS [Hebojsa ZELENOVIC] |
+| Political parties and leaders: | United Serbia or JS [Dragan MARKOVIC] |
+| Political parties and leaders: | note: Serbia has more than 110 registered political parties and citizens' associations |
+| International organization participation: | BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNOCI, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | Ambassador Djerdj MATKOVIC (since 23 February 2015) |
+| Diplomatic representation in the US: | chancery: 2233 Wisconsin Ave NW, #410, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-0333 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-3933 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Anthony GODFREY (since 24 October 2019) |
+| Diplomatic representation from the US: | telephone: [381] (11) 706-4000 |
+| Diplomatic representation from the US: | embassy: 92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade, Serbia |
+| Diplomatic representation from the US: | mailing address: 5070 Belgrade Place, Washington, DC 20521-5070 |
+| Diplomatic representation from the US: | FAX: [381] (11) 706-4005 |
+| Flag description: | three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms |
+| Flag description: | note: the Pan-Slav colors were inspired by the 19th-century flag of Russia |
+| National symbol(s): | white double-headed eagle; national colors: red, blue, white |
+| National anthem: | name: "Boze pravde" (God of Justice) |
+| National anthem: | lyrics/music: Jovan DORDEVIC/Davorin JENKO |
+| National anthem: | note: adopted 1904; song originally written as part of a play in 1872 and has been used as an anthem by the Serbian people throughout the 20th and 21st centuries |

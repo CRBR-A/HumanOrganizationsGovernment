@@ -1,0 +1,47 @@
+| Government | Italy |
+| --- | --- |
+| Country name: | conventional long form: Italian Republic |
+| Country name: | conventional short form: Italy |
+| Country name: | local long form: Repubblica Italiana |
+| Country name: | local short form: Italia |
+| Country name: | former: Kingdom of Italy |
+| Government type: | republic |
+| Capital: | name: Rome |
+| Capital: | geographic coordinates: 41 54 N, 12 29 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma) |
+| Administrative divisions: | regions: Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto (Venetia) |
+| Administrative divisions: | autonomous regions: Friuli-Venezia Giulia; Sardegna (Sardinia); Sicilia (Sicily); Trentino-South Tyrol, also known as Trentino-Alto Adige (Italian), Trentino-Suedtirol (German); Aosta Valley, also known as Valle d'Aosta (Italian), Vallee d'Aoste (French) |
+| Independence: | 17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1870) |
+| National holiday: | Republic Day, 2 June (1946) |
+| Constitution: | passed 11 December 1947, effective 1 January 1948; amended many times |
+| Legal system: | based on civil law system; appeals treated as new trials; judicial review under certain conditions in Constitutional Court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal (except in senatorial elections, where minimum age is 25) |
+| Executive branch: | chief of state: President Giorgio NAPOLITANO (since 15 May 2006) |
+| Executive branch: | head of government: Prime Minister Silvio BERLUSCONI (since 8 May 2008) note - in Italy the prime minister is referred to as the president of the Council of Ministers |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister and approved by the president |
+| Executive branch: | elections: president elected by an electoral college consisting of both houses of parliament and 58 regional representatives for a seven-year term (no term limits); election last held 10 May 2006 (next to be held in May 2013); prime minister appointed by the president and confirmed by parliament |
+| Executive branch: | election results: Giorgio NAPOLITANO elected president on the fourth round of voting; electoral college vote - 543 |
+| Legislative branch: | bicameral Parliament or Parlamento consists of the Senate or Senato della Repubblica (315 seats; members elected by proportional vote with the winning coalition in each region receiving 55% of seats from that region; to serve five-year terms) and the Chamber of Deputies or Camera dei Deputati (630 seats; members elected by popular vote with the winning national coalition receiving 54% of chamber seats; to serve five-year terms) |
+| Legislative branch: | elections: Senate - last held 13-14 April 2008 (next to be held April 2013); Chamber of Deputies - last held 13-14 April 2008 (next to be held April 2013) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - S. BERLUSCONI coalition 174 (PdL 147, LN 25, MpA 2), W. VELTRONI coalition 132 (PD 118, IdV 3), UdC 3, other 6; Chamber of Deputies - percent of vote by party - NA; seats by party - S. BERLUSCONI coalition 344 (PdL 276, LN 60, MpA 8), W. VELTRONI coalition 246 (PD 217, IdV 29), UdC 36, other 4 |
+| Judicial branch: | Constitutional Court or Corte Costituzionale (composed of 15 judges: one-third appointed by the president, one-third elected by parliament, one-third elected by the ordinary and administrative Supreme Courts) |
+| Political parties and leaders: | Silvio BERLUSCONI coalition: People of Freedom or PdL [Silvio BERLUSCONI]; Lega Nord or LN [Umberto BOSSI]; Movement for Autonomy or MpA [Raffaele LOMBARDO] |
+| Political parties and leaders: | Walter VELTRONI coalition: Democratic Party or PD [Walter VELTRONI]; Italy of Values or IdV [Antonio DI PIETRO] |
+| Political parties and leaders: | other non-allied parties: Union of the Center or UdC [Savino PEZZOTTA] |
+| Political pressure groups and leaders: | manufacturers and merchants associations - Confcommercio; Confindustria; organized farm groups - Confcoltivatori; Confagricoltura; Roman Catholic Church; three major trade union confederations - Confederazione Generale Italiana del Lavoro or CGIL [Guglielmo EPIFANI] which is left wing; Confederazione Italiana dei Sindacati Lavoratori or CISL [Raffaele BONANNO], which is Roman Catholic centrist; Unione Italiana del Lavoro or UIL [Luigi ANGELETTI] which is lay centrist) |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CDB, CE, CEI, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G-20, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAIA (observer), MIGA, MINURSO, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, SECI (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCL, WCO, WEU, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Giulio TERZI di Sant'Agata |
+| Diplomatic representation in the US: | chancery: 3000 Whitehaven Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 612-4400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 518-2151 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco |
+| Diplomatic representation in the US: | consulate(s): Detroit |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Elizabeth DIBBLE |
+| Diplomatic representation from the US: | embassy: Via Vittorio Veneto 121, 00187-Rome |
+| Diplomatic representation from the US: | mailing address: PSC 59, Box 100, APO AE 09624 |
+| Diplomatic representation from the US: | telephone: [39] (06) 46741 |
+| Diplomatic representation from the US: | FAX: [39] (06) 488-2672, 4674-2356 |
+| Diplomatic representation from the US: | consulate(s) general: Florence, Milan, Naples |
+| Flag description: | three equal vertical bands of green (hoist side), white, and red; similar to the flag of Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green; inspired by the French flag brought to Italy by Napoleon in 1797 |

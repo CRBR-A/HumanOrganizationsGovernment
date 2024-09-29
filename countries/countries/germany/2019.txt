@@ -1,0 +1,67 @@
+| Government | Germany |
+| --- | --- |
+| Country name: | conventional long form: Federal Republic of Germany |
+| Country name: | conventional short form: Germany |
+| Country name: | local long form: Bundesrepublik Deutschland |
+| Country name: | local short form: Deutschland |
+| Country name: | former: German Reich |
+| Country name: | etymology: the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as "Germani," a term the Romans adopted as "Germania"; the native designation "Deutsch" comes from the Old High German "diutisc" meaning "of the people" |
+| Government type: | federal parliamentary republic |
+| Capital: | name: Berlin |
+| Capital: | geographic coordinates: 52 31 N, 13 24 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: the origin of the name is unclear but may be related to the old West Slavic (Polabian) word "berl" or "birl," meaning "swamp" |
+| Administrative divisions: | 16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt) |
+| Independence: | 18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990; all four powers formally relinquished rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor) |
+| National holiday: | German Unity Day, 3 October (1990) |
+| Constitution: | history: previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949 |
+| Constitution: | amendments: proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2017 (2018) |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years |
+| Citizenship: | dual citizenship recognized: yes, but requires prior permission from government |
+| Citizenship: | residency requirement for naturalization: 8 years |
+| Suffrage: | 18 years of age; universal; age 16 for some state and municipal elections |
+| Executive branch: | chief of state: President Frank-Walter STEINMEIER (since 19 March 2017) |
+| Executive branch: | head of government: Chancellor Angela MERKEL (since 22 November 2005) |
+| Executive branch: | cabinet: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president |
+| Executive branch: | elections/appointments: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor (Angela Merkel since 2005) and appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 14 March 2018 (next to be held after the Bundestag elections in 2021) |
+| Executive branch: | election results: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315 |
+| Legislative branch: | description: bicameral Parliament or Parlament consists of: |
+| Legislative branch: | Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments) |
+| Legislative branch: | Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election |
+| Legislative branch: | Bundestag - last held on 24 September 2017 (next to be held in 2021); most postwar German governments have been coalitions |
+| Legislative branch: | election results: |
+| Legislative branch: | Bundesrat - composition - men 50, women 19, percent of women 27.5% |
+| Legislative branch: | Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5% |
+| Judicial branch: | highest courts: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members) |
+| Judicial branch: | judge selection and term of office: Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68 |
+| Judicial branch: | subordinate courts: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts |
+| Political parties and leaders: | Alliance '90/Greens [Annalena BAERBOCK and Robert HABECK] |
+| Political parties and leaders: | Alternative for Germany or AfD [Alexander GAULAND and Joerg MEUTHEN] |
+| Political parties and leaders: | Christian Democratic Union or CDU [Annegret KRAMP-KARRENBAUER] |
+| Political parties and leaders: | Christian Social Union or CSU [Markus SOEDER] |
+| Political parties and leaders: | Free Democratic Party or FDP [Christian LINDNER] |
+| Political parties and leaders: | The Left or Die Linke [Katja KIPPING and Bernd RIEXINGER] |
+| Political parties and leaders: | Social Democratic Party or SPD [Andrea NAHLES] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMISS, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | Ambassador Emily Margarethe HABER (since 22 June 2018) |
+| Diplomatic representation in the US: | chancery: 4645 Reservoir Road NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-4000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-4249 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard GRENELL (since 8 May 2018) |
+| Diplomatic representation from the US: | telephone: [49] (30) 8305-0 |
+| Diplomatic representation from the US: | embassy: Clayallee 170, 14191 Berlin |
+| Diplomatic representation from the US: | mailing address: Clayallee 170, 14191 Berlin |
+| Diplomatic representation from the US: | FAX: [49] (30) 8305-1215 |
+| Diplomatic representation from the US: | consulate(s) general: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich |
+| Flag description: | three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field |
+| National symbol(s): | eagle; national colors: black, red, yellow |
+| National anthem: | name: "Das Lied der Deutschen" (Song of the Germans) |
+| National anthem: | lyrics/music: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN |
+| National anthem: | note: adopted 1922; the anthem, also known as "Deutschlandlied" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, "Deutschland, Deutschland ueber alles" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany |

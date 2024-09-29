@@ -1,0 +1,47 @@
+| Government | Ecuador |
+| --- | --- |
+| Country name: | conventional long form: Republic of Ecuador |
+| Country name: | conventional short form: Ecuador |
+| Country name: | local long form: Republica del Ecuador |
+| Country name: | local short form: Ecuador |
+| Government type: | republic |
+| Capital: | name: Quito |
+| Capital: | geographic coordinates: 0 13 S, 78 30 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe |
+| Independence: | 24 May 1822 (from Spain) |
+| National holiday: | Independence Day (independence of Quito), 10 August (1809) |
+| Constitution: | 20 October 2008 |
+| Legal system: | civil law based on the Chilean civil code with modifications |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 16 years of age; universal, compulsory for persons ages 18-65, optional for other eligible voters |
+| Executive branch: | chief of state: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: the president and vice president elected on the same ticket by popular vote for a four-year term and can be re-elected for another consecutive term; election last held on 26 April 2009 (next to be held in 2013) |
+| Executive branch: | election results: President Rafael CORREA Delgado reelected president; percent of vote - Rafael CORREA Delgado 52%; Lucio GUTIERREZ 28.2%; Alvaro NOBOA 11.4%; other 8.4% |
+| Legislative branch: | unicameral National Assembly or Asamblea Nacional (124 seats; members are elected through a party-list proportional representation system to serve four-year terms) |
+| Legislative branch: | elections: last held on 26 April 2009 (next to be held in 2013) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PAIS 59, PSP 19, PSC 11, PRIAN 7, MPD 5, PRE 3, other 20; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties |
+| Judicial branch: | National Court of Justice or Corte Nacional de Justicia (according to the Constitution, justices are elected through a procedure overseen by the Judiciary Council); Constitutional Court or Corte Constitucional (Constitutional Court justices are appointed by a commission composed of two delegates each from the Executive, Legislative, and Transparency branches of government) |
+| Political parties and leaders: | Alianza PAIS movement [Rafael Vicente CORREA Delgado]; Democratic Left or ID [Dalton BACIGALUPO]; Ethical and Democratic Network or RED [Martha ROLDOS]; Institutional Renewal and National Action Party or PRIAN [Vicente TAIANO]; Pachakutik Plurinational Unity Movement - New Country or MUPP-NP [Rafael ANTUNI]; Patriotic Society Party or PSP [Lucio GUTIERREZ Borbua]; Popular Democratic Movement or MPD [Luis VILLACIS]; Roldosist Party or PRE [Abdala BUCARAM Pulley, director]; Social Christian Party or PSC [Pascual DEL CIOPPO]; Socialist Party - Broad Front or PS-FA [Rafael QUINTERO]; Warrior's Spirit Movement [Jaime NEBOT] |
+| Political pressure groups and leaders: | Confederation of Indigenous Nationalities of Ecuador or CONAIE [Marlon SANTI, president]; Federation of Indigenous Evangelists of Ecuador or FEINE [Manuel CHUGCHILAN, president]; National Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN [Luis Alberto ANDRANGO Cadena, president]; National Teacher's Union or UNE [Mariana PALLASCO] |
+| International organization participation: | CAN, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, PCA, RG, UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Efrain Baus PALACIOS |
+| Diplomatic representation in the US: | chancery: 2535 15th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-7200 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-3482 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Dallas, Houston, Las Vegas, Los Angeles, Miami, Minneapolis, New Haven, New Orleans, New York, Newark (New Jersey), Phoenix, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Timothy ZUNIGA-BROWN |
+| Diplomatic representation from the US: | embassy: Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito |
+| Diplomatic representation from the US: | mailing address: Avenida Guayacanes N52-205 y Avenida Avigiras |
+| Diplomatic representation from the US: | telephone: [593] (2) 398-5000 |
+| Diplomatic representation from the US: | FAX: [593] (2) 398-5100 |
+| Diplomatic representation from the US: | consulate(s) general: Guayaquil |
+| Flag description: | three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Columbia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice |
+| Flag description: | note: similar to the flag of Colombia, which is shorter and does not bear a coat of arms |
+| National symbol(s): | Andean condor |
+| National anthem: | name: "Salve, Oh Patria!" (We Salute You Our Homeland) |
+| National anthem: | lyrics/music: Juan Leon MERA/Antonio NEUMANE |
+| National anthem: | note: adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung |

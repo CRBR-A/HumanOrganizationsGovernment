@@ -1,0 +1,77 @@
+| Government | Macedonia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Macedonia |
+| Country name: | conventional short form: Macedonia |
+| Country name: | local long form: Republika Makedonija |
+| Country name: | local short form: Makedonija |
+| Country name: | note: the provisional designation used by the UN, EU, and NATO is the "former Yugoslav Republic of Macedonia" (FYROM) |
+| Country name: | former: People's Republic of Macedonia, Socialist Republic of Macedonia |
+| Government type: | parliamentary democracy |
+| Capital: | name: Skopje |
+| Capital: | geographic coordinates: 42 00 N, 21 26 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 71 municipalities (opstini, singular - opstina); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Grad Skopje, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostusa, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci |
+| Independence: | 8 September 1991 (referendum by registered voters endorsed independence from Yugoslavia) |
+| National holiday: | Independence Day, 8 September (1991); also known as National Day |
+| Constitution: | several previous; latest adopted 17 November 1991, effective 20 November 1991; amended several times, last in 2011 (2011) |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Gjorge IVANOV (since 12 May 2009) |
+| Executive branch: | head of government: Prime Minister Nikola GRUEVSKI (since 26 August 2006) |
+| Executive branch: | cabinet: Council of Ministers elected by the majority vote of all the deputies in the Assembly; note - current cabinet formed by the government coalition parties VMRO-DPMNE, BDI, and several small parties |
+| Executive branch: | (For more information visit the World Leaders website&nbsp;) |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); two-round election: first round held on 22 March 2009, second round held on 5 April 2009 (next to be held in March 2014); prime minister elected by the Assembly following legislative elections; the leader of the majority party or majority coalition usually elected prime minister |
+| Executive branch: | election results: Gjorge IVANOV elected president on second-round ballot; percent of vote - Gjorge IVANOV 63.1%, Ljubomir FRCKOSKI 36.9% |
+| Legislative branch: | unicameral Assembly or Sobranie (123 seats; all members elected by popular vote from party lists based on the percentage of the overall vote the parties gain in each of six electoral and three diaspora districts; members serve four-year terms) |
+| Legislative branch: | elections: last held on 5 June 2011 (next to be held by June 2015) |
+| Legislative branch: | election results: percent of vote by party - VMRO-DPMNE-led block 39%, SDSM-led block 32.8%, BDI 10.2%, PDSh 5.9%, other 12.1%; seats by party - VMRO-DPMNE-led block 56, SDSM-led block 42, BDI 15, PDSh 8, RDK 2 |
+| Judicial branch: | highest court(s): Supreme Court (consist of NA judges); Constitutional Court (consists of 9 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by the Judicial Council, a 7-member body of legal professionals, and appointed by the Assembly; judge tenure NA; Constitutional Court judges appointed by the legislature for nonrenewable, 9-year terms |
+| Judicial branch: | subordinate courts: Courts of Appeal; Basic Courts |
+| Political parties and leaders: | Albanian Democratic Union or BDSh [Bardhyl MAHMUTI] |
+| Political parties and leaders: | Democratic League of Bosniaks in Macedonia [Rafet MUMINOVIC] |
+| Political parties and leaders: | Democratic Party of Serbs in Macedonia or DPSM [Ivan STOILJKOVIC] |
+| Political parties and leaders: | Democratic Party of the Albanians or PDSh [Menduh THACI] |
+| Political parties and leaders: | Democratic Party of Turks of Macedonia or DPTM [Kenan HASIPI] |
+| Political parties and leaders: | Democratic Renewal of Macedonia or DOM [Liljana POPOVSKA] |
+| Political parties and leaders: | Democratic Union or DS [Pavle TRAJANOV] |
+| Political parties and leaders: | Democratic Union for Integration or BDI [Ali AHMETI] |
+| Political parties and leaders: | Dosoinstvo (Diginity) [Stojance ANGELOV] |
+| Political parties and leaders: | Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Nikola GRUEVSKI] |
+| Political parties and leaders: | Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI] |
+| Political parties and leaders: | Liberal Democratic Party or LDP [Andrej ZENOVSKI] |
+| Political parties and leaders: | Liberal Party of Macedonia or LP [Ivon VELICKOVSKI] |
+| Political parties and leaders: | Movement for Turkish National Union [Erdogan SARAC] |
+| Political parties and leaders: | National Democratic Revival or RDK [Rufi OSMANI] |
+| Political parties and leaders: | New Democracy or ND [Imer SELMANI] |
+| Political parties and leaders: | New Social-Democratic Party or NSDP [Tito PETKOVSKI] |
+| Political parties and leaders: | Party for Democratic Action of Macedonia or SDA [Avdija PEPIC] |
+| Political parties and leaders: | Party for the Total Emancipation of Roma or PCER [Samka IBRAIMOVSKI] |
+| Political parties and leaders: | Party of United Democrats of Macedonia or PODEM [Zivko JANKULOVSKI] |
+| Political parties and leaders: | Party on European Future or PEI [Fijat CANOSKI] |
+| Political parties and leaders: | Serbian Progressive Party in Macedonia or SPSM [Dragisha MILETIC] |
+| Political parties and leaders: | Social Democratic Union of Macedonia or SDSM [Branko CRVENKOVSKI] |
+| Political parties and leaders: | Socialist Party of Macedonia or SP [Ljubisav IVNAOV DZINGO] |
+| Political parties and leaders: | Union of Roma of Macedonia or SR [Amdi BAJRAM] |
+| Political parties and leaders: | United for Macedonia or OM [Ljube BOSKOSKI] |
+| Political pressure groups and leaders: | Federation of Free Trade Unions [Mirjana ANDREVSKA] |
+| Political pressure groups and leaders: | Federation of Trade Unions [Zivko MITREVSKI] |
+| Political pressure groups and leaders: | Trade Union of Education, Science and Culture [Jakim NEDELKOV] |
+| International organization participation: | BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ISO, ITU, ITUC (NGOs), MIGA, OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Zoran JOLEVSKI (since 22 March 2007) |
+| Diplomatic representation in the US: | chancery: 2129 Wyoming Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-0501 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-2131 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York, Southfield (MI) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Paul D. WOHLERS (since 11 August 2011) |
+| Diplomatic representation from the US: | embassy: Str. Samolilova, Nr. 21, 1000 Skopje |
+| Diplomatic representation from the US: | mailing address: American Embassy Skopje, US Department of State, 7120 Skopje Place, Washington, DC 20521-7120 (pouch) |
+| Diplomatic representation from the US: | telephone: [389] (2) 310-2000 |
+| Diplomatic representation from the US: | FAX: [389] (2) 310-2499 |
+| Flag description: | a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia |
+| National symbol(s): | eight-rayed sun |
+| National anthem: | name: "Denes Nad Makedonija" (Today Over Macedonia) |
+| National anthem: | lyrics/music: Vlado MALESKI/Todor SKALOVSKI |
+| National anthem: | note: adopted 1991; the song, written in 1943, previously served as the anthem of the Socialist Republic of Macedonia while part of Yugoslavia |

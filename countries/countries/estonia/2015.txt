@@ -1,0 +1,53 @@
+| Government | ESTONIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Estonia |
+| Country name: | conventional short form: Estonia |
+| Country name: | local long form: Eesti Vabariik |
+| Country name: | local short form: Eesti |
+| Country name: | former: Estonian Soviet Socialist Republic |
+| Government type: | parliamentary republic |
+| Capital: | name: Tallinn |
+| Capital: | geographic coordinates: 59 26 N, 24 43 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 counties (maakonnad, singular - maakond); Harjumaa (Tallinn), Hiiumaa (Kardla), Ida-Virumaa (Johvi), Jarvamaa (Paide), Jogevamaa (Jogeva), Laanemaa (Haapsalu), Laane-Virumaa (Rakvere), Parnumaa (Parnu), Polvamaa (Polva), Raplamaa (Rapla), Saaremaa (Kuressaare), Tartumaa (Tartu), Valgamaa (Valga), Viljandimaa (Viljandi), Vorumaa (Voru) |
+| Administrative divisions: | note: counties have the administrative center name following in parentheses |
+| Independence: | 20 August 1991 (declared); 6 September 1991 (recognized by the Soviet Union) |
+| National holiday: | Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union |
+| Constitution: | several previous; latest adopted 28 June 1992; amended several times, last in 2012 (2012) |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal for all Estonian citizens |
+| Executive branch: | chief of state: President Toomas Hendrik ILVES (since 9 October 2006) |
+| Executive branch: | head of government: Taavi ROIVAS (since 26 March 2014) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister, approved by Parliament |
+| Executive branch: | elections/appointments: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after three rounds of balloting, then an electoral assembly of Parliament and local council members elects the president, choosing between the two candidates with the highest number of votes; election last held on 29 August 2011 (next to be held in the fall of 2016); prime minister nominated by the president and approved by Parliament |
+| Executive branch: | election results: Toomas Hendrik ILVES reelected president; Parliament vote - Toomas Hendrik ILVES (independent) 73, Indrek TARAND (independent) 25 |
+| Legislative branch: | description: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 1 March 2015 (next to be held in March 2019) |
+| Legislative branch: | election results: percent of vote by party - RE 27.7%, K 24.8%, SDE 15.2%, IRL 13.7, EV 8.7%, EKRE 8.1%; seats by party - RE 30, K 27, SDE 15, IRL 14, EV 8, EKRE 7 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and organized into the Civil Chamber with a chamber chairman and 6 justices, the Criminal Chamber with a chamber chairman and 5 justices, the Administrative Law Chamber with a chamber chairman and 4 justices, and the Constitutional Review Chamber with 9 members - the chief justice and 2 justices from the Civil Chamber, 3 from the Criminal Chamber and 3 from the Administrative chamber) |
+| Judicial branch: | judge selection and term of office: the chief justice is proposed by the president and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life |
+| Judicial branch: | subordinate courts: circuit (appellate) courts; administrative, county, city, and  specialized courts |
+| Political parties and leaders: | Center Party of Estonia (Keskerakond) or K [Edgar SAVISAAR] |
+| Political parties and leaders: | Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Mart HELME] |
+| Political parties and leaders: | Estonian Reform Party (Reformierakond) or RE [Taavi ROIVAS] |
+| Political parties and leaders: | Free Party or EV [Andres HERKEL] |
+| Political parties and leaders: | Social Democratic Party or SDE [Sven MIKSER] |
+| Political parties and leaders: | Union of Pro Patria and Res Publica (Isamaa je Res Publica Liit) or IRL [Urmas REINSALU] |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Eerik MARMEI (since 18 September 2014) |
+| Diplomatic representation in the US: | chancery: 2131 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-0101 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-0108 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Jeffrey D. LEVINE (since 24 July 2012) |
+| Diplomatic representation from the US: | embassy: Kentmanni 20, 15099 Tallinn |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [372] 668-8100 |
+| Diplomatic representation from the US: | FAX: [372] 668-8134 |
+| Flag description: | three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun |
+| National symbol(s): | barn swallow, cornflower; national colors: blue, black, white |
+| National anthem: | name: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy) |
+| National anthem: | lyrics/music: Johann Voldemar JANNSEN/Fredrik PACIUS |
+| National anthem: | note: adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics |

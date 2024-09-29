@@ -1,0 +1,40 @@
+| Government | Ecuador |
+| --- | --- |
+| Country name: | conventional long form: Republic of Ecuador |
+| Country name: | conventional short form: Ecuador |
+| Country name: | local long form: Republica del Ecuador |
+| Country name: | local short form: Ecuador |
+| Government type: | republic |
+| Capital: | name: Quito |
+| Capital: | geographic coordinates: 0 13 S, 78 30 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe |
+| Independence: | 24 May 1822 (from Spain) |
+| National holiday: | Independence Day (independence of Quito), 10 August (1809) |
+| Constitution: | 10 August 1998 |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal, compulsory for literate persons ages 18-65, optional for other eligible voters |
+| Executive branch: | chief of state: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: the president and vice president are elected on the same ticket by popular vote for a four-year term (may not serve consecutive terms); election last held 15 October 2006 with a runoff election on 26 November 2006 (next to be held in October 2010) |
+| Executive branch: | election results: Rafael CORREA Delgado elected president; percent of vote - Rafael CORREA Delgado 56.7%; Alvaro NOBOA 43.3% |
+| Legislative branch: | unicameral National Congress or Congreso Nacional (100 seats; members are elected through a party-list proportional representation system to serve four-year terms) |
+| Legislative branch: | elections: last held 15 October 2006 (next to be held in October 2010) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PRIAN 28; PSP 24; PSC 13; ID 7; PRE 6; MUPP-NP 6; RED 5; UDC 5; other 6; note - defections by members of National Congress are commonplace, resulting in frequent changes in the numbers of seats held by the various parties; as of 29 November 2007, Congress is on indefinite recess while a Constituent Assembly is convened |
+| Judicial branch: | Supreme Court or Corte Suprema (according to the Constitution, new justices are elected by the full Supreme Court; in December 2004, however, Congress successfully replaced the entire court via a simple-majority resolution) |
+| Political parties and leaders: | Alianza PAIS Movement [Rafael Vicente CORREA Delgado]; Christian Democratic Union or UDC [Diego ORDONEZ Guerrero]; Democratic Left or ID [Andres PAEZ Benalcazar]; Ethical and Democratic Network or RED [Leon ROLDOS]; Institutional Renewal and National Action Party or PRIAN [Alvaro NOBOA]; Pachakutik Plurinational Unity Movement - New Country or MUPP-NP [Jorge GUAMAN]; Patriotic Society Party or PSP [Lucio GUTIERREZ Borbua]; Popular Democratic Movement or MPD [Ciro GUZMAN Aldaz]; Roldosist Party or PRE [Abdala BUCARAM Ortiz, director]; Social Christian Party or PSC [Pascual DEL CIOPPO]; Socialist Party - Broad Front or PS-FA [Gustavo AYALA Cruz] |
+| Political pressure groups and leaders: | Confederation of Indigenous Nationalities of Ecuador or CONAIE [Marlon SANTI, president]; Coordinator of Social Movements or CMS [F. Napoleon SANTOS]; Federation of Indigenous Evangelists of Ecuador or FEINE [Marco MURILLO, president]; National Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN [Pedro DE LA CRUZ, president] |
+| International organization participation: | CAN, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, MINURCAT, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Luis Benigno GALLEGOS Chiriboga |
+| Diplomatic representation in the US: | chancery: 2535 15th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-7200 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-3482 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Dallas, Denver, Houston, Jersey City (New Jersey), Los Angeles, Miami, New Orleans, New York, San Francisco, San Juan (Puerto Rico), Washington, DC |
+| Diplomatic representation from the US: | chief of mission: Ambassador Heather HODGES |
+| Diplomatic representation from the US: | embassy: Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito |
+| Diplomatic representation from the US: | mailing address: Avenida Guayacanes N52-205 y Avenida Avigiras |
+| Diplomatic representation from the US: | telephone: [593] (2) 398-5000 |
+| Diplomatic representation from the US: | FAX: [593] (2) 398-5100 |
+| Diplomatic representation from the US: | consulate(s) general: Guayaquil |
+| Flag description: | three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; similar to the flag of Colombia, which is shorter and does not bear a coat of arms |

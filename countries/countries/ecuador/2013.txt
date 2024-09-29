@@ -1,0 +1,64 @@
+| Government | Ecuador |
+| --- | --- |
+| Country name: | conventional long form: Republic of Ecuador |
+| Country name: | conventional short form: Ecuador |
+| Country name: | local long form: Republica del Ecuador |
+| Country name: | local short form: Ecuador |
+| Government type: | republic |
+| Capital: | name: Quito |
+| Capital: | geographic coordinates: 0 13 S, 78 30 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe |
+| Independence: | 24 May 1822 (from Spain) |
+| National holiday: | Independence Day (independence of Quito), 10 August (1809) |
+| Constitution: | many previous; latest approved 20 October 2008; amended 2011 (2011) |
+| Legal system: | civil law based on the Chilean civil code with modifications |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18-65 years of age, universal and compulsory; 16-18, over 65, and other eligible voters, optional |
+| Executive branch: | chief of state: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Rafael CORREA Delgado (since 15 January 2007); Vice President Lenin MORENO Garces (since 15 January 2007) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | (For more information visit the World Leaders website&nbsp;) |
+| Executive branch: | elections: the president and vice president elected on the same ticket by popular vote for a four-year term and can be re-elected for another consecutive term; election last held on 17 February 2013 (next to be held in 2017) |
+| Executive branch: | election results: President Rafael CORREA Delgado reelected president; percent of vote - Rafael CORREA Delgado 57.2%, Guillermo LASSO 22.7%, Lucio GUTIERREZ 6.8%, Mauricio RODAS 3.9%, other 9.4% |
+| Legislative branch: | unicameral National Assembly or Asamblea Nacional (137 seats; members are elected through a party-list proportional representation system to serve four-year terms) |
+| Legislative branch: | elections: last held on 17 February 2013 (next to be held in 2017) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PAIS 100, CREO 11, PSC 6, AVANZA 5, MUPP 5, PSP 5, other 5; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties |
+| Judicial branch: | highest court(s): National Court of Justice or Corte Nacional de Justicia (consists of 21 judges including a chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitutional (consists of 11 judges) |
+| Judicial branch: | judge selection and term of office: justices of National Court of Justice elected by the Judiciary Council, a 9-member independent body of professionals; judges elected for 9-year, non-renewable terms, with one-third of the judges renewed every 3 years; Constitutional Court judges appointed by the National Assembly from candidates selected by the president, Supreme Court, and other government officials; judges appointed for 2-year terms |
+| Judicial branch: | subordinate courts: Fiscal Tribunal; Superior Court (one for each province); lower provincial and cantonal courts |
+| Political parties and leaders: | Alianza PAIS movement [Rafael Vicente CORREA Delgado] |
+| Political parties and leaders: | Avanza Party or AVANZA [Ramiro GONZALEZ] |
+| Political parties and leaders: | Breakaway Party [Martha ROLDOS] |
+| Political parties and leaders: | Creating Opportunities Movement or CREO [Guillermo LASSO] |
+| Political parties and leaders: | Institutional Renewal and National Action Party or PRIAN [Alvaro NOBOA] |
+| Political parties and leaders: | Pachakutik Plurinational Unity Movement or MUPP [Rafael ANTUNI] |
+| Political parties and leaders: | Patriotic Society Party or PSP [Lucio GUTIERREZ Borbua] |
+| Political parties and leaders: | Plurinational Union Movement of the Left [Alberto ACOSTA] |
+| Political parties and leaders: | Roldosist Party or PRE [Abdala BUCARAM Pulley, director] |
+| Political parties and leaders: | Social Christian Party or PSC [Pascual DEL CIOPPO] |
+| Political parties and leaders: | Socialist Party |
+| Political parties and leaders: | Society United for More Action or SUMA [Mauricio RODAS] |
+| Political parties and leaders: | Warrior's Spirit Movement [Jaime NEBOT] |
+| Political pressure groups and leaders: | Confederation of Indigenous Nationalities of Ecuador or CONAIE [Humberto CHOLANGO] |
+| Political pressure groups and leaders: | Federation of Indigenous Evangelists of Ecuador or FEINE [Manuel CHUGCHILAN, president] |
+| Political pressure groups and leaders: | National Federation of Indigenous Afro-Ecuatorianos and Peasants or FENOCIN |
+| Political pressure groups and leaders: | National Teacher's Union or UNE [Mariana PALLASCO] |
+| International organization participation: | CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, PCA, UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Saskia Nathalie CELY Suarez (since 2 December 2011) |
+| Diplomatic representation in the US: | chancery: 1050 30th Street, NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 465-8140 |
+| Diplomatic representation in the US: | FAX: [1] (202) 333-2893 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Haven (CT), New Orleans, New York, Newark (NJ), Phoenix, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Adam E. NAMM (since 26 April 2012) |
+| Diplomatic representation from the US: | embassy: Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito |
+| Diplomatic representation from the US: | mailing address: Avenida Guayacanes N52-205 y Avenida Avigiras |
+| Diplomatic representation from the US: | telephone: [593] (2) 398-5000 |
+| Diplomatic representation from the US: | FAX: [593] (2) 398-5100 |
+| Diplomatic representation from the US: | consulate(s) general: Guayaquil |
+| Flag description: | three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Columbia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice |
+| Flag description: | note: similar to the flag of Colombia, which is shorter and does not bear a coat of arms |
+| National symbol(s): | Andean condor |
+| National anthem: | name: "Salve, Oh Patria!" (We Salute You Our Homeland) |
+| National anthem: | lyrics/music: Juan Leon MERA/Antonio NEUMANE |
+| National anthem: | note: adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung |

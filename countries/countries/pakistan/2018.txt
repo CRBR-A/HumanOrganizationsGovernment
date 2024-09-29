@@ -1,0 +1,79 @@
+| Government | Pakistan |
+| --- | --- |
+| Country name: | conventional long form: Islamic Republic of Pakistan |
+| Country name: | conventional short form: Pakistan |
+| Country name: | local long form: Jamhuryat Islami Pakistan |
+| Country name: | local short form: Pakistan |
+| Country name: | former: West Pakistan |
+| Country name: | etymology: the word "pak" means "pure" in Persian or Pashto, while the Persian suffix "-stan" means "place of" or "country," so the word Pakistan literally means "Land of the Pure" |
+| Government type: | federal parliamentary republic |
+| Capital: | name: Islamabad |
+| Capital: | geographic coordinates: 33 41 N, 73 03 E |
+| Capital: | time difference: UTC+5 (10 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 4 provinces, 1 territory*, and 1 capital territory**; Balochistan, Federally Administered Tribal Areas*, Islamabad Capital Territory**, Khyber Pakhtunkhwa (formerly North-West Frontier Province), Punjab, Sindh |
+| Administrative divisions: | note: the Pakistani-administered portion of the disputed Jammu and Kashmir region consists of 2 administrative entities: Azad Kashmir and Gilgit-Baltistan |
+| Administrative divisions: | note: a merger of the Federally Administered Tribal Areas with Khyber Pakhtunkhwa province was formally legislated in June of 2018 but has not yet been implemented |
+| Independence: | 14 August 1947 (from British India) |
+| National holiday: | Pakistan Day (also referred to as Pakistan Resolution Day or Republic Day), 23 March (1940); note - commemorates both the adoption of the Lahore Resolution by the All-India Muslim League during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and the adoption of the first constitution of Pakistan on 23 March 1956 during the transition to the Islamic Republic of Pakistan |
+| Constitution: | history: several previous; latest endorsed 12 April 1973, passed 19 April 1973, entered into force 14 August 1973 (suspended and restored several times) (2018) |
+| Constitution: | amendments: proposed by the Senate or by the National Assembly; passage requires at least two-thirds majority vote of the membership of both houses; amended many times, last in 2018 (2018) |
+| Legal system: | common law system with Islamic law influence |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Pakistan |
+| Citizenship: | dual citizenship recognized: yes, but limited to select countries |
+| Citizenship: | residency requirement for naturalization: 4 out of the previous 7 years and including the 12 months preceding application |
+| Suffrage: | 18 years of age; universal; note - there are joint electorates and reserved parliamentary seats for women and non-Muslims |
+| Judicial branch: | highest courts: Supreme Court of Pakistan (consists of the chief justice and 16 judges) |
+| Judicial branch: | judge selection and term of office: justices nominated by an 8-member parliamentary committee upon the recommendation of the Judicial Commission, a 9-member body of judges and other judicial professionals, and appointed by the president; justices can serve until age 65 |
+| Judicial branch: | subordinate courts: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs |
+| Executive branch: | chief of state: President Arif ALVI (since 9 September 2018) |
+| Executive branch: | head of government: Prime Minister Imran KHAN (since 18 August 2018) |
+| Executive branch: | cabinet: Cabinet appointed by the president upon the advice of the prime minister |
+| Executive branch: | elections/appointments: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 9 September 2013 (next to be held on 4 September 2018); prime minister elected by the National Assembly |
+| Executive branch: | election results: Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 353, Fazl-ur-RAHMAN(MMA) 185, Aitzaz AHSAN (PPPP) 124; Imran KHAN elected prime minister: National Assembly vote - Imran KHAN (PTI) 176, Shebaz SHARIF (PML-N) 96 |
+| Legislative branch: | description: bicameral Parliament or Majlis-e-Shoora consists of: |
+| Legislative branch: | Senate (104 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years) |
+| Legislative branch: | National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)and the Consultative Council or Majlis al-Shura (85 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 3 March 2018 (next to be held in March 2021) |
+| Legislative branch: | National Assembly - last held on 25 May 2018 (next to be held on 25 July 2023) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - PML-N 15, PPPP 12, PTI 6, PkMAP 2, NP 2, JUI-F 2, JI 1, MQM-P 1, PML-F 1, independent 10 |
+| Legislative branch: | National Assembly - percent of votes by party - PTI 31.9%, PML-N 24.4%, PPPP 13.1%, MMA 4.8%, MQM 1.4%, PML-Q 1%, BAP 0.6%, BNP 0.4%, other 11.1%,independent 11.4%; seats by party - PTI 116, PML-N 64, PPPP 43, MMA 12, MQM 6, BAP 4, PML-Q 4, BNP 3, other 5, independent 13; election for 2 seats postponed |
+| Legislative branch: | note: since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court) and the National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms) |
+| Political parties and leaders: | Awami National Party or ANP [Mian Iftikhar HUSSAIN] |
+| Political parties and leaders: | Balochistan National Party-Awami or BNP-A [Mir Israr Ullah ZEHRI] |
+| Political parties and leaders: | Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL] |
+| Political parties and leaders: | Jamaat-i Islami or JI [Sirajul HAQ] |
+| Political parties and leaders: | Jamiat-i Ulema-i Islam Fazl-ur Rehman or JUI-F [Fazlur REHMAN] |
+| Political parties and leaders: | Muttahida Quami Movement-Pakistan or MQM-P [Farooq SATTAR] (MQM split into two factions in 2016) |
+| Political parties and leaders: | Muttahida Quami Movement-London or MQM-L [Nadeem NUSRAT] (MQM split into two factions in 2016) |
+| Political parties and leaders: | Muttahida Majlis-e-Amal or MMA [Fazl-ur-RAHMAN] (alliance of several parties) |
+| Political parties and leaders: | National Party or NP [Mir Hasil Khan BIZENJO] |
+| Political parties and leaders: | Pakhtunkhwa Milli Awami Party or PMAP or PkMAP [Mahmood Khan ACHAKZAI] |
+| Political parties and leaders: | Pakistan Muslim League-Functional or PML-F [Pir PAGARO or Syed Shah Mardan SHAH-II] |
+| Political parties and leaders: | Pakistan Muslim League-Nawaz or PML-N [Nawaz SHARIF]; note - in February 2018, the Supreme court ordered the Election Commission to remove SHARIF as party head |
+| Political parties and leaders: | Pakistan Peoples Party Parliamentarians or PPPP [Bilawal Bhutto ZARDARI and Asif Ali ZARDARI] |
+| Political parties and leaders: | Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]Pak Sarzameen Party or PSP [Mustafa KAMAL] |
+| Political parties and leaders: | Quami Watan Party or QWP [Aftab Ahmed Khan SHERPAO] |
+| Political parties and leaders: | note: political alliances in Pakistan shift frequently |
+| International organization participation: | ADB, ARF, ASEAN (dialogue partner), C, CICA, CP, D-8, ECO, FAO, G-11, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NAM, OAS (observer), OIC, OPCW, PCA, SAARC, SACEP, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ali Jehangir SIDDIQUI (since 22 June 2018) |
+| Diplomatic representation in the US: | chancery: 3517 International Court NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 243-6500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 686-1534 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, New York |
+| Diplomatic representation in the US: | consulate(s): Louisville (KY), San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador David M. HALE (since 3 December 2015) |
+| Diplomatic representation from the US: | embassy: Diplomatic Enclave, Ramna 5, Islamabad |
+| Diplomatic representation from the US: | mailing address: 8100 Islamabad Place, Washington, DC 20521-8100 |
+| Diplomatic representation from the US: | telephone: [92] 51-201-4000 |
+| Diplomatic representation from the US: | FAX: [92] 51-227-6427 |
+| Diplomatic representation from the US: | consulate(s) general: Karachi, Lahore |
+| Diplomatic representation from the US: | consulate(s): Peshawar |
+| Flag description: | green with a vertical white band (symbolizing the role of religious minorities) on the hoist side; a large white crescent and star are centered in the green field; the crescent, star, and color green are traditional symbols of Islam |
+| National symbol(s): | star and crescent, jasmine; national colors: green, white |
+| National anthem: | name: "Qaumi Tarana" (National Anthem) |
+| National anthem: | lyrics/music: Abu-Al-Asar Hafeez JULLANDHURI/Ahmed Ghulamali CHAGLA |
+| National anthem: | note: adopted 1954; also known as "Pak sarzamin shad bad" (Blessed Be the Sacred Land) |

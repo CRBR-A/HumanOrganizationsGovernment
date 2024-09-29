@@ -1,0 +1,43 @@
+| Government | Macedonia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Macedonia |
+| Country name: | conventional short form: Macedonia |
+| Country name: | local long form: Republika Makedonija |
+| Country name: | local short form: Makedonija |
+| Country name: | note: the provisional designation used by the UN, EU, and NATO is Former Yugoslav Republic of Macedonia (FYROM) |
+| Country name: | former: People's Republic of Macedonia, Socialist Republic of Macedonia |
+| Government type: | parliamentary democracy |
+| Capital: | name: Skopje |
+| Capital: | geographic coordinates: 42 00 N, 21 26 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 85 municipalities (opstini, singular - opstina); Aerodrom (Skopje), Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Butel (Skopje), Cair (Skopje), Caska, Centar (Skopje), Centar Zupa, Cesinovo, Cucer-Sandevo, Debar, Debartsa, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Drugovo, Gazi Baba (Skopje), Gevgelija, Gjorce Petrov (Skopje), Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Karpos (Skopje), Kavadarci, Kicevo, Kisela Voda (Skopje), Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rastusa, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Oslomej, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Saraj (Skopje), Skopje, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Suto Orizari (Skopje), Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vranestica, Vrapciste, Zajas, Zelenikovo, Zelino, Zrnovci |
+| Administrative divisions: | note: the ten municipalities followed by Skopje in parentheses collectively constitute the larger Skopje Municipality |
+| Independence: | 8 September 1991 (referendum by registered voters endorsed independence from Yugoslavia) |
+| National holiday: | Ilinden Uprising Day, 2 August (1903); note - also known as Saint Elijah's Day |
+| Constitution: | adopted 17 November 1991, effective 20 November 1991; amended November 2001 by a series of new constitutional amendments strengthening minority rights and in 2005 with amendments related to the judiciary |
+| Legal system: | based on civil law system; judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Branko CRVENKOVSKI (since 12 May 2004) |
+| Executive branch: | head of government: Prime Minister Nikola GRUEVSKI (since 26 August 2006) |
+| Executive branch: | cabinet: Council of Ministers elected by the majority vote of all the deputies in the Assembly; note - current cabinet formed by the government coalition parties VMRO/DPMNE, NSDP, PDSh/DPA, and several small parties |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); two-round election last held 14 April and 28 April 2004 (next to be held by April 2009); prime minister elected by the Assembly following legislative elections |
+| Executive branch: | election results: Branko CRVENKOVSKI elected president on second-round ballot; percent of vote - Branko CRVENKOVSKI 62.7%, Sasko KEDEV 37.3% |
+| Legislative branch: | unicameral Assembly or Sobranie (120 seats; members elected by popular vote from party lists based on the percentage of the overall vote the parties gain in each of six electoral districts; to serve four-year terms) |
+| Legislative branch: | elections: last held 5 July 2006 (next to be held by July 2010) |
+| Legislative branch: | election results: percent of vote by party - VMRO-DPMNE 33%, SDSM 22%, BDI/DUI 12%, PDSh/DPA 7%, NSDP 6%, VMRO-Narodna 6%, other 14%; seats by party - VMRO-DPMNE 45, SDSM 32, BDI/DUI 17, PDSh/DPA 11, NSDP 7, VMRO-Narodna 6, other 2 |
+| Judicial branch: | Supreme Court - the Assembly appoints the judges; Constitutional Court - the Assembly appoints the judges; Republican Judicial Council - the Assembly appoints the judges |
+| Political parties and leaders: | Democratic Alliance [Pavle TRAJANOV]; Democratic League of the Bosniaks [Rafet MUMINOVIC]; Democratic Party of Albanians or PDSh/DPA [Arben XHAFERI]; Democratic Party of Serbs [Ivan STOILJKOVIC]; Democratic Party of Turks [Kenan HASIPI]; Democratic Renewal of Macedonia [Liljana POPOVSKA]; Democratic Union of Vlachs for Macedonia [Mitko KOSTOV]; Democratic Union for Integration or BDI/DUI [Ali AHMETI]; Internal Macedonian Revolutionary Organization-Democratic Party for Macedonian National Unity or VMRO-DPMNE [Nikola GRUEVSKI]; Internal Macedonian Revolutionary Organization-People's Party or VMRO-Narodna [Vesna JANEVSKA]; League for Democracy [Gjorgi MARJANOVIC]; Liberal Democratic Party or LDP [Risto PENOV]; Liberal Party [Stojan ANDOV]; National Alternative [Harun ALIU]; National Democratic Party-New Democratic Forces or PDK-FRO [Hysni SHAQIR]; New Social Democratic Party or NSDP [Tito PETKOVSKI]; Party for Democratic Future [Alajdin DEMIRI]; Party for Democratic Prosperity or PPD/PDP [Abduljhadi VEJSELI]; Party for European Future or PEI [Fijat CANOSKI]; Social Democratic Alliance of Macedonia or SDSM [Radmila SEKERINSKA]; Socialist Party of Macedonia or SP [Ljubisav IVANOV-ZINGO]; Union of Romas or SR [Saliu SHABAN]; United Party for Emancipation or OPE [Nezdet MUSTAFA] |
+| Political pressure groups and leaders: | Federation of Free Trade Unions [Svetlana PETROVIC]; Federation of Trade Unions [Vanco MURATOVSKI]; World Macedonian Congress [Todor PETROV] |
+| International organization participation: | BIS, CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ISO, ITU, ITUC, MIGA, OIF, OPCW, OSCE, PCA, PFP, SECI, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCL, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Zoran JOLEVSKI |
+| Diplomatic representation in the US: | chancery: 2129 Wyoming Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-0501 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-2131 |
+| Diplomatic representation in the US: | consulate(s) general: Southfield (Michigan) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Gillian A. MILOVANOVIC |
+| Diplomatic representation from the US: | embassy: Bul. Ilindenska bb, 1000 Skopje |
+| Diplomatic representation from the US: | mailing address: American Embassy Skopje, US Department of State, 7120 Skopje Place, Washington, DC 20521-7120 (pouch) |
+| Diplomatic representation from the US: | telephone: [389] 2 311-6180 |
+| Diplomatic representation from the US: | FAX: [389] 2 311-7103 |
+| Flag description: | a yellow sun with eight broadening rays extending to the edges of the red field |

@@ -1,0 +1,33 @@
+| Government | ITALY |
+| --- | --- |
+| Country name: | conventional long form: Italian Republic |
+| Country name: | conventional short form: Italy |
+| Country name: | local long form: Repubblica Italiana |
+| Country name: | local short form: Italia |
+| Country name: | former: Kingdom of Italy |
+| Government type: | republic |
+| Capital: | name: Rome |
+| Capital: | geographic coordinates: 41 54 N, 12 29 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma) |
+| Administrative divisions: | regions: Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto (Venetia) |
+| Administrative divisions: | autonomous regions: Friuli-Venezia Giulia; Sardegna (Sardinia); Sicilia (Sicily); Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German); Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French) |
+| Independence: | 17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1870) |
+| National holiday: | Republic Day, 2 June (1946) |
+| Constitution: | previous 1848 (originally for Kingdom of Sardinia and adopted by Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948; amended many times, last in 2012 (2013) |
+| Legal system: | civil law system; judicial review of legislation under certain conditions in Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal except in senatorial elections, where minimum age is 25 |
+| Executive branch: | chief of state: President Sergio MATTARELLA (3 February 2015); Giorgio NAPOLITANO resigned 14 January 2015 |
+| Executive branch: | head of government: Prime Minister Matteo RENZI (since 22 February 2014); note - the prime minister title is President of the Council of Ministers |
+| Executive branch: | cabinet: Council of Ministers proposed by the prime minister and nominated by the president |
+| Executive branch: | elections/appointments: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 31 January 2015 (next scheduled for 2020); prime minister appointed by the president, confirmed by parliament |
+| Executive branch: | election results: Sergio MATTARELLA elected president; electoral college vote count in fourth round - 665 out of 1,009 (505-vote threshold); Matteo RENZI sworn in as prime minister on 22 February 2014 |
+| Legislative branch: | description: bicameral Parliament or Parlamento consists of the Senate or Senato della Repubblica (322 seats; 315 members directly elected in single- and multi-seat constituencies by proportional representation vote to serve 5-year terms and 7 ex-officio members appointed by the president of the Republic to serve for life) and the Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms) |
+| Legislative branch: | elections: Senate - last held on 24-25 February 2013 (next to be held in 2018); Chamber of Deputies - last held on 24-25 February 2013 (next to be held in 2018) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - center-left coalition [Pier Luigi BERSANI] 123 (PD 111, SEL 7, SVP 2, other 3), center-right coalition [Silvio BERLUSCONI] 117 (PdL 98, LN 18, other 1), M5S 54, centrist coalition [Mario MONTI] 19, other 2; Chamber of Deputies - percent of vote by party - NA; seats by party - center-left coalition [Pier Luigi BERSANI] 345 (PD 297, SEL 37, CD 6 SVP 5), center-right coalition [Silvio BERLUSCONI] 125 (PdL 98, LN 18, FdI 9), M5S 109, centrist coalition [Mario MONTI] 47, other 4; note - President NAPOLITANO dissolved Parliament on 22 December 2012 |
+| Judicial branch: | highest court(s): Supreme Court of Cassation consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the Superior Council of the Judiciary, headed by the president of the republic, to serve NA terms; Constitutional Court judges - 5 appointed by the president, 5 elected by parliament, 5 elected by select higher courts; judges serve up to 9 years) |
+| Judicial branch: | subordinate courts: various lower civil and criminal courts (primary and secondary tribunals, courts, and courts of appeal) |
+| Judicial branch: | Political parties and leaders: |

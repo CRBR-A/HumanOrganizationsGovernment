@@ -1,0 +1,50 @@
+| Government | Georgia |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Georgia |
+| Country name: | local long form: none |
+| Country name: | local short form: Sak'art'velo |
+| Country name: | former: Georgian Soviet Socialist Republic |
+| Government type: | republic |
+| Capital: | name: T'bilisi |
+| Capital: | geographic coordinates: 41 43 N, 44 47 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 9 regions (mkharebi, singular - mkhare), 1 city (k'alak'i), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika) |
+| Administrative divisions: | regions: Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta-Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli |
+| Administrative divisions: | city: Tbilisi |
+| Administrative divisions: | autonomous republics: Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi) |
+| Administrative divisions: | note: the administrative centers of the two autonomous republics are shown in parentheses |
+| Independence: | 9 April 1991 (from the Soviet Union); notable earlier date: A.D. 1008 (Georgia unified under BAGRAT III) |
+| National holiday: | Independence Day, 26 May (1918); note - 26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union |
+| Constitution: | adopted 24 August 1995 |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Mikheil SAAKASHVILI (since 25 January 2004); the president is the chief of state and serves as head of government for the power ministries of internal affairs and defense |
+| Executive branch: | head of government: Prime Minister Nikoloz GILAURI (since 6 February 2009); the prime minister is head of government for all the ministries of government except the power ministries of internal affairs and defense |
+| Executive branch: | cabinet: Cabinet of Ministers |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held on 5 January 2008 (next to be held in January 2013) |
+| Executive branch: | election results: Mikheil SAAKASHVILI reelected president; percent of vote - Mikheil SAAKASHVILI 53.5%, Levan GACHECHILADZE 25.7%, Badri PATARKATSISHVILI 7.1%, other 13.7% |
+| Legislative branch: | unicameral Parliament or Parlamenti (also known as Supreme Council or Umaghlesi Sabcho) (150 seats; 75 members elected by proportional representation, 75 from single-seat constituencies; members to serve four-year terms) |
+| Legislative branch: | elections: last held on 21 May 2008 (next to be held in the spring of 2012) |
+| Legislative branch: | election results: percent of vote by party - United National Movement 59.2%, National Council-New Rights (a Joint Opposition, nine-party bloc) 17.7%, Christian Democratic Movement 8.8%, Labor Party 7.4%, Republican Party 3.8%; seats by party - United National Movement 120, National Council-New Rights 16, Christian Democratic Movement 6, Labor Party 6, Republican Party 2 |
+| Judicial branch: | Supreme Court (judges elected by the Supreme Council on the president's or chairman of the Supreme Court's recommendation); Constitutional Court; first and second instance courts |
+| Political parties and leaders: | Christian Democratic Movement [Giorgi TARGAMADZE]; Conservative Party [Kakha KUKAVA]; Democratic Movement United Georgia [Nino BURJANADZE]; For Fair Georgia [Zurab NOGAIDELI]; Georgian Party [Sozar SUBARI]; Georgian People's Front [Nodar NATADZE]; Greens [Giorgi GACHECHILADZE]; Industry Will Save Georgia (Industrialists) or IWSG [Georgi TOPADZE]; Labor Party [Shalva NATELASHVILI]; National Democratic Party or NDP [Bachuki KARDAVA]; National Forum [Kakhaber SHARTAVA]; New Rights [David GAMKRELIDZE]; Our Georgia-Free Democrats (OGFD) [Irakli ALASANIA]; People's Party [Koba DAVITASHVILI; Republican Party [David USUPASHVILI]; Socialist Party or SPG [Irakli MINDELI]; Traditionalists [Akaki ASATIANI]; United National Movement or UNM [Mikheil SAAKASHVILI] |
+| Political pressure groups and leaders: | separatists in the breakaway regions of Abkhazia and South Ossetia |
+| International organization participation: | ADB, BSEC, CE, EAPC, EBRD, FAO, G-11, GCTU, GUAM, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SECI (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Temuri YAKOBASHVILI |
+| Diplomatic representation in the US: | chancery: 2209 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-2390 |
+| Diplomatic representation in the US: | FAX: [1] (202) 393-4537 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador John BASS |
+| Diplomatic representation from the US: | embassy: 11 George Balanchine Street, T'bilisi 0131 |
+| Diplomatic representation from the US: | mailing address: 7060 T'bilisi Place, Washington, DC 20521-7060 |
+| Diplomatic representation from the US: | telephone: [995] (32) 27-70-00 |
+| Diplomatic representation from the US: | FAX: [995] (32) 53-23-10 |
+| Flag description: | white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; although adopted as the official Georgian flag in 2004, the five-cross flag design appears to date back to the 14th century |
+| National symbol(s): | Saint George; lion |
+| National anthem: | name: "Tavisupleba" (Liberty) |
+| National anthem: | lyrics/music: Dawit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMADSE) |
+| National anthem: | note: adopted 2004; after the Rose Revolution, a new anthem with music based on the operas "Abesalom da Eteri" and "Daisi" was adopted |

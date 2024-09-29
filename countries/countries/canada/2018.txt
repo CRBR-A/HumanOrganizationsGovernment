@@ -1,0 +1,65 @@
+| Government | Canada |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Canada |
+| Country name: | etymology: the country name likely derives from the St. Lawrence Iroquoian word "kanata" meaning village or settlement |
+| Government type: | federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution |
+| Capital: | name: Ottawa |
+| Capital: | geographic coordinates: 45 25 N, 75 42 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in March; ends first Sunday in November |
+| Capital: | note: Canada has six time zones |
+| Administrative divisions: | 10 provinces and 3 territories*; Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories*, Nova Scotia, Nunavut*, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon* |
+| Independence: | 1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster) |
+| National holiday: | Canada Day, 1 July (1867) |
+| Constitution: | history: consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982 (2018) |
+| Constitution: | amendments: proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two-thirds of the provincial legislative assemblies and assent to and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require the unanimous approval by both houses and by all the provincial assemblies, and assent to by the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011) (2018) |
+| Legal system: | common law system except in Quebec, where civil law based on the French civil code prevails |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: minimum of 3 of last 5 years resident in Canada |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London) |
+| Judicial branch: | judge selection and term of office: chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75 |
+| Judicial branch: | subordinate courts: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements |
+| Executive branch: | chief of state: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Julie PAYETTE (since 2 October 2017) |
+| Executive branch: | head of government: Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015) |
+| Executive branch: | cabinet: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament |
+| Executive branch: | elections/appointments: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general |
+| Executive branch: | note: the governor general position is largely ceremonial; Julie PAYETTE, a former space shuttle astronaut, is Canada's fourth female governor general but the first to have flown in space |
+| Legislative branch: | description: bicameral Parliament or Parlement consists of: |
+| Legislative branch: | Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75) |
+| Legislative branch: | House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years) |
+| Legislative branch: | elections: |
+| Legislative branch: | House of Commons - last held on 19 October 2015 (next to be held on 21 October 2019) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - composition - men 74, women 31, percent of women 29.5% |
+| Legislative branch: | House of Commons - percent of vote by party - Liberal Party 39.5%, CPC 31.9%, NDP 19.7%, Bloc Quebecois 4.7%, Greens 3.4%, other 0.8%; seats by party - Liberal Party 184, CPC 99, NDP 44, Bloc Quebecois 10, Greens 1 |
+| Legislative branch: | note: seats by party, as of December 2018 - Liberal Party 181, CPC 96, NDP 41, Bloc Quebecois 10, Greens 1, People's Party of Canada 1, independent 4, vacant 4; composition - men 250, women 88, percent of women 26%; note - total Parliament percent of women 26.9% |
+| Political parties and leaders: | Bloc Quebecois [Mario BEAULIEU] |
+| Political parties and leaders: | Conservative Party of Canada or CPC [Andrew SCHEER] |
+| Political parties and leaders: | Green Party [Elizabeth MAY] |
+| Political parties and leaders: | Liberal Party [Justin TRUDEAU] |
+| Political parties and leaders: | New Democratic Party or NDP [Jagmeet SINGH] |
+| Political parties and leaders: | People's Party of Canada [Maxime BERNIER] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador David Brookes MACNAUGHTON (since 2 March 2016) |
+| Diplomatic representation in the US: | chancery: 501 Pennsylvania Avenue NW, Washington, DC 20001 |
+| Diplomatic representation in the US: | telephone: [1] (202) 682-1740 |
+| Diplomatic representation in the US: | FAX: [1] (202) 682-7726 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle |
+| Diplomatic representation in the US: | trade office(s): Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kelly CRAFT (since 23 October 2017) |
+| Diplomatic representation from the US: | embassy: 490 Sussex Drive, Ottawa, Ontario K1N 1G8 |
+| Diplomatic representation from the US: | mailing address: P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1 |
+| Diplomatic representation from the US: | telephone: [1] (613) 688-5335 |
+| Diplomatic representation from the US: | FAX: [1] (613) 688-3082 |
+| Diplomatic representation from the US: | consulate(s) general: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver |
+| Diplomatic representation from the US: | consulate(s): Winnipeg |
+| Flag description: | two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol |
+| National symbol(s): | maple leaf, beaver; national colors: red, white |
+| National anthem: | name: O Canada |
+| National anthem: | lyrics/music: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE |
+| National anthem: | note: adopted 1980; originally written in 1880, "O Canada" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, "God Save the Queen" serves as the royal anthem (see United Kingdom) |

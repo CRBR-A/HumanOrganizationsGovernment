@@ -1,0 +1,57 @@
+| Government | CAMEROON |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cameroon |
+| Country name: | conventional short form: Cameroon |
+| Country name: | local long form: Republique du Cameroun/Republic of Cameroon |
+| Country name: | local short form: Cameroun/Cameroon |
+| Country name: | former: French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon |
+| Government type: | republic; multiparty presidential regime |
+| Capital: | name: Yaounde |
+| Capital: | geographic coordinates: 3 52 N, 11 31 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest) |
+| Independence: | 1 January 1960 (from French-administered UN trusteeship) |
+| National holiday: | State Unification Day (National Day), 20 May (1972) |
+| Constitution: | several previous; latest effective 18 January 1996; amended 2008 (2008) |
+| Legal system: | mixed legal system of English common law, French civil law, and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; non-party state to the ICCt |
+| Suffrage: | 20 years of age; universal |
+| Executive branch: | chief of state: President Paul BIYA (since 6 November 1982) |
+| Executive branch: | head of government: Prime Minister Philemon YANG (since 30 June 2009) |
+| Executive branch: | cabinet: Cabinet proposed by the prime minister, appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 9 October 2011 (next to be held in October 2018); prime minister appointed by the president |
+| Executive branch: | election results: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 78.0%, John FRU NDI (SDF) 10.7%, Garga Haman ADJI 3.2%, other 8.1% |
+| Legislative branch: | description: bicameral Parliament or Parlement consists of the Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms) and the National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms); note - the 100-member Senate was formed at the time of the April 2013 election |
+| Legislative branch: | elections: Senate last held on 14 April 2013 (next to be held in 2018); National Assembly last held on 30 September 2013 (next to be held in 2018) |
+| Legislative branch: | election results: Senate percent of vote by party - NA; seats by party - CPDM 56, SDF 14; National Assembly percent of vote by party - NA; seats by party - CPDM 148, SDF 18, UNDP 5, UDC 4, UPC 3, other 2 |
+| Judicial branch: | highest court(s): Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for single 9-year terms |
+| Judicial branch: | subordinate courts: Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrate's courts |
+| Political parties and leaders: | Cameroon People's Democratic Movement or CPDM [Paul BIYA] |
+| Political parties and leaders: | Cameroon People's Party or CPP [Edith Kah WALLA] |
+| Political parties and leaders: | Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA] |
+| Political parties and leaders: | Movement for the Defense of the Republic or MDR [Dakole DAISSALA] |
+| Political parties and leaders: | Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO] |
+| Political parties and leaders: | National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA] |
+| Political parties and leaders: | Progressive Movement or MP [Jean-Jacques EKINDI] |
+| Political parties and leaders: | Social Democratic Front or SDF [John FRU NDI] |
+| Political parties and leaders: | Union of Peoples of Cameroon or UPC [Provisionary Management Bureau] |
+| Political pressure groups and leaders: | Network of Human Rights Defenders in Central Africa or REDHAC [Maximilliene Ngo MBE] |
+| Political pressure groups and leaders: | Tribunal 53 [Patrice NGANANG] |
+| International organization participation: | ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Joseph FOE-ATANGANA (since 12 September 2008) |
+| Diplomatic representation in the US: | chancery: 2349 Massachusetts Avenue NW, Washington, DC 20008; current temporary address - 3400 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-8790 |
+| Diplomatic representation in the US: | FAX: [1] (202) 387-3826 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael Stephen HOZA (since 19 September 2014) |
+| Diplomatic representation from the US: | embassy: Avenue Rosa Parks, Yaounde |
+| Diplomatic representation from the US: | mailing address: P. O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520 |
+| Diplomatic representation from the US: | telephone: [237] 22220 15 00; Consular: [237] 22220 16 03 |
+| Diplomatic representation from the US: | FAX: [237] 22220 15 00 Ext. 4531; Consular FAX: [237] 22220 17 52 |
+| Diplomatic representation from the US: | branch office(s): Douala |
+| Flag description: | three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the "star of unity" |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | lion; national colors: green, red, yellow |
+| National anthem: | name: "O Cameroun, Berceau de nos Ancetres" (O Cameroon, Cradle of Our Forefathers) |
+| National anthem: | lyrics/music: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME |
+| National anthem: | note: adopted 1957; Cameroon's anthem, also known as "Chant de Ralliement" (The Rallying Song), has been used unofficially since 1948 and officially adopted in 1957; the anthem has French and English versions whose lyrics differ |

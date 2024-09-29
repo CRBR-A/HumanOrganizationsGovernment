@@ -1,0 +1,42 @@
+| Government | Colombia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Colombia |
+| Country name: | conventional short form: Colombia |
+| Country name: | local long form: Republica de Colombia |
+| Country name: | local short form: Colombia |
+| Government type: | republic; executive branch dominates government structure |
+| Capital: | name: Bogota |
+| Capital: | geographic coordinates: 4 36 N, 74 05 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, San Andres y Providencia, Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada |
+| Independence: | 20 July 1810 (from Spain) |
+| National holiday: | Independence Day, 20 July (1810) |
+| Constitution: | 5 July 1991; amended many times |
+| Legal system: | based on Spanish law; a new criminal code modeled after US procedures was enacted into law in 2004 and reached full implemention in January 2008; judicial review of executive and legislative acts; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Alvaro URIBE Velez (since 7 August 2002); Vice President Francisco SANTOS (since 7 August 2002); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Alvaro URIBE Velez (since 7 August 2002); Vice President Francisco SANTOS (since 7 August 2002) |
+| Executive branch: | cabinet: Cabinet consists of a coalition of the three largest parties that supported President URIBE's reelection - the PSUN, PC, and CR - and independents |
+| Executive branch: | elections: president and vice president elected by popular vote for a four-year term (eligible for a second term); election last held 28 May 2006 (next to be held in May 2010) |
+| Executive branch: | election results: President Alvaro URIBE Velez reelected president; percent of vote - Alvaro URIBE Velez 62%, Carlos GAVIRIA Diaz 22%, Horacio SERPA Uribe 12%, other 4% |
+| Legislative branch: | bicameral Congress or Congreso consists of the Senate or Senado (102 seats; members are elected by popular vote to serve four-year terms) and the House of Representatives or Camara de Representantes (166 seats; members are elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: Senate - last held 12 March 2006 (next to be held in March 2010); House of Representatives - last held 12 March 2006 (next to be held in March 2010) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - PSUN 20, PC 18, PL 18, CR 15, PDI 10, other parties 21; House of Representatives - percent of vote by party - NA; seats by party - PL 35, PSUN 33, PC 29, CR 20, PDA 8, other parties 41 |
+| Judicial branch: | four roughly coequal, supreme judicial organs; Supreme Court of Justice or Corte Suprema de Justicia (highest court of criminal law; judges are selected by their peers from the nominees of the Superior Judicial Council for eight-year terms); Council of State (highest court of administrative law; judges are selected from the nominees of the Superior Judicial Council for eight-year terms); Constitutional Court (guards integrity and supremacy of the constitution; rules on constitutionality of laws, amendments to the constitution, and international treaties); Superior Judicial Council (administers and disciplines the civilian judiciary; resolves jurisdictional conflicts arising between other courts; members are elected by three sister courts and Congress for eight-year terms) |
+| Political parties and leaders: | Colombian Conservative Party or PC [Efrain Jose CEPEDA Sarabia]; Alternative Democratic Pole or PDA [Carlos GAVIRIA Diaz]; Liberal Party or PL [Cesar GAVIRIA Trujillo]; Radical Change or CR [German VARGAS Lleras]; Social National Unity Party or U Party [Carlos GARCIA Orjuela] |
+| Political parties and leaders: | note: Colombia has 15 formally recognized political parties, and numerous unofficial parties that did not meet the vote threshold in the March 2006 legislative elections required for recognition |
+| Political pressure groups and leaders: | National Liberation Army or ELN; Revolutionary Armed Forces of Colombia or FARC |
+| Political pressure groups and leaders: | note: two largest insurgent groups active in Colombia |
+| International organization participation: | BCIE, CAN, Caricom (observer), CDB, FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Carolina BARCO Isakson |
+| Diplomatic representation in the US: | chancery: 2118 Leroy Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-8338 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-8643 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico), Washington, DC |
+| Diplomatic representation from the US: | chief of mission: Ambassador William R. BROWNFIELD |
+| Diplomatic representation from the US: | embassy: Calle 24 Bis No. 48-50, Bogota, D.C. |
+| Diplomatic representation from the US: | mailing address: Carrera 45 No. 24B-27, Bogota, D.C. |
+| Diplomatic representation from the US: | telephone: [57] (1) 315-0811 |
+| Diplomatic representation from the US: | FAX: [57] (1) 315-2197 |
+| Flag description: | three horizontal bands of yellow (top, double-width), blue, and red |
+| Flag description: | note: similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center |

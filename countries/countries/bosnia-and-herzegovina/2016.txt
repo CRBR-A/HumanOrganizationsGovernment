@@ -1,0 +1,76 @@
+| Government | BOSNIA AND HERZEGOVINA |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Bosnia and Herzegovina |
+| Country name: | local long form: none |
+| Country name: | local short form: Bosna i Hercegovina |
+| Country name: | former: People's Republic of Bosnia and Herzegovina, Socialist Republic of Bosnia and Herzegovina |
+| Country name: | abbreviation: BiH |
+| Country name: | etymology: the larger northern territory is named for the Bosna River; the smaller southern section takes its name from the German word "herzog," meaning "duke," and the ending "-ovina," meaning "land," forming the combination denoting "dukedom" |
+| Government type: | parliamentary republic |
+| Capital: | name: Sarajevo |
+| Capital: | geographic coordinates: 43 52 N, 18 25 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 2 first-order administrative divisions and 1 internationally supervised district* - the Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine) (predominantly Bosniak-Croat), the Republika Srpska (predominately Serb), Brcko District (Brcko Distrikt)*; note - Brcko District is in northeastern Bosnia and is a self-governing administrative unit under the sovereignty of Bosnia and Herzegovina and formally held in condominium between the two entities |
+| Independence: | 1 March 1992 (from Yugoslavia); note - referendum for independence completed on 1 March 1992; independence declared on 3 March 1992 |
+| National holiday: | National Day (Statehood Day), 25 November (1943); Independence Day, 1 March (1992); note - observed only in the Federation of Bosnia and Herzegovina |
+| National holiday: | Dayton Agreement Day, 21 November (2007); note - observed only in the Republika Srpska |
+| National holiday: | note: there is no national-level holiday |
+| Constitution: | 14 December 1995 (constitution included as part of the Dayton Peace Accords); amended several times, last in 2009; note - each of the entities has its own constitution (2016) |
+| Legal system: | civil law system; Constitutional Court review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Bosnia and Herzegovina |
+| Citizenship: | dual citizenship recognized: yes, provided there is a bilateral agreement with the other state |
+| Citizenship: | residency requirement for naturalization: 8 years |
+| Suffrage: | 18 years of age, 16 if employed; universal |
+| Executive branch: | chief of state: Chairman of the Presidency Mladen IVANIC (chairman since 17 November 2016, presidency member since 17 November 2014 - Serb); Dragan COVIC (presidency member since 17 November 2014 - Croat); Bakir IZETBEGOVIC (presidency member since 10 November 2010 - Bosniak) |
+| Executive branch: | head of government: Chairman of the Council of Ministers Denis ZVIZDIC (since 11 February 2015) |
+| Executive branch: | cabinet: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives |
+| Executive branch: | elections/appointments: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months and resumes where it left off following each general election; election last held on 12 October 2014 (next to be held in October 2018); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives |
+| Executive branch: | election results: percent of vote - Mladen IVANIC 48.7% - Serb seat; Dragan COVIC 52.2% - Croat seat; Bakir IZETBEGOVIC 32.9% - Bosniak seat |
+| Executive branch: | note: President of the Federation of Bosnia and Herzegovina Marinko CAVARA (since 11 February 2015); Vice Presidents Melika MAHMUTBEGOVIC (since 11 February 2015), Milan DUNOVIC (since 11 February 2015); President of the Republika Srpska Milorad DODIK (since 15 November 2010); Vice Presidents Ramiz SALKIC (since 24 November 2014), Josip JERKOVIC (since 24 November 2014) |
+| Legislative branch: | description: bicameral Parliamentary Assembly or Skupstina consists of the House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Federation of Bosnia and Herzegovina's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms) and the state-level House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Federation of Bosnia and Herzegovina has a bicameral legislature that consists of the House of Peoples (58 seats - 17 Bosniak, 17 Croat, 17 Serb, 7 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve 4-year terms) |
+| Legislative branch: | elections: House of Peoples - last constituted in 11 February 2015 (next likely to be constituted in 2019); state-level House of Representatives - election last held on 12 October 2014 (next to be held in October 2018) |
+| Legislative branch: | election results: House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; state-level House of Representatives - percent of vote by party/coalition - Federation votes: SDA 27.9%, DF 15.3%, SBB BiH 14.4%, Croat People's Assembly coalition or HNS (HDZ BiH-HSS-NHI-HKDU-HSP BiH-HSP HB) 12.2%, SDP 9.5%, HDZ-1990 4.1%, BPS-Sefer Halilovic 3.7%, A-SDA 2.3%, other 10.6%; Republika Srpska votes: SNSD 38.5%, SDS 32.6%, PDP-NDP 7.8%, DNS 5.7%, SDA 4.9%, other 10.5%; seats by party/coalition - SDA 10, SNSD 6, SDS 5, DF 5, SBB BiH 4, Croat People's Assembly coalition or HNS (HDZ BiH-HSS-NHI-HKDU-HSP BiH-HSP HB) 4, SDP 3, PDP-NDP 1, HDZ-1990 1, BPS-Sefer Halilovic 1, DNS 1, A-SDA 1 |
+| Judicial branch: | highest court(s): BiH Constitutional Court (consists of 9 members); Court of BiH (consists of 44 national judges and 7 international judges organized into 3 divisions - Administrative, Appellate, and Criminal, which includes a War Crimes Chamber) |
+| Judicial branch: | judge selection and term of office: BiH Constitutional Court judges - 4 selected by the Bosniak/Croat Federation's House of Representatives, 2 selected by the Republika Srpska's National Assembly, and 3 non-Bosnian judges selected by the president of the European Court of Human Rights; Court of BiH president and national judges appointed by the High Judicial and Prosecutorial Council; Court of BiH president appointed for renewable 6-year term; other national judges appointed to serve until age 70; international judges recommended by the president of the Court of BiH and appointed by the High Representative for Bosnia and Herzegovina; international judges appointed to serve until age 70 |
+| Judicial branch: | subordinate courts: the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts |
+| Political parties and leaders: | Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC] |
+| Political parties and leaders: | Alliance of Independent Social Democrats or SNSD [Milorad DODIK] |
+| Political parties and leaders: | Alternative Party for Democratic Activity or A-SDA [Nermin OGRESEVIC] |
+| Political parties and leaders: | Bosnian-Herzegovinian Patriotic Party-Sefer Halilovic or BPS-Sefer Halilovic [Sefer HALILOVIC] |
+| Political parties and leaders: | Croat Peasants' Party or HSS [Mario KARAMATIC] |
+| Political parties and leaders: | Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA] |
+| Political parties and leaders: | Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC] |
+| Political parties and leaders: | Croatian Democratic Union 1990 or HDZ-1990 [acting president Ilija CVITANOVIC] |
+| Political parties and leaders: | Croatian Party of Rights or HSP BiH [Stanko PRIMORAC] |
+| Political parties and leaders: | Croatian Party of Rights of Herceg-Bosne or HSP HB [Vesna PINJUH] |
+| Political parties and leaders: | Croatian People's Party-Liberal Democrats or HNS [Ivan VRDOLJAK] |
+| Political parties and leaders: | Democratic Front of DF [Zeljko KOMSIC] |
+| Political parties and leaders: | Democratic Peoples' Alliance or DNS [Marko PAVIC] |
+| Political parties and leaders: | Party for Democratic Action or SDA [Bakir IZETBEGOVIC] |
+| Political parties and leaders: | Party of Democratic Progress or PDP [Branislav BORENOVIC] |
+| Political parties and leaders: | People's Democratic Movement or NDP [Dragan CAVIC] |
+| Political parties and leaders: | Serb Democratic Party or SDS [Mladen BOSIC] |
+| Political parties and leaders: | Social Democratic Party or SDP [Nermin NIKSIC] |
+| Political pressure groups and leaders: | other: war veterans; displaced persons associations; family associations of missing persons; private media |
+| International organization participation: | BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Haris HRLE (since 23 October 2015) |
+| Diplomatic representation in the US: | chancery: 2109 E Street NW, Washington, DC 20037 |
+| Diplomatic representation in the US: | telephone: [1] (202) 337-1500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 337-1502 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Maureen CORMACK (since 16 January 2015) |
+| Diplomatic representation from the US: | embassy: 1 Robert C. Frasure Street, 71000 Sarajevo |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [387] (33) 704-000 |
+| Diplomatic representation from the US: | FAX: [387] (33) 659-722 |
+| Diplomatic representation from the US: | branch office(s): Banja Luka, Mostar |
+| Flag description: | a wide medium blue vertical band on the fly side with a yellow isosceles triangle abutting the band and the top of the flag; the remainder of the flag is medium blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle; the triangle approximates the shape of the country and its three points stand for the constituent peoples - Bosniaks, Croats, and Serbs; the stars represent Europe and are meant to be continuous (thus the half stars at top and bottom); the colors (white, blue, and yellow) are often associated with neutrality and peace, and traditionally are linked with Bosnia |
+| Flag description: | note: one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Brazil, Eritrea, and Vanuatu |
+| National symbol(s): | golden lily; national colors: blue, yellow, white |
+| National anthem: | name: "Drzavna himna Bosne i Hercegovine" (The National Anthem of Bosnia and Herzegovina) |
+| National anthem: | lyrics/music: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC |
+| National anthem: | note: music adopted 1999; lyrics accepted 2009 but not yet approved |

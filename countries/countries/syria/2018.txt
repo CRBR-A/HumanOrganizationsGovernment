@@ -1,0 +1,66 @@
+| Government | Syria |
+| --- | --- |
+| Country name: | conventional long form: Syrian Arab Republic |
+| Country name: | conventional short form: Syria |
+| Country name: | local long form: Al Jumhuriyah al Arabiyah as Suriyah |
+| Country name: | local short form: Suriyah |
+| Country name: | former: United Arab Republic (with Egypt) |
+| Country name: | etymology: name ultimately derived from the ancient Assyrians who dominated northern Mesopotamia, but whose reach also extended westward to the Levant; over time, the name came to be associated more with the western area |
+| Government type: | presidential republic; highly authoritarian regime |
+| Capital: | name: Damascus |
+| Capital: | geographic coordinates: 33 30 N, 36 18 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins midnight on the last Friday in March; ends at midnight on the last Friday in October |
+| Administrative divisions: | 14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus |
+| Independence: | 17 April 1946 (from League of Nations mandate under French administration) |
+| National holiday: | Independence Day (Evacuation Day), 17 April (1946); note - celebrates the leaving of the last French troops and the proclamation of full independence |
+| Constitution: | history: several previous; latest issued 15 February 2012, passed by referendum and effective 27 February 2012 (2016) |
+| Constitution: | amendments: proposed by the president of the republic or by one-third of the Peopleâ€™s Assembly members; following review by a special Assembly committee, passage requires at least three-quarters majority vote by the Assembly and approval by the president (2016) |
+| Legal system: | mixed legal system of civil and Islamic law (for family courts) |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Syria; if the father is unknown or stateless, the mother must be a citizen of Syria |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members) |
+| Judicial branch: | judge selection and term of office: Court of Cassation judges appointed by the Supreme Judicial Council (SJC), a judicial management body headed by the minister of justice with 7 members, including the national president; judge tenure NA; Supreme Constitutional Court judges nominated by the president and appointed by the SJC; judges serve 4-year renewable terms |
+| Judicial branch: | subordinate courts: courts of first instance; magistrates' courts; religious and military courts; Economic Security Court; Counterterrorism Court (established June 2012) |
+| Executive branch: | chief of state: President Bashar al-ASAD (since 17 July 2000); Vice President Najah al-ATTAR (since 23 March 2006) |
+| Executive branch: | head of government: Prime Minister Imad Muhammad Dib KHAMIS (since 22 June 2016); Deputy Prime Minister Walid al-MUALEM (since 23 June 2012) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 3 June 2014 (next to be held in June 2021); the president appoints the vice presidents, prime minister, and deputy prime ministers |
+| Executive branch: | election results: Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party) 88.7%, Hassan al-NOURI (independent) 4.3%, Maher HAJJER (independent) 3.2%, other/invalid 3.8% |
+| Legislative branch: | description: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 13 April 2016 (next to be held in 2020) |
+| Legislative branch: | election results: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2% |
+| Political parties and leaders: | legal parties/alliances: |
+| Political parties and leaders: | Arab Socialist Ba'ath Party [Bashar al-ASAD, regional secretary] |
+| Political parties and leaders: | Arab Socialist Renaissance (Ba'th) Party [President Bashar al-ASAD] |
+| Political parties and leaders: | Arab Socialist Union of Syria or ASU [Safwan al-QUDSI] |
+| Political parties and leaders: | National Progressive Front or NPF [Bashar al-ASAD, Suleiman QADDAH] (alliance includes Arab Socialist Renaissance (Ba'th) Party, Socialist Unionist Democratic Party |
+| Political parties and leaders: | Syrian Communist Party (two branches) [Wissal Farha BAKDASH, Yusuf Rashid FAYSAL] |
+| Political parties and leaders: | Syrian Social Nationalist Party or SSNP [Ali HAIDAR] |
+| Political parties and leaders: | Unionist Socialist Party [Fayez ISMAIL] |
+| Political parties and leaders: | Kurdish partiesÂ  |
+| Political parties and leaders: | Kurdish Democratic Union Party or PYD [Shahoz HASAN and Aysha HISSO] |
+| Political parties and leaders: | Kurdish National Council [Sa'ud MALA] |
+| Political parties and leaders: | Â  |
+| Political parties and leaders: | other: Syrian Democratic Party [Mustafa QALAAJI] |
+| International organization participation: | ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant) |
+| Diplomatic representation in the US: | chancery: 2215 Wyoming Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 232-6313 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-9548 |
+| Diplomatic representation in the US: | note: Embassy ceased operations and closed on 18 March 2014 |
+| Diplomatic representation from the US: | chief of mission: ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as protecting power for US interests in Syria |
+| Diplomatic representation from the US: | embassy: Abou Roumaneh, 2 Al Mansour Street, Damascus |
+| Diplomatic representation from the US: | mailing address: P. O. Box 29, Damascus |
+| Diplomatic representation from the US: | telephone: [963] (11) 3391-4444 |
+| Diplomatic representation from the US: | FAX: [963] (11) 3391-3999 |
+| Flag description: | three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980 |
+| Flag description: | note: similar to the flag of Yemen, which has a plain white band, Iraq, which has an Arabic inscription centered in the white band, and that of Egypt, which has a gold Eagle of Saladin centered in the white band |
+| National symbol(s): | hawk; national colors: red, white, black, green |
+| National anthem: | name: "Humat ad-Diyar" (Guardians of the Homeland) |
+| National anthem: | lyrics/music: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL |
+| National anthem: | note: adopted 1936, restored 1961; between 1958 and 1961, while Syria was a member of the United Arab Republic with Egypt, the country had a different anthem |

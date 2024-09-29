@@ -1,0 +1,63 @@
+| Government | NAMIBIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Namibia |
+| Country name: | conventional short form: Namibia |
+| Country name: | local long form: Republic of Namibia |
+| Country name: | local short form: Namibia |
+| Country name: | former: German South-West Africa (Deutsch Suedwest Afrika), South-West Africa |
+| Country name: | etymology: named for the coastal Namib Desert; the name "namib" means "vast place" in the Nama/Damara language |
+| Government type: | presidential republic |
+| Capital: | name: Windhoek |
+| Capital: | geographic coordinates: 22 34 S, 17 05 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Sunday in September; ends first Sunday in April |
+| Administrative divisions: | 14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language |
+| Independence: | 21 March 1990 (from South African mandate) |
+| National holiday: | Independence Day, 21 March (1990) |
+| Constitution: | drafted 9 February 1990, signed 16 March 1990, entered into force 21 March 1990; amended 1998, 2010, 2014 (2016) |
+| Legal system: | mixed legal system of uncodified civil law based on Roman-Dutch law and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Namibia |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Hage GEINGOB (since 21 March 2015); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Hage GEINGOB (since 21 March 2015); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015) |
+| Executive branch: | cabinet: Cabinet appointed by the president from among members of the National Assembly |
+| Executive branch: | elections/appointments: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2014 (next to be held in November 2019) |
+| Executive branch: | election results: Hage GEINGOB elected president; percent of vote - Hage GEINGOB (SWAPO) 86.7%, McHenry VENAANI (DTA) 5.0%, Hidipo HAMUTENYA (RDP) 3.4%, Asser MBAI (NUDO)1.9%, Henk MUDGE (RP) 1.0%, other 2.0% |
+| Legislative branch: | description: bicameral Parliament consists of the National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president) and the National Council, which primarily reviews legislation passed and referred by the National Assembly (26 seats (to be expanded to 42 in 2016); members indirectly elected 2 each by the 13 regional councils to serve 5-year terms) |
+| Legislative branch: | elections: National Council - elections for regional councils to determine members of the National Council held on 27 November 2015 (next to be held in November 2020); National Assembly - last held on 28 November 2014 (next to be held in November 2019) |
+| Legislative branch: | election results: National Council - percent of vote by party - NA; seats by party - SWAPO 40, NUDO 1, DTA 1; National Assembly - percent of vote by party - SWAPO 80.0%, DTA 4.8%, RDP 3.5%, APP 2.3%, UDF 2.1%, NUDO 2.0%, CPN 1.5%, other 3.8%; seats by party - SWAPO 77, DTA 5, RDP 3, APP 2, UDF 2, NUDO 2, CPN 2, SWANU 1, UPM 1, RP 1 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions) |
+| Judicial branch: | judge selection and term of office: judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65 but can be extended by the president until age 70 |
+| Judicial branch: | subordinate courts: High Court; Labor Court; regional and district magistrates' courts; community courts |
+| Political parties and leaders: | All People's Party or APP [Ignatius SHIXWAMENI] |
+| Political parties and leaders: | Communist Party of Namibia or CPN (formerly known as Workers' Revolutionary Party or WRP) [Attie BEUKES and Harry BOESAK] |
+| Political parties and leaders: | Democratic Turnhalle Alliance of Namibia or DTA [McHenry VENAANI] |
+| Political parties and leaders: | National Unity Democratic Organization or NUDO [Asser MBAI] |
+| Political parties and leaders: | Rally for Democracy and Progress or RDP [Jeremiah NAMBINGA] |
+| Political parties and leaders: | Republican Party or RP [Henk MUDGE] |
+| Political parties and leaders: | South West Africa National Union or SWANU [Usutuaije MAAMBERUA] |
+| Political parties and leaders: | South West Africa People's Organization or SWAPO [Hage GEINGOB, acting president] |
+| United Democratic Front or UDF [Justus ||GAROEB] |
+| United Democratic Front or UDF [Justus | United People's Movement or UPM [Jan J. VAN WYK] |
+| Political pressure groups and leaders: | National Society for Human Rights or NAMRIGHTS |
+| Political pressure groups and leaders: | The Affirmative Repositioning Movement or AR [Job AMUPANDA, Dimbulukweni NAUYOMA, George KAMBALA] |
+| Political pressure groups and leaders: | other: various labor unions |
+| International organization participation: | ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Martin ANDJABA (since 3 September 2010) |
+| Diplomatic representation in the US: | chancery: 1605 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 986-0540 |
+| Diplomatic representation in the US: | FAX: [1] (202) 986-0443 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Thomas Frederick DAUGHTON (since 6 October 2014) |
+| Diplomatic representation from the US: | embassy: 14 Lossen Street, Windhoek |
+| Diplomatic representation from the US: | mailing address: Private Bag 12029 Ausspannplatz, Windhoek |
+| Diplomatic representation from the US: | telephone: [264] (61) 295-8500 |
+| Diplomatic representation from the US: | FAX: [264] (61) 295-8603 |
+| Flag description: | a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources |
+| National symbol(s): | oryx (antelope); national colors: blue, red, green, white, yellow |
+| National anthem: | name: "Namibia, Land of the Brave" |
+| National anthem: | lyrics/music: Axali DOESEB |
+| National anthem: | note: adopted 1991 |

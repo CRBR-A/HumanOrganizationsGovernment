@@ -1,0 +1,41 @@
+| Government | Angola |
+| --- | --- |
+| Country name: | conventional long form: Republic of Angola |
+| Country name: | conventional short form: Angola |
+| Country name: | local long form: Republica de Angola |
+| Country name: | local short form: Angola |
+| Country name: | former: People's Republic of Angola |
+| Government type: | republic; multiparty presidential regime |
+| Capital: | name: Luanda |
+| Capital: | geographic coordinates: 8 50 S, 13 14 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza Norte, Cuanza Sul, Cunene, Huambo, Huila, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uige, Zaire |
+| Independence: | 11 November 1975 (from Portugal) |
+| National holiday: | Independence Day, 11 November (1975) |
+| Constitution: | adopted by People's Assembly 25 August 1992 |
+| Legal system: | based on Portuguese civil law system and customary law; modified to accommodate political pluralism and increased use of free markets; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Jose Eduardo DOS SANTOS (since 21 September 1979); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Jose Eduardo DOS SANTOS (since 21 September 1979); Antonio Paulo KASSOMA was named prime minister by MPLA on 26 September 2008 |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president elected by universal ballot for a five-year term (eligible for a second consecutive or discontinuous term) under the 1992 constitution; President DOS SANTOS originally elected (in 1979) without opposition under a one-party system and stood for reelection in Angola's first multiparty elections 29-30 September 1992 (next to be held in 2009) |
+| Executive branch: | election results: Jose Eduardo DOS SANTOS 49.6%, Jonas SAVIMBI 40.1%, making a run-off election necessary; the run-off was not held because SAVIMBI's National Union for the Total Independence of Angola (UNITA) repudiated the results of the first election; the civil war resumed leaving DOS SANTOS in his current position as the president |
+| Legislative branch: | unicameral National Assembly or Assembleia Nacional (220 seats; members elected by proportional vote to serve four-year terms) |
+| Legislative branch: | elections: last held 5-6 September 2008 (next to be held in September 2012) |
+| Legislative branch: | election results: percent of vote by party - MPLA 81.6%, UNITA 10.4%, PRS 3.2%, ND 1.2%, FNLA 1.1%, other 2.5%; seats by party - MPLA 191, UNITA 16, PRS 8, ND 2, FNLA 3 |
+| Judicial branch: | Supreme Court and separate provincial courts (judges are appointed by the president) |
+| Political parties and leaders: | Liberal Democratic Party or PLD [Analia de Victoria PEREIRA]; National Front for the Liberation of Angola or FNLA [disputed between Ngola KABANGU and Lucas NGONDA]; National Union for the Total Independence of Angola or UNITA (largest opposition party) [Isaias SAMAKUVA]; Popular Movement for the Liberation of Angola or MPLA (ruling party in power since 1975) [Jose Eduardo DOS SANTOS]; Social Renewal Party or PRS [Eduardo KUANGANA] |
+| Political parties and leaders: | note: about a dozen minor parties participated in the 1992 elections but only won a few seats; they and more than 100 other smaller parties have little influence in the National Assembly |
+| Political pressure groups and leaders: | Front for the Liberation of the Enclave of Cabinda or FLEC [N'zita Henriques TIAGO, Antonio Bento BEMBE] |
+| International organization participation: | ACP, AfDB, AU, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Josefina Perpetua Pitra DIAKITE |
+| Diplomatic representation in the US: | chancery: 2108 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 785-1156 |
+| Diplomatic representation in the US: | FAX: [1] (202) 785-1258 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Dan MOZENA |
+| Diplomatic representation from the US: | embassy: number 32 Rua Houari Boumedienne (in the Miramar area of Luanda), Luanda |
+| Diplomatic representation from the US: | mailing address: international mail: Caixa Postal 6468, Luanda; pouch: US Embassy Luanda, US Department of State, 2550 Luanda Place, Washington, DC 20521-2550 |
+| Diplomatic representation from the US: | telephone: [244] (222) 64-1000 |
+| Diplomatic representation from the US: | FAX: [244] (222) 64-1232 |
+| Flag description: | two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle) |

@@ -1,0 +1,41 @@
+| Government | Czech Republic |
+| --- | --- |
+| Country name: | conventional long form: Czech Republic |
+| Country name: | conventional short form: Czech Republic |
+| Country name: | local long form: Ceska Republika |
+| Country name: | local short form: Cesko |
+| Government type: | parliamentary democracy |
+| Capital: | name: Prague |
+| Capital: | geographic coordinates: 50 05 N, 14 28 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky, Kralovehradecky, Liberecky, Moravskoslezsky (Moravia-Silesia), Olomoucky, Pardubicky, Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky, Vysocina, Zlinsky |
+| Independence: | 1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia) |
+| National holiday: | Czech Founding Day, 28 October (1918) |
+| Constitution: | ratified 16 December 1992, effective 1 January 1993 |
+| Legal system: | civil law system based on Austro-Hungarian codes; has not accepted compulsory ICJ jurisdiction; legal code modified to bring it in line with Organization on Security and Cooperation in Europe (OSCE) obligations and to expunge Marxist-Leninist legal theory |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Vaclav KLAUS (since 7 March 2003) |
+| Executive branch: | head of government: Prime Minister Mirek TOPOLANEK (since 9 January 2007); Deputy Prime Ministers Petr NECAS (since 9 January 2007), Martin BURSIK (since 9 January 2007), and Alexandr VONDRA (since 9 January 2007) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections: president elected by Parliament for a five-year term (eligible for a second term); last successful election held 15 February 2008 (after earlier elections held 8 and 9 February 2008 were inconclusive; next election to be held in February 2013); prime minister appointed by the president |
+| Executive branch: | election results: Vaclav KLAUS reelected president on 15 February 2008; Vaclav KLAUS 141 votes, Jan SVEJNAR 111 votes (third round; combined votes of both chambers of parliament) |
+| Legislative branch: | bicameral Parliament or Parlament consists of the Senate or Senat (81 seats; members are elected by popular vote to serve six-year terms; one-third elected every two years) and the Chamber of Deputies or Poslanecka Snemovna (200 seats; members are elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: Senate - last held in two rounds 17-18 and 24-25 October 2008 (next to be held in October 2010); Chamber of Deputies - last held 2-3 June 2006 (next to be held by June 2010) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - ODS 35, CSSD 29, KDU-CSL 7, others 8, independents 2; Chamber of Deputies - percent of vote by party - ODS 35.4%, CSSD 32.3%, KSCM 12.8%, KDU-CSL 7.2%, Greens 6.3%, other 6%; seats by party - ODS 81, CSSD 74, KSCM 26, KDU-CSL 13, Greens 6; note - seats by party as of December 2007 - ODS 81, CSSD 72, KSCM 26, KDU-CSL 13, Greens 6, unaffiliated 2 (former CSSD members) |
+| Judicial branch: | Supreme Court; Constitutional Court; chairman and deputy chairmen are appointed by the president for a 10-year term |
+| Political parties and leaders: | Association of Independent Candidates-European Democrats or SNK-ED [Helmut DOHNALEK]; Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Jiri CUNEK]; Civic Democratic Party or ODS [Mirek TOPOLANEK]; Communist Party of Bohemia and Moravia or KSCM [Vojtech FILIP]; Czech Social Democratic Party or CSSD [Jiri PAROUBEK]; Union of Freedom-Democratic Union or US-DEU [Jan CERNY]; Green Party [Martin BURSIK]; Independent Democrats (NEZDEM) [Vladimir ZELEZNY]; Party of Open Society (SOS) [Pavel NOVACEK]; Path of Change [Jiri LOBKOWITZ] |
+| Political pressure groups and leaders: | Czech-Moravian Confederation of Trade Unions or CMKOS [Milan STECH] |
+| International organization participation: | ACCT (observer), Australia Group, BIS, BSEC (observer), CE, CEI, CERN, EAPC, EBRD, EIB, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MONUC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOMIG, UNWTO, UPU, WCL, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Petr KOLAR |
+| Diplomatic representation in the US: | chancery: 3900 Spring of Freedom Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 274-9100 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-8540 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard W. GRABER |
+| Diplomatic representation from the US: | embassy: Trziste 15, 118 01 Prague 1 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [420] 257 022 000 |
+| Diplomatic representation from the US: | FAX: [420] 257 022 809 |
+| Flag description: | two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side |
+| Flag description: | note: identical to the flag of the former Czechoslovakia |

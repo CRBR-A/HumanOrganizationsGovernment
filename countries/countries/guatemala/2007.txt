@@ -1,0 +1,41 @@
+| Government | Guatemala |
+| --- | --- |
+| Country name: | conventional long form: Republic of Guatemala |
+| Country name: | conventional short form: Guatemala |
+| Country name: | local long form: Republica de Guatemala |
+| Country name: | local short form: Guatemala |
+| Government type: | constitutional democratic republic |
+| Capital: | name: Guatemala |
+| Capital: | geographic coordinates: 14 37 N, 90 31 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in April; ends last Friday in September; note - there is no DST planned for 2007-2009 |
+| Administrative divisions: | 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | 31 May 1985, effective 14 January 1986; note - suspended 25 May 1993 by former President Jorge SERRANO; reinstated 5 June 1993 following ouster of president; amended November 1993 |
+| Legal system: | civil law system; judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal; note - active duty members of the armed forces may not vote and are restricted to their barracks on election day |
+| Executive branch: | chief of state: President Oscar Jose Rafael BERGER Perdomo (since 14 January 2004); Vice President Eduardo STEIN Barillas (since 14 January 2004); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Oscar Jose Rafael BERGER Perdomo (since 14 January 2004); Vice President Eduardo STEIN Barillas (since 14 January 2004) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a four-year term (may not serve consecutive terms); election last held 9 September 2007; runoff held 4 November 2007 (next to be held September 2011) |
+| Executive branch: | election results: Alvaro COLOM Caballeros elected president; percent of vote - Alvaro COLOM Caballeros 52.8%, Otto PEREZ Molina 47.2%; note - COLOM will take office 14 January 2008 |
+| Legislative branch: | unicameral Congress of the Republic or Congreso de la Republica (158 seats; members are elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 9 November 2003 (next to be held in September 2007) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - GANA 49, FRG 41, UNE 33, PAN 17, other 18 |
+| Legislative branch: | note: in the 2003 election, the number of congressional seats increased from 113 to 158 |
+| Judicial branch: | Constitutional Court or Corte de Constitutcionalidad is Guatemala's highest court (five judges are elected for concurrent five-year terms); Supreme Court of Justice or Corte Suprema de Justicia (13 members serve concurrent five-year terms and elect a president of the Court each year from among their number; the president of the Supreme Court of Justice also supervises trial judges around the country, who are named to five-year terms) |
+| Political parties and leaders: | Authentic Integral Development or DIA [Edgar DE LEON Sotomayor]; Center of Social Action or CASA [Eduardo SUGER]; Democracy Front or FRENTE [Alfonso CABRERA]; Democratic Union or UD [Manuel CONDE Orellana]; Encounter for Guatemala or EG [Nineth MONTENGRO]; Grand National Alliance or GANA [Alfredo VILLA]; Guatemalan Christian Democracy or DCG [Vinicio CEREZO Arevalo]; Guatemalan National Revolutionary Unity or URNG [Hector NUILA]; Guatemalan Republican Front or FRG [Efrain RIOS Montt]; National Advancement Party or PAN [Ruben Dario MORALES]; National Unity for Hope or UNE [Alvaro COLOM Caballeros]; National Well-Being or BIEN [Fidel REYES]; New Nation Alliance or ANN [Pablo MONSANTO]; Patriot Party or PP [Ret. Gen. Otto PEREZ Molina]; Progressive Libertarian Party or PLP [Acisclo VALLADARES]; Reform Movement or MR [Juan Jose CABRERA Alonso]; Unionista Party or PU [Fritz GARCIA]; Unity of National Change or UCN [Sidney SHAW]; Social Democratic Party of Guatemala or PSG [Roger VALENZUELA] |
+| Political pressure groups and leaders: | Agrarian Owners Group or UNAGRO; Alliance Against Impunity or AAI; Committee for Campesino Unity or CUC; Coordinating Committee of Agricultural, Commercial, Industrial, and Financial Associations or CACIF; Mutual Support Group or GAM |
+| International organization participation: | BCIE, CACM, FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, MINUSTAH, MONUC, NAM, OAS, ONUB, OPANAL, OPCW, PCA, RG, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNMEE, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Guillermo CASTILLO |
+| Diplomatic representation in the US: | chancery: 2220 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 745-4952 |
+| Diplomatic representation in the US: | FAX: [1] (202) 745-1908 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Denver, Houston, Los Angeles, Miami, New York, Providence, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador James M. DERHAM |
+| Diplomatic representation from the US: | embassy: 7-01 Avenida Reforma, Zone 10, Guatemala City |
+| Diplomatic representation from the US: | mailing address: APO AA 34024 |
+| Diplomatic representation from the US: | telephone: [502] 2326-4000 |
+| Diplomatic representation from the US: | FAX: [502] 2326-4654 |
+| Flag description: | three equal vertical bands of light blue (hoist side), white, and light blue with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles and a pair of crossed swords and framed by a wreath |

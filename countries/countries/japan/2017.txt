@@ -1,0 +1,66 @@
+| Government | JAPAN |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Japan |
+| Country name: | local long form: Nihon-koku/Nippon-koku |
+| Country name: | local short form: Nihon/Nippon |
+| Country name: | etymology: the English word for Japan comes via the Chinese name for the country "Cipangu"; both Nihon and Nippon mean "where the sun originates" and are frequently translated as "Land of the Rising Sun" |
+| Government type: | parliamentary constitutional monarchy |
+| Capital: | name: Tokyo |
+| Capital: | geographic coordinates: 35 41 N, 139 45 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi |
+| Independence: | 3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 660 B.C. (traditional date of the founding of the nation by Emperor JIMMU); 29 November 1890 (Meiji Constitution provides for constitutional monarchy) |
+| National holiday: | Birthday of Emperor AKIHITO, 23 December (1933); note - celebrates the birthday of the current emperor |
+| Constitution: | previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947; note - the constitution has not been amended since its enactment in 1947 (2016) |
+| Legal system: | civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Japan |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Emperor AKIHITO (since 7 January 1989) |
+| Executive branch: | head of government: Prime Minister Shinzo ABE (since 26 December 2012); Deputy Prime Minister Taro ASO (since 26 December 2012) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections/appointments: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister |
+| Legislative branch: | description: bicameral Diet or Kokkai consists of the House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years) and the House of Representatives or Shugi-in (475 seats; 295 members directly elected in single-seat districts by simple majority vote and 180 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms); note - Japan's amended electoral law, changed in May 2017, reduced the total number of House seats to 465 - the number of House of Representatives seats in single-seat districts is reduced to 289 and the number of House of Representatives seats in multi-seat districts reduced to 176; the change is effective for the December 2018 House of Representatives election |
+| Legislative branch: | note: the Diet in June 2017 enacted a law - effective in mid-July - that redraws Japan's electoral district boundaries and reduces the current 275 seats in the House of Representatives to 265; the new law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, is reportedly intended to reduce voting disparities between densely and sparsely populated voting districts; this law will apply to the next election |
+| Legislative branch: | elections: House of Councillors - last held on 10 July 2016 (next to be held in July 2019); House of Representatives - last held on 22 October 2017 (next to be held by 22 October 2021) |
+| Legislative branch: | election results: House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5 |
+| Legislative branch: | House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, New Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independents 22 |
+| Judicial branch: | highest court(s): Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward |
+| Judicial branch: | subordinate courts: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho) |
+| Political parties and leaders: | Constitutional Democratic Party of Japan or CDP [Yukio EDANO] |
+| Political parties and leaders: | Democratic Party of Japan or DPJ [Kohei OTSUKA] |
+| Political parties and leaders: | Group of Reformists [Sakihito OZAWA] |
+| Political parties and leaders: | Japan Communist Party or JCP [Kazuo SHII] |
+| Political parties and leaders: | Japan Innovation Party or JIP [Ichiro MATSUI] |
+| Political parties and leaders: | Kibo no To or New Hope [Yuriko KOIKE] |
+| Political parties and leaders: | Komeito [Natsuo YAMAGUCHI] |
+| Political parties and leaders: | Liberal Democratic Party or LDP [Shinzo ABE] |
+| Political parties and leaders: | Liberal Party [Ichiro OZAWA] (formerly People's Life Party & Taro Yamamoto and Friends or PLPTYF) |
+| Political parties and leaders: | New Renaissance Party [Hiroyuki ARAI] |
+| Political parties and leaders: | Party for Japanese Kokoro or PJK [Masashi NAKANO] |
+| Political parties and leaders: | Social Democratic Party or SDP [Tadatomo YOSHIDA] |
+| Political parties and leaders: | The Assembly to Energize Japan and the Independents [Kota MATSUDA] |
+| Political pressure groups and leaders: | other: business groups; trade unions |
+| International organization participation: | ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UN Security Council (temporary), UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Kenichiro SASAE (since 14 January 2013) |
+| Diplomatic representation in the US: | chancery: 2520 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-2187 |
+| Diplomatic representation in the US: | consulate(s) general: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Denver (CO), Detroit (MI), Honolulu (HI), Houston, Las Vegas (NV), Los Angeles, Miami, Nashville (TN), New Orleans, New York, Oklahoma City (OK), Orlando (FL), Philadelphia (PA), Phoenix (AZ), Portland (OR), San Francisco, Seattle, Saipan (Puerto Rico), Tamuning (Guam) |
+| Diplomatic representation from the US: | chief of mission: Ambassador William F. "Bill" HAGERTY, IV (since 31 August 2017) |
+| Diplomatic representation from the US: | embassy: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420 |
+| Diplomatic representation from the US: | mailing address: Unit 9800, Box 300, APO AP 96303-0300 |
+| Diplomatic representation from the US: | telephone: [81] (03) 3224-5000 |
+| Diplomatic representation from the US: | FAX: [81] (03) 3505-1862 |
+| Diplomatic representation from the US: | consulate(s) general: Naha (Okinawa), Osaka-Kobe, Sapporo |
+| Diplomatic representation from the US: | consulate(s): Fukuoka, Nagoya |
+| Flag description: | white with a large red disk (representing the sun without rays) in the center |
+| National symbol(s): | red sun disc, chrysanthemum; national colors: red, white |
+| National anthem: | name: "Kimigayo" (The Emperor"s Reign) |
+| National anthem: | lyrics/music: unknown/Hiromori HAYASHI |
+| National anthem: | note: adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor |

@@ -1,0 +1,40 @@
+| Government | Iceland |
+| --- | --- |
+| Country name: | conventional long form: Republic of Iceland |
+| Country name: | conventional short form: Iceland |
+| Country name: | local long form: Lydveldid Island |
+| Country name: | local short form: Island |
+| Government type: | constitutional republic |
+| Capital: | name: Reykjavik |
+| Capital: | geographic coordinates: 64 09 N, 21 57 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 8 regions; Austurland, Hofudhborgarsvaedhi, Nordhurland Eystra, Nordhurland Vestra, Sudhurland, Sudhurnes, Vestfirdhir, Vesturland |
+| Independence: | 1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark) |
+| National holiday: | Independence Day, 17 June (1944) |
+| Constitution: | 16 June 1944, effective 17 June 1944; amended many times |
+| Legal system: | civil law system based on Danish law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Olafur Ragnar GRIMSSON (since 1 August 1996) |
+| Executive branch: | head of government: Prime Minister Johanna SIGURDARDOTTIR (since 1 February 2009); |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections: president, a largely ceremonial post, is elected by popular vote for a four-year term (no term limits); election last held 28 June 2004 (next to be held in June 2012); following legislative elections, the leader of the majority party or the leader of the majority coalition is usually the prime minister |
+| Executive branch: | note: the presidential election of 28 June 2008 was never held because Olafur Ragnar GRIMSSON had no challengers; he was sworn in on 1 August 2008 |
+| Executive branch: | 2004 election results: Olafur Ragnar GRIMSSON elected president; percent of vote - Olafur Ragnar GRIMSSON 85.6%, Baldur AGUSTSSON 12.5%, Astthor MAGNUSSON 1.9%; |
+| Legislative branch: | unicameral Parliament or Althing (63 seats; members are elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 25 April 2009 (next to be held in 2013) |
+| Legislative branch: | election results: percent of vote by party - Social Democratic Alliance 29.8%, Independence Party 23.7%, Left-Green Movement 21.7%, Progressive Party 14.8%, Citizens' Movement 7.2%, other 2.8%; seats by party - Social Democratic Alliance 20, Independence Party 16, Left-Green Alliance 14, Progressive Party 9, Citizens' Movement 4 |
+| Judicial branch: | Supreme Court or Haestirettur (justices are appointed for life by the Minister of Justice); eight district courts (justices are appointed for life by the Minister of Justice) |
+| Political parties and leaders: | Citizens' Movement; Independence Party or IP [Bjarni BENEDIKTSSON, Jr.]; Left-Green Movement or LGM [Steingrimur SIGFUSSON]; Liberal Party or LP [Gudjon KRISTJANSSON]; Progressive Party or PP [Sigmundur David GUNNLAUGSSON; Social Democratic Alliance or SDA [Johanna SIGUROARDOTTIR] (includes People's Alliance or PA, Social Democratic Party or SDP, Women's List) |
+| Political pressure groups and leaders: | People's Voices [Hordur TORFARSON]; New Times; Civic Action Association [Gunnar SIGURDSSON]; The Association of Military Opponents [Stefan PALSSON] |
+| International organization participation: | Arctic Council, Australia Group, BIS, CBSS, CE, EAPC, EBRD, EFTA, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC, MIGA, NATO, NC, NEA, NIB, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hjalmar W. HANNESSON |
+| Diplomatic representation in the US: | chancery: House of Sweden, 2900 K Street NW #509, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-6653 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-6656 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Hjalmar HANNESSON |
+| Diplomatic representation from the US: | embassy: Laufasvegur 21, 101 Reykjavik |
+| Diplomatic representation from the US: | mailing address: US Department of State, 5640 Reykjavik Place, Washington, D.C. 20521-5640 |
+| Diplomatic representation from the US: | telephone: [354] 562-9100 |
+| Diplomatic representation from the US: | FAX: [354] 562-9118 |
+| Flag description: | blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean |

@@ -1,0 +1,50 @@
+| Government | AFGHANISTAN |
+| --- | --- |
+| Country name: | conventional long form: Islamic Republic of Afghanistan |
+| Country name: | conventional short form: Afghanistan |
+| Country name: | local long form: Jamhuri-ye Islami-ye Afghanistan |
+| Country name: | local short form: Afghanistan |
+| Country name: | former: Republic of Afghanistan |
+| Country name: | note: the name "Afghan" originally refered to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the Land of the Afghans |
+| Government type: | Islamic republic |
+| Capital: | name: Kabul |
+| Capital: | geographic coordinates: 34 31 N, 69 11 E |
+| Capital: | time difference: UTC+4.5 (9.5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 34 provinces (welayat, singular - welayat); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul |
+| Independence: | 19 August 1919 (from UK control over Afghan foreign affairs) |
+| National holiday: | Independence Day, 19 August (1919) |
+| Constitution: | several previous; latest drafted 14 December 2003 - 4 January 2004, signed 16 January 2004, ratified 26 January 2004 (2012) |
+| Legal system: | mixed legal system of civil, customary, and Islamic law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President of the Islamic Republic of Afghanistan Ashraf GHANI Ahmadzai (since 29 September 2014 ); CEO Abdullah ABDULLAH (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014 ); Second Vice President Sarwar DANESH (since 29 September 2014); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President of the Islamic Republic of Afghanistan Ashraf GHANI Ahmadzai (since 29 September 2014 ); CEO Abdullah ABDULLAH (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014 ); Second Vice President Sarwar DANESH (since 29 September 2014) |
+| Executive branch: | cabinet: Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held in 2 rounds on 5 April and 14 June 2014 (next to be held in 2019) |
+| Executive branch: | election results: percent of vote in first round - Abdullah ABDULLAH (National Coalition of Afghanistan) 45%, Ashraf GHANI (independent) 31.6%, Zalmai RASSOUL 11.4%, other 12%; percent of vote in second round - Ashraf GHANI 56.4%, Abdullah ABDULLAH 43.6% |
+| Legislative branch: | description: the bicameral National Assembly consists of the Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by district councils to serve 3-year terms, 34 indirectly elected by provincial councils to serve 4-year terms, and 34 nominated by the president of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; members serve 5-year terms) and the Wolesi Jirga or House of People (no more than 250 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | note: the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it can amend the provisions of the constitution and prosecute the president; it is made up of members of the National Assembly and chairpersons of the provincial and district councils; no Loya Jirga of this type has ever been held, and district councils have never been elected |
+| Legislative branch: | elections: last held on 18 September 2010 (next expected in 2015) |
+| Legislative branch: | election results: results by party - NA; note - ethnicity is the main factor influencing political alliances; approximate percentage of seats by ethnic group - Pashtun 39%, Hazara 24%, Tajik 21%, Uzbek 6%, other 10% (including Aimak, Arab, Baloch, Nuristani, Pahhai, Turkmen, Turkic); women hold 69 seats |
+| Judicial branch: | highest court(s): Supreme Court or Stera Mahkama (consists of the Supreme Court Chief and 8 justices organized into criminal, public security, civil, and commercial divisions or dewans) |
+| Judicial branch: | judge selection and term of office: court chief and justices appointed by the president with the approval of the Wolesi Jirga; court chief and justices serve single 10-year terms |
+| Judicial branch: | subordinate courts: Appeals Courts; Primary Courts; Special Courts for issues including narcotics, security, property, family, and juveniles |
+| Political parties and leaders: | note - the Ministry of Justice licensed 84 political parties as of December 2012 |
+| Political pressure groups and leaders: | other: religious groups, tribal leaders, ethnically based groups, Taliban |
+| International organization participation: | ADB, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: ambassador (vacant); Charge d'Affaires Ramin MANAWI (since 20 April 2015) |
+| Diplomatic representation in the US: | chancery: 2341 Wyoming Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 483-6410 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-6488 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York, Washington, DC |
+| Diplomatic representation from the US: | chief of mission: Ambassador P. Michael MCKINLEY (since 22 December 2014) |
+| Diplomatic representation from the US: | embassy: The Great Masood Road, Kabul |
+| Diplomatic representation from the US: | mailing address: U.S. Embassy Kabul, APO, AE 09806 |
+| Diplomatic representation from the US: | telephone: [00 93] 0700 108 001 |
+| Diplomatic representation from the US: | FAX: [00 93] 0700 108 564 |
+| Flag description: | three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other two bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam |
+| Flag description: | note: Afghanistan had more changes to its national flag in the 20th century than any other country; the colors black, red, and green appeared on most of them |
+| National symbol(s): | lion; national colors: red, green, black |
+| National anthem: | name: "Milli Surood" (National Anthem) |
+| National anthem: | lyrics/music: Abdul Bari JAHANI/Babrak WASA |
+| National anthem: | note: adopted 2006; the 2004 constitution of the post-Taliban government mandated that a new national anthem should be written containing the phrase "Allahu Akbar" (God is Great) and mentioning the names of Afghanistan's ethnic groups |

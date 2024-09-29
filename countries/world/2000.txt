@@ -1,0 +1,5 @@
+| Government |   |
+| --- | --- |
+| Data code: | none; there is no FIPS 10-4 country code for the World, so the Factbook uses the "W" data code from DIAM 65-18 "Geopolitical Data Elements and Related Features," Data Standard No. 3, March 1984, published by the Defense Intelligence Agency; see the Cross-Reference List of Country Data Codes appendix |
+| Administrative divisions: | 267 nations, dependent areas, other, and miscellaneous entries |
+| Legal system: | all members of the UN (excluding Yugoslavia) plus Switzerland are parties to the statute that established the International Court of Justice (ICJ) or World Court |

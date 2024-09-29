@@ -1,0 +1,65 @@
+| Government | Suriname |
+| --- | --- |
+| Country name: | conventional long form: Republic of Suriname |
+| Country name: | conventional short form: Suriname |
+| Country name: | local long form: Republiek Suriname |
+| Country name: | local short form: Suriname |
+| Country name: | former: Netherlands Guiana, Dutch Guiana |
+| Country name: | etymology: name may derive from the indigenous "Surinen" people who inhabited the area at the time of European contact |
+| Government type: | presidential republic |
+| Capital: | name: Paramaribo |
+| Capital: | geographic coordinates: 5 50 N, 55 10 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica |
+| Independence: | 25 November 1975 (from the Netherlands) |
+| National holiday: | Independence Day, 25 November (1975) |
+| Constitution: | history: previous 1975; latest ratified 30 September 1987, effective 30 October 1987 (2018) |
+| Constitution: | amendments: proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership; amended 1992 (2018) |
+| Legal system: | civil law system influenced by Dutch civil law; note - the Commissie Nieuw Surinaamse Burgerlijk Wetboek completed drafting a new civil code in February 2009 |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Suriname |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights |
+| Judicial branch: | judge selection and term of office: court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life |
+| Judicial branch: | subordinate courts: cantonal courts |
+| Executive branch: | chief of state: President Desire Delano BOUTERSE (since 12 August 2010); Vice President Ashwin ADHIN (since 12 August 2015); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Desire Delano BOUTERSE (since 12 August 2010); Vice President Ashwin ADHIN (since 12 August 2015) |
+| Executive branch: | cabinet: Cabinet of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 25 May 2015 (next to be held in May 2020) |
+| Executive branch: | election results: Desire Delano BOUTERSE reelected president unopposed; National Assembly vote - NA |
+| Legislative branch: | description: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: last held on 25 May 2015 (next to be held in May 2020) |
+| Legislative branch: | election results: percent of vote by party - NDP 45.5%, V7 37.2%, A-Com 10.5%, DOE 4.3%, PALU 0.7%, other 1.8%; seats by party - NDP 26, V7 18, A-Com 5, DOE 1, PALU 1; |
+| Legislative branch: | note: seats by party as of April 2017 - seats by party - NDP 26, VHP 9, ABOP 5, PL 3, NPS 2, BEP 2, DOE 1, PALU 1, independent 2 |
+| Political parties and leaders: | Alternative Combination or A-Com (coalition includes ABOP, KTPI, Party for Democracy and Development) |
+| Political parties and leaders: | Brotherhood and Unity in Politics or BEP [Celsius WATERBERG] |
+| Political parties and leaders: | Democratic Alternative '91 or DA91 [Angelique DEL CASTILLO] |
+| Political parties and leaders: | General Liberation and Development Party or ABOP [Ronnie BRUNSWIJK} |
+| Political parties and leaders: | National Democratic Party or NDP [Desire Delano BOUTERSE] |
+| Political parties and leaders: | National Party of Suriname or NPS [Gregory RUSLAND] |
+| Political parties and leaders: | Party for Democracy and Development in Unity or DOE [Carl BREEVELD] |
+| Political parties and leaders: | Party for National Unity and Solidarity or KTPI [Willy SOEMITA] |
+| Political parties and leaders: | People's Alliance (Pertjaja Luhur) or PL [Paul SOMOHARDJO] |
+| Political parties and leaders: | Progressive Workers' and Farmers' Union or PALU [Jim HOK] |
+| Political parties and leaders: | Surinamese Labor Party or SPA [Guno CASTELEN] |
+| Political parties and leaders: | Progressive Reform Party or VHP [Chandrikapersad SANTOKHI] |
+| Political parties and leaders: | Victory 7 or V7 [Chandrikapresad SANTOKHI] (formerly the New Front for Democracy and Development or NF; an electoral coalition of NPS, VHP, DA91, PL, SPA formed only for the May 2015 election) |
+| International organization participation: | ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIC, OPANAL, OPCW, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Niermala Sakoentala BADRISING (since 21 July 2017) |
+| Diplomatic representation in the US: | chancery: Suite 460, 4301 Connecticut Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-7488 |
+| Diplomatic representation in the US: | FAX: [1] (202) 244-5878 |
+| Diplomatic representation in the US: | consulate(s) general: Miami |
+| Diplomatic representation from the US: | chief of mission: Ambassador Edwin "Ned" Richard NOLAN, Jr.(since 11 January 2016) |
+| Diplomatic representation from the US: | embassy: 165 Kristalstraat, Paramaribo |
+| Diplomatic representation from the US: | mailing address: US Department of State, PO Box 1821, Paramaribo |
+| Diplomatic representation from the US: | telephone: [597] 472-900 |
+| Diplomatic representation from the US: | FAX: [597] 410-972 |
+| Flag description: | five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love, green symbolizes hope and fertility, white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future |
+| National symbol(s): | royal palm, faya lobi (flower); national colors: green, white, red, yellow |
+| National anthem: | name: "God zij met ons Suriname!" (God Be With Our Suriname) |
+| National anthem: | lyrics/music: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY |
+| National anthem: | note: adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo |

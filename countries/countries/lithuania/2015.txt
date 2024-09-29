@@ -1,0 +1,15 @@
+| Government | LITHUANIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Lithuania |
+| Country name: | conventional short form: Lithuania |
+| Country name: | local long form: Lietuvos Respublika |
+| Country name: | local short form: Lietuva |
+| Country name: | former: Lithuanian Soviet Socialist Republic |
+| Government type: | parliamentary democracy |
+| Capital: | name: Vilnius |
+| Capital: | geographic coordinates: 54 41 N, 25 19 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Ankciai, Birtono, Birai, Druskininkai, Elektrnai, Ignalina, Jonava, Jonikis, Jurbarkas, Kaiiadorys, Kalvarijos, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupikis, Lazdijai, Marijampole, Maeikiai, Moletai, Neringa, Paggiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Paneveys, Pasvalys, Plunge, Prienai, Radvilikis, Raseiniai, Rietavo, Rokikis, |
+| Administrative divisions: | akiai, |
+alcininkai, Šiauliu Miestas, Šiauliai, Šilale, Šilute, Širvintos, Skuodas, Švencionys, Taurage, Telšiai, Trakai, Ukmerge, Utena, Varena, Vilkaviškis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai

@@ -1,0 +1,44 @@
+| Government | Brazil |
+| --- | --- |
+| Country name: | conventional long form: Federative Republic of Brazil |
+| Country name: | conventional short form: Brazil |
+| Country name: | local long form: Republica Federativa do Brasil |
+| Country name: | local short form: Brasil |
+| Government type: | federal republic |
+| Capital: | name: Brasilia |
+| Capital: | geographic coordinates: 15 47 S, 47 55 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins third Sunday in October; ends third Sunday in February |
+| Capital: | note: Brazil is divided into four time zones, including one for the Fernando de Noronha Islands |
+| Administrative divisions: | 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins |
+| Independence: | 7 September 1822 (from Portugal) |
+| National holiday: | Independence Day, 7 September (1822) |
+| Constitution: | 5 October 1988 |
+| Legal system: | based on Roman codes; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | voluntary between 16 and 18 years of age and over 70; compulsory over 18 and under 70 years of age; note - military conscripts do not vote |
+| Executive branch: | chief of state: President Luiz Inacio "LULA" DA SILVA (since 1 January 2003); Vice President Jose ALENCAR (since 1 January 2003); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Luiz Inacio "LULA" DA SILVA (since 1 January 2003); Vice President Jose ALENCAR (since 1 January 2003) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for a single four-year term; election last held 1 October 2006 with runoff 29 October 2006 (next to be held 3 October 2010 and, if necessary, 31 October 2010) |
+| Executive branch: | election results: Luiz Inacio "LULA" DA SILVA (PT) reelected president - 60.83%, Geraldo ALCKMIN (PSDB) 39.17% |
+| Legislative branch: | bicameral National Congress or Congresso Nacional consists of the Federal Senate or Senado Federal (81 seats; 3 members from each state and federal district elected according to the principle of majority to serve eight-year terms; one-third and two-thirds elected every four years, alternately) and the Chamber of Deputies or Camara dos Deputados (513 seats; members are elected by proportional representation to serve four-year terms) |
+| Legislative branch: | elections: Federal Senate - last held 1 October 2006 for one-third of the Senate (next to be held in October 2010 for two-thirds of the Senate); Chamber of Deputies - last held 1 October 2006 (next to be held in October 2010) |
+| Legislative branch: | election results: Federal Senate - percent of vote by party - NA; seats by party - PFL 6, PSDB 5, PMDB 4, PTB 3, PT 2, PDT 1, PSB 1, PL 1, PPS 1, PRTB 1, PP 1, PCdoB 1; Chamber of Deputies - percent of vote by party - NA; seats by party - PMDB 89, PT 83, PFL 65, PSDB 65, PP 42, PSB 27, PDT 24, PL 23, PTB 22, PPS 21, PCdoB 13, PV 13, PSC 9, other 17; note - as of 1 January 2008: Federal Senate - seats by party - PMDB 20, DEM (formerly PFL) 14, PSDB 13, PT 12, PTB 6, PDT 5, PR 4, PRB 2, PSB 2, PCdoB 1, PP 1, PSOL 1; Chamber of Deputies - seats by party - PMDB 90, PT 83, PSDB 64, DEM (formerly PFL) 62, PP 41, PR 34, PSB 28, PDT 23, PTB 21, PPS 17, PV 13, PCdoB 13, PSC 7, PAN 4, PSOL 3, PMN 3, PTC 3, PHS 2, PTdoB 1, PRB 1 |
+| Judicial branch: | Supreme Federal Tribunal or STF (11 ministers are appointed for life by the president and confirmed by the Senate); Higher Tribunal of Justice; Regional Federal Tribunals (judges are appointed for life); note - though appointed "for life," judges, like all federal employees, have a mandatory retirement age of 70 |
+| Political parties and leaders: | Brazilian Democratic Movement Party or PMDB [Federal Deputy Michel TEMER]; Brazilian Labor Party or PTB [Roberto JEFFERSON]; Brazilian Renewal Labor Party or PRTB [Jose Levy FIDELIX da Cruz]; Brazilian Republican Party or PRB [Vitor Paulo Araujo DOS SANTOS]; Brazilian Social Democracy Party or PSDB [Senator Sergio GUERRA]; Brazilian Socialist Party or PSB [Governor Eduardo Henrique Accioly CAMPOS]; Christian Labor Party or PTC [Daniel TOURINHO]; Communist Party of Brazil or PCdoB [Jose Renato RABELO]; Democratic Labor Party or PDT [Carlos Roberto LUPI]; the Democrats or DEM (formerly Liberal Front Party or PFL) [Federal Deputy Rodrigo MAIA]; Freedom and Socialism Party or PSOL [Heloisa HELENA]; Green Party or PV [Jose Luiz de Franca PENNA]; Humanist Party of Solidarity or PHS [Paulo Roberto MATOS]; Labor Party of Brazil or PTdoB [Luis Henrique de Oliveira RESENDE]; Liberal Front Party or PFL (now known as the Democrats or DEM); National Mobilization Party or PMN [Oscar Noronha FILHO]; Party of the Republic or PR [Sergio TAMER]; Popular Socialist Party or PPS [Federal Deputy Fernando CORUJA]; Progressive Party or PP [Francisco DORNELLES]; Social Christian Party or PSC [Vitor Jorge Abdala NOSSEIS]; Workers' Party or PT [Ricardo Jose Ribeiro BERZOINI] |
+| Political pressure groups and leaders: | Landless Workers' Movement or MST |
+| Political pressure groups and leaders: | other: labor unions and federations; large farmers' associations; religious groups including evangelical Christian churches and the Catholic Church |
+| International organization participation: | AfDB (nonregional members), BIS, CAN (associate), CPLP, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur, MIGA, MINURCAT, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNITAR, UNMIL, UNMIS, UNMIT, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Antonio de Aguiar PATRIOTA |
+| Diplomatic representation in the US: | chancery: 3006 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-2700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 238-2827 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Clifford M. SOBEL |
+| Diplomatic representation from the US: | embassy: Avenida das Nacoes, Quadra 801, Lote 3, Distrito Federal Cep 70403-900, Brasilia |
+| Diplomatic representation from the US: | mailing address: Unit 3500, APO AA 34030 |
+| Diplomatic representation from the US: | telephone: [55] (61) 3312-7000 |
+| Diplomatic representation from the US: | FAX: [55] (61) 3225-9136 |
+| Diplomatic representation from the US: | consulate(s) general: Rio de Janeiro, Sao Paulo |
+| Diplomatic representation from the US: | consulate(s): Recife |
+| Flag description: | green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars (one for each state and the Federal District) arranged in the same pattern as the night sky over Brazil; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress) |

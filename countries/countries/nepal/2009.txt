@@ -1,0 +1,39 @@
+| Government | Nepal |
+| --- | --- |
+| Country name: | conventional long form: Federal Democratic Republic of Nepal |
+| Country name: | conventional short form: Nepal |
+| Country name: | local long form: Sanghiya Loktantrik Ganatantra Nepal |
+| Country name: | local short form: Nepal |
+| Government type: | federal democratic republic |
+| Capital: | name: Kathmandu |
+| Capital: | geographic coordinates: 27 43 N, 85 19 E |
+| Capital: | time difference: UTC+5.75 (10.75 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 14 zones (anchal, singular and plural); Bagmati, Bheri, Dhawalagiri, Gandaki, Janakpur, Karnali, Kosi, Lumbini, Mahakali, Mechi, Narayani, Rapti, Sagarmatha, Seti |
+| Independence: | 1768 (unified by Prithvi Narayan SHAH) |
+| National holiday: | Republic Day, 29 May; Democracy Day, 24 April |
+| Constitution: | 15 January 2007 (interim Constitution); note - in April 2008, a Constituent Assembly was elected to draft and promulgate a new constitution by May 2010 |
+| Legal system: | based on Hindu legal concepts and English common law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Ram Baran YADAV (as of 23 July 2008); Vice President Paramananda JHA (as of 23 July 2008) |
+| Executive branch: | head of government: Prime Minister Madhav Kumar NEPAL (as of 25 May 2009); Deputy Prime Minister Bijay Kumar GACHHEDAR |
+| Executive branch: | cabinet: cabinet formed in August 2008 by a majority coalition made up of the Communist Party of Nepal (Maoist), Communist Party of Nepal-United Marxist-Leninist, Madhesi People's Rights Forum, and several smaller parties |
+| Executive branch: | elections: president elected by Parliament; term extends until the new constitution is promulgated; election last held 21 July 2008; date of next election NA |
+| Executive branch: | election results: Ram Baran YADAV elected president by the Constituent Assembly in a second round of voting on 21 July 2008; Ram Baran YADAV 308, Ram Jaja Prasad SINGH 282 |
+| Legislative branch: | unicameral Constituent Assembly (601 seats; 240 seats decided by direct popular vote; 335 seats by proportional representation; 26 appointed by the Cabinet (Council of Ministers)) |
+| Legislative branch: | elections: last held 10 April 2008 (next to be held NA) |
+| Legislative branch: | election results: percent of vote by party - CPN-M 38%, NC 19%, CPN-UML 19%,Madhesi People's Right Forum 9%, Terai-Madhes Democratic Party and Sadbhavana Party 5%, other 10%; seats by party - CPN-M 220, NC 110, CPN-UML 103, Madhesi People's Rights Forum 52, Terai-Madhes Democratic Party 20, Sadbhawana Party 9, other smaller parties 61; note - 26 seats filled by the new Cabinet |
+| Judicial branch: | Supreme Court or Sarbochha Adalat (the president appoints the chief justice is appointed by the monarch on recommendation of the Constitutional Council; the chief justice appoints other judges on the recommendation of the Judicial Council) |
+| Political parties and leaders: | Chure Bhawar Rastriya Ekata Party [Keshav Prasad MAINALI]; Communist Party of Nepal (ML) [C.P. MAINALI]; Communist Party of Nepal (Unified) [Raj Singh SHRIS]; Communist Party of Nepal (United) [Ganesh SHAH]; Communist Party of Nepal/United Marxist-Leninist or CPN/UML [Jhalanath KHANAL]; Dalit Janajati Party [Vishwendraman PASHWAN]; Madhesi People's Rights Forum [Upendra YADAV]; National Democratic Party or NDP [Pashupati Shumsher RANA] (also called Rastriya Prajatantra Party or RPP); Nepal Loktantrik Samajbadi Dal [Upendra GACHCHHADAR]; Nepal Pariwar Dal [Vinod DANGI]; Nepal Rastriya Party [Khushilal YADAV]; Nepal Sadbhavana Party (Anandi Devi) [Shyam Sundar GUPTA]; Nepal Workers and Peasants Party or NWPP [Narayan Man BIJUKCHHE]; Nepali Congress or NC [Girija Prasad KOIRALA]; Nepali Janata Dal [Bharat Prasad MAHATO]; Rastriya Janamorcha [Chitra BAHADUR K.C.]; Rastriya Janamukti Party [Malwar Singh THAPA]; Rastriya Janashakti Party or RJP [Surya Bahadur THAPA]; Rastriya Prajatantra Party Nepal [Kamal THAPA]; Sadbhavana Party (Mahato) [Rajendra MAHATO]; Samajbadi Prajatantrik Janata Party Nepal [Prem Bahadur SINGH]; Sanghiya Loktantrik Rastriya Manch [Kamal CHHARAHANG]; Terai-Madhes Democratic Party [Mahantha THAKUR]; United Communist Party of Nepal (Maoist) [Pushpa Kamal DAHAL, also known as PRACHANDA, chairman] |
+| Political pressure groups and leaders: | other: several small armed Madhesi groups along the southern border with India; a variety of groups advocating regional autonomy for individual ethnic groups |
+| International organization participation: | ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, MINURCAT, MINUSTAH, MONUC, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNMIL, UNMIS, UNMIT, UNOCI, UNOMIG, UNTSO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Kali POKHREL |
+| Diplomatic representation in the US: | chancery: 2131 Leroy Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-4550 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-5534 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Nancy J. POWELL |
+| Diplomatic representation from the US: | embassy: Maharajgunj, Kathmandu |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [977] (1) 400-7200 |
+| Diplomatic representation from the US: | FAX: [977] (1) 400-7272 |
+| Flag description: | red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle bears a white 12-pointed sun |

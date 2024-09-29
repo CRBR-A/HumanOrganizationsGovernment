@@ -1,0 +1,62 @@
+| Government | POLAND |
+| --- | --- |
+| Country name: | conventional long form: Republic of Poland |
+| Country name: | conventional short form: Poland |
+| Country name: | local long form: Rzeczpospolita Polska |
+| Country name: | local short form: Polska |
+| Government type: | republic |
+| Capital: | name: Warsaw |
+| Capital: | geographic coordinates: 52 15 N, 21 00 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 16 provinces (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania) |
+| Independence: | 11 November 1918 (republic proclaimed); notable earlier dates: 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created) |
+| National holiday: | Constitution Day, 3 May (1791) |
+| Constitution: | several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997; amended 2006, 2009 (2013) |
+| Legal system: | civil law system; changes gradually being introduced as part of broader democratization process; limited judicial review of legislative acts, but rulings of the Constitutional Tribunal are final |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Andrzej DUDA (since 6 August 2015) |
+| Executive branch: | head of government: Prime Minister Ewa KOPACZ (since 22 September 2014); Deputy Prime Ministers Janusz PIECHOCINSKI (since 6 December 2012) and Tomasz SIEMONIAK (since 22 September 2014) |
+| Executive branch: | cabinet: Council of Ministers  proposed by the prime minister, appointed by the president, and approved by the Sejm |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 and 24 May 2015 (next to be held in 2020); prime minister and deputy prime ministers appointed by the president and confirmed by the Sejm |
+| Executive branch: | election results: Andrzej DUDA elected president; percent of vote in runoff - Andrzej DUDA 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% |
+| Legislative branch: | description: bicameral legislature consists of the Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) and the Sejm (460 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms); note - the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the two houses meet jointly |
+| Legislative branch: | note: the German minority is exempt from the 5% threshold requirement for seats to the Sejm |
+| Legislative branch: | elections: Senate - last held on 9 October 2011 (next to be held by October 2015); Sejm - last held on 9 October 2011 (next to be held on 25 October 2015) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - PO 63, PiS 29, PSL 2, SP 2, independent 4; seats by party as of 26 February 2015 - PO 63, PiS 31, PSL 2, independent 4; Sejm - percent of vote by party - PO 39.2%, PiS 29.9%, RP 10%, PSL 8.4%, SLD 8.2%, other 4.3%; seats by party - PO 206, PiS 137, RP 43, PSL 28, SLD 25, SP 19, independent 1, German minority 1; seats by party as of 26 February 2015 - PO 202, PiS 132, TR 16, PSL 39, SLD 34, KPSP (coalition of smaller parties) 15, independent 21, German Minority 1 |
+| Judicial branch: | highest court(s): Supreme Court or Sad Najwyzszy (consists of the president of the Supreme Court and 116 judges organized in criminal, civil, labor and social insurance, and military chambers) |
+| Judicial branch: | judge selection and term of office: president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judiciary Council, and appointed by the president of Poland; judges appointed until retirement, usually at age 65, but tenure can be extended |
+| Judicial branch: | subordinate courts: Constitutional Tribunal; regional and appellate courts subdivided into military, civil, criminal, labor, and family courts |
+| Political parties and leaders: | A Just Poland (union of PR and SP) [Jaroslaw GOWIN] |
+| Political parties and leaders: | Civic Platform or PO [Ewa KOPACZ,chairperson; Rafal GRUPINSKI, parliamentary caucus leader] |
+| Political parties and leaders: | Democratic Left Alliance or SLD [Leszek MILLER, chairman, parliamentary caucus leader] |
+| Political parties and leaders: | German Minority of Lower Silesia or MNSO [Ryszard GALLA, representative] |
+| Political parties and leaders: | Law and Justice or PiS [Jaroslaw KACZYNSKI, chairman; Mariusz BLASZCZAK, parliamentary caucus leader] |
+| Political parties and leaders: | New Right Congress or KNP [Michal MARUSIK, chairman] |
+| Political parties and leaders: | Poland Together or PR [Jaroslaw GOWIN, chairman] |
+| Political parties and leaders: | Polish People's Party or PSL [Janusz PIECHOCINSKI, chairman; Jan BURY, parliamentary caucus leader] |
+| Political parties and leaders: | Social Democratic Party of Poland or SDPL [Wojciech FILEMONOWICZ, chairman] |
+| Political parties and leaders: | United Poland or SP [Zbigniew ZIOBRO, chairperson] |
+| Political parties and leaders: | Your Movement or TR [Janusz PALIKOT, chairman, parliamentary caucus leader] |
+| Political pressure groups and leaders: | All Poland Trade Union Alliance or OPZZ [Jan GUZ] (trade union) |
+| Political pressure groups and leaders: | Independent Self-Governing Trade Union "Solidarity" [Piotr DUDA] |
+| Political pressure groups and leaders: | Roman Catholic Church [Archbishop Wojciech POLAK, Archbishop Stanislaw GADECKI] |
+| International organization participation: | Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ryszard SCHNEPF (since 28 September 2012) |
+| Diplomatic representation in the US: | chancery: 2640 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-3800 through 3802 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-6271 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Stephen MULL (since 24 October 2012) |
+| Diplomatic representation from the US: | embassy: Aleje Ujazdowskie 29/31 00-540 Warsaw |
+| Diplomatic representation from the US: | mailing address: American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch) |
+| Diplomatic representation from the US: | telephone: [48] (22) 504-2000 |
+| Diplomatic representation from the US: | FAX: [48] (22) 504-2688 |
+| Diplomatic representation from the US: | consulate(s) general: Krakow |
+| Flag description: | two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field |
+| Flag description: | note: similar to the flags of Indonesia and Monaco which are red (top) and white |
+| National symbol(s): | white eagle; national colors: white, red |
+| National anthem: | name: "Mazurek Dabrowskiego" (Dabrowski's Mazurka) |
+| National anthem: | lyrics/music: Jozef WYBICKI/traditional |
+| National anthem: | note: adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797; the lyrics resonate strongly with Poles because they reflect the numerous occasions in which the nation's lands have been occupied |

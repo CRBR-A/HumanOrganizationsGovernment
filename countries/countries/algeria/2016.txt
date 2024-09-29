@@ -1,0 +1,80 @@
+| Government | ALGERIA |
+| --- | --- |
+| Country name: | conventional long form: People's Democratic Republic of Algeria |
+| Country name: | conventional short form: Algeria |
+| Country name: | local long form: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah |
+| Country name: | local short form: Al Jaza'ir |
+| Country name: | etymology: the country name derives from the capital city of Algiers |
+| Government type: | presidential republic |
+| Capital: | name: Algiers |
+| Capital: | geographic coordinates: 36 45 N, 3 03 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 48 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen |
+| Independence: | 5 July 1962 (from France) |
+| National holiday: | Revolution Day, 1 November (1954) |
+| Constitution: | several previous; latest approved by referendum 23 February 1989; amended several times, last in 2016 (2016) |
+| Legal system: | mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the mother must be a citizen of Algeria |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Abdelaziz BOUTEFLIKA (since 28 April 1999) |
+| Executive branch: | head of government: Prime Minister Abdelmalek SELLAL (since 28 April 2014) |
+| Executive branch: | cabinet: Cabinet of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (2-term limit reinstated by constitutional amendment in February 2016); election last held on 17 April 2014 (next to be held in April 2019); prime minister nominated by the president from the majority party in Parliament |
+| Executive branch: | election results: Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9% |
+| Legislative branch: | description: bicameral Parliament consists of the Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years) and the National People's Assembly (lower house with 462 seats including 8 seats for Algerians living abroad); members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: Council of the Nation - last held on 29 December 2012 (next to be held in December 2017); National People's Assembly - last held on 10 May 2012 (next to be held on 17 May 2017) |
+| Legislative branch: | election results: Council of the Nation - percent of vote by party - NA; seats by party - NA; National People's Assembly - percent of vote by party - NA; seats by party - FLN 221, RND 70, AAV 47, FFS 21, PT 17, FNA 9, El Adala 7, MPA 6, PFJ 5, FC 4, PNSD 4, other 32, independent 19 |
+| Judicial branch: | highest court(s): Supreme Court or Cour Supreme (consists of 150 judges organized into 4 divisions: civil and commercial; social security and labor; criminal; and administrative; Constitutional Council (consists of 9 members including the court president); note - Algeria's judicial system does not include sharia courts |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 3 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 1 by the Supreme Court, and 1 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years |
+| Judicial branch: | subordinate courts: appellate or wilaya courts; first instance or daira tribunals |
+| Political parties and leaders: | Algerian National Front or FNA [Moussa TOUATI] |
+| Political parties and leaders: | Algerian Popular Movement or MPA [Amara BENYOUNES] |
+| Political parties and leaders: | Algerian Rally or RA [Ali ZAGHDOUD] |
+| Political parties and leaders: | Algeria's Hope Rally or TAJ [Amar GHOUL] |
+| Political parties and leaders: | Dignity or El Karama [Mohamed BENHAMOU] |
+| Political parties and leaders: | Ennour El Djazairi Party (Algerian Radiance Party) or PED [Badreddine BELBAZ] |
+| Political parties and leaders: | Front for Change or FC [Abdelmadjid MENASRA] |
+| Political parties and leaders: | Front for Justice and Development or El Adala [Abdallah DJABALLAH] |
+| Political parties and leaders: | Future Front or El Mostakbel [Abdelaziz BELAID] |
+| Political parties and leaders: | Green Algeria Alliance or AAV (includes Islah, Ennahda Movement, and MSP) |
+| Political parties and leaders: | Islamic Renaissance Movement or Ennahda Movement [Fatah RABEI] |
+| Political parties and leaders: | Movement of Society for Peace or MSP [Abderrazak MOKRI] |
+| Political parties and leaders: | National Democratic Rally (Rassemblement National Democratique) or RND [Ahmed OUYAHIA] |
+| Political parties and leaders: | National Front for Social Justice or FNJS [Khaled BOUNEDJEMA] |
+| Political parties and leaders: | National Liberation Front or FLN [Amar SAIDANI] |
+| Political parties and leaders: | National Party for Solidarity and Development or PNSD |
+| Political parties and leaders: | National Reform Movement or Islah [Djahid YOUNSI] |
+| Political parties and leaders: | National Republican Alliance |
+| Political parties and leaders: | New Dawn Party or PFJ |
+| Political parties and leaders: | New Generation or Jil Jadid [Soufiane DJILALI] |
+| Political parties and leaders: | Oath of 1954 or Ahd 54 [Ali Fawzi REBAINE] |
+| Political parties and leaders: | Party of Justice and Liberty [Mohammed SAID] |
+| Political parties and leaders: | Rally for Culture and Democracy or RCD [Mohcine BELABBAS] |
+| Political parties and leaders: | Socialist Forces Front or FFS [Mustafa BOUCHACHI] |
+| Political parties and leaders: | Union of Democratic and Social Forces or UFDS [Noureddine BAHBOUH] |
+| Political parties and leaders: | Youth Party or PJ [Hamana BOUCHARMA] |
+| Political parties and leaders: | Workers Party or PT [Louisa HANOUNE] |
+| Political parties and leaders: | note: a law banning political parties based on religion was enacted in March 1997 |
+| Political pressure groups and leaders: | Algerian League for the Defense of Human Rights or LADDH [Noureddine BENISSAD] |
+| Political pressure groups and leaders: | SOS Disparus [Nacera DUTOUR] |
+| Political pressure groups and leaders: | Youth Action Rally or RAJ |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AMU, AU, BIS, CAEU, CD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Madjid BOUGUERRA (since 23 February 2015) |
+| Diplomatic representation in the US: | chancery: 2118 Kalorama Road NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-2800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 986-5906 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Joan A. POLASCHIK (since 22 September 2014) |
+| Diplomatic representation from the US: | embassy: 05 Chemin Cheikh Bachir, El-Ibrahimi, El-Biar 16030 Algiers |
+| Diplomatic representation from the US: | mailing address: B. P. 408, Alger-Gare, 16030 Algiers |
+| Diplomatic representation from the US: | telephone: [213] (0) 770-08-2000 |
+| Diplomatic representation from the US: | FAX: [213] (0) 770-08-2064 |
+| Flag description: | two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness |
+| National symbol(s): | star and crescent, fennec fox; national colors: green, white, red |
+| National anthem: | name: "Kassaman" (We Pledge) |
+| National anthem: | lyrics/music: Mufdi ZAKARIAH/Mohamed FAWZI |
+| National anthem: | note: adopted 1962; ZAKARIAH wrote "Kassaman" as a poem while imprisoned in Algiers by French colonial forces |

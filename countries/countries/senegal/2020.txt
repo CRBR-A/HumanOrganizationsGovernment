@@ -1,0 +1,78 @@
+| Government | Senegal |
+| --- | --- |
+| Country name: | conventional long form: Republic of Senegal |
+| Country name: | conventional short form: Senegal |
+| Country name: | local long form: Republique du Senegal |
+| Country name: | local short form: Senegal |
+| Country name: | former: Senegambia (along with The Gambia), Mali Federation |
+| Country name: | etymology: named for the Senegal River that forms the northern border of the country; many theories exist for the origin of the river name; perhaps the most widely cited derives the name from "Azenegue," the Portuguese appellation for the Berber Zenaga people who lived north of the river |
+| Government type: | presidential republic |
+| Capital: | name: Dakar |
+| Capital: | geographic coordinates: 14 44 N, 17 38 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the Atlantic coast trading settlement of Ndakaaru came to be called "Dakar" by French colonialists |
+| Administrative divisions: | 14 regions (regions, singular - region); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor |
+| Independence: | 4 April 1960 (from France); note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960 |
+| National holiday: | Independence Day, 4 April (1960) |
+| Constitution: | history: previous 1959 (preindependence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001 |
+| Constitution: | amendments: proposed by the president of the republicÂ or by the National Assembly; passage requires Assembly approval and approval in a referendum; the president can bypass a referendum and submit an amendment directly to the Assembly, which requires at least three-fifths majority vote; the republican form of government is not amendable; amended several times, last in 2019 |
+| Legal system: | civil law system based on French law; judicial review of legislative acts in Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Senegal |
+| Citizenship: | dual citizenship recognized: no, but Senegalese citizens do not automatically lose their citizenship if they acquire citizenship in another state |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Macky SALL (since 2 April 2012) |
+| Executive branch: | head of government: President Macky SALL (since 2 April 2012) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024) |
+| Executive branch: | election results: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7% |
+| Legislative branch: | description: unicameral National Assembly or AssemblÃ©e Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies) |
+| Legislative branch: | elections: National Assembly - last held on 2 July 2017 (next to be held in July 2022) |
+| Legislative branch: | election results: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8% |
+| Judicial branch: | highest courts: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the president of the republic upon recommendation of the Superior Council of the Magistrates, a body chaired by the president and minister of justice; judge tenure varies, with mandatory retirement either at 65 or 68 years; Constitutional Council members appointed - 5 by the president and 2 by the National Assembly speaker; judges serve 6-year terms, with renewal of 2 members every 2 years |
+| Judicial branch: | subordinate courts: High Court of Justice (for crimes of high treason by the president); Courts of Appeal; Court of Auditors; assize courts; regional and district courts; Labor Court |
+| Political parties and leaders: | Alliance for the Republic-Yakaar or APR-Yakaar [Macky SALL] |
+| Political parties and leaders: | Alliance of Forces of Progress or AFP [Moustapha NIASSE] |
+| Political parties and leaders: | Alliance for Citizenship and Labor or ACT [Abdoul MBAYE] |
+| Political parties and leaders: | And-Jef/African Party for Democracy and Socialism or AJ/PADS [Mamadou DIOP Decriox] |
+| Political parties and leaders: | Benno Bokk Yakaar or BBY (United in Hope) [Macky SALL] (coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, and UNP) |
+| Political parties and leaders: | Bokk Gis Gis coalition [Pape DIOP] |
+| Political parties and leaders: | Citizen Movement for National Reform or MCRN-Bes Du Nakk [Mansour Sy DJAMIL] |
+| Political parties and leaders: | Democratic League-Labor Party Movement or LD-MPT [Abdoulaye BATHILY] |
+| Political parties and leaders: | Dare the Future movement [Aissata Tall SALL] |
+| Political parties and leaders: | Front for Socialism and Democracy/Benno Jubel or FSD/BJ [Cheikh Abdoulaye Bamba DIEYE] |
+| Political parties and leaders: | Gainde Centrist Bloc or BGC [Jean-Paul DIAS] |
+| Political parties and leaders: | General Alliance for the Interests of the Republic or AGIR [Thierno BOCOUM] |
+| Political parties and leaders: | Grand Party or GP [Malick GAKOU] |
+| Political parties and leaders: | Independence and Labor Party or PIT [Magatte THIAM] |
+| Political parties and leaders: | Madicke 2019 coalition [Madicke NIANG] |
+| Political parties and leaders: | National Union for the People or UNP [Souleymane Ndene NDIAYE] |
+| Political parties and leaders: | Only Senegal movement [Pierre Goudiaby ATEPA] |
+| Political parties and leaders: | Party for Truth and Development or PVD [Cheikh Ahmadou Kara MBAKE] |
+| Political parties and leaders: | Party of Unity and Rally or PUR [El Hadji SALL] |
+| Political parties and leaders: | Patriotic Convergence Kaddu Askan Wi or CP-Kaddu Askan Wi [Abdoulaye BALDE] |
+| Political parties and leaders: | Patriots of Senegal for Ethics, Work and Fraternity or (PASTEF) [Ousmane SONKO] |
+| Political parties and leaders: | Rewmi Party [Idrissa SECK] |
+| Political parties and leaders: | Senegalese Democratic Party or PDS [Abdoulaye WADE] |
+| Political parties and leaders: | Socialist Party or PS [Ousmane Tanor DIENG] |
+| Political parties and leaders: | Tekki Movement [Mamadou Lamine DIALLO] |
+| International organization participation: | ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mansour KANEÂ (since 6 January 2020) |
+| Diplomatic representation in the US: | chancery: 2215 M Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-0540 |
+| Diplomatic representation in the US: | FAX: [1] (202) 629-2961 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Tulinabo S. MUSHINGI (since August 2017); note - also accredited to Guinea-Bissau |
+| Diplomatic representation from the US: | telephone: [221] 33-879-4000 |
+| Diplomatic representation from the US: | embassy: Route des Almadies, Dakar |
+| Diplomatic representation from the US: | mailing address: B.P. 49, Dakar |
+| Diplomatic representation from the US: | FAX: [221] 33-822-2991 |
+| Flag description: | three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Mali and the reverse of those on the flag of neighboring Guinea |
+| National symbol(s): | lion; national colors: green, yellow, red |
+| National anthem: | name: "Pincez Tous vos Koras, Frappez les Balafons" (Pluck Your Koras, Strike the Balafons) |
+| National anthem: | lyrics/music: Leopold Sedar SENGHOR/Herbert PEPPER |
+| National anthem: | note: adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the Koras (harp-like stringed instruments) and Balafons (types of xylophones) mentioned in the title |

@@ -1,0 +1,84 @@
+| Government | Cyprus |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cyprus |
+| Country name: | conventional short form: Cyprus |
+| Country name: | local long form: Kypriaki Dimokratia/Kibris Cumhuriyeti |
+| Country name: | local short form: Kypros/Kibris |
+| Country name: | etymology: the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper |
+| Country name: | note: the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris Turk Cumhuriyeti" or "KKTC") |
+| Government type: | Republic of Cyprus - presidential republic; "Turkish Republic of Northern Cyprus" (self-declared) - parliamentary republic with enhanced presidency |
+| Government type: | note: a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot "President" Rauf DENKTAS declared independence and the formation of the "TRNC,â€? which is recognized only by Turkey |
+| Capital: | name: Nicosia (Lefkosia/Lefkosa) |
+| Capital: | geographic coordinates: 35 10 N, 33 22 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate") |
+| Administrative divisions: | 6 districts; Ammochostos (Famagusta); (all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "TRNC" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia) |
+| Independence: | 16 August 1960 (from the UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are recognized only by Turkey |
+| National holiday: | Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as "Republic Day" |
+| Constitution: | history: ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution |
+| Constitution: | amendments: constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended 10 times, last in 2016 |
+| Constitution: | constitution of the â€œTurkish Republic of Northern Cyprusâ€? - proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014 |
+| Legal system: | mixed legal system of English common law and civil law with European law supremacy |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICC jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Cyprus |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Nikos ANASTASIADIS (since 28 February 2013); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus GovernmentÂ  |
+| Executive branch: | head of government: President Nikos ANASTASIADIS (since 28 February 2013) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held in February 2023) |
+| Executive branch: | election results: Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Savros MALAS 44% |
+| Executive branch: | note: the first round of the TRNC presidential election, originally scheduled for 26 April 2020, was postponed to 11 October 202 due to the COVID-19 pandemic; results - Ersin TATAR (UBP) 32.4%, Mustafa AKINCI (independent) 29.8%, Tufan ERHURMAN (RTP) 21.7%, Kudret OZERSAY (independent) 5.7%, Erhan ARIKLI (YDP) 5.4%, Serdar DENKTAS (independent) 4.2%, other 0.8%; the second round to be held on 18 OctoberÂ  |
+| Legislative branch: | description: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using aÂ hybrid d'Hondt methodÂ with voter preferences for individual candidates |
+| Legislative branch: | elections: area under government control: last held on 22 May 2016 (next to be held in May 2021); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called) |
+| Legislative branch: | election results: area under government control: House of Representatives - percent of vote by party - DISY 30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, SP 6% Solidarity Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO 9, KS-EDEK 3, Citizen's Alliance 3 (2 left the party in 2017 and 2018 due to disagreements over the party's policy regarding the presidential election campaign; one joined DIKO and the other became an independent MP), Solidarity Movement 3, other 4; area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2 |
+| Judicial branch: | highest courts: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president") |
+| Judicial branch: | judge selection and term of office: Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA |
+| Judicial branch: | subordinate courts: Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts" |
+| Political parties and leaders: | area under government control: |
+| Political parties and leaders: | Citizens' Alliance or SP [Giorgos LILLIKAS] |
+| Political parties and leaders: | Democratic Party or DIKO [Nicolas PAPADOPOULOS] |
+| Political parties and leaders: | Democratic Rally or DISY [Averof NEOPHYTOU] |
+| Political parties and leaders: | Movement of Ecologists and Environmentalists or KOP (Green party) [Giorgos PERDIKIS] |
+| Political parties and leaders: | I, the Citizen or EOP [Georgios KOUNTOURIS] |
+| Political parties and leaders: | Movement of Social Democrats EDEK [Marinos SIZOPOULOS] |
+| Political parties and leaders: | National Popular Front or ELAM [Christos CHRISTOU] |
+| Political parties and leaders: | Progressive Party of the Working People or AKEL (Communist party) [Andros KYPRIANOU] |
+| Political parties and leaders: | Solidarity Movement [Eleni THEOCHAROUS] |
+| Political parties and leaders: | United Democrats or EDI [Praxoula ANTONIADOU] |
+| Political parties and leaders: | Democratic Front or DIPA [Marios GAROYIAN] |
+| Political parties and leaders: | Animal Party Cyprus or APC [Kyriacos KYRIACOU] |
+| Political parties and leaders: | area administered by Turkish Cypriots: |
+| Political parties and leaders: | Communal Democracy Party or TDP [Cemal OZYIGIT] |
+| Political parties and leaders: | Communal Liberation Party-New Forces or TKP-YG [Mehmet CAKICI] |
+| Political parties and leaders: | Cyprus Socialist Party or KSP [Mehmet BIRINCI] |
+| Political parties and leaders: | Democratic Party or DP [Serdar DENKTAS] |
+| Political parties and leaders: | National Democratic Party or NDP [Buray BUSKUVUTCU] |
+| Political parties and leaders: | National Unity Party or UBP [Ersin TATAR] |
+| Political parties and leaders: | New Cyprus Party or YKP [Murat KANATLI] |
+| Political parties and leaders: | People's Party or HP [Kudret OZERSAY] |
+| Political parties and leaders: | Rebirth Party or YDP [Erhan ARIKLI] |
+| Political parties and leaders: | Republican Turkish Party or CTP [Tufan ERHURMAN] |
+| Political parties and leaders: | United Cyprus Party or BKP [Izzet IZCAN] |
+| International organization participation: | Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marios LYSIOTIS (since 17 September 2018) |
+| Diplomatic representation in the US: | chancery: 2211 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-5772, 462-0873 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-6710 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation in the US: | note: representative of the Turkish Cypriot community in the US is Mustafa LAKADAMYALI; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Judith Gail GARBER (since 18 March 2019) |
+| Diplomatic representation from the US: | telephone: [357] (22) 393939 |
+| Diplomatic representation from the US: | embassy: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia |
+| Diplomatic representation from the US: | mailing address: P. O. Box 24536, 1385 Nicosia |
+| Diplomatic representation from the US: | FAX: [357] (22) 393344 |
+| Flag description: | centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities |
+| Flag description: | note: one of only two national flags that uses a map as a design element; the flag of Kosovo is the other |
+| Flag description: | note: the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed |
+| National symbol(s): | Cypriot mouflon (wild sheep), white dove; national colors: blue, white |
+| National anthem: | name: "Ymnos eis tin Eleftherian" (Hymn to Liberty) |
+| National anthem: | lyrics/music: Dionysios SOLOMOS/Nikolaos MANTZAROS |
+| National anthem: | note: adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish Cypriot community in Cyprus uses the anthem of Turkey |

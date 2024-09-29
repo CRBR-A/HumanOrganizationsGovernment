@@ -1,0 +1,39 @@
+| Government | Chad |
+| --- | --- |
+| Country name: | conventional long form: Republic of Chad |
+| Country name: | conventional short form: Chad |
+| Country name: | local long form: Republique du Tchad/Jumhuriyat Tshad |
+| Country name: | local short form: Tchad/Tshad |
+| Government type: | republic |
+| Capital: | name: N'Djamena |
+| Capital: | geographic coordinates: 12 06 N, 15 02 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 18 regions (regions, singular - region); Batha, Borkou-Ennedi-Tibesti, Chari-Baguirmi, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi Est, Mayo-Kebbi Ouest, Moyen-Chari, Ouaddai, Salamat, Tandjile, Ville de N'Djamena, Wadi Fira |
+| Independence: | 11 August 1960 (from France) |
+| National holiday: | Independence Day, 11 August (1960) |
+| Constitution: | passed by referendum 31 March 1996; a June 2005 referendum removed constitutional term limits |
+| Legal system: | based on French civil law system and Chadian customary law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Lt. Gen. Idriss DEBY Itno (since 4 December 1990) |
+| Executive branch: | head of government: Prime Minister Youssof Saleh ABBAS (since 16 April 2008) |
+| Executive branch: | cabinet: Council of State, members appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections: president elected by popular vote to serve five-year term; if no candidate receives at least 50% of the total vote, the two candidates receiving the most votes must stand for a second round of voting; last held 3 May 2006 (next to be held by May 2011); prime minister appointed by the president |
+| Executive branch: | election results: Lt. Gen. Idriss DEBY Itno reelected president; percent of vote - Lt. Gen. Idriss DEBY 64.7%, Delwa Kassire KOUMAKOYE 15.1%, Albert Pahimi PADACKE 7.8%, Mahamat ABDOULAYE 7.1%, Brahim KOULAMALLAH 5.3%; note - a June 2005 national referendum altered the constitution removing presidential term limits and permitting Lt. Gen. Idriss DEBY Itno to run for reelection |
+| Legislative branch: | unicameral National Assembly (155 seats; members elected by popular vote to serve four-year terms); note - the 1996 constitution called for a Senate that has never been formed |
+| Legislative branch: | elections: National Assembly - last held 21 April 2002 (next to be held by 2009); note - legislative elections, originally scheduled for 2006, were first delayed by National Assembly action and subsequently by an accord, signed in August 2007, between government and opposition parties |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - MPS 110, RDP 12, FAR 9, RNDP 5, UNDR 5, URD 3, other 11 |
+| Judicial branch: | Supreme Court; Court of Appeal; Criminal Courts; Magistrate Courts |
+| Political parties and leaders: | Federation Action for the Republic or FAR [Ngarledjy YORONGAR]; National Rally for Development and Progress or RNDP [Delwa Kassire KOUMAKOYE]; National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]; Party for Liberty and Development or PLD [Ibni Oumar Mahamat SALEH]; Patriotic Salvation Movement or MPS [Mahamat Saleh AHMAT, chairman]; Rally for Democracy and Progress or RDP [Lol Mahamat CHOUA]; Union for Renewal and Democracy or URD [Gen. Wadal Abdelkader KAMOUGUE] |
+| Political pressure groups and leaders: | rebel groups |
+| International organization participation: | ACCT, ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ITSO, ITU, ITUC, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mahamat Adam BECHIR |
+| Diplomatic representation in the US: | chancery: 2002 R Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-4009 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-1937 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Louis NIGRO |
+| Diplomatic representation from the US: | embassy: Avenue Felix Eboue, N'Djamena |
+| Diplomatic representation from the US: | mailing address: B. P. 413, N'Djamena |
+| Diplomatic representation from the US: | telephone: [235] 251-62-11, 251-70-09, 251-77-59 |
+| Diplomatic representation from the US: | FAX: [235] 251-56-54 |
+| Flag description: | three equal vertical bands of blue (hoist side), yellow, and red |
+| Flag description: | note: similar to the flag of Romania; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design was based on the flag of France |

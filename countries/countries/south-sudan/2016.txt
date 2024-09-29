@@ -1,0 +1,46 @@
+| Government | SOUTH SUDAN |
+| --- | --- |
+| Country name: | conventional long form: Republic of South Sudan |
+| Country name: | conventional short form: South Sudan |
+| Country name: | etymology: self-descriptive name from the country's former position within Sudan prior to independence; the name "Sudan" derives from the Arabic "bilad-as-sudan" meaning "Land of the black [peoples]" |
+| Government type: | presidential republic |
+| Capital: | name: Juba |
+| Capital: | geographic coordinates: 04 51 N 31 37 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria |
+| Independence: | 9 July 2011 (from Sudan) |
+| National holiday: | Independence Day, 9 July (2011) |
+| Constitution: | previous 2005 (preindependence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011); amended 2013, 2015 (2016) |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of South Sudan |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Taban Deng GAI (since 26 July 2016); Second Vice President James Wani IGGA (since 26 April 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Taban Deng GAI (since 26 July 2016); Second Vice President James Wani IGGA (since 26 April 2016) |
+| Executive branch: | cabinet: National Council of Ministers appointed by the president, approved by National Legislative Assembly |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (the next election has been postponed from 2015 to 2018 due to instability and violence) |
+| Executive branch: | election results: Salva KIIR Mayardit elected president; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7% |
+| Legislative branch: | description: bicameral National Legislature consists of the Council of States (50 seats; the Council of States, established by presidential decree in August 2011, includes 50 members - 20 former members of the Council of States and 30 appointed representatives ) and the National Legislative Assembly (400 seats; the National Assembly, also established by presidential decree in August 2011, includes 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the Agreement on the Resolution of the Conflict in the Republic of South Sudan) |
+| Legislative branch: | elections: National Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; because of political instability, current parliamentary term extended until next election on 9 July 2018); Council of States - established and members appointed 1 August 2011 |
+| Legislative branch: | election results: Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, SPLM-DC 6, DCP 4, independent 6, unknown 65 |
+| Judicial branch: | highest court(s): Supreme Court of South Sudan (consists of the chief and deputy chief justices, 9 other justices and normally organized into panels of 3 justices except when sitting as a Constitutional panel of all 9 justices chaired by the chief justice) |
+| Judicial branch: | judge selection and term of office: justices appointed by the president upon proposal of the Judicial Service Council, a 9-member judicial and administrative body; justice tenure set by the National Legislature |
+| Judicial branch: | subordinate courts: national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals |
+| Political parties and leaders: | Sudan People's Liberation Movement or SPLM [Salva KIIR Mayardit] |
+| Political parties and leaders: | Sudan People’s Liberation Movement-In Opposition or SPLM-IO [Riek MACHAR Teny Dhurgon] |
+| Political parties and leaders: | Democratic Change Party or DCP [Lam AKOL] |
+| International organization participation: | AU, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOM, IPU, ITU, MIGA, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WMO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Garang Diing AKUONG (since 23 February 2015) |
+| Diplomatic representation in the US: | chancery: 1015 31st St., NW, Third Floor, Washington, DC, 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 293-7940 |
+| Diplomatic representation in the US: | FAX: [1] (202) 293-7941 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Mary Catherine PHEE (since July 2015) |
+| Diplomatic representation from the US: | embassy: Kololo Road adjacent to the EU's compound, Juba |
+| Diplomatic representation from the US: | telephone: [211] (0) 912-105-188 |
+| Flag description: | three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan |
+| Flag description: | note: resembles the flag of Kenya; one of only two national flags to display six colors as part of its primary design, the other is South Africa's |
+| National symbol(s): | African fish eagle; national colors: red, green, blue, yellow, black, white |
+| National anthem: | name: South Sudan Oyee! (Hooray!) |
+| National anthem: | lyrics/music: collective of 49 poets/Juba University students and teachers |
+| National anthem: | note: adopted 2011; anthem selected in a national contest |

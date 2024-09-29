@@ -1,0 +1,46 @@
+| Government | Cyprus |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cyprus |
+| Country name: | conventional short form: Cyprus |
+| Country name: | local long form: Kypriaki Dimokratia/Kibris Cumhuriyeti |
+| Country name: | local short form: Kypros/Kibris |
+| Country name: | note: the Turkish Cypriot community (north Cyprus) refers to itself as the "Turkish Republic of Northern Cyprus" (TRNC) |
+| Government type: | republic |
+| Government type: | note: a separation of the two ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified after the Turkish intervention in July 1974 that followed a Greek junta-supported coup attempt gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government; on 15 November 1983 Turkish Cypriot "President" Rauf DENKTASH declared independence and the formation of a "Turkish Republic of Northern Cyprus" (TRNC), which is recognized only by Turkey |
+| Capital: | name: Nicosia (Lefkosia) |
+| Capital: | geographic coordinates: 35 10 N, 33 22 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 6 districts; Famagusta, Kyrenia, Larnaca, Limassol, Nicosia, Paphos; note - Turkish Cypriot area's administrative divisions include Kyrenia, all but a small part of Famagusta, and small parts of Lefkosia (Nicosia) and Larnaca |
+| Independence: | 16 August 1960 (from UK); note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are only recognized by Turkey |
+| National holiday: | Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as Independence Day |
+| Constitution: | 16 August 1960; from December 1963, the Turkish Cypriots no longer participated in the government; negotiations to create the basis for a new or revised constitution to govern the island and for better relations between Greek and Turkish Cypriots have been held intermittently since the mid-1960s; in 1975, following the 1974 Turkish intervention, Turkish Cypriots created their own constitution and governing bodies within the "Turkish Federated State of Cyprus," which became the "Turkish Republic of Northern Cyprus" when the Turkish Cypriots declared their independence in 1983; a new constitution for the "TRNC" passed by referendum on 5 May 1985 |
+| Legal system: | based on common law, with civil law modifications; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Tassos PAPADOPOULOS (since 1 March 2003); note - the president is both the chief of state and head of government; post of vice president is currently vacant; under the 1960 constitution, the post is reserved for a Turkish Cypriot |
+| Executive branch: | head of government: President Tassos PAPADOPOULOS (since 1 March 2003); note - post of vice president is currently vacant; under the 1960 constitution, the post is reserved for a Turkish Cypriot |
+| Executive branch: | cabinet: Council of Ministers appointed jointly by the president and vice president |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 16 February 2003 (next to be held February 2008) |
+| Executive branch: | election results: Tassos PAPADOPOULOS elected president; percent of vote - Tassos PAPADOPOULOS 51.5%, Glafkos KLIRIDIS 38.8%, Alekos MARKIDIS 6.6% |
+| Executive branch: | note: Mehmet Ali TALAT became "president" of north Cyprus, 24 April 2005, after "presidential" elections on 17 April 2005; results - Mehmet Ali TALAT 55.6%, Dervis EROGLU 22.7%; Ferdi Sabit SOYER is "prime minister"; there is a Council of Ministers (cabinet) in north Cyprus, appointed by the "prime minister" |
+| Legislative branch: | unicameral - Republic of Cyprus: House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to the Greek Cypriots, 24 to Turkish Cypriots; note - only those assigned to Greek Cypriots are filled; members are elected by popular vote to serve five-year terms); north Cyprus: Assembly of the Republic or Cumhuriyet Meclisi (50 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: Republic of Cyprus: last held 27 May 2001 (next to be held 21 May 2006); north Cyprus: last held 14 December 2003 (next to be held in 2008) |
+| Legislative branch: | election results: Republic of Cyprus: House of Representatives - percent of vote by party - AKEL 34.71%, DISY 34%, DIKO 14.84%, KISOS 6.51%, others 9.94%; seats by party - AKEL (Communist) 20, DISY 19, DIKO 9, KISOS 4, other 4; north Cyprus: Assembly of the Republic - percent of vote by party - CTP 35.8%, UBP 32.3%, Peace and Democratic Movement 13.4%, DP 12.3%; seats by party - CTP 19, UBP 18, Peace and Democratic Movement 6, DP 7 |
+| Judicial branch: | Supreme Court (judges are appointed jointly by the president and vice president) |
+| Judicial branch: | note: there is also a Supreme Court in north Cyprus |
+| Political parties and leaders: | Republic of Cyprus: Democratic Party or DIKO [Tassos PAPADOPOULOS]; Democratic Rally or DISY [Nikos ANASTASIADHIS]; European Democracy or EURO.DE [Prodromos PRODROMOU] (evolved from For Europe which merged with New Horizons); European Party or EURO.KO [Demetris SYLLOURIS]; Fighting Democratic Movement or ADIK [Dinos MIKHAILIDIS]; Green Party of Cyprus [George PERDIKIS]; Movement for Social Democracy United Democratic Union of Center or KISOS [Yannakis OMIROU]; Progressive Party of the Working People or AKEL (Communist Party) [Dimitrios CHRISTOFIAS]; United Democrats Movement or EDE [Michalis PAPAPETROU]; north Cyprus: Democratic Party or DP [Serder DENKTASH]; National Birth Party or UDP [Enver EMIN]; National Unity Party or UBP [Dervis EROGLU]; Our Party or BP [Okyay SADIKOGLU]; Patriotic Unity Movement or YBH [Alpay DURDURAN]; Peace and Democratic Movement [Mustafa AKINCI]; Republican Turkish Party or CTP [Mehmet ALI TALAT] |
+| Political pressure groups and leaders: | Confederation of Cypriot Workers or SEK (pro-West); Confederation of Revolutionary Labor Unions or Dev-Is; Federation of Turkish Cypriot Labor Unions or Turk-Sen; Pan-Cyprian Labor Federation or PEO (Communist controlled) |
+| International organization participation: | Australia Group, C, CE, EBRD, EIB, EU (new member), FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, IDA, IFAD, IFC, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NAM, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Andreas KAKOURIS |
+| Diplomatic representation in the US: | chancery: 2211 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-5772, 462-0873 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-6710 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation in the US: | note: representative of the Turkish Cypriot community in the US is Osman ERTUG; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Ronald L. SCHLICHER |
+| Diplomatic representation from the US: | embassy: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia |
+| Diplomatic representation from the US: | mailing address: P. O. Box 24536, 1385 Nicosia |
+| Diplomatic representation from the US: | telephone: [357] (22) 393939 |
+| Diplomatic representation from the US: | FAX: [357] (22) 780944 |
+| Flag description: | white with a copper-colored silhouette of the island (the name Cyprus is derived from the Greek word for copper) above two green crossed olive branches in the center of the flag; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities |
+| Flag description: | note: the "Turkish Republic of Northern Cyprus" flag has a horizontal red stripe at the top and bottom between which is a red crescent and red star on a white field |

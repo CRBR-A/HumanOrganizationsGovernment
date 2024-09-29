@@ -1,0 +1,56 @@
+| Government | JAPAN |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Japan |
+| Country name: | local long form: Nihon-koku/Nippon-koku |
+| Country name: | local short form: Nihon/Nippon |
+| Government type: | a parliamentary government with a constitutional monarchy |
+| Capital: | name: Tokyo |
+| Capital: | geographic coordinates: 35 41 N, 139 45 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi |
+| Independence: | 3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 660 B.C. (traditional date of the founding of the nation by Emperor JIMMU); 29 November 1890 (Meiji Constitution provides for constitutional monarchy) |
+| Independence: | National holiday: | Birthday of Emperor AKIHITO, 23 December (1933) |
+| Constitution: | previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947 (2013) |
+| Legal system: | civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 20 years of age; universal |
+| Executive branch: | chief of state: Emperor AKIHITO (since 7 January 1989) |
+| Executive branch: | head of government: Prime Minister Shinzo ABE (since 26 December 2012); Deputy Prime Minister Taro ASO (since 26 December 2012) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections/appointments: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister |
+| Legislative branch: | description: bicameral Diet or Kokkai consists of the House of Councillors or Sangi-in (242 seats; 146 members directly elected by majority vote and 96 directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years) and the House of Representatives or Shugi-in (475 seats; 295 members directly elected in single-seat constituencies by simple majority vote and 180 directly elected in multi-seat constituencies by proportional representation vote; members serve maximum 4-year terms with one-half of the membership renewed every 2 years) |
+| Legislative branch: | elections: House of Councillors - last held on 21 July 2013 (next to be held in July 2016); House of Representatives - last held on 14 December 2014 (next to be held by 15 December 2016) |
+| Legislative branch: | election results: House of Councillors - percent of vote by party - NA; seats by party - LPD 115, DPJ 59, New Komeito 20, Your Party 18, JCP 11, JRP 9, SDP 3, others 4, independents 3 |
+| Legislative branch: | House of Representatives - percent of vote by party - LDP 61.26%, DPJ 15.37%, JIP 8.63%, New Komeito 7.37%, JCP 4.42%, PFG .42%, SDP .42%, PLP .42%, independents 1.68%; seats by party - LDP 291, DPJ 73, JIP 41, New Komeito 35, JCP 21, PFG 2, SDP 2, PLP 2, independents 8 |
+| Legislative branch: | note: the 2013 amended electoral law - effective for the December 2016 election - reduced to 475 the number of seats in the House of Representatives |
+| Judicial branch: | highest court(s): Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward |
+| Judicial branch: | subordinate courts: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho) |
+| Political parties and leaders: | Democratic Party of Japan or DPJ [Banri KAIEDA] |
+| Political parties and leaders: | Japan Communist Party or JCP [Kazuo SHII] |
+| Political parties and leaders: | Japan Innovation Party or JIP [Kenji EDA] |
+| Political parties and leaders: | Liberal Democratic Party or LDP [Shinzo ABE] |
+| Political parties and leaders: | New Komeito or NK [Natsuo YAMAGUCHI] |
+| Political parties and leaders: | Party for Future Generations or PFG [Shintaro ISHIHARA] |
+| Political parties and leaders: | People's Life Party or PLP [Ichiro OZAWA] |
+| Political parties and leaders: | Social Democratic Party or SDP [Tadatomo YOSHIDA] |
+| Political pressure groups and leaders: | other: business groups; trade unions |
+| International organization participation: | ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Kenichiro SASAE (since 19 November 2012) |
+| Diplomatic representation in the US: | chancery: 2520 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-2187 |
+| Diplomatic representation in the US: | consulate(s) general: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Denver (CO), Detroit (MI), Honolulu (HI), Houston, Las Vegas (NV), Los Angeles, Miami, Nashville (TN), New Orleans, New York, Oklahoma City (OK), Orlando (FL), Philadelphia (PA), Phoenix (AZ), Portland (OR), San Francisco, Seattle, Saipan (Puerto Rico), Tamuning (Guam) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Caroline Bouvier KENNEDY (since 19 November 2013) |
+| Diplomatic representation from the US: | embassy: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420 |
+| Diplomatic representation from the US: | mailing address: Unit 9800, Box 300, APO AP 96303-0300 |
+| Diplomatic representation from the US: | telephone: [81] (03) 3224-5000 |
+| Diplomatic representation from the US: | FAX: [81] (03) 3505-1862 |
+| Diplomatic representation from the US: | consulate(s) general: Naha (Okinawa), Osaka-Kobe, Sapporo |
+| Diplomatic representation from the US: | consulate(s): Fukuoka, Nagoya |
+| Flag description: | white with a large red disk (representing the sun without rays) in the center |
+| National symbol(s): | red sun disc, chrysanthemum; national colors: red, white |
+| National anthem: | name: "Kimigayo" (The Emperor"s Reign) |
+| National anthem: | lyrics/music: unknown/Hiromori HAYASHI |
+| National anthem: | note: adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor |

@@ -1,0 +1,69 @@
+| Government | CROATIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Croatia |
+| Country name: | conventional short form: Croatia |
+| Country name: | local long form: Republika Hrvatska |
+| Country name: | local short form: Hrvatska |
+| Country name: | former: People's Republic of Croatia, Socialist Republic of Croatia |
+| Government type: | parliamentary democracy |
+| Capital: | name: Zagreb |
+| Capital: | geographic coordinates: 45 48 N, 16 00 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska(Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivinica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sislak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county) |
+| Independence: | 25 June 1991 (from Yugoslavia) |
+| National holiday: | Independence Day, 8 October (1991) and Statehood Day, 25 June (1991); note - 25 June 1991 was the day the Croatian parliament voted for independence; following a three-month moratorium to allow the European Community to solve the Yugoslav crisis peacefully, parliament adopted a decision on 8 October 1991 to sever constitutional relations with Yugoslavia |
+| Constitution: | several previous; latest adopted 22 December 1990; amended several times, last in December 2013 by referendum |
+| Legal system: | civil law system influenced by legal heritage of Austria-Hungary; note - Croatian law was fully harmonized with the European Community acquis as of the June 2010 completion of EU accession negotiations |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age, 16 if employed; universal |
+| Executive branch: | chief of state: President Kolinda GRABAR-KITAROVIC (since 19 February 2015) |
+| Executive branch: | head of government: Prime Minister Zoran MILANOVIC (since 23 December 2011); First Deputy Prime Minister Vesna PUSIC (since 16 November 2012) |
+| Executive branch: | cabinet: Council of Ministers named by the prime minister and approved by the Assembly |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 January 2010 (next to be held in December 2014); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly |
+| Executive branch: | election results: Kolinda GRABAR-KITAROVIC elected president; percent of vote in the second round - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC 49.3% |
+| Legislative branch: | description: unicameral Assembly or Hrvatski Sabor (151 seats; members directly elected by party-list proportional representation vote using the D'Hondt method with a 5% threshold: 14 seats in each of 10 districts; 8 seats in a single nationwide district for minorities; 3 seats in a single special district for the Croatian diaspora, members elected for 4-year terms) |
+| Legislative branch: | elections: last held on 4 December 2011 (next to be held in late 2015) |
+| Legislative branch: | election results: percent of vote by party/coalition - Kukuriku 40.0%, HDZ-led Coalition 23.8%, Croatian Laborists-Labor Party 5.1%, HSS 3.0%, HDSSB 2.9%, Independent list of Ivan Grubisic 2.8%, HCSP-HSP AS 2.8%, other 19.6%; number of seats by party/coalition - Kukuriku 80 (SDP 61, HNS 13, IDS 3, HSU 3), HDZ-led coalition 47 (HDZ 44, HGS 2, DC 1), Croatian Laborists-Labor Party 6, HDSSB 6, SDSS 3, Independent list of Ivan Grubisic 2, HSS 1, HCSP-HSP AS 1, other 5 |
+| Legislative branch: | note: seats by party as of 3 April 2015 - SDP 56, HDZ 41, HNS 11, HDSSB 7, HSU 4, Croatian Laborists - Labor Party 3, Reformists 3, SDSS 3, HGS 2, IDS 2, BDSH 1, DC 1, HSS 1, HSP AS 1, ORaH 1, New Wave 1, independents 13 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices) |
+| Judicial branch: | judge selection and term of office: president of Supreme Court nominated by president of Croatia and elected by Croatian Sabor for a 4-year term; other Supreme Court justices appointed by National Judicial Council; all judges serve until age 70 |
+| Judicial branch: | subordinate courts: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside Croatia's judicial system |
+| Political parties and leaders: | Bosniak Democratic Party of Croatia or BDSH [Medzad HODZIC] |
+| Political parties and leaders: | Croatian Civic Party or HGS [Zeljko KERUM] |
+| Political parties and leaders: | Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Dragan VULIN] |
+| Political parties and leaders: | Croatian Democratic Union or HDZ [Tomislav KARAMARKO] |
+| Political parties and leaders: | Croatian Laborists - Labor Party [Nansi TIRELI] |
+| Political parties and leaders: | Croatian Party of Rights - dr. Ante Starcevic or HSP AS [Ivan TEPES] |
+| Political parties and leaders: | Croatian Peasant Party or HSS [Branko HRG] |
+| Political parties and leaders: | Croatian Pensioner Party or HSU [Silvano HRELJA] |
+| Political parties and leaders: | Croatian People's Party - Liberal Democrats or HNS [Vesna PUSIC] |
+| Political parties and leaders: | Croatian Pure Party of Rights or HCSP [Josip MILJIC] |
+| Political parties and leaders: | Democratic Centre or DC [Vesna SKARE-OZBOLT] |
+| Political parties and leaders: | HDZ-led Coalition [Tomislav KARAMARKO] (includes HDZ, HGS, and DC) |
+| Political parties and leaders: | Independent Democratic Serb Party or SDSS [Vojislav STANIMIROVIC] |
+| Political parties and leaders: | Independent List of Ivan Grubisic [Ivan GRUBISIC] |
+| Political parties and leaders: | Istrian Democratic Assembly or IDS [Boris MILETIC] |
+| Political parties and leaders: | Kukuriku Coalition [Zoran MILANOVIC] (includes SDP, HNS, IDS, and HSU) |
+| Political parties and leaders: | New Wave [Liubo JURCIC] |
+| Political parties and leaders: | Reformists Party [Radimir CACIC] |
+| Political parties and leaders: | Social Democratic Party of Croatia or SDP [Zoran MILANOVIC] |
+| Political parties and leaders: | Sustainable Development for Croatia or ORaH [Mirela HOLY] |
+| Political pressure groups and leaders: | other: human rights groups |
+| International organization participation: | Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Josip "Josko" PARO (since 20 April 2012) |
+| Diplomatic representation in the US: | chancery: 2343 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-5899 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-8936 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kenneth MERTEN (since 3 October 2012) |
+| Diplomatic representation from the US: | embassy: 2 Thomas Jefferson Street, 10010 Zagreb |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [385] (1) 661-2200 |
+| Diplomatic representation from the US: | FAX: [385] (1) 661-2373 |
+| Flag description: | three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions, they are (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia |
+| Flag description: | note: the Pan-Slav colors were inspired by the 19th-century flag of Russia |
+| National symbol(s): | red-white checkerboard; national colors: red, white, blue |
+| National anthem: | name: "Lijepa nasa domovino" (Our Beautiful Homeland) |
+| National anthem: | lyrics/music: Antun MIHANOVIC/Josip RUNJANIN |
+| National anthem: | note: adopted 1972; "Lijepa nasa domovino," whose lyrics were written in 1835, served as an unofficial anthem beginning in 1891 |

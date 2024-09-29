@@ -1,0 +1,41 @@
+| Government | Panama |
+| --- | --- |
+| Country name: | conventional long form: Republic of Panama |
+| Country name: | conventional short form: Panama |
+| Country name: | local long form: Republica de Panama |
+| Country name: | local short form: Panama |
+| Government type: | constitutional democracy |
+| Capital: | name: Panama |
+| Capital: | geographic coordinates: 8 58 N, 79 32 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 9 provinces (provincias, singular - provincia) and 1 territory* (comarca); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Herrera, Los Santos, Panama, San Blas*(Kuna Yala), and Veraguas |
+| Independence: | 3 November 1903 (from Colombia; became independent from Spain 28 November 1821) |
+| National holiday: | Independence Day, 3 November (1903) |
+| Constitution: | 11 October 1972; major reforms adopted 1978, 1983, 1994, and 2004 |
+| Legal system: | based on civil law system; judicial review of legislative acts in the Supreme Court of Justice; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Martin TORRIJOS Espino (since 1 September 2004); First Vice President Samuel LEWIS Navarro (since 1 September 2004); Second Vice President Ruben AROSEMENA Valdes (since 1 September 2004); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Martin TORRIJOS Espino (since 1 September 2004); First Vice President Samuel LEWIS Navarro (since 1 September 2004); Second Vice President Ruben AROSEMENA Valdes (since 1 September 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president and vice presidents elected on the same ticket by popular vote for five-year terms (eligible for two more terms); election last held 2 May 2004 (next to be held on 3 May 2009); note - beginning in 2009, Panama will have only one vice president. |
+| Executive branch: | election results: Martin TORRIJOS Espino elected president; percent of vote - Martin TORRIJOS Espino 47.5%, Guillermo ENDARA Galimany 30.6%, Jose Miguel ALEMAN 17%, Ricardo MARTINELLI 4.9% |
+| Executive branch: | note: government coalition - PRD (Democratic Revolutionary Party), PP (Popular Party) |
+| Legislative branch: | unicameral National Assembly or Asamblea Nacional (78 seats; members are elected by popular vote to serve five-year terms); note - in 2009, the number of seats will change to 71 |
+| Legislative branch: | elections: last held 2 May 2004 (next to be held 3 May 2009) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PRD 41, PA 17, PS 9, MOLIRENA 4, CD 3, PLN 3, PP 1 |
+| Legislative branch: | note: legislators from outlying rural districts are chosen on a plurality basis while districts located in more populous towns and cities elect multiple legislators by means of a proportion-based formula |
+| Judicial branch: | Supreme Court of Justice or Corte Suprema de Justicia (nine judges appointed for 10-year terms); five superior courts; three courts of appeal |
+| Political parties and leaders: | Democratic Change or CD [Ricardo MARTINELLI]; Democratic Revolutionary Party or PRD [Hugo GUIRAUD]; Liberal Party or PLN [Joaquin F. Franco VASQUEZ]; Nationalist Republican Liberal Movement or MOLIRENA [Gisela CHUNG]; Panamenista Party or PA [Juan Carlos VARELA] (formerly the Arnulfista Party); Patriotic Union Party or PUP [Jose Raul MULINO and Anibal GALINDO]; Popular Party or PP [Rene ORILLAC] (formerly Christian Democratic Party or PDC); Solidarity Party or PS |
+| Political pressure groups and leaders: | Chamber of Commerce; National Civic Crusade; National Council of Organized Workers or CONATO; National Council of Private Enterprise or CONEP; National Union of Construction and Similar Workers (SUNTRACS); Panamanian Association of Business Executives or APEDE; Panamanian Industrialists Society or SIP; Workers Confederation of the Republic of Panama or CTRP |
+| International organization participation: | CAN (observer), CSN (observer), FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Federico HUMBERT Arias |
+| Diplomatic representation in the US: | chancery: 2862 McGill Terrace NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 483-1407 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-8416 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Houston, Miami, New Orleans, New York, Philadelphia, San Francisco, San Juan (Puerto Rico), Tampa |
+| Diplomatic representation from the US: | chief of mission: Ambassador William A. EATON |
+| Diplomatic representation from the US: | embassy: Avenida Balboa and Calle 37, Apartado Postal 0816-02561, Zona 5, Panama City 5 |
+| Diplomatic representation from the US: | mailing address: American Embassy Panama, Unit 0945, APO AA 34002 |
+| Diplomatic representation from the US: | telephone: [507] 207-7000 |
+| Diplomatic representation from the US: | FAX: [507] 227-1964 |
+| Flag description: | divided into four, equal rectangles; the top quadrants are white (hoist side) with a blue five-pointed star in the center and plain red; the bottom quadrants are plain blue (hoist side) and white with a red five-pointed star in the center |

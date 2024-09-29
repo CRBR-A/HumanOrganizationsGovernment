@@ -1,0 +1,60 @@
+| Government | TAIWAN |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Taiwan |
+| Country name: | local long form: none |
+| Country name: | local short form: Taiwan |
+| Country name: | former: Formosa |
+| Country name: | etymology: "Tayowan" was the name of the coastal sandbank where the Dutch erected their colonial headquarters on the island in the 17th century; the former name "Formosa" means "beautiful" in Portuguese |
+| Government type: | semi-presidential republic |
+| Capital: | name: Taipei |
+| Capital: | geographic coordinates: 25 02 N, 121 31 E |
+| Capital: | time difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan |
+| Administrative divisions: | counties: Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin |
+| Administrative divisions: | cities: Chiayi, Hsinchu, Keelung |
+| Administrative divisions: | special municipalities: Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city) |
+| Administrative divisions: | note: Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems |
+| National holiday: | Republic Day (Anniversary of the Chinese Revolution), 10 October (1911) |
+| Constitution: | previous 1912, 1931; latest adopted 25 December 1946, promulgated 1 January 1947, effective 25 December 1947; revised several times, last in 2005 (2016) |
+| Legal system: | civil law system |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Taiwan |
+| Citizenship: | dual citizenship recognized: yes, except that citizens of Taiwan are not recognized as dual citizens of the People's Republic of China |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 20 years of age; universal |
+| Executive branch: | chief of state: President TSAI Ing-wen (since 20 May 2016); Vice President CHEN Chien-jen (since 20 May 2016) |
+| Executive branch: | head of government: Premier LIN Chuan (President of the Executive Yuan) (since 20 May 2016); Vice Premier LIN Hsi-yao, Vice President of the Executive Yuan (since 20 May 2016) |
+| Executive branch: | cabinet: Executive Yuan - ministers appointed by president on recommendation of premier |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 16 January 2016 (next to be held in 2020); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier |
+| Executive branch: | election results: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 56.1%, Eric CHU Li-lun (KMT) 31.0%, James SOONG Chu-yu (PFP) 12.8%; note - TSAI is the first woman elected president of Taiwan |
+| Legislative branch: | description: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single islandwide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: Legislative Yuan - last held on 16 January 2016 (next to be held in January 2020) |
+| Legislative branch: | election results: Legislative Yuan - percent of vote by party - DPP 44.1%, KMT 26.9%, PFP 6.5%, NPP 6.1%, other 16.4%; seats by party - DPP 68, KMT 35, NPP 5, PFP 3, NPSU 1, independent 1 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into 8 civil and 12 criminal divisions, each with a division chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices) |
+| Judicial branch: | judge selection and term of office: Supreme Court justices appointed by the president; Constitutional Court justices appointed by the president with approval of the Legislative Yuan; Supreme Court justices appointed for life; Constitutional Court justices appointed for 8-year terms with half the membership renewed every 4 years |
+| Judicial branch: | subordinate courts: high courts; district courts; hierarchy of administrative courts |
+| Political parties and leaders: | Democratic Progressive Party or DPP [TSAI Ing-wen] |
+| Political parties and leaders: | Kuomintang or KMT (Nationalist Party) [HUNG Hsiu-chu] |
+| Political parties and leaders: | New Power Party or NPP [HUANG Kuo-chang] |
+| Political parties and leaders: | Non-Partisan Solidarity Union or NPSU [LIN Pin-kuan] |
+| Political parties and leaders: | People First Party or PFP [James SOONG Chu-yu] |
+| Political parties and leaders: | Taiwan Solidarity Union or TSU [HUANG Kun-huei] |
+| Political pressure groups and leaders: | other: environmental groups; independence movement; various business groups |
+| Political pressure groups and leaders: | note: public opinion polls consistently show most Taiwanese support maintaining Taiwan's status quo; advocates of Taiwan independence oppose unification with mainland China; most advocates of eventual unification predicate their goal on the democratic transformation of the mainland |
+| International organization participation: | ADB (Taipei, China), APEC (Chinese Taipei), BCIE, ICC (national committees), IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China) |
+| Diplomatic representation in the US: | none; commercial and cultural relations with the people in the United States are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts |
+| Diplomatic representation in the US: | representative: KAO Shuo-tai (a.k.a. Stanley KAO) (since 5 June 2016) |
+| Diplomatic representation in the US: | office: 4201 Wisconsin Avenue NW, Washington, DC 20016 |
+| Diplomatic representation in the US: | telephone: [1] 202 895-1800 |
+| Diplomatic representation in the US: | Taipei Economic and Cultural Offices (branch offices): Atlanta, Boston, Chicago, Denver (CO), Hagatna (Guam), Houston, Honolulu, Los Angeles, Miami, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | none; commercial and cultural relations with the people on Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts |
+| office: | telephone: [1] [886] (02) 2162-2000 |
+| office: | FAX: [1] [886] (02) 2162-2251 |
+| office: | other offices: Kaohsiung (Branch Office) |
+| Flag description: | red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy; red stands for fraternity, sacrifice, and nationalism, white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours) |
+| National symbol(s): | white, 12-rayed sun on blue field; national colors: blue, white, red |
+| National anthem: | name: "Zhonghua Minguo guoge" (National Anthem of the Republic of China) |
+| National anthem: | lyrics/music: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun |
+| National anthem: | note: adopted 1930; also the song of the Kuomintang Party; it is informally known as "San Min Chu I" or "San Min Zhu Yi" (Three Principles of the People); because of political pressure from China, "Guo Qi Ge" (National Banner Song) is used at international events rather than the official anthem of Taiwan; the "National Banner Song" has gained popularity in Taiwan and is commonly used during flag raisings |

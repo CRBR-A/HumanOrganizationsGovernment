@@ -1,0 +1,51 @@
+| Government | MONACO |
+| --- | --- |
+| Country name: | conventional long form: Principality of Monaco |
+| Country name: | conventional short form: Monaco |
+| Country name: | local long form: Principaute de Monaco |
+| Country name: | local short form: Monaco |
+| Country name: | etymology: founded as a Greek colony in the 6th century B.C., the name derives from two Greek words "monos" (single, alone) and "oikos" (house) to convey the sense of a people "living apart" or in a "single habitation" |
+| Government type: | constitutional monarchy |
+| Capital: | name: Monaco |
+| Capital: | geographic coordinates: 43 44 N, 7 25 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | none; there are no first-order administrative divisions as defined by the US Government, but there are 4 quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo; note - Moneghetti, a part of La Condamine, is sometimes called the 5th quarter of Monaco |
+| Independence: | 1419 (beginning of permanent rule by the House of GRIMALDI) |
+| National holiday: | National Day (Saint Rainier's Day), 19 November (1857) |
+| Constitution: | history: previous 1911 (suspended 1959); latest adopted 17 December 1962 |
+| Constitution: | amendments: proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members; amended 2002 (2016) |
+| Legal system: | civil law system influenced by French legal tradition |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Prince ALBERT II (since 6 April 2005) |
+| Executive branch: | head of government: Minister of State Serge TELLE (since 1 February 2016) |
+| Executive branch: | cabinet: Council of Government under the authority of the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government |
+| Legislative branch: | description: unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 10 February 2013 (next to be held in February 2018) |
+| Legislative branch: | election results: percent of vote by party - Horizon Monaco 50.3%, Union Monegasque 39.0%, Renaissance 10.7%; seats by party - Horizon Monaco 20, Union Monegasque 3, Renaissance 1 |
+| Judicial branch: | highest court(s): Supreme Court (consists of 5 permanent members and 2 substitutes) |
+| Judicial branch: | judge selection and term of office: Supreme Court members appointed by the monarch upon the proposals of the National Council, State Council, Crown Council, Court of Appeal, and Trial Court |
+| Judicial branch: | subordinate courts: Court of Appeal; Civil Court of First Instance |
+| Political parties and leaders: | Horizon Monaco [Laurent NOUVION] |
+| Political parties and leaders: | Renaissance [SBM (public corporation)] |
+| Political parties and leaders: | Union Monegasque [Jean-Francois ROBILLON] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Maguy MACCARIO-DOYLE (since 3 December 2013) |
+| Diplomatic representation in the US: | chancery: 3400 International Drive NW, Suite 2K-100, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: (202) 234-1530 |
+| Diplomatic representation in the US: | FAX: (202) 244-7656 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | the US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US Ambassador to France, handles diplomatic and consular matters concerning Monaco |
+| Flag description: | two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners |
+| Flag description: | note: similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red |
+| National symbol(s): | red and white lozenges (diamond shapes); national colors: red, white |
+| National anthem: | name: "A Marcia de Muneghu" (The March of Monaco) |
+| National anthem: | lyrics/music: Louis NOTARI/Charles ALBRECHT |
+| National anthem: | note: music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as "Hymne Monegasque" (Monegasque Anthem); the words are generally only sung on official occasions |

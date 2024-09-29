@@ -1,0 +1,45 @@
+| Government | Romania |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Romania |
+| Country name: | local long form: none |
+| Country name: | local short form: Romania |
+| Government type: | republic |
+| Capital: | name: Bucharest |
+| Capital: | geographic coordinates: 44 26 N, 26 06 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dimbovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Vilcea, Vrancea |
+| Independence: | 9 May 1877 (independence proclaimed from the Ottoman Empire; independence recognized 13 July 1878 by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed) |
+| National holiday: | Unification Day (of Romania and Transylvania), 1 December (1918) |
+| Constitution: | 8 December 1991; revised 29 October 2003 |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Traian BASESCU (since 20 December 2004) |
+| Executive branch: | head of government: Prime Minister Emil BOC (since 22 December 2008); Deputy Prime Minister Marko BELA (since 23 December 2009) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held on 22 November 2009 with runoff on 6 December 2009 (next to be held in November-December 2014); prime minister appointed by the president with the consent of the Parliament |
+| Executive branch: | election results: Traian BASESCU reelected president; percent of vote - Traian BASESCU 50.3%, Mircea GEOANA 49.7% |
+| Legislative branch: | bicameral Parliament or Parlament consists of the Senate or Senat (137 seats; members elected by popular vote in a mixed electoral system to serve four-year terms) and the Chamber of Deputies or Camera Deputatilor (334 seats; members elected by popular vote in a mixed electoral system to serve four-year terms) |
+| Legislative branch: | elections: Senate - last held on 30 November 2008 (next expected to be held in November 2012); Chamber of Deputies - last held on 30 November 2008 (next expected to be held in November 2012) |
+| Legislative branch: | election results: Senate - percent of vote by alliance/party - PSD-PC 34.2%, PDL 33.6%, PNL 18.7%, UDMR 6.4%, other 7.1%; seats by alliance/party - PSD-PC 49, PDL 51, PNL 28, UDMR 9; Chamber of Deputies - percent of vote by alliance/party - PSD-PC 33.1%, PDL 32.4%, PNL 18.6%, UDMR 6.2%, ethnic minorities 3.6%, other 6.1%; seats by alliance/party - PDL 115, PSD-PC 114, PNL 65, UDMR 22, ethnic minorities 18 |
+| Judicial branch: | Supreme Court of Justice (comprised of 11 judges appointed for three-year terms by the president in consultation with the Superior Council of Magistrates, which is comprised of the minister of justice, the prosecutor general, two civil society representatives appointed by the Senate, and 14 judges and prosecutors elected by their peers); a separate body, the Constitutional Court, validates elections and makes decisions regarding the constitutionality of laws, treaties, ordinances, and internal rules of the Parliament; it is comprised of nine members serving nine-year terms, with three members each appointed by the president, the Senate, and the Chamber of Deputies |
+| Political parties and leaders: | Conservative Party or PC [Daniel CONSTANTIN] (formerly Humanist Party or PUR); Democratic Liberal Party or PDL [Emil BOC]; Democratic Union of Hungarians in Romania or UDMR [Bela MARKO]; National Liberal Party or PNL [Crin ANTONESCU]; National Union for Romania's Progress or UNPR [Gabriel OPREA]; Social Democratic Party or PSD [Victor PONTA] (formerly Party of Social Democracy in Romania or PDSR) |
+| Political pressure groups and leaders: | other: various human rights and professional associations |
+| International organization participation: | Australia Group, BIS, BSEC, CBSS (observer), CE, CEI, EAPC, EBRD, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SECI, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Adrian Cosmin VIERITA |
+| Diplomatic representation in the US: | chancery: 1607 23rd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-4846, 4848, 4851, 4852 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-4748 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Mark GITENSTEIN |
+| Diplomatic representation from the US: | embassy: Strada Tudor Arghezi 7-9, Bucharest |
+| Diplomatic representation from the US: | mailing address: pouch: American Embassy Bucharest, US Department of State, 5260 Bucharest Place, Washington, DC 20521-5260 (pouch) |
+| Diplomatic representation from the US: | telephone: [40] (21) 200-3300 |
+| Diplomatic representation from the US: | FAX: [40] (21) 200-3442 |
+| Flag description: | three equal vertical bands of blue (hoist side), yellow, and red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1861 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed |
+| Flag description: | note: now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova |
+| National anthem: | name: "Desteapta-te romane!" (Wake up, Romanian) |
+| National anthem: | lyrics/music: Andrei MURESIANU/Anton PANN |
+| National anthem: | note: adopted 1990; the anthem was written during the 1848 Revolution |

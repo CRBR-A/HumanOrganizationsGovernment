@@ -1,0 +1,56 @@
+| Government | ICELAND |
+| --- | --- |
+| Country name: | conventional long form: Republic of Iceland |
+| Country name: | conventional short form: Iceland |
+| Country name: | local long form: Lydveldid Island |
+| Country name: | local short form: Island |
+| Country name: | etymology: Floki VILGERDARSON, an early explorer of the island (9th century), applied the name "land of ice" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was in fact habitable |
+| Government type: | parliamentary republic |
+| Capital: | name: Reykjavik |
+| Capital: | geographic coordinates: 64 09 N, 21 57 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 8 regions; Austurland, Hofudhborgarsvaedhi, Nordhurland Eystra, Nordhurland Vestra, Sudhurland, Sudhurnes, Vestfirdhir, Vesturland |
+| Independence: | 1 December 1918 (became a sovereign state under the Danish Crown); 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON leader of Iceland's 19th Century independence movement) |
+| National holiday: | Independence Day, 17 June (1944) |
+| Constitution: | history: several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence) |
+| Constitution: | amendments: proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution – that the Evangelical Lutheran Church shall be the state church of Iceland – also require passage by referendum; amended many times, last in 2013 (2016) |
+| Legal system: | civil law system influenced by the Danish model |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Iceland |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 3 to 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Gudni Thorlacius JOHANNESSON (since 1 August 2016) |
+| Executive branch: | head of government: Prime Minister Sigurdur Ingi JOHANNSSON (since 7 April 2016) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 25 June 2016 (next to be held in June 2020); following legislative elections, the leader of the majority party or majority coalition becomes prime minister |
+| Executive branch: | election results: Gudni Thorlacius JOHANNESSON elected president; percent of vote - Gudni Thorlacius JOHANNESSON (IP) 39.1%, Halla TOMASDOTTIR (independent) 27.9%, Andri Snaer MAGNASON (independent) 14.3%, Davio ODDSSON (IP) 13.7%, Sturla JONSSON (Sturla JONSSON Party) 3.5%, invalid 1.5% |
+| Legislative branch: | description: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 29 October 2016 (next to be held in 2020) |
+| Legislative branch: | election results: percent of vote by party - IP 29%, LGM 15.9%, Pirate Party 14.5%, PP 11.5%, Vioreisn 10.5%, BF 7.2%, SDA 5.7%, other 2.3%; seats by party - IP 21, LGM 10, Pirate Party 10, PP 8, Vioreisn 7, BF 4, SDA 3 |
+| Judicial branch: | highest court(s): Supreme Court or Haestirettur (consists of 9 judges) |
+| Judicial branch: | judge selection and term of office: judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period |
+| Judicial branch: | subordinate courts: 8 district courts; Labor Court |
+| Political parties and leaders: | Bright Future (Bjort framtid) or BF [Ottarr PROPPE] |
+| Political parties and leaders: | Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON] |
+| Political parties and leaders: | Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] |
+| Political parties and leaders: | Pirate Party (Piratar) or PIP [Birgitta JONSDOTTIR] |
+| Political parties and leaders: | Progressive Party (Framsoknarflokkurinn) or PP [Sigmundur David GUNNLAUGSSON] |
+| Political parties and leaders: | Social Democratic Alliance (Samfylkingin) or SDA [Arni Pall ARNASON] |
+| International organization participation: | Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Geir Hilmar HAARDE (since 23 February 2015) |
+| Diplomatic representation in the US: | chancery: House of Sweden, 2900 K Street NW |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-6653 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-6656 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert C. BARBER (since 23 January 2015) |
+| Diplomatic representation from the US: | embassy: Laufasvegur 21, 101 Reykjavik |
+| Diplomatic representation from the US: | mailing address: US Department of State, 5640 Reykjavik Place, Washington, D.C. 20521-5640 |
+| Diplomatic representation from the US: | telephone: [354] 595-22-00 |
+| Diplomatic representation from the US: | FAX: [354] 562-9118 |
+| Flag description: | blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean |
+| National symbol(s): | gyrfalcon; national colors: blue, white, red |
+| National anthem: | name: "Lofsongur" (Song of Praise) |
+| National anthem: | lyrics/music: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON |
+| National anthem: | note: adopted 1944; also known as "O, Gud vors lands" (O, God of Our Land), the anthem was originally written and performed in 1874 |

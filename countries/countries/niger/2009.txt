@@ -1,0 +1,38 @@
+| Government | Niger |
+| --- | --- |
+| Country name: | conventional long form: Republic of Niger |
+| Country name: | conventional short form: Niger |
+| Country name: | local long form: Republique du Niger |
+| Country name: | local short form: Niger |
+| Government type: | republic |
+| Capital: | name: Niamey |
+| Capital: | geographic coordinates: 13 31 N, 2 07 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 8 regions (regions, singular - region) includes 1 capital district* (communite urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder |
+| Independence: | 3 August 1960 (from France) |
+| National holiday: | Republic Day, 18 December (1958) |
+| Constitution: | adopted 18 July 1999 |
+| Legal system: | based on French civil law system and customary law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Mamadou TANDJA (since 22 December 1999) |
+| Executive branch: | head of government: Prime Minister Ali Badjo GAMATIE (since 2 October 2009); appointed by the president and shares some executive responsibilities with the president |
+| Executive branch: | cabinet: 26-member Cabinet appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); second round of election last held 4 December 2004 (next to be held December 2009) |
+| Executive branch: | election results: Mamadou TANDJA reelected president; percent of vote - Mamadou TANDJA 65.5%, Mahamadou ISSOUFOU 34.5% |
+| Legislative branch: | unicameral National Assembly (113 seats; members elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held 20 October 2009 (next to be held in 2014) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - MNSD 76, RSD 15, RDP 7, PNA-Alouma 1, Alkalami 1, Nigerien Party of the Masses for Labor 1, independents 12 |
+| Judicial branch: | State Court or Cour d'Etat; Court of Appeals or Cour d'Appel |
+| Political parties and leaders: | Alkalama; Democratic and Social Convention-Rahama or CDS-Rahama [Mahamane OUSMANE]; National Movement for a Developing Society-Nassara or MNSD-Nassara [Hama AMADOU]; Niger Social Democratic Party or PSDN; Nigerien Alliance for Democracy and Social Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moumouni DJERMAKOYE]; Nigerien Party for Autonomy or PNA-Alouma [Sanousi JACKOU]; Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Issifou MAHAMADOU]; Nigerien Party of the Masses for Labor; Nigerien Progressive Party or PPN-RDA; Rally for Democracy and Progress or RDP-jama'a [Hamid ALGABID]; Social and Democratic Rally or RSD-Gaskiyya [Cheiffou AMADOU] |
+| Political pressure groups and leaders: | The Nigerien Movement for Justice or MNJ, a predominantly Tuareg rebel group |
+| International organization participation: | ACP, AfDB, AU, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC, MONUC, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Aminata Djibrilla Maiga TOURE |
+| Diplomatic representation in the US: | chancery: 2204 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 483-4224 through 4227 |
+| Diplomatic representation in the US: | FAX: [1] (202)483-3169 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Bernadette M. ALLEN |
+| Diplomatic representation from the US: | embassy: Rue Des Ambassades, Niamey |
+| Diplomatic representation from the US: | mailing address: B. P. 11201, Niamey |
+| Diplomatic representation from the US: | telephone: [227] 20-72-26-61 thru 64 |
+| Diplomatic representation from the US: | FAX: [227] 20-73-31-67 |
+| Flag description: | three equal horizontal bands of orange (top), white, and green with a small orange disk (representing the sun) centered in the white band; similar to the flag of India, which has a blue spoked wheel centered in the white band |

@@ -1,0 +1,80 @@
+| Government | Spain |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Spain |
+| Country name: | conventional short form: Spain |
+| Country name: | local long form: Reino de Espana |
+| Country name: | local short form: Espana |
+| Country name: | etymology: derivation of the name "Espana" is uncertain, but may come from the Phoenician term "span," related to the word "spy," meaning "to forge metals," so, "i-spn-ya" would mean "place where metals are forged"; the ancient Phoenicians long exploited the Iberian Peninsula for its mineral wealth |
+| Government type: | parliamentary constitutional monarchy |
+| Capital: | name: Madrid |
+| Capital: | geographic coordinates: 40 24 N, 3 41 W |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: Spain has two time zones, including the Canary Islands (UTC 0) |
+| Capital: | etymology: the Romans named the original settlement "Matrice" after the river that ran through it; under Arab rule it became "Majerit," meaning "source of water"; in medieval Romance dialects (Mozarabic) it became "Matrit," which over time changed to "Madrid" |
+| Administrative divisions: | 17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluna (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country] |
+| Administrative divisions: | note: the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania) |
+| Independence: | 1492; the Iberian peninsula was characterized by a variety of independent kingdoms prior to the Muslim occupation that began in the early 8th century A.D. and lasted nearly seven centuries; the small Christian redoubts of the north began the reconquest almost immediately, culminating in the seizure of Granada in 1492; this event completed the unification of several kingdoms and is traditionally considered the forging of present-day Spain |
+| National holiday: | National Day (Hispanic Day), 12 October (1492); note - commemorates the arrival of COLUMBUS in the Americas |
+| Constitution: | history: previous 1812; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978 |
+| Constitution: | amendments: proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2007, 2011 (2016) |
+| Legal system: | civil law system with regional variations |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Spain |
+| Citizenship: | dual citizenship recognized: only with select Latin American countries |
+| Citizenship: | residency requirement for naturalization: 10 years for persons with no ties to Spain |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005) |
+| Executive branch: | head of government: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ Perez-Castejon (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO Poyato (since 7 June 2018) |
+| Executive branch: | cabinet: Council of Ministers designated by the president |
+| Executive branch: | elections/appointments: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 28 April 2019 (next to be held on April 2022); vice president and Council of Ministers appointed by the president |
+| Executive branch: | election results: percent of National Assembly vote - NA |
+| Executive branch: | note: there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding |
+| Legislative branch: | description: bicameral General Courts or Las Cortes Generales consists of: |
+| Legislative branch: | Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms) |
+| Legislative branch: | Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves byÂ simple majorityÂ vote; members serve 4-year terms or until the government is dissolved) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 28 April 2019 (next to be held no later than April 2023) |
+| Legislative branch: | Congress of Deputies - last held on 28 April 2019 (next to be held no later than April 2023) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - PSOE 121, PP 56, EKC 11, EAJ/PNV 9, C's 4, other 7; composition - men 169, women 97 |
+| Legislative branch: | Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 16.7%, C's 15.9%, Unidos Podemos 14.3%, Vox 10.3%, ERC 3.9%, other 26.1%; seats by party - PSOE 123, PP 66, C's 57, Unidos Podemos 42, Vox 24, ERC 15, other 23; composition - men 184, women 166; percent of women 47.5%; note - totalÂ  General Courts percent ofÂ womenÂ 42.7% |
+| Judicial branch: | highest courts: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the monarch from candidates proposed by the General Council of the Judiciary Power, a 20-member governing board chaired by the monarch that includes presidential appointees, lawyers, and jurists confirmed by the National Assembly; judges can serve until age 70; Constitutional Court judges nominated by the National Assembly, executive branch, and the General Council of the Judiciary, and appointed by the monarch for 9-year terms |
+| Judicial branch: | subordinate courts: National High Court; High Courts of Justice (in each of the autonomous communities); provincial courts; courts of first instance |
+| Political parties and leaders: | Asturias Forum or FAC [Carmen MORIYON] |
+| Political parties and leaders: | Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties) |
+| Political parties and leaders: | Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR] |
+| Political parties and leaders: | Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties) |
+| Political parties and leaders: | Junts per Catalunia or JxCatÂ  [Carles PUIDGEMONT] |
+| Political parties and leaders: | Ciudadanos Party or C's [Albert RIVERA] |
+| Political parties and leaders: | Compromis - Communist Coalition [Joan BALDOVI] |
+| Political parties and leaders: | New Canary or NCa [Pedro QUEVEDOS] |
+| Political parties and leaders: | Unidas Podemos [Pablo IGLESIAS Turrion] (formerly Podemos IU; electoral coalition formed for May 2016 election) |
+| Political parties and leaders: | People's Party or PP [Pablo CASADO] |
+| Political parties and leaders: | Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies] |
+| Political parties and leaders: | Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ] |
+| Political parties and leaders: | JxCat-Junts Together for Catalonia [Jordi SANCHEZ] |
+| Political parties and leaders: | Union of People of Navarra or UPN [Javier ESPARZA] |
+| Political parties and leaders: | Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election) |
+| Political parties and leaders: | Vox or Vox [Santiago ABASCAL] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | Ambassador Santiago CABANAS Ansorena (since 17 September 2018) |
+| Diplomatic representation in the US: | chancery: 2375 Pennsylvania Avenue NW, Washington, DC 20037 |
+| Diplomatic representation in the US: | telephone: [1] (202) 452-0100, 728-2340 |
+| Diplomatic representation in the US: | FAX: [1] (202) 833-5670 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation in the US: | consulate(s): Kansas City (MO) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard Duke BUCHAN III (since 18 January 2018) note - also accredited to Andorra |
+| Diplomatic representation from the US: | telephone: [34] (91) 587-2200 |
+| Diplomatic representation from the US: | embassy: Calle de Serrano 75, 28006 Madrid |
+| Diplomatic representation from the US: | mailing address: PSC 61, APO AE 09642 |
+| Diplomatic representation from the US: | FAX: [34] (91) 587-2303 |
+| Diplomatic representation from the US: | consulate(s) general: Barcelona |
+| Flag description: | three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of "Plus Ultra" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century |
+| Flag description: | note: the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre |
+| National symbol(s): | Pillars of Hercules; national colors: red, yellow |
+| National anthem: | name: "Himno Nacional Espanol" (National Anthem of Spain) |
+| National anthem: | lyrics/music: no lyrics/unknown |
+| National anthem: | note: officially in use between 1770 and 1931, restored in 1939; the Spanish anthem is the first anthem to be officially adopted, but it has no lyrics; in the years prior to 1931 it became known as "Marcha Real" (The Royal March); it first appeared in a 1761 military bugle call book and was replaced by "Himno de Riego" in the years between 1931 and 1939; the long version of the anthem is used for the king, while the short version is used for the prince, prime minister, and occasions such as sporting events |

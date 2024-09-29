@@ -1,0 +1,48 @@
+| Government | Egypt |
+| --- | --- |
+| Country name: | conventional long form: Arab Republic of Egypt |
+| Country name: | conventional short form: Egypt |
+| Country name: | local long form: Jumhuriyat Misr al-Arabiyah |
+| Country name: | local short form: Misr |
+| Country name: | former: United Arab Republic (with Syria) |
+| Government type: | republic |
+| Capital: | name: Cairo |
+| Capital: | geographic coordinates: 30 03 N, 31 15 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Friday in April; ends first Friday in August |
+| Administrative divisions: | 29 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah (El Beheira), Al Fayyum (El Faiyum), Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah (El Monofia), Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur, Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf (Beni Suef), Bur Sa'id (Port Said), Dumyat (Damietta), Helwan, Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh (Western Desert), Qina (Qena), Shamal Sina' (North Sinai), Sittah Uktubar, Suhaj (Sohag) |
+| Independence: | 28 February 1922 (from UK protectorate status; the revolution that began 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn 18 June 1956); note - it was in ca. 3200 B.C. that the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically |
+| National holiday: | Revolution Day, 23 July (1952) |
+| Constitution: | 11 September 1971; amended 22 May 1980, 25 May 2005, and 26 March 2007 |
+| Legal system: | based on Islamic and civil law (particularly Napoleonic codes); judicial review by Supreme Court and Council of State (oversees validity of administrative decisions); accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Mohamed Hosni MUBARAK (since 14 October 1981) |
+| Executive branch: | head of government: Prime Minister Ahmed Mohamed NAZIF (since 9 July 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president elected by popular vote for a six-year term (no term limits); note - a national referendum in May 2005 approved a constitutional amendment that changed the presidential election to a multicandidate popular vote; previously the president was nominated by the People's Assembly and the nomination was validated by a national, popular referendum; last referendum held on 26 September 1999; first election under terms of the constitutional amendment held on 7 September 2005 (next scheduled for 2011) |
+| Executive branch: | election results: Hosni MUBARAK reelected president; percent of vote - Hosni MUBARAK 88.6%, Ayman NOUR 7.6%, Noman GOMAA 2.9% |
+| Legislative branch: | bicameral system consists of the Advisory Council or Majlis al-Shura (Shura Council) that traditionally functions only in a consultative role (264 seats; 176 members elected by popular vote, 88 appointed by the president; members serve six-year terms; mid-term elections for half of the elected members) and the People's Assembly or Majlis al-Sha'b (518 seats; 508 members elected by popular vote, 64 seats reserved for women, 10 appointed by the president; members serve five-year terms) |
+| Legislative branch: | elections: Advisory Council - last held in June 2007 (next to be held in 2013); People's Assembly - last held in November-December 2010 in one round of voting and one run-off election (next to be held in 2015) |
+| Legislative branch: | election results: Advisory Council - percent of vote by party - NA; seats by party - NDP 80, Al-Geel 1, Nasserist 1, NWP 1, Tagammu 1, Tomorrow Party 1, independents 3; People's Assembly - percent of vote by party - NA; seats by party - NDP 419, NWP 6, Tagammu 5, Democratic Peace Party 1, Social Justice Party 1, Tomorrow Party 1, independents 71, seats undecided 4, seats appointed by president 10 |
+| Judicial branch: | Supreme Constitutional Court |
+| Political parties and leaders: | Al-Geel; Democratic Peace Party; Nasserist Party [Ahmed HASSAN]; National Democratic Party or NDP (governing party) [Mohamed Hosni MUBARAK]; National Progressive Unionist Grouping or Tagammu [Rifaat EL-SAID]; New Wafd Party or NWP [Sayed EL-BEDAWY]; Social Justice Party [Mohamed Abdel Al HASAN]; Tomorrow Party [Ayman NOURI] |
+| Political parties and leaders: | note: formation of political parties must be approved by the government; only parties with representation in elected bodies are listed |
+| Political pressure groups and leaders: | Muslim Brotherhood (technically illegal) |
+| Political pressure groups and leaders: | note: despite a constitutional ban against religious-based parties and political activity, the technically illegal Muslim Brotherhood constitutes Egypt's most potentially significant political opposition; President MUBARAK has alternated between tolerating limited political activity by the Brotherhood and blocking its influence (its members compete as independents in elections but do not currently hold any seats in the legislature); civic society groups are sanctioned, but constrained in practical terms; only trade unions and professional associations affiliated with the government are officially sanctioned; Internet social networking groups and bloggers |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, MINURSO, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sameh Hassan SHOUKRY |
+| Diplomatic representation in the US: | chancery: 3521 International Court NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 895-5400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 244-4319 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Margaret SCOBEY |
+| Diplomatic representation from the US: | embassy: 8 Kamal El Din Salah St., Garden City, Cairo |
+| Diplomatic representation from the US: | mailing address: Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo |
+| Diplomatic representation from the US: | telephone: [20] (2) 2797-3300 |
+| Diplomatic representation from the US: | FAX: [20] (2) 2797-3200 |
+| Flag description: | three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white) |
+| Flag description: | note: similar to the flag of Syria, which has two green stars in the white band, Iraq, which has an Arabic inscription centered in the white band, and Yemen, which has a plain white band |
+| National anthem: | name: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland) |
+| National anthem: | lyrics/music: Younis-al QADI/Sayed DARWISH |
+| National anthem: | note: adopted 1979; after the signing of the 1979 peace with Israel, Egypt sought to create an anthem less militaristic than its previous one; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem |

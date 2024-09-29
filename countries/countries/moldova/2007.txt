@@ -1,0 +1,44 @@
+| Government | Moldova |
+| --- | --- |
+| Country name: | conventional long form: Republic of Moldova |
+| Country name: | conventional short form: Moldova |
+| Country name: | local long form: Republica Moldova |
+| Country name: | local short form: Moldova |
+| Country name: | former: Moldavian Soviet Socialist Republic; Moldovan Soviet Socialist Republic |
+| Government type: | republic |
+| Capital: | name: Chisinau (Kishinev) |
+| Capital: | geographic coordinates: 47 00 N, 28 51 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 32 raions (raioane, singular - raionul), 3 municipalities (municipiul), 1 autonomous territorial unit (unitatea teritoriala autonoma), and 1 territorial unit (unitatea teritoriala) |
+| Administrative divisions: | raions: Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan-Voda, Straseni, Taraclia, Telenesti, Ungheni |
+| Administrative divisions: | municipalities: Balti, Bender, Chisinau |
+| Administrative divisions: | autonomous territorial unit: Gagauzia |
+| Administrative divisions: | territorial unit: Stinga Nistrului |
+| Independence: | 27 August 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 27 August (1991) |
+| Constitution: | new constitution adopted 29 July 1994, effective 27 August 1994; replaced old Soviet constitution of 1979 |
+| Legal system: | based on civil law system; Constitutional Court reviews legality of legislative acts and governmental decisions of resolution; accepts many UN and Organization for Security and Cooperation in Europe (OSCE) documents; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Vladimir VORONIN (since 4 April 2001) |
+| Executive branch: | head of government: Prime Minister Vasile TARLEV (since 15 April 2001); First Deputy Prime Minister Zinaida GRECIANII (since 10 October 2005) |
+| Executive branch: | cabinet: Cabinet selected by president, subject to approval of Parliament |
+| Executive branch: | elections: president elected by Parliament for a four-year term (eligible for a second term); election last held 4 April 2005 (next to be held in 2009); note - prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence from the Parliament regarding his/her work program and entire cabinet; prime minister designated 15 April 2001; cabinet received a vote of confidence 19 April 2001 |
+| Executive branch: | election results: Vladimir VORONIN reelected president; parliamentary votes - Vladimir VORONIN 75, Gheorghe DUCA 1; Vasile TARLEV designated prime minister; parliamentary votes of confidence - 75 of 101 |
+| Legislative branch: | unicameral Parliament or Parlamentul (101 seats; parties and electoral blocs elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 6 March 2005 (next to be held in 2009) |
+| Legislative branch: | election results: percent of vote by party - PCRM 46.1%, Democratic Moldova Bloc 28.4%, PPCD 9.1%, other parties 16.4%; seats by party - PCRM 56, Democratic Moldova Bloc 34, PPCD 11 |
+| Judicial branch: | Supreme Court; Constitutional Court (the sole authority for constitutional judicature) |
+| Political parties and leaders: | Christian Democratic People's Party or PPCD [Iurie ROSCA]; Communist Party of the Republic of Moldova or PCRM [Vladimir VORONIN]; Democratic Party or PD [Dumitru DIACOV]; National Liberal Party or NLP [Vitalia PAVLICENKO]; Our Moldova Alliance or AMN [Serafim URECHEAN]; Party for Social Democracy or PSD [Dumitru BRAGHIS]; Social Liberal Party or PSL [Oleg SEREBRIAN] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT, BSEC, CE, CEI, CIS, EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICCt (signatory), IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC, MIGA, OIF, OPCW, OSCE, PFP, SECI, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Nicolae CHIRTOACA |
+| Diplomatic representation in the US: | chancery: 2101 S Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-1130 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-1204 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael D. KIRBY |
+| Diplomatic representation from the US: | embassy: 103 Mateevici Street, Chisinau MD-2009 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [373] (22) 40-8300 |
+| Diplomatic representation from the US: | FAX: [373] (22) 23-3044 |
+| Flag description: | same color scheme as Romania - three equal vertical bands of blue (hoist side), yellow, and red; emblem in center of flag is of a Roman eagle of gold outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized ox head, star, rose, and crescent all in black-outlined yellow |

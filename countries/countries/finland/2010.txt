@@ -1,0 +1,44 @@
+| Government | Finland |
+| --- | --- |
+| Country name: | conventional long form: Republic of Finland |
+| Country name: | conventional short form: Finland |
+| Country name: | local long form: Suomen tasavalta/Republiken Finland |
+| Country name: | local short form: Suomi/Finland |
+| Government type: | republic |
+| Capital: | name: Helsinki |
+| Capital: | geographic coordinates: 60 10 N, 24 56 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 20 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Ita-Uusimaa (Finnish), Ostra Nyland (Swedish) [East Newland]; Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Osterbotten (Swedish), Pohjanmaa (Finnish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland] |
+| Independence: | 6 December 1917 (from Russia) |
+| National holiday: | Independence Day, 6 December (1917) |
+| Constitution: | 1 March 2000 |
+| Legal system: | civil law system based on Swedish law; the president may request the Supreme Court to review laws; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Tarja HALONEN (since 1 March 2000) |
+| Executive branch: | head of government: Prime Minister Mari KIVINIEMI (since 22 June 2010); Deputy Prime Minister Jyrki KATAINEN (since 19 April 2007) |
+| Executive branch: | cabinet: Council of State or Valtioneuvosto appointed by the president, responsible to parliament |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president elected by popular vote for a six-year term (eligible for a second term); election last held on 15 January 2006 (next to be held in January 2012); the president appoints the prime minister and deputy prime minister from the majority party or the majority coalition after parliamentary elections and the parliament must approve the appointment; Prime Minister VANHANEN reelected on 17 April 2007 |
+| Executive branch: | election results: percent of vote - Tarja HALONEN (SDP) 46.3%, Sauli NIINISTO (Kok) 24.1%, Matti VANHANEN (Kesk) 18.6%, Heidi HAUTALA (VIHR) 3.5%; a runoff election between HALONEN and NIINISTO was held 29 January 2006 - HALONEN 51.8%, NIINISTO 48.2%; Matti VANHANEN reelected prime minister; election results 121-71 |
+| Executive branch: | note: government coalition - Kesk, KOK, VIHR, and SFP |
+| Legislative branch: | unicameral Parliament or Eduskunta (200 seats; members elected by popular vote on a proportional basis to serve four-year terms) |
+| Legislative branch: | elections: last held on 18 March 2007 (next to be held in April 2011) |
+| Legislative branch: | election results: percent of vote by party - Kesk 23.1%, Kok 22.3%, SDP 21.4%, VAS 8.8%, VIHR 8.5%, KD 4.9%, SFP 4.5%, True Finns 4.1%, other 3.4%; seats by party - Kesk 51, Kok 50, SDP 45, VAS 17, VIHR 15, SFP 9, KD 7, True Finns 5, other 1 (the constituency of Aland) |
+| Judicial branch: | general courts - deal with criminal and civil cases (include district courts, Courts of Appeal, and the Supreme Court or Korkein Oikeus, whose judges are appointed by the president); administrative courts |
+| Political parties and leaders: | Center Party or Kesk [Mari KIVINIEMI]; Christian Democrats or KD [Paivi RASANEN]; Green Party or VIHR [Anni SINNEMAKI]; Left Alliance or VAS [Paavo ARHINMAKI]; National Coalition Party or Kok [Jyrki KATAINEN]; Social Democratic Party or SDP [Jutta URPILAINEN]; Swedish People's Party or SFP [Stefan WALLIN]; True Finns [Timo SOINI] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNMOGIP, UNRWA, UNTSO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Pekka LINTU |
+| Diplomatic representation in the US: | chancery: 3301 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-5800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-6030 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Bruce J. ORECK |
+| Diplomatic representation from the US: | embassy: Itainen Puistotie 14B, 00140 Helsinki |
+| Diplomatic representation from the US: | mailing address: APO AE 09723 |
+| Diplomatic representation from the US: | telephone: [358] (9) 616250 |
+| Diplomatic representation from the US: | FAX: [358] (9) 6162 5800 |
+| Flag description: | white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter |
+| National anthem: | name: "Maamme" (Our Land) |
+| National anthem: | lyrics/music: Johan Ludvig RUNEBERG/Fredrik PACIUS |
+| National anthem: | note: in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland |

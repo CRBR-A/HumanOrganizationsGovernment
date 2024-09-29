@@ -1,0 +1,65 @@
+| Government | ISRAEL |
+| --- | --- |
+| Country name: | conventional long form: State of Israel |
+| Country name: | conventional short form: Israel |
+| Country name: | local long form: Medinat Yisra'el |
+| Country name: | local short form: Yisra'el |
+| Government type: | parliamentary democracy |
+| Capital: | name: Jerusalem: note - Israel proclaimed Jerusalem as its capital in 1950, but the US, like all other countries, maintains its embassy in Tel Aviv |
+| Capital: | geographic coordinates: 31 46 N, 35 14 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins Friday before the last Sunday in March; ends the last Sunday in October |
+| Administrative divisions: | 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv |
+| Independence: | 14 May 1948 (from League of Nations mandate under British administration) |
+| National holiday: | Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May |
+| Constitution: | no formal constitution; the Declaration of Establishment (1948), the Basic Laws of Israel enacted by the Knesset beginning in 1958, the Nationality Law (1952), and the Law of Return (1950) have constitutional law status; note - several of the Basic Laws and the latter two laws have been amended (2015) |
+| Legal system: | mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; withdrew acceptance of ICCt jurisdiction in 2002 |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President  Reuven RIVLIN  (since 27 July 2014) |
+| Executive branch: | head of government: Prime Minister Binyamin NETANYAHU (since 31 March 2009) |
+| Executive branch: | cabinet: Cabinet selected by prime minister and approved by the Knesset |
+| Executive branch: | elections/appointments: president indirectly elected by the Knesset for a 7-year term (limited to 1 term); election last held on 10 June 2014 (next to be held in 2021 but can be called earlier); following legislative elections, the president, in consultation with party leaders, selects a Knesset member as prime minister most likely to form a new government |
+| Executive branch: | election results: Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53 , other/invalid 4 |
+| Legislative branch: | description: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 17 March 2015 (next to be held in 2019, but can be called earlier) |
+| Legislative branch: | election results: percent of vote by party - Likud 23.4%, Zionist Camp 18.7%, Joint List 10.5%, Yesh Atid 8.8%, Kukanu 7.5%, Bayit Yehudi 6.7%, Shas, 5.7%, Israel Beitenu 5.1%, United Torah Judaism 5%, Meretz 3.9%, Yachad 3%, other 1.7%; seats by party - Likud 30, Zionist Camp 24, Joint List 13, Yesh Atid 11, Kulanu 10, Bayit Yehudi 8, Shas 7, Yisrael Beitenu 6, , United Torah Judaism 6, Meretz 5 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and 14 judges) |
+| Judicial branch: | judge selection and term of office: judges selected by the Judicial Selection Committee, made up of all 3 branches of the government and chaired by the Minister of Justice; judges can serve up to mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: district and magistrate courts; national and regional labor courts; special and religious courts |
+| Political parties and leaders: | Balad [Jamal ZAHALKA] |
+| Political parties and leaders: | Democratic Front for Peace and Equality (HADASH) [Muhammad BARAKEH] |
+| Political parties and leaders: | Kadima [Shaul MOFAZ] |
+| Political parties and leaders: | Kulanu [Moshe KAHLON] |
+| Political parties and leaders: | Labor Party [Isaac HERZOG] |
+| Political parties and leaders: | Likud [Binyamin NETANYAHU] |
+| Political parties and leaders: | National Union [Uri ARIEL] |
+| Political parties and leaders: | SHAS [Eliyahu YISHAI] |
+| Political parties and leaders: | The Jewish Home (Bayit Yehudi) [Naftali BENNETT] |
+| Political parties and leaders: | The Movement (Hatnuah) [Tzipora "Tzipi" LIVNI] |
+| Political parties and leaders: | The New Movement-Meretz [Haim ORON] |
+| Political parties and leaders: | The Zionist Camp (established for March 2015 election purposes) |
+| Political parties and leaders: | United Arab List-Ta'al [Ibrahim SARSUR] |
+| Political parties and leaders: | United Torah Judaism or UTJ [Yaakov LITZMAN] (an alliance of three parties) |
+| Political parties and leaders: | Yesh Atid [Yair LAPID] |
+| Political parties and leaders: | Yisrael Beiteinu or YB [Avigdor LIEBERMAN] |
+| Political pressure groups and leaders: | Breaking the Silence [Yehuda SHAUL, Executive Director] collects testimonies from soldiers who served in the West Bank and Gaza Strip |
+| Political pressure groups and leaders: | B'Tselem [Jessica MONTELL, Executive Director] monitors human rights abuses |
+| Political pressure groups and leaders: | Peace Now [Yariv OPPENHEIMER, Secretary General] supports territorial concessions in the West Bank and Gaza Strip |
+| Political pressure groups and leaders: | YESHA Council [Danny DAYAN, Chairman] promotes settler interests and opposes territorial compromise |
+| International organization participation: | BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ron DERMER (since 3 December 2013) |
+| Diplomatic representation in the US: | chancery: 3514 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 364-5500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-5607 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Daniel B. SHAPIRO (since 29 September 2011) |
+| Diplomatic representation from the US: | embassy: 71 Hayarkon Street, Tel Aviv 6343229 |
+| Diplomatic representation from the US: | telephone: [972] (3) 519-7475 |
+| Diplomatic representation from the US: | FAX: [972] (3) 516-4390 |
+| consulate(s) general: | Flag description: |
+| consulate(s) general: | white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times |
+| National symbol(s): | Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white |
+| National anthem: | name: "Hatikvah" (The Hope) |
+| National anthem: | lyrics/music: Naftali Herz IMBER/traditional, arranged by Samuel COHEN |
+| National anthem: | note: adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart) |

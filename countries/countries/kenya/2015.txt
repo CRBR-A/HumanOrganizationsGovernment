@@ -1,0 +1,72 @@
+| Government | KENYA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kenya |
+| Country name: | conventional short form: Kenya |
+| Country name: | local long form: Republic of Kenya/Jamhuri ya Kenya |
+| Country name: | local short form: Kenya |
+| Country name: | former: British East Africa |
+| Government type: | republic |
+| Capital: | name: Nairobi |
+| Capital: | geographic coordinates: 1 17 S, 36 49 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot |
+| Independence: | 12 December 1963 (from the UK) |
+| National holiday: | Independence Day, 12 December (1963); Madaraka Day, 1 June (1963); Mashujaa Day (or Heroes' Day), 20 October (2010) |
+| Constitution: | previous 1963, 1969; latest drafted 6 May 2010, passed by referendum 4 August 2010, promulgated 27 August 2010 (2013) |
+| Legal system: | mixed legal system of English common law, Islamic law, and customary law; judicial review in a new Supreme Court established pursuant to the new constitution |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - position of the prime minister abolished after the March 2013 elections |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in each of more than half of the 47 counties to avoid a runoff; election last held on 4 March 2013 (next to be held in 2017 or 2018) |
+| Executive branch: | election results: Uhuru KENYATTA elected president in first round; percent of vote - Uhuru KENYATTA (TNA) 50.1%, Raila ODINGA (ODM) 43.7%, Musalia MUDAVADI (UDF) 4.0%, other 2.2% |
+| Legislative branch: | description: bicameral parliament consists of the Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms) and the National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 4 March 2013 (next to be held in 2017 or 2018) |
+| Legislative branch: | election results: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Alliance (TNA 17, URP 12, NARC 1); CORD Coalition (ODM 17, FORD-K 5, WDM-K 5, other 1); Amani Coalition (KANU 3, UDF 3); APK 3; National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee ALliance (TNA 89, URP 75, NARC 3), CORD Coalition (ODM 96, WDM-K 26, FORD-K 10, other 9), Amani Coalition (UDF 12, KANU 6, NFK 6), APK 5, FORD-P 4, independent 4, other 4 |
+| Judicial branch: | highest court(s): Supreme Court (consists of chief and deputy chief justices and 5 judges) |
+| Judicial branch: | judge selection and term of office: chief and deputy chief justices nominated by Judicial Service Commission (JSC) and appointed by president with approval of the National Assembly; other judges nominated by the JSC and appointed by president; chief justice serves nonrenewable 10-year terms or till age 70 whichever comes first; other judges serve till age 70 |
+| Judicial branch: | subordinate courts: High Court; Court of Appeal; courts martial; magistrates' courts; religious courts |
+| Political parties and leaders: | Alliance Party of Kenya or AKP [Kiraitu MURUNGI] |
+| Political parties and leaders: | Amani Coalition (includes UDF, KANU, NFK) [Musalia MUDAVADI] |
+| Political parties and leaders: | Coalition for Reforms and Democracy or CORD (includes ODM, WDM-K, FORD-K) [Raila ODINGA] |
+| Political parties and leaders: | Forum for the Restoration of Democracy-Kenya or FORD-K [Moses WETANGULA] |
+| Political parties and leaders: | Forum for the Restoration of Democracy-People or FORD-P [Henry OBWOCHA] |
+| Political parties and leaders: | Jubilee Alliance (includes TNA, URP, NARC) [Uhuru KENYATTA] |
+| Political parties and leaders: | Kenya African National Union or KANU [Gideon MOI] |
+| Political parties and leaders: | National Rainbow Coalition or NARC [Charity NGILU] |
+| Political parties and leaders: | New Ford Kenya or NFK [Eugene WAMALWA] |
+| Political parties and leaders: | Orange Democratic Movement Party of Kenya or ODM [Raila ODINGA] |
+| Political parties and leaders: | The National Alliance or TNA [Uhuru KENYATTA] |
+| Political parties and leaders: | United Democratic Forum Party or UDF [Musalia MUDAVADI] |
+| Political parties and leaders: | United Republican Party or URP [William RUTO] |
+| Political parties and leaders: | Wiper Democratic Movement-K or WDM-K (formerly Orange Democratic Movement-Kenya or ODM-K) [Kalonzo MUSYOKA] |
+| Political pressure groups and leaders: | Council of Imams and Preachers of Kenya or CIPK [Sheikh Mohammed DOR] |
+| Political pressure groups and leaders: | Federation of Women Lawyers in Kenya |
+| Political pressure groups and leaders: | Kenya Association of Manufacturers |
+| Political pressure groups and leaders: | Kenya Human Rights Commission or KHRC [Professor Makau MUTUA] |
+| Political pressure groups and leaders: | Kenya Private Sector Alliance |
+| Political pressure groups and leaders: | Kenyans for Peace with Truth and Justice (umbrella group of more than 30 NGOs) |
+| Political pressure groups and leaders: | Muslim Human Rights Forum [Ali-Amin KIMATHI] |
+| Political pressure groups and leaders: | National Muslim Leaders Forum or NAMLEF [Abdullahi ABDI] |
+| Political pressure groups and leaders: | Protestant National Council of Churches of Kenya or NCCK [Canon Peter Karanja MWANGI] |
+| Political pressure groups and leaders: | Roman Catholic church |
+| Political pressure groups and leaders: | Supreme Council of Kenya Muslims or SUPKEM [Hassan Ole NAADO, secretary general] |
+| Political pressure groups and leaders: | other: labor unions, other Christian churches |
+| International organization participation: | ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNWTO, UPU, WCO, WHO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Robinson GITHAE (since 18 November 2014) |
+| Diplomatic representation in the US: | chancery: 2249 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-6101 |
+| Diplomatic representation in the US: | FAX: [1] (202) 462-3829 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles |
+| Diplomatic representation in the US: | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert F. GODEC (since 16 January 2013) |
+| Diplomatic representation from the US: | embassy: US Embassy, United Nations Avenue, Nairobi; P. O. Box 606 Village Market, Nairobi 00621 |
+| Diplomatic representation from the US: | mailing address: American Embassy Nairobi, U.S. Department of State, Washington, DC 20521-8900 |
+| Diplomatic representation from the US: | telephone: [254] (20) 363-6000 |
+| Diplomatic representation from the US: | FAX: [254] (20) 363-6157 |
+| Flag description: | three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom |
+| National symbol(s): | lion; national colors: black, red, green, white |
+| National anthem: | name: "Ee Mungu Nguvu Yetu" (Oh God of All Creation) |
+| National anthem: | lyrics/music: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE/traditional, adapted by Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE |
+| National anthem: | note: adopted 1963; based on a traditional Kenyan folk song |

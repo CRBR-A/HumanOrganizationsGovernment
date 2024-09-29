@@ -1,0 +1,61 @@
+| Government | China |
+| --- | --- |
+| Country name: | conventional long form: People's Republic of China |
+| Country name: | conventional short form: China |
+| Country name: | local long form: Zhonghua Renmin Gongheguo |
+| Country name: | local short form: Zhongguo |
+| Country name: | abbreviation: PRC |
+| Country name: | etymology: English name derives from the Qin (Chin) rulers of the 3rd century B.C., who comprised the first imperial dynasty of ancient China; the Chinese name Zhongguo translates as "Central Nation" or "Middle Kingdom" |
+| Government type: | communist party-led state |
+| Capital: | name: Beijing |
+| Capital: | geographic coordinates: 39 55 N, 116 23 E |
+| Capital: | time difference: UTC+8 (13 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | note: China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five |
+| Capital: | etymology: the Chinese meaning is "Northern Capital" |
+| Administrative divisions: | 23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural) |
+| Administrative divisions: | provinces: Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan); |
+| Administrative divisions: | autonomous regions: Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uygur, Xizang (Tibet); |
+| Administrative divisions: | municipalities: Beijing, Chongqing, Shanghai, Tianjin |
+| Administrative divisions: | note: China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau |
+| Independence: | 1 October 1949 (People's Republic of China established); notable earlier dates: 221 B.C. (unification under the Qin Dynasty); 1 January 1912 (Qing Dynasty replaced by the Republic of China) |
+| National holiday: | National Day (anniversary of the founding of the People's Republic of China), 1 October (1949) |
+| Constitution: | history: several previous; latest promulgated 4 December 1982 |
+| Constitution: | amendments: proposed by the Standing Committee of the National Peopleâ€™s Congress or supported by more than one fifth of the National Peopleâ€™s Congress membership; passage requires more than two-thirds majority vote of the Congress membership; amended several times, last in 2018 (2018) |
+| Legal system: | civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes; note - in March 2017, the National People's Congress passed a new civil code, the General Rules of Civil Law, which became effective the following October |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: least one parent must be a citizen of China |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: while naturalization is theoretically possible, in practical terms it is extremely difficult; residency is required but not specified |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President XI Jinping (since 14 March 2013); Vice President WANG Qishan (since 17 March 2018) |
+| Executive branch: | head of government: Premier LI Keqiang (since 16 March 2013); Executive Vice Premiers HAN Zheng (since 19 March 2018), SUN Chunlan (since 19 March 2018), LIU He (since 19 March 2018), HU Chunhua (since 19 March 2018) |
+| Executive branch: | cabinet: State Council appointed by National People's Congress |
+| Executive branch: | elections/appointments: president and vice president indirectly elected by National People's Congress for a 5-year term (unlimited terms); election last held on 17 March 2018 (next to be held in March 2023); premier nominated by president, confirmed by National People's Congress |
+| Executive branch: | election results: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes |
+| Legislative branch: | description: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected |
+| Legislative branch: | elections: last held in December 2017-February 2018 (next to be held in late 2022 to early 2023) |
+| Legislative branch: | election results: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9% |
+| Judicial branch: | highest courts: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases) |
+| Judicial branch: | judge selection and term of office: chief justice appointed by the People's National Congress (NPC); limited to 2 consecutive 5-year-terms; other justices and judges nominated by the chief justice and appointed by the Standing Committee of the NPC; term of other justices and judges determined by the NPC |
+| Judicial branch: | subordinate courts: Higher People's Courts; Intermediate People's Courts; District and County People's Courts; Autonomous Region People's Courts; International Commercial Courts; Special People's Courts for military, maritime, transportation, and forestry issues |
+| Judicial branch: | note: in late 2014, China unveiled a multi-year judicial reform program; progress continued in 2018 |
+| Political parties and leaders: | Chinese Communist Party or CCP [XI Jinping] |
+| Political parties and leaders: | note: China has 8 nominally independent small parties controlled by the CCP |
+| International organization participation: | ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | Ambassador CUI Tiankai (since 3 April 2013) |
+| Diplomatic representation in the US: | chancery: 3505 International Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 495-2266 |
+| Diplomatic representation in the US: | FAX: [1] (202) 495-2138 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Terry BRANSTAD (since 12 July 2017) |
+| Diplomatic representation from the US: | telephone: [86] (10) 8531-3000 |
+| Diplomatic representation from the US: | embassy: 55 An Jia Lou Lu, 100600 Beijing |
+| Diplomatic representation from the US: | mailing address: PO AP 96521 |
+| Diplomatic representation from the US: | FAX: [86] (10) 8531-3300 |
+| Diplomatic representation from the US: | consulate(s) general: Chengdu, Guangzhou, Shanghai, Shenyang, Wuhan |
+| Flag description: | red with a large yellow five-pointed star and four smaller yellow five-pointed stars (arranged in a vertical arc toward the middle of the flag) in the upper hoist-side corner; the color red represents revolution, while the stars symbolize the four social classes - the working class, the peasantry, the urban petty bourgeoisie, and the national bourgeoisie (capitalists) - united under the Communist Party of China |
+| National symbol(s): | dragon, giant panda; national colors: red, yellow |
+| National anthem: | name: "Yiyongjun Jinxingqu" (The March of the Volunteers) |
+| National anthem: | lyrics/music: TIAN Han/NIE Er |
+| National anthem: | note: adopted 1949; the anthem, though banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm" |

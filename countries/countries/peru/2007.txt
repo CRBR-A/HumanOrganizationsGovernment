@@ -1,0 +1,40 @@
+| Government | Peru |
+| --- | --- |
+| Country name: | conventional long form: Republic of Peru |
+| Country name: | conventional short form: Peru |
+| Country name: | local long form: Republica del Peru |
+| Country name: | local short form: Peru |
+| Government type: | constitutional republic |
+| Capital: | name: Lima |
+| Capital: | geographic coordinates: 12 03 S, 77 03 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC during Standard Time) |
+| Administrative divisions: | 25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali |
+| Independence: | 28 July 1821 (from Spain) |
+| National holiday: | Independence Day, 28 July (1821) |
+| Constitution: | 29 December 1993 |
+| Legal system: | based on civil law system; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory until the age of 70; note - for the first time in recent elections, members of the military and national police were eligible to vote in the 2006 elections |
+| Executive branch: | chief of state: President Alan GARCIA Perez (since 28 July 2006); First Vice President Luis GIAMPIETRI Rojas; Second Vice President Lourdes MENDOZA del Solar (since 28 July 2006); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Alan GARCIA Perez (since 28 July 2006); First Vice President Luis GIAMPIETRI Rojas; Second Vice President Lourdes MENDOZA del Solar (since 28 July 2006) |
+| Executive branch: | note: Prime Minister Jorge DEL CASTILLO Galvez (since 28 August 2006) does not exercise executive power; this power is in the hands of the president |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); presidential and congressional elections held 9 April 2006 with runoff election held 4 June 2006; next to be held in April 2011 |
+| Executive branch: | election results: Alan GARCIA elected president in runoff election; percent of vote - Alan GARCIA 52.5%, Ollanta HUMALA Tasso 47.5% |
+| Legislative branch: | unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (120 seats; members are elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held 9 April 2006 (next to be held in April 2011) |
+| Legislative branch: | election results: percent of vote by party - UPP 21.2%, PAP 20.6%, UN 15.3%, AF 13.1%, FC 7.1%, PP 4.1%, RN 4.0%, other 14.6%; seats by party - UPP 45, PAP 36, UN 17, AF 13, FC 5, PP 2, RN 2 |
+| Judicial branch: | Supreme Court of Justice or Corte Suprema de Justicia (judges are appointed by the National Council of the Judiciary) |
+| Political parties and leaders: | Alliance For Progress (Alianza Para El Progreso) [Cesar ACUNA Peralta]; Alliance For The Future (Alianza Por El Futuro) or AF [Martha CHAVEZ Cossio] (a coalition of pro-FUJIMORI parties including Cambio 90, Nueva Mayoria, and Si Cumple); Centrist Front (Frente Del Centro) or FC [Drago KISIC] (a coalition of Accion Popular, Somos Peru, and Coordinadora Nacional de Independientes); Independent Moralizing Front (Frente Independiente Moralizador) or FIM [Fernando OLIVERA Vega]; Nationalist Party Uniting Peru (Partido Nacionalista Uniendo al Peru) or UPP [Ollanta HUMALA Tasso] (a coalition of Union for Peru (UPP) and Peruvian Nationalist Party (PNP)); National Restoration (Restauracion Nacional) or RN [Humberto LAY Sun]; National Unity (Unidad Nacional) or UN [Lourdes FLORES Nano]; Peru Possible (Peru Posible) or PP [David WAISMAN]; Peruvian Aprista Party (Partido Aprista Peruano) or PAP [Alan GARCIA] (also referred to by its original name Alianza Popular Revolucionaria Americana or APRA) |
+| Political pressure groups and leaders: | leftist guerrilla groups include Shining Path [Abimael GUZMAN Reynoso (imprisoned), Gabriel MACARIO (top leader at-large)]; Tupac Amaru Revolutionary Movement or MRTA [Victor POLAY (imprisoned), Hugo AVALLENEDA Valdez (top leader at-large)] |
+| International organization participation: | APEC, CAN, CSN, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUC, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UN Security Council (temporary), UNCTAD, UNESCO, UNIDO, Union Latina, UNMEE, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Felipe ORTIZ de Zevallos |
+| Diplomatic representation in the US: | chancery: 1700 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 833-9860 through 9869 |
+| Diplomatic representation in the US: | FAX: [1] (202) 659-8124 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Denver, Hartford, Houston, Los Angeles, Miami, New York, Paterson (New Jersey), San Francisco, Washington, DC |
+| Diplomatic representation from the US: | chief of mission: Ambassador J. Curtis STRUBLE |
+| Diplomatic representation from the US: | embassy: Avenida La Encalada, Cuadra 17s/n, Surco, Lima 33 |
+| Diplomatic representation from the US: | mailing address: P. O. Box 1995, Lima 1; American Embassy (Lima), APO AA 34031-5000 |
+| Diplomatic representation from the US: | telephone: [51] (1) 434-3000 |
+| Diplomatic representation from the US: | FAX: [51] (1) 618-2397 |
+| Flag description: | three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna, cinchona tree (the source of quinine), and a yellow cornucopia spilling out gold coins, all framed by a green wreath |

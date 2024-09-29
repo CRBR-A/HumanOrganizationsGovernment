@@ -1,0 +1,37 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Democratic and Popular Republic of Algeria |
+| Country name: | conventional short form: Algeria |
+| Country name: | local long form: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Shabiyah |
+| Country name: | local short form: Al Jaza'ir |
+| Data code: | AG |
+| Government type: | republic |
+| Capital: | Algiers |
+| Administrative divisions: | 48 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanghasset, Tebessa, Tiaret, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen |
+| Independence: | 5 July 1962 (from France) |
+| National holiday: | Anniversary of the Revolution, 1 November (1954) |
+| Constitution: | 19 November 1976, effective 22 November 1976; revised 3 November 1988, 23 February 1989, and 28 November 1996; note - referendum approving the revisions of 28 November 1996 was signed into law 7 December 1996 |
+| Legal system: | socialist, based on French and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials, including several Supreme Court justices; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Abdelaziz BOUTEFLIKA (since 28 April 1999) |
+| Executive branch: | head of government: Prime Minister Ahmed BENBITOUR (since 2 December 1999) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 15 April 1999 (next to be held NA April 2004); prime minister appointed by the president |
+| Executive branch: | election results: Abdelaziz BOUTEFLIKA elected president; percent of vote - Abdelaziz BOUTEFLIKA 70%; note - six of the seven candidates withdrew sighting persistent electoral fraud |
+| Legislative branch: | bicameral Parliament consists of the National People's Assembly or Al-Majlis Ech-Chaabi Al-Watani (380 seats; members elected by popular vote to serve four-year terms) and the Council of Nations (144 seats; one-third of the members appointed by the president, two-thirds elected by indirect vote; members serve six-year terms; created as a result of the constitutional revision of November 1996) |
+| elections: | National People's Assembly - last held 5 June 1997 (next to be held NA 2001); elections for two-thirds of the Council of Nations - last held 25 December 1997 (next to be held NA 2003) |
+| election results: | National People's Assembly - percent of vote by party - RND 40.8%, MSP 18.2%, FLN 16.8%, Nahda Movement 8.9%, FFS 5%, RCD 5%, PT 1.1%, Republican Progressive Party 0.8%, Union for Democracy and Freedoms 0.3%, Liberal Social Party 0.3%, independents 2.8%; seats by party - RND 156, MSP 69, FLN 62, Nahda Movement 34, FFS 20, RCD 19, PT 4, Republican Progressive Party 3, Union for Democracy and Freedoms 1, Liberal Social Party 1, independents 11; Council of Nations - percent of vote by party - NA%; seats by party - RND 80, FLN 10, FFS 4, MSP 2 (remaining 48 seats appointed by the president, party breakdown NA) |
+| Judicial branch: | Supreme Court (Cour Supreme) |
+| Political parties and leaders: | Algerian Democratic Front or FAD [Sid-Ahmed GHOZALI]; Algerian National Front or ANF [Moussa TOUATI]; Algerian Renewal Party or PRA [Noureddine BOUKROUH, chairman]; Democratic National Rally or RND [Ahmed OUYAHIA, chairman]; Islamic Salvation Front or FIS (outlawed April 1992) [Ali BELHADJ, Dr. Abassi MADANI, Rabeh KEBIR (self-exile in Germany)]; Liberal Social Party [Ahmed KHELIL]; Movement for Democracy in Algeria or MDA [Ahmed Ben BELLA]; Movement for Loyalty and Justice [Ahmed Taleb IBRAHIMI, president; Movement of a Peaceful Society or MSP [Mahfoud NAHNAH, chairman]; Nahda Movement or Al Nahda [Abdallah DJABALLAH, president]; National Liberation Front or FLN [Boualem BENHAMOUDA, secretary general]; National Party for Solidarity and Development or PNSD [Rabah BENCHERIF]; National Republican Alliance or ANR [Redha MALEK]; Rally for Culture and Democracy or RCD [Said SAADI, secretary general]; Republican Progressive Party [Khadir DRISS]; Social Democratic Movement or MDS [Hachemi CHERIF]; Socialist Forces Front or FFS [Hocine Ait AHMED, secretary general (self-exile in Switzerland)]; Union for Democracy and Freedoms [Mouley BOUKHALAFA]; Workers Party or PT [Louisa HANOUN] |
+| note: | the government established a multiparty system in September 1989 and, as of 31 December 1990, over 50 legal parties existed; a new party law was enacted in March 1997 |
+| International organization participation: | ABEDA, AfDB, AFESD, AL, AMF, AMU, CCC, ECA, FAO, G-15, G-19, G-24, G-77, IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM (observer), ISO, ITU, MONUC, NAM, OAPEC, OAS (observer), OAU, OIC, OPCW, OPEC, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCL, WHO, WIPO, WMO, WToO, WTrO (applicant) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Idriss JAZAIRY |
+| Diplomatic representation in the US: | chancery: 2118 Kalorama Road NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-2800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-2174 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Cameron R. HUME |
+| Diplomatic representation from the US: | embassy: 4 Chemin Cheikh Bachir El-Ibrahimi, Algiers |
+| Diplomatic representation from the US: | mailing address: B. P. Box 549, Alger-Gare, 16000 Algiers |
+| Diplomatic representation from the US: | telephone: [213] (2) 69-11-86, 69-12-55, 69-18-54, 69-38-75 |
+| Diplomatic representation from the US: | FAX: [213] (2) 69-39-79 |
+| Flag description: | two equal vertical bands of green (hoist side) and white with a red, five-pointed star within a red crescent; the crescent, star, and color green are traditional symbols of Islam (the state religion) |

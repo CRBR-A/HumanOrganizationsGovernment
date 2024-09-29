@@ -1,0 +1,82 @@
+| Government | Guatemala |
+| --- | --- |
+| Country name: | conventional long form: Republic of Guatemala |
+| Country name: | conventional short form: Guatemala |
+| Country name: | local long form: Republica de Guatemala |
+| Country name: | local short form: Guatemala |
+| Country name: | etymology: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country |
+| Government type: | presidential republic |
+| Capital: | name: Guatemala City |
+| Capital: | geographic coordinates: 14 37 N, 90 31 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC, during Standard Time) |
+| Capital: | etymology: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country |
+| Administrative divisions: | 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | history: several previous; latest adopted 31 May 1985, effective 14 January 1986; suspended and reinstated in 1994 |
+| Constitution: | amendments: proposed by the president of the republic, by agreement of 10 or more deputies of Congress, by the Constitutional Court, or by public petition of at least 5,000 citizens; passage requires at least two-thirds majority vote by the Congress membership and approval by public referendum, referred to as "popular consultation"; constitutional articles such as national sovereignty, the republican form of government, limitations on those seeking the presidency, or presidential tenure cannot be amended; amended 1994 (2018) |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years with no absences of six consecutive months or longer or absences totaling more than a year |
+| Suffrage: | 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day |
+| Executive branch: | chief of state: President Jimmy Ernesto MORALES Cabrera (since 14 January 2016); Vice President Jafeth CABRERA Franco (since 14 January 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Jimmy Ernesto MORALES Cabrera (since 14 January 2016); Vice President Jafeth CABRERA Franco (since 14 January 2016) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 16 June 2019 with a runoff on 11 August 2019 (next to be held in June 2023) |
+| Executive branch: | election results: Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.54%, Alejandro GIAMMATTEI (VAMOS) 13.95%, Edmond MULET (PHG) 11.21%, Thelma CABRERA (MLP) 10.37%, Roberto ARZU (PAN-PODEMOS) 6.08%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%; note - the new president will be inaugurated on 14 January 2020 |
+| Legislative branch: | description: unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list,Â proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020 |
+| Legislative branch: | elections: last held on 16 June 2019 (next to be held on June 2023) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1 |
+| Legislative branch: | note: current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9% |
+| Judicial branch: | highest courts: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates) |
+| Judicial branch: | judge selection and term of office: Supreme Court magistrates elected by the Congress of the Republic from candidates proposed by the Postulation Committee, an independent body of deans of the country's university law schools, representatives of the country's law associations, and representatives of the Courts of Appeal; magistrates elected for concurrent, renewable 5-year terms; Constitutional Court judges - 1 elected by the Congress of the Republic, 1 by the Supreme Court, 1 by the president of the republic, 1 by the (public) University of San Carlos, and 1 by the Assembly of the College of Attorneys and Notaries; judges elected for renewable, consecutive 5-year terms; the presidency of the court rotates among the magistrates for a single 1-year term |
+| Judicial branch: | subordinate courts: numerous first instance and appellate courts |
+| Political parties and leaders: | Bienestar Nacional or BIEN [Alfonso PORTILLO and Evelyn MORATAYA] |
+| Political parties and leaders: | Citizen Alliance or AC |
+| Political parties and leaders: | Citizen Prosperity or PC [Dami Anita Elizabeth KRISTENSON Sales] |
+| Political parties and leaders: | Commitment, Renewal, and Order or CREO [Roberto GONZALEZ Diaz-Duran] |
+| Political parties and leaders: | Convergence [Sandra MORAN] |
+| Political parties and leaders: | Encounter for Guatemala or EG [Nineth MONTENEGRO Cottom] |
+| Political parties and leaders: | Everyone Together for Guatemala or TODOS [Felipe ALEJOS] |
+| Political parties and leaders: | Force or FUERZA [Mauricio RADFORD] |
+| Political parties and leaders: | Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Gregorio CHAY Laynez] |
+| Political parties and leaders: | Humanist Party of Guatemala or PHG [Edmond MULET] |
+| Political parties and leaders: | Movement for the Liberation of Peoples or MLP [Thelma CABRERA] |
+| Political parties and leaders: | Movimiento Semilla or SEMILLA [Thelma ALDANA] |
+| Political parties and leaders: | National Advancement Party or PAN [Harald JOHANNESSEN] |
+| Political parties and leaders: | National Convergence Front or FCN-NACION or FCN [Jimmy MORALES] |
+| Political parties and leaders: | National Unity for Hope or UNE [Sandra TORRES] |
+| Political parties and leaders: | Nationalist Change Union or UCN [Mario ESTRADA] |
+| Political parties and leaders: | Patriotic Party or PP |
+| Political parties and leaders: | PODEMOS [Jose Raul VIRGIL Arias] |
+| Political parties and leaders: | Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay] |
+| Political parties and leaders: | Reform Movement or MR |
+| Political parties and leaders: | Renewed Democratic Liberty or LIDER (dissolved mid-February 2016) |
+| Political parties and leaders: | TODOS [Felipe ALEJOS] |
+| Political parties and leaders: | Unionista Party or PU [Alvaro ARZU Escobar] |
+| Political parties and leaders: | Value or VALOR [Zury RIOS] |
+| Political parties and leaders: | Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI] |
+| Political parties and leaders: | Victory or VICTORIA [Amilcar RIVERA] |
+| Political parties and leaders: | Vision with Values or VIVA [Armando Damian CASTILLO Alvarado] |
+| Political parties and leaders: | note: parties represented in the last election, but have since dissolved - FCN (2017), LIDER (2016), and PP (2017) |
+| International organization participation: | BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Manuel Alfredo ESPINA Pinto (since 8 September 2017) |
+| Diplomatic representation in the US: | chancery: 2220 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 745-4952 |
+| Diplomatic representation in the US: | FAX: [1] (202) 745-1908 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Del Rio (TX), Denver, Houston, Los Angeles, McAllen (TX), Miami, New York, Oklahoma City, Philadelphia, Phoenix, Providence (RI), Raleigh (NC), San Bernardino (CA), San Francisco, Seattle |
+| Diplomatic representation in the US: | consulate(s): Lake Worth (FL), Tucson (AZ) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Luis E. ARREAGA (since 4 October 2017) |
+| Diplomatic representation from the US: | telephone: [502] 2326-4000 |
+| Diplomatic representation from the US: | embassy: 7-01 Avenida Reforma, Zone 10, Guatemala City |
+| Diplomatic representation from the US: | mailing address: DPO AA 34024 |
+| Diplomatic representation from the US: | FAX: [502] 2326-4654 |
+| Flag description: | three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity |
+| Flag description: | note: one of only two national flags featuring a firearm, the other is Mozambique |
+| National symbol(s): | quetzal (bird); national colors: blue, white |
+| National anthem: | name: "Himno Nacional de Guatemala" (National Anthem of Guatemala) |
+| National anthem: | lyrics/music: Jose Joaquin PALMA/Rafael Alvarez OVALLE |
+| National anthem: | note: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911 |

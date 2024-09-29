@@ -1,0 +1,80 @@
+| Government | ITALY |
+| --- | --- |
+| Country name: | conventional long form: Italian Republic |
+| Country name: | conventional short form: Italy |
+| Country name: | local long form: Repubblica Italiana |
+| Country name: | local short form: Italia |
+| Country name: | former: Kingdom of Italy |
+| Country name: | etymology: derivation is unclear, but the Latin "Italia" may come from the Oscan "Viteliu" meaning "[land] of young cattle" (the bull was a symbol of southern Italic tribes) |
+| Government type: | parliamentary republic |
+| Capital: | name: Rome |
+| Capital: | geographic coordinates: 41 54 N, 12 29 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma) |
+| Administrative divisions: | regions: Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto (Venetia) |
+| Administrative divisions: | autonomous regions: Friuli-Venezia Giulia; Sardegna (Sardinia); Sicilia (Sicily); Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German); Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French) |
+| Independence: | 17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1871) |
+| National holiday: | Republic Day, 2 June (1946) |
+| Constitution: | history: previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948 |
+| Constitution: | amendments: proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one-fifth of the members of either house, by voter petition, or by five Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); amended many times, last in 2012; note - a referendum held on 4 December 2016 on constitutional amendments was defeated (2016) |
+| Legal system: | civil law system; judicial review of legislation under certain conditions in Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Italy |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 4 years for EU nationals, 5 years for refugees and specified exceptions, 10 years for all others |
+| Suffrage: | 18 years of age; universal except in senatorial elections, where minimum age is 25 |
+| Executive branch: | chief of state: President Sergio MATTARELLA (since 3 February 2015); Giorgio NAPOLITANO resigned 14 January 2015 |
+| Executive branch: | head of government: Prime Minister Paolo GENTILONI (since 12 December 2016); note - Prime Minister Matteo RENZI (since 22 February 2014) resigned 12 December 2016; the prime minister title is President of the Council of Ministers |
+| Executive branch: | cabinet: Council of Ministers proposed by the prime minister and nominated by the president |
+| Executive branch: | elections/appointments: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 31 January 2015 (next scheduled for 2020); prime minister appointed by the president, confirmed by parliament |
+| Executive branch: | election results: Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 1,009 (505-vote threshold); Matteo RENZI (PD) sworn in as prime minister on 22 February 2014 |
+| Legislative branch: | description: bicameral Parliament or Parlamento consists of the Senate or Senato della Repubblica (322 seats; 315 members directly elected in single- and multi-seat constituencies by proportional representation vote to serve 5-year terms and 7 ex-officio members appointed by the president of the Republic to serve for life) and the Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms) |
+| Legislative branch: | elections: Senate - last held on 24-25 February 2013 (next to be held in 2018); Chamber of Deputies - last held on 24-25 February 2013 (next to be held in 2018) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - center-left coalition 123 (PD 111, SEL 7, SVP 2, other 3), center-right coalition 117 (PdL 98, LN 18, other 1), M5S 54, centrist coalition 19, other 2; Chamber of Deputies - percent of vote by party - NA; seats by party - center-left coalition 345 (PD 297, SEL 37, CD 6 SVP 5), center-right coalition 125 (PdL 98, LN 18, FdI 9), M5S 109, centrist coalition 47, other 3 |
+| Judicial branch: | highest court(s): Supreme Court of Cassation or Corte Suprema di Cassazione consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels; Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the High Council of the Judiciary, headed by the president of the republic; judges may serve for life; Constitutional Court judges - 5 appointed by the president, 5 elected by parliament, 5 elected by select higher courts; judges serve up to 9 years |
+| Judicial branch: | subordinate courts: various lower civil and criminal courts (primary and secondary tribunals, courts, and courts of appeal) |
+| Political parties and leaders: | Ruling left-center-right coalition: |
+| Political parties and leaders: | Civic Choice or SC [Enrico ZANETTI] |
+| Political parties and leaders: | Democratic Centre or CD [Bruno TABACCI] |
+| Political parties and leaders: | Democratic Party or PD [Matteo RENZI] |
+| Political parties and leaders: | The New Center-Right or NCD [Angelino ALFANO] |
+| Political parties and leaders: | Union of the Center or UdC [Pier Fernando CASINI] |
+| Center-right opposition: | Brothers of Italy-National Alliance or FdI-AN [Giorgia MELONI, Ignazio LA RUSSA, and Guido CROSETTO] |
+| Center-right opposition: | Forza Italia [Silvio BERLUSCONI] (formerly PdL) |
+| Center-right opposition: | Northern League or LN [Matteo SALVINI] |
+| Center-right opposition: | other minor parties |
+| Other parties: | Civil Revolution or RC [Antonio INGROIA] |
+| Other parties: | Five Star Movment or M5S [Beppe GRILLO] |
+| Other parties: | South Tyrolean People's Party or SVP [Philipp ACHAMMER] |
+| Political pressure groups and leaders: | manufacturers and merchants associations: Confcommercio |
+| Political pressure groups and leaders: | Confindustria |
+| Political pressure groups and leaders: | organized farm groups: Confcoltivatori |
+| Political pressure groups and leaders: | Confagricoltura |
+| Political pressure groups and leaders: | major trade union confederations: Confederazione Generale Italiana del Lavoro or CGIL [Susanna CAMUSSO] (left wing) |
+| Political pressure groups and leaders: | Confederazione Italiana dei Sindacati Lavoratori or CISL [Raffaele BONANNI] (Roman Catholic centrist) |
+| Political pressure groups and leaders: | Unione Italiana del Lavoro or UIL [Luigi ANGELETTI] (lay centrist) |
+| Political pressure groups and leaders: | other: Roman Catholic Church |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Armando VARRICCHIO (since 2 March 2016) |
+| Diplomatic representation in the US: | chancery: 3000 Whitehaven Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 612-4400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 518-2151 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Detroit, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco |
+| Diplomatic representation in the US: | consulate(s): Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle |
+| Diplomatic representation in the US: | consular agency(ies): Anchorage (AL), Charleston (SC), Worcester (MA) |
+| Diplomatic representation from the US: | chief of mission: Ambassador John R. PHILLIPS (since 3 October 2013); note - also accredited to San Marino |
+| Diplomatic representation from the US: | embassy: Via Vittorio Veneto 121, 00187-Rome |
+| Diplomatic representation from the US: | mailing address: PSC 59, Box 100, APO AE 09624 |
+| Diplomatic representation from the US: | telephone: [39] (06) 46741 |
+| Diplomatic representation from the US: | FAX: [39] (06) 4674-2244 |
+| Diplomatic representation from the US: | consulate(s) general: Florence, Milan, Naples |
+| Diplomatic representation from the US: | consular agency(ies): Anchorage (AK), Charleston (SC), Worcester (MA) |
+| Flag description: | three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard |
+| Flag description: | note: similar to the flag of Mexico, which is longer, uses darker shades of red and green, and has its coat of arms centered on the white band; Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green |
+| National symbol(s): | white, five-pointed star (Stella d'Italia); national colors: red, white, green |
+| National anthem: | name: "Il Canto degli Italiani" (The Song of the Italians) |
+| National anthem: | lyrics/music: Goffredo MAMELI/Michele NOVARO |
+| National anthem: | note: adopted 1946; the anthem, originally written in 1847, is also known as "L'Inno di Mameli" (Mameli's Hymn), and "Fratelli D'Italia" (Brothers of Italy) |

@@ -1,0 +1,67 @@
+| Government | Kenya |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kenya |
+| Country name: | conventional short form: Kenya |
+| Country name: | local long form: Republic of Kenya/Jamhuri ya Kenya |
+| Country name: | local short form: Kenya |
+| Country name: | former: British East Africa |
+| Country name: | etymology: named for Mount Kenya; the meaning of the name is unclear but may derive from the Kikuyu, Embu, and Kamba words "kirinyaga," "kirenyaa," and "kiinyaa" - all of which mean "God's resting place" |
+| Government type: | presidential republic |
+| Capital: | name: Nairobi |
+| Capital: | geographic coordinates: 1 17 S, 36 49 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the name derives from the Maasai expression meaning "cool waters" and refers to a cold water stream that flowed through the area in the late 19th century |
+| Administrative divisions: | 47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot |
+| Independence: | 12 December 1963 (from the UK) |
+| National holiday: | Jamhuri Day (Independence Day), 12 December (1963); note - Madaraka Day, 1 June (1963) marks the day Kenya attained internal self-rule |
+| Constitution: | history: previous 1963, 1969; latest drafted 6 May 2010, passed by referendum 4 August 2010, promulgated 27 August 2010 |
+| Constitution: | amendments: proposed by either house of Parliament or by petition of at least one million eligible voters; passage of amendments by Parliament requires approval by at least two-thirds majority vote of both houses in each of two readings, approval in a referendum by majority of votes cast by at least 20% of eligible voters in at least one half of Kenyaâ€™s counties, and approval by the president; passage of amendments introduced by petition requires approval by a majority of county assemblies, approval by majority vote of both houses, and approval by the president (2017) |
+| Legal system: | mixed legal system of English common law, Islamic law, and customary law; judicial review in the new Supreme Court established by the new constitution |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Kenya |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 4 out of the previous 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - position of the prime minister was abolished after the March 2013 elections |
+| Executive branch: | cabinet: Cabinet appointed by the president, subject to confirmation by the National Assembly |
+| Executive branch: | elections/appointments: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in at least 24 of the 47 counties to avoid a runoff; election last held on 26 October 2017 (next to be held in 2022) |
+| Executive branch: | election results: Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote |
+| Legislative branch: | description: bicameral Parliament consists of: |
+| Legislative branch: | Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms) |
+| Legislative branch: | National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms) |
+| Legislative branch: | elections: Senate - last held on 8 August 2017 (next to be held in August 2022) |
+| Legislative branch: | National Assembly - last held on 8 August 2017 (next to be held in August 2022) |
+| Legislative branch: | election results: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3% |
+| Legislative branch: | National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23% |
+| Judicial branch: | highest courts: Supreme Court (consists of chief and deputy chief justices and 5 judges) |
+| Judicial branch: | judge selection and term of office: chief and deputy chief justices nominated by Judicial Service Commission (JSC) and appointed by the president with approval of the National Assembly; other judges nominated by the JSC and appointed by president; chief justice serves a nonrenewable 10-year term or until age 70, whichever comes first; other judges serve until age 70 |
+| Judicial branch: | subordinate courts: High Court; Court of Appeal; military courts; magistrates' courts; religious courts |
+| Political parties and leaders: | Alliance Party of Kenya or APK [Kiraitu MURUNGI] |
+| Political parties and leaders: | Amani National Congress or ANC [Musalia MUDAVADI] |
+| Political parties and leaders: | Federal Party of Kenya or FPK [Cyrus JIRONGA] |
+| Political parties and leaders: | Forum for the Restoration of Democracy-Kenya or FORD-K [Moses WETANGULA] |
+| Political parties and leaders: | Forum for the Restoration of Democracy-People or FORD-P [Henry OBWOCHA] |
+| Political parties and leaders: | Jubilee Party [Uhuru KENYATTA] |
+| Political parties and leaders: | Kenya African National Union or KANU [Gideon MOI] |
+| Political parties and leaders: | National Rainbow Coalition or NARC [Charity NGILU] |
+| Political parties and leaders: | Orange Democratic Movement Party of Kenya or ODM [Raila ODINGA] |
+| Political parties and leaders: | Wiper Democratic Movement-K or WDM-K (formerly Orange Democratic Movement-Kenya or ODM-K) [Kalonzo MUSYOKA] |
+| International organization participation: | ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNWTO, UPU, WCO, WHO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Robinson Njeru GITHAE (since 18 November 2014) |
+| Diplomatic representation in the US: | chancery: 2249 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-6101 |
+| Diplomatic representation in the US: | FAX: [1] (202) 462-3829 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles |
+| Diplomatic representation in the US: | consulate(s): New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kyle MCCARTER (since 12 March 2019) |
+| Diplomatic representation from the US: | telephone: [254] (20) 363-6000 |
+| Diplomatic representation from the US: | embassy: United Nations Avenue, Nairobi; P.O. Box 606 Village Market, Nairobi 00621 |
+| Diplomatic representation from the US: | mailing address: American Embassy Nairobi, U.S. Department of State, Washington, DC 20521-8900 |
+| Diplomatic representation from the US: | FAX: [254] (20) 363-6157 |
+| Flag description: | three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom |
+| National symbol(s): | lion; national colors: black, red, green, white |
+| National anthem: | name: "Ee Mungu Nguvu Yetu" (Oh God of All Creation) |
+| National anthem: | lyrics/music: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE/traditional, adapted by Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI, and George W. SENOGA-ZAKE |
+| National anthem: | note: adopted 1963; based on a traditional Kenyan folk song |

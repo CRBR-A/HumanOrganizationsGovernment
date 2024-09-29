@@ -1,0 +1,49 @@
+| Government | Philippines |
+| --- | --- |
+| Country name: | conventional long form: Republic of the Philippines |
+| Country name: | conventional short form: Philippines |
+| Country name: | local long form: Republika ng Pilipinas |
+| Country name: | local short form: Pilipinas |
+| Government type: | republic |
+| Capital: | name: Manila |
+| Capital: | geographic coordinates: 14 36 N, 120 58 E |
+| Capital: | time difference: UTC+8 (13 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 80 provinces and 39 chartered cities |
+| Administrative divisions: | provinces: Abra, Agusan del Norte, Agusan del Sur, Aklan, Albay, Antique, Apayao, Aurora, Basilan, Bataan, Batanes, Batangas, Biliran, Benguet, Bohol, Bukidnon, Bulacan, Cagayan, Camarines Norte, Camarines Sur, Camiguin, Capiz, Catanduanes, Cavite, Cebu, Compostela, Davao del Norte, Davao del Sur, Davao Oriental, Dinagat Islands, Eastern Samar, Guimaras, Ifugao, Ilocos Norte, Ilocos Sur, Iloilo, Isabela, Kalinga, Laguna, Lanao del Norte, Lanao del Sur, La Union, Leyte, Maguindanao, Marinduque, Masbate, Mindoro Occidental, Mindoro Oriental, Misamis Occidental, Misamis Oriental, Mountain Province, Negros Occidental, Negros Oriental, North Cotabato, Northern Samar, Nueva Ecija, Nueva Vizcaya, Palawan, Pampanga, Pangasinan, Quezon, Quirino, Rizal, Romblon, Samar, Sarangani, Siquijor, Sorsogon, South Cotabato, Southern Leyte, Sultan Kudarat, Sulu, Surigao del Norte, Surigao del Sur, Tarlac, Tawi-Tawi, Zambales, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay |
+| Administrative divisions: | chartered cities: Angeles, Antipolo, Bacolod, Baguio, Butuan, Cagayan de Oro, Caloocan, Cebu, Cotabato, Dagupan, Davao, General Santos, Iligan, Iloilo, Lapu-Lapu, Las Pinas, Lucena, Makati, Malabon, Mandaluyong, Mandaue, Manila, Marikina, Muntinlupa, Naga, Navotas, Olongapo, Ormoc, Paranaque, Pasay, Pasig, Puerto Princesa, Quezon, San Juan, Santiago, Tacloban, Taguig, Valenzuela, Zamboanga (2012) |
+| Independence: | 12 June 1898 (independence proclaimed from Spain); 4 July 1946 (from the US) |
+| National holiday: | Independence Day, 12 June (1898); note - 12 June 1898 was date of declaration of independence from Spain; 4 July 1946 was date of independence from US |
+| Constitution: | 2 February 1987, effective 11 February 1987 |
+| Legal system: | mixed legal system of civil, common, Islamic, and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Benigno AQUINO (since 30 June 2010); Vice President Jejomar BINAY (since 30 June 2010); note - president is both chief of state and head of government |
+| Executive branch: | head of government: President Benigno AQUINO (since 30 June 2010) |
+| Executive branch: | cabinet: Cabinet appointed by the president with consent of Commission of Appointments |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president and vice president elected on separate tickets by popular vote for a single six-year term; election held on 10 May 2010 (next election to be held in May 2016) |
+| Executive branch: | election results: Benigno AQUINO elected president; percent of vote - Benigno AQUINO 42.1%, Joseph ESTRADA 26.3%, seven others 31.6%; Jejomar BINAY elected vice president; percent of vote Jejomar BINAY 41.6%, Manuel ROXAS 39.6%, six others 18.8% |
+| Legislative branch: | bicameral Congress or Kongreso consists of the Senate or Senado (24 seats - one-half elected every three years; members elected at large by popular vote to serve six-year terms) and the House of Representatives or Kapulungan Ng Nga Kinatawan (287 seats - 230 members in one tier representing districts and 57 sectoral party-list members in a second tier representing special minorities elected on the basis of one seat for every 2% of the total vote but with each party limited to three seats); a party represented in one tier may not hold seats in the other tier; all House members are elected by popular vote to serve three-year terms |
+| Legislative branch: | note: the constitution limits the House of Representatives to 250 members; the number of members allowed was increased, however, through legislation when in April 2009 the Philippine Supreme Court ruled that additional party members could sit in the House of Representatives if they received the required number of votes |
+| Legislative branch: | elections: Senate - elections last held on 10 May 2010 (next to be held in May 2013); House of Representatives - elections last held on 10 May 2010 (next to be held in May 2013) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - Lakas-Kampi CMD 4, LP 4, NP 4, NPC 2, PMP 2, LDP 1, PRP 1, independents 5; note - there are 23 rather than 24 sitting senators because one senator was elected mayor of Manila; House of Representatives - percent of vote by party - NA; seats by party - LP 119, Lakas-Kampi CMD 46, NPC 30, NP 22, others 10, independents 1, party-list 55; vacant seats - 1 district and 2 party-list |
+| Judicial branch: | Supreme Court (15 justices are appointed by the president on the recommendation of the Judicial and Bar Council and serve until 70 years of age); Court of Appeals; Sandigan-bayan (special court for hearing corruption cases of government officials) |
+| Political parties and leaders: | Laban ng Demokratikong Pilipino (Struggle of Filipino Democrats) or LDP [Edgardo ANGARA]; Lakas ng EDSA-Christian Muslim Democrats or Lakas-CMD [Gloria MACAPAGAL-ARROYO]; Liberal Party or LP [Manuel ROXAS]; Nacionalista Party or NP [Manuel VILLAR]; Nationalist People's Coalition or NPC [Frisco SAN JUAN]; PDP-Laban [Aquilino PIMENTEL]; People's Reform Party [Miriam Defensor SANTIAGO]; Puwersa ng Masang Pilipino (Force of the Philippine Masses) or PMP [Joseph ESTRADA] |
+| Political pressure groups and leaders: | ABONO [Robert ESTRELLA]; AKBAYAN [Walden BELLO]; An Waray [Florencio NOEL]; Anak Mindanao [Mujiv HATAMIN]; ANAKPAWIS [Rafael MARIANO]; ARC [Narciso SANTIAGO III]; Association of Philippine Electric Cooperatives (APEC) [Ponciano PAYUYO]; A TEACHER [Mariano PIAMONTE]; BAGON HENERASYON [Bernadette HERRERA-DY]; Bayan Muna [Teodoro CASINO, Jr.]; Black and White Movement [Vicente ROMANO]; BUHAY [Rene VELARDE]; BUTIL [Leonila CHAVEZ]; CIBAC [Cinchoa CRUZ-GONZALES]; COOP-NATCO [Jose PING-AY]; GABRIELA [Luzviminda ILAGAN]; KABATAAN [Raymon PALATINO]; Kilosbayan [Jovito SALONGA]; YACAP [Carol LOPEZ] |
+| International organization participation: | ADB, APEC, APT, ARF, ASEAN, BIS, CD, CICA (observer), CP, EAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, NAM, OAS (observer), OPCW, PCA, PIF (partner), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNMIT, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jose L. CUISIA Jr. |
+| Diplomatic representation in the US: | chancery: 1600 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 467-9300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 467-9417 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Harry K. THOMAS Jr. |
+| Diplomatic representation from the US: | embassy: 1201 Roxas Boulevard, Ermita 1000, Manila |
+| Diplomatic representation from the US: | mailing address: PSC 500, FPO AP 96515-1000 |
+| Diplomatic representation from the US: | telephone: [63] (2) 301-2000 |
+| Diplomatic representation from the US: | FAX: [63] (2) 301-2399 |
+| Flag description: | two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897 |
+| Flag description: | note: in wartime the flag is flown upside down with the red band at the top |
+| National symbol(s): | Philippine eagle |
+| National anthem: | name: "Lupang Hinirang" (Chosen Land) |
+| National anthem: | lyrics/music: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE |
+| National anthem: | note: music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; although the original lyrics were written in Spanish, later English and Filipino versions were created; today, only the Filipino version is used |

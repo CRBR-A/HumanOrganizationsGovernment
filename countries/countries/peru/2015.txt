@@ -1,0 +1,56 @@
+| Government | PERU |
+| --- | --- |
+| Country name: | conventional long form: Republic of Peru |
+| Country name: | conventional short form: Peru |
+| Country name: | local long form: Republica del Peru |
+| Country name: | local short form: Peru |
+| Government type: | constitutional republic |
+| Capital: | name: Lima |
+| Capital: | geographic coordinates: 12 03 S, 77 03 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Administrative divisions: | 25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali |
+| Administrative divisions: | note: Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the the Callao region |
+| Independence: | 28 July 1821 (from Spain) |
+| National holiday: | Independence Day, 28 July (1821) |
+| Constitution: | several previous; latest promulgated 29 December 1993, enacted 31 December 1993; amended several times, last in 2009 (2009) |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory until the age of 70 |
+| Executive branch: | chief of state: President Ollanta HUMALA Tasso (since 28 July 2011); First Vice President Marisol ESPINOZA Cruz (since 28 July 2011); Second Vice President (vacant); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Ollanta HUMALA Tasso (since 28 July 2011); First Vice President Marisol ESPINOZA Cruz (since 28 July 2011); Second Vice President (vacant) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 10 April 2011 with runoff on 6 June 2011 (next to be held in April 2016) |
+| Executive branch: | election results: Ollanta HUMALA Tasso elected president; percent of vote - Ollanta HUMALA Tasso (Peruvian Nationalist Party) 51.5%, Keiko FUJIMORI Higuchi (Fuerza Popular)  48.5% |
+| Executive branch: | note: Prime Minister Pedro CATERIANO Bellido (since 2 April 2015) does not exercise executive power; this power rests with the president; note - Prime Minister Ana JARA was removed from office by Congress in a vote of no confidence on 30 March 2015 |
+| Legislative branch: | description: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: last held on 10 April 2011 with run-off election on 6 June 2011 (next to be held in April 2016) |
+| Legislative branch: | election results: percent of vote by party - Gana Peru 25.3%, Fuerza 2011 23%, PP 14.8%, Alliance for Great Change 14.4%, National Solidarity 10.2%, Peruvian Aprista Party 6.4%, other 5.9%; seats by party - Gana Peru 47, Fuerza 2011 37, PP 21, Alliance for Great Change 12, National Solidarity 9, Peruvian Aprista Party 4; seats by bloc party as of 10 March 2014 - Gana Peru 43, Fuerza Popular (formerly Fuerza 2011) 36, PP 10, Accion Popular-Frente Amplio 10, National Solidarity 9, Union Regional 8, Partido Popular Cristiano-Alianza Para el Progreso 7, Concertacion Parlamentaria 6, Independent 1; note - defections by members of the National Assembly are commonplace, resulting in the formation of new blocs and frequent changes in the numbers of seats held by the various blocs |
+| Judicial branch: | highest court(s): Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors) |
+| Judicial branch: | judge selection and term of office: justices proposed by the National Council of the Judiciary or National Judicial Council (a 7-member independent body), nominated by the president, and confirmed by the Congress (all appointments reviewed by the Council every 7 years); justices appointed for life or until age 70 |
+| Judicial branch: | subordinate courts: Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside |
+| Political parties and leaders: | Alliance for Progress (Alianza para el Progreso) or APP [Cesar ACUNA Peralta] |
+| Political parties and leaders: | Fuerza Popular (formerly Fuerza 2011) [Keiko FUJIMORI Higuchi] |
+| Political parties and leaders: | National Solidarity (Solidaridad Nacional) or SN [Luis CASTANEDA Lossio] |
+| Political parties and leaders: | Peru Posible or PP (a coalition of Accion Popular and Somos Peru) [Alejandro TOLEDO Manrique] |
+| Political parties and leaders: | Peruvian Aprista Party (Partido Aprista Peruano) or PAP [Alan GARCIA Perez] (also referred to by its original name Alianza Popular Revolucionaria Americana or APRA) |
+| Political parties and leaders: | Peruvian Nationalist Party [Ollanta HUMALA] |
+| Political parties and leaders: | Popular Christian Party (Partido Popular Cristiano) or PPC [Lourdes FLORES Nano] |
+| Political parties and leaders: | Wide Front (Frente Amplio), a coalition of left-of-center parties including Tierra y Libertad [Marco ARANA Zegarra], Ciudadanos por el Gran Cambio [Salomon LERNER Ghitis], and Fuerza Social [Susana VILLARAN de la Puente] |
+| Political pressure groups and leaders: | General Workers Confederation of Peru (Confederacion General de Trabajadores del Peru) or CGTP [Mario HUAMAN] |
+| Political pressure groups and leaders: | Shining Path (Sendero Luminoso) or SL [Abimael GUZMAN Reynoso (imprisoned), Victor QUISPE Palomino (top leader at-large)] (leftist guerrilla group) |
+| International organization participation: | APEC, BIS, CAN, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Luis Miguel CASTILLA Rubio (since 4 February 2015) |
+| Diplomatic representation in the US: | chancery: 1700 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 833-9860 through 9869 |
+| Diplomatic representation in the US: | FAX: [1] (202) 659-8124 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC |
+| Diplomatic representation from the US: | chief of mission: Ambassador Brian A. NICHOLS (since 30 June 2014) |
+| Diplomatic representation from the US: | embassy: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33 |
+| Diplomatic representation from the US: | mailing address: P. O. Box 1995, Lima 1; American Embassy (Lima), APO AA 34031-5000 |
+| Diplomatic representation from the US: | telephone: [51] (1) 618-2000 |
+| Diplomatic representation from the US: | FAX: [51] (1) 618-2397 |
+| Flag description: | three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace |
+| National symbol(s): | vicuna (a camelid related to the llama); national colors: red, white |
+| National anthem: | name: "Himno Nacional del Peru" (National Anthem of Peru) |
+| National anthem: | lyrics/music: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO |
+| National anthem: | note: adopted 1822; the song won a national anthem contest |

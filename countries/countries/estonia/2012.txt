@@ -1,0 +1,47 @@
+| Government | Estonia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Estonia |
+| Country name: | conventional short form: Estonia |
+| Country name: | local long form: Eesti Vabariik |
+| Country name: | local short form: Eesti |
+| Country name: | former: Estonian Soviet Socialist Republic |
+| Government type: | parliamentary republic |
+| Capital: | name: Tallinn |
+| Capital: | geographic coordinates: 59 26 N, 24 43 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 15 counties (maakonnad, singular - maakond); Harjumaa (Tallinn), Hiiumaa (Kardla), Ida-Virumaa (Johvi), Jarvamaa (Paide), Jogevamaa (Jogeva), Laanemaa (Haapsalu), Laane-Virumaa (Rakvere), Parnumaa (Parnu), Polvamaa (Polva), Raplamaa (Rapla), Saaremaa (Kuressaare), Tartumaa (Tartu), Valgamaa (Valga), Viljandimaa (Viljandi), Vorumaa (Voru) |
+| Administrative divisions: | note: counties have the administrative center name following in parentheses |
+| Independence: | 20 August 1991 (declared); 6 September 1991 (recognized by the Soviet Union) |
+| National holiday: | Independence Day, 24 February (1918); note - 24 February 1918 was the date Estonia declared its independence from Soviet Russia and established its statehood; 20 August 1991 was the date it declared its independence from the Soviet Union |
+| Constitution: | adopted 28 June 1992 |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal for all Estonian citizens |
+| Executive branch: | chief of state: President Toomas Hendrik ILVES (since 9 October 2006) |
+| Executive branch: | head of government: Prime Minister Andrus ANSIP (since 12 April 2005) |
+| Executive branch: | cabinet: Ministers appointed by the prime minister, approved by Parliament |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president elected by Parliament for a five-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after three rounds of balloting in the Parliament, then an electoral assembly (made up of Parliament plus members of local councils) elects the president, choosing between the two candidates with the largest number of votes; election last held on 29 August 2011 (next to be held in the fall of 2016); prime minister nominated by the president and approved by Parliament |
+| Executive branch: | election results: Toomas Hendrik ILVES reelected president; parliamentary vote - Toomas Hendrik ILVES 73, Indrek TARAND 25 |
+| Legislative branch: | unicameral Parliament or Riigikogu (101 seats; members elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held on 6 March 2011 (next to be held in March 2015) |
+| Legislative branch: | election results: percent of vote by party - Estonian Reform Party 28.6%, Center Party of Estonia 23.3%, IRL 20.5%, SDE 17.1%, Estonian Greens 3.8%, Estonian People's Union 2.1%, other 4.6%; seats by party - Estonian Reform Party 33, Center Party 21, IRL 23, SDE 19, unaffiliated 5 |
+| Judicial branch: | Supreme Court (chairman appointed for life by Parliament) |
+| Political parties and leaders: | Center Party of Estonia (Keskerakond) [Edgar SAVISAAR]; Estonian Greens (Rohelised) [Aleksander LAANE]; Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Margo MILJAND]; Estonian Reform Party (Reformierakond) [Andrus ANSIP]; Social Democratic Party or SDE [Sven MIKSER]; Union of Pro Patria and Res Publica (Isamaa je Res Publica Liit) or IRL [Urmas REINSALU] |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marina KALJURAND |
+| Diplomatic representation in the US: | chancery: 2131 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-0101 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-0108 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Jeffrey LEVINE |
+| Diplomatic representation from the US: | embassy: Kentmanni 20, 15099 Tallinn |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [372] 668-8100 |
+| Diplomatic representation from the US: | FAX: [372] 668-8265 |
+| Flag description: | three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun |
+| National symbol(s): | barn swallow, cornflower |
+| National anthem: | name: "Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy) |
+| National anthem: | lyrics/music: Johann Voldemar JANNSEN/Fredrik PACIUS |
+| National anthem: | note: adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody with that of Finland but has different lyrics |

@@ -1,0 +1,41 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Indonesia |
+| Country name: | conventional short form: Indonesia |
+| Country name: | local long form: Republik Indonesia |
+| Country name: | local short form: Indonesia |
+| Country name: | former: Netherlands East Indies; Dutch East Indies |
+| Data code: | ID |
+| Government type: | republic |
+| Capital: | Jakarta |
+| Administrative divisions: | 23 provinces (propinsi-propinsi, singular - propinsi), 2 special regions* (daerah-daerah istimewa, singular - daerah istimewa), and 1 special capital city district** (daerah khusus ibukota); Aceh*, Bali, Bengkulu, Irian Jaya, Jakarta Raya**, Jambi, Jawa Barat, Jawa Tengah, Jawa Timur, Kalimantan Barat, Kalimantan Selatan, Kalimantan Tengah, Kalimantan Timur, Lampung, Maluku, Nusa Tenggara Barat, Nusa Tenggara Timur, Riau, Sulawesi Selatan, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Utara, Sumatera Barat, Sumatera Selatan, Sumatera Utara, Yogyakarta*; note - there may be a new province named Maluku Utara |
+| note: | following the 30 August 1999 provincial referendum for independence which was overwhelmingly approved by the people of Timor Timur and the October 1999 concurrence of Indonesia's national legislature, the name East Timor was adopted as a provisional name for the political entity formerly known as Propinsi Timor Timur until such time as the entity's independent status is formally established |
+| Independence: | 17 August 1945 (proclaimed independence; on 27 December 1949, Indonesia became legally independent from the Netherlands) |
+| National holiday: | Independence Day, 17 August (1945) |
+| Constitution: | August 1945, abrogated by Federal Constitution of 1949 and Provisional Constitution of 1950, restored 5 July 1959 |
+| Legal system: | based on Roman-Dutch law, substantially modified by indigenous concepts and by new criminal procedures code; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 17 years of age; universal and married persons regardless of age |
+| Executive branch: | chief of state: President Abdurrahman WAHID (since 20 October 1999); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Abdurrahman WAHID (since 20 October 1999); note - the president is both the chief of state and head of government |
+| Executive branch: | cabinet: Cabinet |
+| Executive branch: | elections: president and vice president selected by vote of the People's Consultative Assembly for five-year terms; selection last held 20 October 1999 (next to be held by NA 2004) |
+| Executive branch: | election results: Abdurrahman WAHID selected president by vote of the People's Consultative Assembly, receiving 373 votes to 313 votes for MEGAWATI; MEGAWATI Sukarnoputri selected vice president by vote of the People's Consultative Assembly |
+| Legislative branch: | unicameral House of Representatives or Dewan Perwakilan Rakyat (DPR) (500 seats; 462 elected by popular vote, 38 are appointed military representatives; members serve five-year terms) |
+| elections: | last held 7 June 1999 (next to be held NA June 2004) |
+| election results: | percent of vote by party - PDI-P 37.4%, Golkar 20.9%, PKB 17.4%, PPP 10.7%, PAN 7.3%, PBB 1.8%, other 4.5%; seats by party - PDI-P 154, Golkar 120, PPP 58, PKB 51, PAN 35, PBB 14, other 30 |
+| note: | the People's Consultative Assembly (Majelis Permusyawaratan Rakyat or MPR) includes the DPR plus 200 indirectly selected members; it meets every five years to elect the president and vice president and to approve the broad outlines of national policy |
+| Judicial branch: | Supreme Court (Mahkamah Agung), the judges are appointed by the president |
+| Political parties and leaders: | Crescent Moon and Star Party or PBB [Yusril Ihza MAHENDRA, chairman]; Development Unity Party or PPP (federation of former Islamic parties) [Hamzah HAZ, chairman]; Golkar [Akbar TANSUNG, general chairman]; Indonesia Democracy Party or PDI (federation of former Nationalist and Christian Parties) [Budi HARDJONO, chairman]; Indonesia Democracy Party-Struggle or PDI-P [MEGAWATI Sukarnoputri, chairperson]; National Awakening Party or PKB [Abdurrahman WAHID]; National Mandate Party or PAN [Amien RAIS, chairman] |
+| International organization participation: | APEC, AsDB, ASEAN, CCC, CP, ESCAP, FAO, G-15, G-19, G-77, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM (observer), ISO, ITU, NAM, OIC, OPCW, OPEC, UN, UNCTAD, UNESCO, UNIDO, UNIKOM, UNMIBH, UNMOP, UNMOT, UNOMIG, UPU, WCL, WFTU, WHO, WIPO, WMO, WToO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Maleeha LODHI |
+| Diplomatic representation in the US: | chancery: 2020 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 775-5200 |
+| Diplomatic representation in the US: | FAX: [1] (202) 775-5365 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, New York, and San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert GELBARD |
+| Diplomatic representation from the US: | embassy: Medan Merdeka Selatan 5, Jakarta |
+| Diplomatic representation from the US: | mailing address: Unit 8129, Box 1, APO AP 96520 |
+| Diplomatic representation from the US: | telephone: [62] (21) 344-2211 |
+| Diplomatic representation from the US: | FAX: [62] (21) 386-2259 |
+| Diplomatic representation from the US: | consulate(s) general: Surabaya |
+| Flag description: | two equal horizontal bands of red (top) and white; similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red |

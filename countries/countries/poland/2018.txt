@@ -1,0 +1,70 @@
+| Government | Poland |
+| --- | --- |
+| Country name: | conventional long form: Republic of Poland |
+| Country name: | conventional short form: Poland |
+| Country name: | local long form: Rzeczpospolita Polska |
+| Country name: | local short form: Polska |
+| Country name: | former: Polish People's Republic |
+| Country name: | etymology: name derives from the Polanians, a west Slavic tribe that united several surrounding Slavic groups (9th-10th centuries A.D.) and who passed on their name to the country; the name of the tribe likely comes from the Slavic "pole" (field or plain), indicating the flat nature of their country |
+| Government type: | parliamentary republic |
+| Capital: | name: Warsaw |
+| Capital: | geographic coordinates: 52 15 N, 21 00 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 16 provinces (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania) |
+| Independence: | 11 November 1918 (republic proclaimed); notable earlier dates: 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created) |
+| National holiday: | Constitution Day, 3 May (1791) |
+| Constitution: | history: several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997 (2016) |
+| Constitution: | amendments: proposed by at least one-fifth of Sejm deputies, by the Senate, or by the president of the republic; passage requires at least two-thirds majority vote in the Sejm and absolute majority vote in the Senate; amendments to articles relating to sovereignty, personal freedoms, and constitutional amendment procedures also require passage by majority vote in a referendum; amended 2006, 2009, 2015 (2016) |
+| Legal system: | civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: both parents must be citizens of Poland |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president) |
+| Judicial branch: | judge selection and term of office: president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for 9-year terms |
+| Judicial branch: | subordinate courts: State Tribunal; administrative courts; regional and appellate courts subdivided into military, civil, criminal, labor, and family courts |
+| Executive branch: | chief of state: President Andrzej DUDA (since 6 August 2015) |
+| Executive branch: | head of government: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI and Jaroslaw GOWIN (since 16 November 2015), Beata SZYDLO (since 11 December 2017) |
+| Executive branch: | cabinet: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 May 2015 with a second round on 24 May 2015 (next to be held in May 2020); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm |
+| Executive branch: | election results: Andrzej DUDA elected president in runoff; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5% |
+| Legislative branch: | description: bicameral legislature consists of: |
+| Legislative branch: | Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms) |
+| Legislative branch: | Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 25 October 2015 (next to be held in October or November 2019) |
+| Legislative branch: | Sejm - last held on 25 October 2015 (next to be held in October or November 2019) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - PiS 61, PO 34, PSL 1, independent 4; composition - men 87, women 13, percent of women 13% |
+| Legislative branch: | Sejm - percent of vote by party - PiS 37.6%, PO 24.1%, K15 8.8%, N 7.6%, PSL 5.1% other 16.8%; seats by party - PiS 235, PO 138, K15 42, N 28, PSL 16, German minority 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8% |
+| Legislative branch: | note: the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly |
+| Political parties and leaders: | Civic Platform or PO [Grzegorz SCHETYNA] |
+| Political parties and leaders: | Democratic Left Alliance or SLD [Wlodzimierz CZARZASTY] |
+| Political parties and leaders: | German Minority of Lower Silesia or MNSO [Ryszard GALLA] |
+| Political parties and leaders: | Kukiz 15 or K15 [Pawel KUKIZ] |
+| Political parties and leaders: | Law and Justice or PiS [Jaroslaw KACZYNSKI] |
+| Political parties and leaders: | Liberty (formerly the Coalition for the Renewal of the Republic-Liberty and Hope or KORWiN) [Janusz KORWIN-MIKKE] |
+| Political parties and leaders: | Nowoczesna ("Modern") or N [Katarzyna LUBNAUER] |
+| Political parties and leaders: | Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ] |
+| Political parties and leaders: | Razem (Together) [collective leadership] |
+| International organization participation: | Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Piotr Antoni WILCZEK (since 18 January 2017) |
+| Diplomatic representation in the US: | chancery: 2640 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 499-1700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-6271 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: AmbassadorÂ Georgette MOSBACHERÂ (sinceÂ 6Â September 2018) |
+| Diplomatic representation from the US: | embassy: Aleje Ujazdowskie 29/31 00-540 Warsaw |
+| Diplomatic representation from the US: | mailing address: American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch) |
+| Diplomatic representation from the US: | telephone: [48] (22) 504-2000 |
+| Diplomatic representation from the US: | FAX: [48] (22) 504-2226 |
+| Diplomatic representation from the US: | consulate(s) general: Krakow |
+| Flag description: | two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field |
+| Flag description: | note: similar to the flags of Indonesia and Monaco which are red (top) and white |
+| National symbol(s): | white crowned eagle; national colors: white, red |
+| National anthem: | name: "Mazurek Dabrowskiego" (Dabrowski's Mazurka) |
+| National anthem: | lyrics/music: Jozef WYBICKI/traditional |
+| National anthem: | note: adopted 1927; the anthem, commonly known as "Jeszcze Polska nie zginela" (Poland Has Not Yet Perished), was written in 1797; the lyrics resonate strongly with Poles because they reflect the numerous occasions in which the nation's lands have been occupied |

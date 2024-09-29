@@ -1,0 +1,42 @@
+| Government | Germany |
+| --- | --- |
+| Country name: | conventional long form: Federal Republic of Germany |
+| Country name: | conventional short form: Germany |
+| Country name: | local long form: Bundesrepublik Deutschland |
+| Country name: | local short form: Deutschland |
+| Country name: | former: German Empire, German Republic, German Reich |
+| Government type: | federal republic |
+| Capital: | name: Berlin |
+| Capital: | geographic coordinates: 52 31 N, 13 24 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 13 states (Laender, singular - Land) and 3 free states* (Freistaaten, singular - Freistaat); Baden-Wuerttemberg, Bayern*, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen*, Sachsen-Anhalt, Schleswig-Holstein, Thueringen* |
+| Independence: | 18 January 1871 (German Empire unification); divided into four zones of occupation (UK, US, USSR, and later, France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed 7 October 1949 and included the former USSR zone; unification of West Germany and East Germany took place 3 October 1990; all four powers formally relinquished rights 15 March 1991 |
+| National holiday: | Unity Day, 3 October (1990) |
+| Constitution: | 23 May 1949, known as Basic Law; became constitution of the united German people 3 October 1990 |
+| Legal system: | civil law system with indigenous concepts; judicial review of legislative acts in the Federal Constitutional Court; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Horst KOEHLER (since 1 July 2004) |
+| Executive branch: | head of government: Chancellor Angela MERKEL (since 22 November 2005) |
+| Executive branch: | cabinet: Cabinet or Bundesminister (Federal Ministers) appointed by the president on the recommendation of the chancellor |
+| Executive branch: | elections: president elected for a five-year term (eligible for a second term) by a Federal Convention, including all members of the Federal Assembly and an equal number of delegates elected by the state parliaments; election last held 23 May 2004 (next to be held 23 May 2009); chancellor elected by an absolute majority of the Federal Assembly for a four-year term; election last held 22 November 2005 (next to be held November 2009) |
+| Executive branch: | election results: Horst KOEHLER elected president; received 604 votes of the Federal Convention against 589 for Gesine SCHWAN; Angela MERKEL elected chancellor; vote by Federal Assembly 397 to 202 with 12 abstentions |
+| Legislative branch: | bicameral Parliament or Parlament consists of the Federal Assembly or Bundestag (613 seats; elected by popular vote under a system combining direct and proportional representation; a party must win 5% of the national vote or three direct mandates to gain representation; members serve four-year terms) and the Federal Council or Bundesrat (69 votes; state governments are directly represented by votes; each has three to six votes depending on population and are required to vote as a block) |
+| Legislative branch: | elections: Federal Assembly - last held 18 September 2005 (next to be held September 2009); note - there are no elections for the Bundesrat; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election |
+| Legislative branch: | election results: Federal Assembly - percent of vote by party - CDU/CSU 35.2%, SPD 34.3%, FDP 9.8%, Left 8.7%, Greens 8.1%; seats by party - CDU/CSU 225, SPD 222, FDP 61, Left 54, Greens 51 |
+| Judicial branch: | Federal Constitutional Court or Bundesverfassungsgericht (half the judges are elected by the Bundestag and half by the Bundesrat) |
+| Political parties and leaders: | Alliance '90/Greens [Claudia ROTH and Reinhard BUETIKOFER]; Christian Democratic Union or CDU [Angela MERKEL]; Christian Social Union or CSU [Edmund STOIBER, chairman]; Free Democratic Party or FDP [Guido WESTERWELLE, chairman]; Left Party (Linkspartei. was Party of Democratic Socialism) or PDS [Lothar BISKY]; Social Democratic Party or SPD [Kurt BECK] |
+| Political pressure groups and leaders: | business associations, employers' organizations; expellee, refugee, trade unions, and veterans groups |
+| International organization participation: | AfDB, Arctic Council (observer), AsDB, Australia Group, BIS, BSEC (observer), CBSS, CDB, CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G- 5, G- 7, G- 8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, SECI (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMEE, UNMIL, UNMIS, UNMOVIC, UNOMIG, UNRWA, UPU, WADB (nonregional), WCO, WEU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Klaus SCHARIOTH |
+| Diplomatic representation in the US: | chancery: 4645 Reservoir Road NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-4000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-4249 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador William R. TIMKEN, Jr. |
+| Diplomatic representation from the US: | embassy: Neustaedtische Kirchstrasse 4-5, 10117 Berlin; note - a new embassy will be built near the Brandenburg Gate in Berlin; ground was broken in October 2004 and completion is scheduled for 2008 |
+| Diplomatic representation from the US: | mailing address: PSC 120, Box 1000, APO AE 09265 |
+| Diplomatic representation from the US: | telephone: [49] (030) 2385 174 |
+| Diplomatic representation from the US: | FAX: [49] (030) 8305-1215 |
+| Diplomatic representation from the US: | consulate(s) general: Duesseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich |
+| Flag description: | three equal horizontal bands of black (top), red, and gold |

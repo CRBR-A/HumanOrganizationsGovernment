@@ -1,0 +1,66 @@
+| Government | Austria |
+| --- | --- |
+| Country name: | conventional long form: Republic of Austria |
+| Country name: | conventional short form: Austria |
+| Country name: | local long form: Republik Oesterreich |
+| Country name: | local short form: Oesterreich |
+| Country name: | etymology: the name Oesterreich means "eastern realm" or "eastern march" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria, and, in fact, of all the Germans; the word Austria is a Latinization of the German name |
+| Government type: | federal parliamentary republic |
+| Capital: | name: Vienna |
+| Capital: | geographic coordinates: 48 12 N, 16 22 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: the origin of the name is disputed but may derive from earlier settlements of the area; a Celtic town of Vedunia, established about 500 B.C., came under Roman dominance aound 15 B.C. and became known as Vindobona; archeological remains of the latter survive at many sites in the center of Vienna |
+| Administrative divisions: | 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich (Lower Austria), Oberoesterreich (Upper Austria), Salzburg, Steiermark (Styria), Tirol (Tyrol), Vorarlberg, Wien (Vienna) |
+| Independence: | no official date of independence: 976 (Margravate of Austria established); 17 September 1156 (Duchy of Austria founded); 6 January 1453 (Archduchy of Austria acknowledged); 11 August 1804 (Austrian Empire proclaimed); 30 March 1867 (Austro-Hungarian dual monarchy established); 12 November 1918 (First Republic proclaimed); 27 April 1945 (Second Republic proclaimed) |
+| National holiday: | National Day (commemorates passage of the law on permanent neutrality), 26 October (1955) |
+| Constitution: | history: several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934, replaced by German Weimar constitution in 1938 following German annexation, reinstated 1 May 1945 (2016) |
+| Constitution: | amendments: proposed through laws designated "constitutional laws" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly if one-half of the members are present; a referendum is required only if requested by one-third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote; amended many times, last in 2014 (2016) |
+| Legal system: | civil law system; judicial review of legislative acts by the Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Austria |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 16 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by executive branch departments and appointed by the president; judges serve for life; Constitutional Court judges nominated by several executive branch departments and approved by the president; judges serve for life; Administrative Court judges recommended by executive branch departments and appointed by the president; terms of judges and members determined by the president |
+| Judicial branch: | subordinate courts: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts |
+| Executive branch: | chief of state: President Alexander VAN DER BELLEN (since 26 January 2017) |
+| Executive branch: | head of government: Chancellor Sebastian KURZ (since 18 December 2017); Vice Chancellor Heinz-Christian STRACHE (since 18 December 2017) |
+| Executive branch: | cabinet: Council of Ministers chosen by the president on the advice of the chancellor |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in April 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor |
+| Executive branch: | election results: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbet HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbet HOFER 46.2% |
+| Legislative branch: | description: bicameral Federal Assembly or Bundesversammlung consists of: |
+| Legislative branch: | Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms) |
+| Legislative branch: | National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Federal Council - appointed |
+| Legislative branch: | National Council - last held on 15 October 2017 (next to be held in 2022) |
+| Legislative branch: | election results: |
+| Legislative branch: | Federal Council - percent of vote by party - NA; seats by party - NA; compositionÂ - men 42, women 19, percent of women 30.6%Â  |
+| Legislative branch: | National Council - percent of vote by party - OeVP 31.5%, SPOe 26.9%, FPOe 26%, NEOS 5.3%, PILZ 4.4%, other 5.9%; seats by party - OeVP 62, SPOe 52, FPOe 51, NEOS 10, PILZ 8; composition - men 122, women 61, percent of women 33.3%; note -Â total Federal Assembly percent of women 32.7% |
+| Political parties and leaders: | Austrian People's Party or OeVP [Sebastian KURZ] |
+| Political parties and leaders: | Communist Party of Austria or KPOe [Mirko MESSNER] |
+| Political parties and leaders: | Freedom Party of Austria or FPOe [Heinz-Christian STRACHE] |
+| Political parties and leaders: | The Greens [Werner KOGLER] |
+| Political parties and leaders: | NEOS - The New Austria [Matthias STROLZ] |
+| Political parties and leaders: | Pilz List or PILZ [Bruno ROSSMANN and Wolfgang ZINGGL] |
+| Political parties and leaders: | Social Democratic Party of Austria or SPOe [Christian KERN] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Wolfgang WALDNER (since 28 January 2016) |
+| Diplomatic representation in the US: | chancery: 3524 International Court NW, Washington, DC 20008-3035 |
+| Diplomatic representation in the US: | telephone: [1] (202) 895-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 895-6750 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation in the US: | consulate(s): Chicago |
+| Diplomatic representation from the US: | chief of mission: Ambassador Trevor TRAINA (since 24 May 2018) |
+| Diplomatic representation from the US: | embassy: Boltzmanngasse 16, A-1090, Vienna |
+| Diplomatic representation from the US: | mailing address: Boltzmanngasse 16, 1090 Vienna, Austria |
+| Diplomatic representation from the US: | telephone: [43] (1) 31339-0 |
+| Diplomatic representation from the US: | FAX: [43] (1) 3100682 |
+| Flag description: | three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner |
+| National symbol(s): | eagle, edelweiss, Alpine gentian; national colors: red, white |
+| National anthem: | name: "Bundeshymne" (Federal Hymn) |
+| National anthem: | lyrics/music: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed) |
+| National anthem: | note: adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012 |

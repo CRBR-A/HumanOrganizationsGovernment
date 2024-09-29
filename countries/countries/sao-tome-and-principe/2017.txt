@@ -1,0 +1,53 @@
+| Government | SAO TOME AND PRINCIPE |
+| --- | --- |
+| Country name: | conventional long form: Democratic Republic of Sao Tome and Principe |
+| Country name: | conventional short form: Sao Tome and Principe |
+| Country name: | local long form: Republica Democratica de Sao Tome e Principe |
+| Country name: | local short form: Sao Tome e Principe |
+| Country name: | etymology: Sao Tome was named after Saint THOMAS the Apostle by the Portuguese who discovered the island on 21 December 1470 (or 1471), the saint's feast day; Principe is a shortening of the original Portuguese name of "Ilha do Principe" (Isle of the Prince) referring to the Prince of Portugal to whom duties on the island's sugar crop were paid |
+| Government type: | semi-presidential republic |
+| Capital: | name: Sao Tome |
+| Capital: | geographic coordinates: 0 20 N, 6 44 E |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 2 provinces; Principe, Sao Tome |
+| Independence: | 12 July 1975 (from Portugal) |
+| National holiday: | Independence Day, 12 July (1975) |
+| Constitution: | history: approved 5 November 1975 |
+| Constitution: | amendments: proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly; the Assembly can propose to the president of the republic that an amendment be submitted to a referendum; revised several times, last in 2006 (2017) |
+| Legal system: | mixed legal system of civil law base on the Portuguese model and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Sao Tome and Principe |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Evaristo CARVALHO (since 3 September 2016) |
+| Executive branch: | head of government: Prime Minister Patrice Emery TROVOADA (since 29 November 2014) |
+| Executive branch: | cabinet: Council of Ministers proposed by the prime minister, appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 July 2016 and 7 August 2016 (next to be held in July 2021); prime minister chosen by the National Assembly and approved by the president |
+| Executive branch: | election results: Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner |
+| Legislative branch: | description: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 12 October 2014 (next to be held in October 2018) |
+| Legislative branch: | election results: percent of vote by party - ADI 52.6%, MLSTP-PSD 24.7%, PCD-GR 11%, other 11.7%; seats by party - ADI 33, MLSTP-PSD 16, PCD-GR 5, other 1 |
+| Judicial branch: | highest court(s): Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the National Assembly; judge tenure NA; Constitutional Court judges nominated by the president of the republic and elected by the National Assembly for 5-year terms |
+| Judicial branch: | subordinate courts: Court of First Instance; Audit Court |
+| Political parties and leaders: | Force for Democratic Change Movement or MDFM [Fradique Bandeira Melo DE MENEZES] |
+| Political parties and leaders: | Independent Democratic Action or ADI [Patrice TROVOADA] |
+| Political parties and leaders: | Movement for the Liberation of Sao Tome and Principe-Social Democratic Party or MLSTP-PSD [Aurelio MARTINS] |
+| Political parties and leaders: | Party for Democratic Convergence-Reflection Group or PCD-GR [Leonel Mario D'ALVA] |
+| Political parties and leaders: | other small parties |
+| Political pressure groups and leaders: | Association of Sao Tome and Principe NGOs or FONG |
+| Political pressure groups and leaders: | other: media |
+| International organization participation: | ACP, AfDB, AOSIS, AU, CD, CEMAC, CPLP, EITI (candidate country), FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Carlos Filomeno Azevedo Agostinho das NEVES (since 3 December 2013) |
+| Diplomatic representation in the US: | chancery: 675 Third Avenue, Suite 1807, New York, NY 10017 |
+| Diplomatic representation in the US: | telephone: [1] (212) 651-8116 |
+| Diplomatic representation in the US: | FAX: [1] (212) 651-8117 |
+| Diplomatic representation from the US: | the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Gabon is accredited to Sao Tome and Principe on a nonresident basis |
+| Flag description: | three horizontal bands of green (top), yellow (double width), and green with two black five-pointed stars placed side by side in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red recalls the struggle for independence, and yellow represents cocoa, one of the country's main agricultural products; the two stars symbolize the two main islands |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | palm tree; national colors: green, yellow, red, black |
+| National anthem: | name: "Independencia total" (Total Independence) |
+| National anthem: | lyrics/music: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto de Sousa e ALMEIDA |
+| National anthem: | note: adopted 1975 |

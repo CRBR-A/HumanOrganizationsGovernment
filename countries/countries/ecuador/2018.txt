@@ -1,0 +1,65 @@
+| Government | Ecuador |
+| --- | --- |
+| Country name: | conventional long form: Republic of Ecuador |
+| Country name: | conventional short form: Ecuador |
+| Country name: | local long form: Republica del Ecuador |
+| Country name: | local short form: Ecuador |
+| Country name: | etymology: the country's position on the globe, straddling the Equator, accounts for its Spanish name |
+| Government type: | presidential republic |
+| Capital: | name: Quito |
+| Capital: | geographic coordinates: 0 13 S, 78 30 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Capital: | note: Ecuador has two time zones, including the Galapagos Islands (UTC-6) |
+| Administrative divisions: | 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe |
+| Independence: | 24 May 1822 (from Spain) |
+| National holiday: | Independence Day (independence of Quito), 10 August (1809) |
+| Constitution: | history: many previous; latest approved 20 October 2008 (2018) |
+| Constitution: | amendments: proposed by the president of the republic through a referendum, by public petition of at least 1% of registered voters, or by agreement of at least one-third of the National Assembly membership; passage requires two separate readings a year apart and approval by at least two-thirds majority vote of the Assembly, and approval by absolute majority in a referendum; amendments such as changes to the structure of the state, constraints on personal rights and guarantees, or constitutional amendment procedures are not allowed; amended 2011, 2015, last 2018; note - a 2015 constitutional amendment lifting presidential term limits was overturned by a February 2018 referendum (2018) |
+| Legal system: | civil law based on the Chilean civil code with modifications; traditional law in indigenous communities |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 3 years |
+| Suffrage: | 18-65 years of age; universal and compulsory; 16-18, over 65, and other eligible voters, voluntary |
+| Judicial branch: | highest courts: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges) |
+| Judicial branch: | judge selection and term of office: justices of National Court of Justice elected by the Judiciary Council, a 9-member independent body of law professionals; judges elected for 9-year, non-renewable terms, with one-third of the membership renewed every 3 years; Constitutional Court judges appointed by the executive, legislative, and Citizen Participation branches of government; judges appointed for 9-year non-renewable terms with one-third of the membership renewed every 3 years |
+| Judicial branch: | subordinate courts: Fiscal Tribunal; Election Dispute Settlement Courts, provincial courts (one for each province); cantonal courts |
+| Executive branch: | chief of state: President Lenin MORENO Garces (since 24 May 2017); Vice President Otto Ramon SONNENHOLZNER Sper (since 11 December 2018); note - Vice President Jorge GLAS Espinel (since 24 May 2013) was jailed for corruption and absent from office for more than 3 months, causing him to be constitutionally stripped of his office; Vice PresidentÂ Maria Alejandra VICUNA Munoz (since 6 January 2018) resigned from office 4 December 2018; president is both chief of state and head of government |
+| Executive branch: | head of government: President Lenin MORENO Garces (since 24 May 2017); Vice President Otto Ramon SONNENHOLZNER Sper (since 11 December 2018) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 19 February 2017 with a runoff on 2 April 2017 (next to be held in 2021) |
+| Executive branch: | election results: Lenin MORENO Garces elected president in second round; percent of vote - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9% |
+| Legislative branch: | description: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 19 February 2017 (next to be held in 2021) |
+| Legislative branch: | election results: percent of vote by party - PAIS 39.1%, CREO-SUMA 20.1%, PSC 15.9%, ID 3.8%, MUPP 2.7%, other 10.7; seats by party - PAIS 74, CREO-SUMA 34, PSC 15, ID 4, MUPP 4, PSP 2, Fuerza Ecuador 1, independent 3; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties |
+| Political parties and leaders: | Alianza PAIS movement [Lenin Voltaire MORENO Garces] |
+| Political parties and leaders: | Avanza Party or AVANZA [Ramiro GONZALEZ] |
+| Political parties and leaders: | Creating Opportunities Movement or CREO [Guillermo LASSO] |
+| Political parties and leaders: | Democratic Left or ID |
+| Political parties and leaders: | Forward Ecuador Movement [Alvaro NOBOA] |
+| Political parties and leaders: | Fuerza Ecuador [Abdala BUCARAM] (successor to Roldosist Party) |
+| Political parties and leaders: | Pachakutik Plurinational Unity Movement or MUPP [Marlon Rene SANTI Gualinga] |
+| Political parties and leaders: | Patriotic Society Party or PSP [Gilmar GUTIERREZ Borbua] |
+| Political parties and leaders: | Popular Democracy Movement or MPD [Luis VILLACIS] |
+| Political parties and leaders: | Social Christian Party or PSC [Pascual DEL CIOPPO] |
+| Political parties and leaders: | Socialist Party [Patricio ZABRANO] |
+| Political parties and leaders: | Society United for More Action or SUMA [Mauricio RODAS] |
+| International organization participation: | CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Francisco Benjamin Esteban CARRION Mena (since 24 January 2018) |
+| Diplomatic representation in the US: | chancery: 2535 15th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-7200 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-3482 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis, New Haven (CT), New Orleans, New York, Newark (NJ), Phoenix, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Todd C. CHAPMAN (since 14 April 2016) |
+| Diplomatic representation from the US: | embassy: Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito |
+| Diplomatic representation from the US: | mailing address: Avenida Guayacanes N52-205 y Avenida Avigiras |
+| Diplomatic representation from the US: | telephone: [593] (2) 398-5000 |
+| Diplomatic representation from the US: | FAX: [593] (2) 398-5100 |
+| Diplomatic representation from the US: | consulate(s) general: Guayaquil |
+| Flag description: | three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice |
+| Flag description: | note: similar to the flag of Colombia, which is shorter and does not bear a coat of arms |
+| National symbol(s): | Andean condor; national colors: yellow, blue, red |
+| National anthem: | name: "Salve, Oh Patria!" (We Salute You, Our Homeland) |
+| National anthem: | lyrics/music: Juan Leon MERA/Antonio NEUMANE |
+| National anthem: | note: adopted 1948; Juan Leon MERA wrote the lyrics in 1865; only the chorus and second verse are sung |

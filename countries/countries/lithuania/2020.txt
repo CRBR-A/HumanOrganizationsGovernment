@@ -1,0 +1,65 @@
+| Government | Lithuania |
+| --- | --- |
+| Country name: | conventional long form: Republic of Lithuania |
+| Country name: | conventional short form: Lithuania |
+| Country name: | local long form: Lietuvos Respublika |
+| Country name: | local short form: Lietuva |
+| Country name: | former: Lithuanian Soviet Socialist Republic |
+| Country name: | etymology: meaning of the name "Lietuva" remains unclear; it may derive from the Lietava, a stream in east central Lithuania |
+| Government type: | semi-presidential republic |
+| Capital: | name: Vilnius |
+| Capital: | geographic coordinates: 54 41 N, 25 19 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word "vilnis" meaning "a surge" |
+| Administrative divisions: | 60 municipalities (savivaldybe, singular - savivaldybe); Akmene, Alytaus Miestas, Alytus, Anksciai, Birstono, Birzai, Druskininkai, Elektrenai, Ignalina, Jonava, Joniskis, Jurbarkas, Kaisiadorys, Kalvarijos, Kauno Miestas, Kaunas, Kazlu Rudos, Kedainiai, Kelme, Klaipedos Miestas, Klaipeda, Kretinga, Kupiskis, Lazdijai, Marijampole, Mazeikiai, Moletai, Neringa, Pagegiai, Pakruojis, Palangos Miestas, Panevezio Miestas, Panevezys, Pasvalys, Plunge, Prienai, Radviliskis, Raseiniai, Rietavo, Rokiskis, Sakiai, Salcininkai, Siauliu Miestas, Siauliai, Silale, Silute, Sirvintos, Skuodas, Svencionys, Taurage, Telsiai, Trakai, Ukmerge, Utena, Varena, Vilkaviskis, Vilniaus Miestas, Vilnius, Visaginas, Zarasai |
+| Independence: | 16 February 1918 (from Soviet Russia and Germany); 11 March 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date); 1 July 1569 (Polish-Lithuanian Commonwealth created) |
+| National holiday: | Independence Day (or National Day), 16 February (1918); note - 16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; 11 March 1990 was the date it declared the restoration of Lithuanian statehood and its concomitant independence from the Soviet Union |
+| Constitution: | history: several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992 |
+| Constitution: | amendments: proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended 1996, 2003, 2006 |
+| Legal system: | civil law system; legislative acts can be appealed to the Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Lithuania |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Gitanas NAUSEDA (since 12 July 2019) |
+| Executive branch: | head of government: Prime Minister Ingrida SIMONYTE (since 24 November 2020) |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister, appointed by the president, and approved by ParliamentÂ  |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament |
+| Executive branch: | election results: Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 90 to 4 |
+| Legislative branch: | description: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 11 and 25 October 2020 (next to be held in October 2024) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition - men 103, women 38, percent of women 27% |
+| Judicial branch: | highest courts: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas chairperson, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years |
+| Judicial branch: | subordinate courts: Court of Appeals; district and local courts |
+| Political parties and leaders: | Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI] |
+| Political parties and leaders: | Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS] |
+| Political parties and leaders: | Freedom Party or LP [Ausrine ARMONAITE] |
+| Political parties and leaders: | Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS] |
+| Political parties and leaders: | Labor Party or DP [Viktor USPASKICH] |
+| Political parties and leaders: | Lithuanian Center Party or LCP [Naglis PUTEIKIS] |
+| Political parties and leaders: | Lithuanian Green Party or LZP [Remigijus LAPINSKAS]] |
+| Political parties and leaders: | Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE] |
+| Political parties and leaders: | Lithuanian List or LL [Darius KUOLYS] |
+| Political parties and leaders: | Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS] |
+| Political parties and leaders: | Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS] |
+| Political parties and leaders: | Freedom and Justice Party or LT [Remigijus ZEMAITAITIS] |
+| International organization participation: | Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Rolandas KRISCIUNAS (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 2622 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-5860 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-0466 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert S. GILCHRIST (since 4 February 2010) |
+| Diplomatic representation from the US: | telephone: [370] (5) 266-5500 |
+| Diplomatic representation from the US: | embassy: Akmenu gatve 6, Vilnius, LT-03106 |
+| Diplomatic representation from the US: | mailing address: American Embassy, Akmenu Gatve 6, Vilnius LT-03106 |
+| Diplomatic representation from the US: | FAX: [370] (5) 266-5510 |
+| Flag description: | three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland |
+| National symbol(s): | mounted knight known as Vytis (the Chaser), white stork; national colors: yellow, green, red |
+| National anthem: | name: "Tautiska giesme" (The National Song) |
+| National anthem: | lyrics/music: Vincas KUDIRKA |
+| National anthem: | note: adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990 |

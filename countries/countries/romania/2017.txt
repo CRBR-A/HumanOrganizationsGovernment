@@ -1,0 +1,67 @@
+| Government | ROMANIA |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Romania |
+| Country name: | local long form: none |
+| Country name: | local short form: Romania |
+| Country name: | etymology: the name derives from the Latin "Romanus" meaning "citizen of Rome" and was used to stress the common ancient heritage of Romania's three main regions - Moldavia, Transylvania, and Wallachia - during their gradual unification between the mid-19th century and early 20th century |
+| Government type: | semi-presidential republic |
+| Capital: | name: Bucharest |
+| Capital: | geographic coordinates: 44 26 N, 26 06 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea |
+| Independence: | 9 May 1877 (independence proclaimed from the Ottoman Empire; 13 July 1878 independence recognized by the Treaty of Berlin); 26 March 1881 (kingdom proclaimed); 30 December 1947 (republic proclaimed) |
+| National holiday: | Unification Day (unification of Romania and Transylvania), 1 December (1918) |
+| Constitution: | history: several previous; latest adopted 21 November 1991, approved by referendum and effective 8 December 1991 |
+| Constitution: | amendments: initiated by the president of Romania through a proposal by the government, by at least one-fourth of deputies or senators in Parliament, or by petition of eligible voters representing at least one-half of Romania’s counties; passage requires at least two-thirds majority vote by both chambers or – if mediation is required - by three-fourths majority vote in a joint session, followed by approval in a referendum; articles including those on national sovereignty, form of government, political pluralism, and fundamental rights and freedoms cannot be amended; amended 2003 (2016) |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Romania |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Klaus Werner IOHANNIS (since 21 December 2014) |
+| Executive branch: | head of government: Prime Minister Mihai TUDOSE (since 29 June 2017); Deputy Prime Minister Sevil SHHAIDEH and Deputy Premier Gratiela GAVRILESCU (since 3 April 2017) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 November 2014 with a runoff on 16 November 2014 (next to be held in November 2019); prime minister appointed by the president with consent of Parliament |
+| Executive branch: | election results: Klaus IOHANNIS elected president; percent of vote in runoff - Klaus IOHANNIS (PNL) 54.4%, Victor PONTA (PSD) 45.6%; Mihai TUDOSE approved as prime minister 275-102 |
+| Legislative branch: | description: bicameral Parliament or Parlament consists of the Senate or Senat (136 seats, 2 reserved for the diaspora; members serve 4-year terms) and the Chamber of Deputies or Camera Deputatilor (329 seats, 17 reserved for non-Hungarian national minorities and 4 for the diaspora; members serve 4-year terms); in 2016, the elections returned to a party list vote-proportional representation voting system |
+| Legislative branch: | elections: Senate - last held on 11 December 2016 (next to be held by December 2020); Chamber of Deputies - last held on 11 December 2016 (next to be held by December 2020) |
+| Legislative branch: | election results: Senate - percent of vote by party - PSD 45.7%, PNL 20.4%, USR 8.9%, UDMR 6.2%, ALDE 6%, PMP 5.7%, other 7.1%; seats by party - PSD 67, PNL 30, USR 13, UDMR 9, ALDE 9, PMP 8; Chamber of Deputies - percent of vote by party - PSD 45.5%, PNL 20%, USR 8.9%, UDMR 6.2%, ALDE 5.6%, PMP 5.4%, other 8.4%; seats by party - PSD 154, PNL 69, USR 30, UDMR 21, ALDE 20, PMP 18, minorities 17 |
+| Judicial branch: | highest court(s): High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members) |
+| Judicial branch: | judge selection and term of office: High Court of Cassation and Justice judges appointed by the president upon nomination by the Superior Council of Magistracy, a 19-member body of judges, prosecutors, and law specialists; judges appointed for 6-year renewable terms; Constitutional Court members - 6 elected by Parliament and 3 appointed by the president; members serve 9-year, nonrenewable terms |
+| Judicial branch: | subordinate courts: Courts of Appeal; regional tribunals; first instance courts; military and arbitration courts |
+| Political parties and leaders: | Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU] |
+| Political parties and leaders: | Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN] |
+| Political parties and leaders: | Ecologist Party of Romania or PER [Danut POP] |
+| Political parties and leaders: | Greater Romania Party or PRM [Adrian POPESCU] |
+| Political parties and leaders: | M10 Party [Monica MACOVEI] |
+| Political parties and leaders: | National Liberal Party or PNL [Ludovic ORBAN] |
+| Political parties and leaders: | New Republic Party or NR [Alin Ioan BOTA] |
+| Political parties and leaders: | Our Romania Alliance [Marian MUNTEANU] |
+| Political parties and leaders: | Popular Movement Party or PMP [Traian BASESCU] |
+| Political parties and leaders: | Alliance of Liberals and Democrats or ALDE [Calin POPESCU TARICEANU] |
+| Political parties and leaders: | Romanian Social Party or PSRo [Mircea GEOANA] |
+| Political parties and leaders: | Save Romania Union Party or USR [Elek LEVENTE, interim] |
+| Political parties and leaders: | Social Democratic Party or PSD [Liviu DRAGNEA] |
+| Political parties and leaders: | United Romania Party or PRU [Andrei PITICAS] |
+| Political pressure groups and leaders: | various human rights and professional associations |
+| International organization participation: | Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador George Cristian MAIOR (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 1607 23rd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-4846, 4848, 4851, 4852 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-4748 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Hans G. KLEMM (since 21 September 2015) |
+| Diplomatic representation from the US: | embassy: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118 |
+| Diplomatic representation from the US: | mailing address: American Embassy Bucharest, US Department of State, 5260 Bucharest Place, Washington, DC 20521-5260 (pouch) |
+| Diplomatic representation from the US: | telephone: [40] (21) 200-3300 |
+| Diplomatic representation from the US: | FAX: [40] (21) 200-3442 |
+| Flag description: | three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed |
+| Flag description: | note: now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova |
+| National symbol(s): | golden eagle; national colors: blue, yellow, red |
+| National anthem: | name: "Desteapta-te romane!" (Wake up, Romanian!) |
+| National anthem: | lyrics/music: Andrei MURESIANU/Anton PANN |
+| National anthem: | note: adopted 1990; the anthem was written during the 1848 Revolution |

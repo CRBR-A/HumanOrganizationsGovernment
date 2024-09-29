@@ -1,0 +1,40 @@
+| Government | Mozambique |
+| --- | --- |
+| Country name: | conventional long form: Republic of Mozambique |
+| Country name: | conventional short form: Mozambique |
+| Country name: | local long form: Republica de Mocambique |
+| Country name: | local short form: Mocambique |
+| Country name: | former: Portuguese East Africa |
+| Government type: | republic |
+| Capital: | name: Maputo |
+| Capital: | geographic coordinates: 25 57 S, 32 35 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia |
+| Independence: | 25 June 1975 (from Portugal) |
+| National holiday: | Independence Day, 25 June (1975) |
+| Constitution: | 30 November 1990 |
+| Legal system: | based on Portuguese civil law system and customary law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Armando GUEBUZA (since 2 February 2005) |
+| Executive branch: | head of government: Prime Minister Luisa DIOGO (since 17 February 2004) |
+| Executive branch: | cabinet: Cabinet |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 1-2 December 2004 (next to be held in December 2009); prime minister appointed by the president |
+| Executive branch: | election results: Armando GUEBUZA elected president; percent of vote - Armando GUEBUZA 63.7%, Afonso DHLAKAMA 31.7% |
+| Legislative branch: | unicameral Assembly of the Republic or Assembleia da Republica (250 seats; members are directly elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: last held 1-2 December 2004 (next to be held in December 2009) |
+| Legislative branch: | election results: percent of vote by party - FRELIMO 62%, RENAMO 29.7%, other 8.3%; seats by party - FRELIMO 160, RENAMO 90 |
+| Judicial branch: | Supreme Court (the court of final appeal; some of its professional judges are appointed by the president and some are elected by the Assembly); other courts include an Administrative Court, customs courts, maritime courts, courts marshal, labor courts |
+| Judicial branch: | note: although the constitution provides for a separate Constitutional Court, one has never been established; in its absence the Supreme Court reviews constitutional cases |
+| Political parties and leaders: | Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Armando Emilio GUEBUZA]; Mozambique National Resistance-Electoral Union (Resistencia Nacional Mocambicana-Uniao Eleitoral) or RENAMO-UE [Afonso DHLAKAMA] |
+| Political pressure groups and leaders: | Etica [Abdul CARIMO Issa, chairman]; Human Rights and Development (Direitos Humanos e Desenvolvimento) or DHD [Artemisia FRANCO, secretary general]; Institute for Peace and Democracy (Instituto para Paz e Democracia) or IPADE [Raul DOMINGOS, president]; Movement for Peace and Citizenship (Movimento para Paz e Cidadania); Mozambican League of Human Rights (Liga Mocambicana dos Direitos Humanos) or LDH [Alice MABOTE, president] |
+| International organization participation: | ACP, AfDB, AU, C, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, MONUC, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIS, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Armando Alexandre PANGUENE |
+| Diplomatic representation in the US: | chancery: 1525 New Hampshire Avenue, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 293-7146 |
+| Diplomatic representation in the US: | FAX: [1] (202) 835-0245 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Todd C. CHAPMAN |
+| Diplomatic representation from the US: | embassy: Avenida Kenneth Kuanda 193, Maputo |
+| Diplomatic representation from the US: | mailing address: P. O. Box 783, Maputo |
+| Diplomatic representation from the US: | telephone: [258] (21) 492797 |
+| Diplomatic representation from the US: | FAX: [258] (21) 490114 |
+| Flag description: | three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book |

@@ -1,0 +1,71 @@
+| Government | Burkina Faso |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Burkina Faso |
+| Country name: | local long form: none |
+| Country name: | local short form: Burkina Faso |
+| Country name: | former: Upper Volta, Republic of Upper Volta |
+| Country name: | etymology: name translates as "Land of the Honest (Incorruptible) Men" |
+| Government type: | presidential republic |
+| Capital: | name: Ouagadougou |
+| Capital: | geographic coordinates: 12 22 N, 1 31 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 13 regions; Boucle du Mouhoun, Cascades, Centre, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Est, Hauts-Bassins, Nord, Plateau-Central, Sahel, Sud-Ouest |
+| Independence: | 5 August 1960 (from France) |
+| National holiday: | Republic Day, 11 December (1958); note - commemorates the day that Upper Volta became an autonomous republic in the French Community |
+| Constitution: | history: several previous; latest approved by referendum 2 June 1991, adopted 11 June 1991, temporarily suspended late October to mid-November 2014 (2017) |
+| Constitution: | amendments: proposed by the president, by a majority of National Assembly membership, or by petition of at least 30,000 eligible voters submitted to the Assembly; passage requires at least three-fourths majority vote in the Assembly; failure to meet that threshold requires majority voter approval in a referendum; constitutional provisions on the form of government, the multiparty system, and national sovereignty cannot be amended; amended several times, last in 2012 (2017) |
+| Legal system: | civil law based on the French model and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Burkina Faso |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court judge appointments mostly controlled by the president of Burkina Faso; judges have no term limits; Council of State judge appointment and tenure NA; Constitutional Council judges appointed by the president of Burkina Faso upon the proposal of the minister of justice and the president of the National Assembly; judges appointed for 9-year terms with one-third of membership renewed every 3 years |
+| Judicial branch: | subordinate courts: Appeals Court; High Court; first instance tribunals; district courts; specialized courts relating to issues of labor, children, and juveniles; village (customary) courts |
+| Executive branch: | chief of state: President Roch Marc Christian KABORE (since 29 December 2015) |
+| Executive branch: | head of government: Prime Minister Paul Kaba THIEBA (since 6 January 2016) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections/appointments: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second); election last held on 29 November 2015 (next to be held November 2020); prime minister appointed by the president with consent of the National Assembly |
+| Executive branch: | election results: Roch Marc Christian KABORE elected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 53.5%, Zephirin DIABRE (UPC) 29.6%, Tahirou BARRY (PAREN) 3.1%. Benewende Stanislas SANKARA (UNIR-MS) 2.8%, other 10.9% |
+| Legislative branch: | description: unicameral National Assembly (127 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: last held on 29 November 2015 (next to be held in 2020) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - MPP 55, UPC 33, CDP 18, Union for Rebirth-Sankarist Party 5, ADF/RDA 3, NTD 3, other 10; composition - men 115, women 12, percent of women 9.4% |
+| Political parties and leaders: | African Democratic Rally/Alliance for Democracy and Federation or ADF/RDA [Gilbert Noel OUEDRAOGO] |
+| Political parties and leaders: | African Peopleâ€™s Movement or MAP [Victorien TOUGOUMA] |
+| Political parties and leaders: | Congress for Democracy and Progress or CDP [Eddie KOMBOIGO] |
+| Political parties and leaders: | Le Faso Autrement [Ablasse OUEDRAOGO] |
+| Political parties and leaders: | New Alliance of the Faso or NAFA [Mahamoudou DICKO] |
+| Political parties and leaders: | New Time for Democracy or NTD [Vincent DABILGOU] |
+| Political parties and leaders: | Organization for Democracy and Work or ODT [Anatole BONKOUNGOU] |
+| Political parties and leaders: | Party for Development and Change or PDC [Aziz SEREME] |
+| Political parties and leaders: | Party for Democracy and Progress-Socialist Party or PDP-PS [Drabo TORO] |
+| Political parties and leaders: | Party for Democracy and Socialism/Metba or PDS/Metba [Philippe OUEDRAOGO] |
+| Political parties and leaders: | Party for National Renaissance or PAREN [Michel BERE] |
+| Political parties and leaders: | People's Movement for Progress or MPP [Simon COMPAORE] |
+| Political parties and leaders: | Rally for Democracy and Socialism or RDS [Francois OUEDRAOGO] |
+| Political parties and leaders: | Rally for the Development of Burkina or RDB [Celestin Saidou COMPAORE] |
+| Political parties and leaders: | Rally of Ecologists of Burkina Faso or RDEB [Adama SERE] |
+| Political parties and leaders: | Union for a New Burkina or UBN [Diemdioda DICKO] |
+| Political parties and leaders: | Union for Progress and Change or UPC [Zephirin DIABRE] |
+| Political parties and leaders: | Union for Rebirth - Sankarist Party or UNIR-MS [Benewende Stanislas SANKARA] |
+| Political parties and leaders: | Union for the Republic or UPR [Toussaint Abel COULIBALY] |
+| Political parties and leaders: | Youth Alliance for the Republic and Independence or AJIR [Adama KANAZOE] |
+| International organization participation: | ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNITAR, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Seydou KABORE (since 18 January 2017) |
+| Diplomatic representation in the US: | chancery: 2340 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-5577 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-1882 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Andrew YOUNG (since 1 December 2016) |
+| Diplomatic representation from the US: | embassy: Rue 15.873, Avenue Sembene Ousmane, Ouaga 2000, Secteur 15 |
+| Diplomatic representation from the US: | mailing address: 01 B. P. 35, Ouagadougou 01; pouch mail - US Department of State, 2440 Ouagadougou Place, Washington, DC 20521-2440 |
+| Diplomatic representation from the US: | telephone: [226] 25-49-53-00 |
+| Diplomatic representation from the US: | FAX: [226] 25-49-56-28 |
+| Flag description: | two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | white stallion; national colors: red, yellow, green |
+| National anthem: | name: "Le Ditanye" (Anthem of Victory) |
+| National anthem: | lyrics/music: Thomas SANKARA |
+| National anthem: | note: adopted 1974; also known as "Une Seule Nuit" (One Single Night); written by the country's former president, an avid guitar player |

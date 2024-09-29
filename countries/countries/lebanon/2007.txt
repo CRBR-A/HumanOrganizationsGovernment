@@ -1,0 +1,43 @@
+| Government | Lebanon |
+| --- | --- |
+| Country name: | conventional long form: Lebanese Republic |
+| Country name: | conventional short form: Lebanon |
+| Country name: | local long form: Al Jumhuriyah al Lubnaniyah |
+| Country name: | local short form: Lubnan |
+| Country name: | former: Greater Lebanon |
+| Government type: | republic |
+| Capital: | name: Beirut |
+| Capital: | geographic coordinates: 33 52 N, 35 30 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 8 governorates (mohafazat, singular - mohafazah); Aakar, Baalbek-Hermel, Beqaa, Beyrouth, Liban-Nord, Liban-Sud, Mont-Liban, Nabatiye |
+| Independence: | 22 November 1943 (from League of Nations mandate under French administration) |
+| National holiday: | Independence Day, 22 November (1943) |
+| Constitution: | 23 May 1926; amended a number of times, most recently Charter of Lebanese National Reconciliation (Ta'if Accord) of October 1989 |
+| Legal system: | mixture of Ottoman law, canon law, Napoleonic code, and civil law; no judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 21 years of age; compulsory for all males; authorized for women at age 21 with elementary education |
+| Executive branch: | chief of state: President Emile LAHUD (since 24 November 1998) |
+| Executive branch: | head of government: Prime Minister Fuad SINIORA (since 30 June 2005); Deputy Prime Minister Elias MURR (since April 2005) |
+| Executive branch: | cabinet: Cabinet chosen by the prime minister in consultation with the president and members of the National Assembly |
+| Executive branch: | elections: president elected by the National Assembly for a six-year term (may not serve consecutive terms); election last held 15 October 1998 (next to be held in December 2007 based on three-year extension); note - on 3 September 2004 the National Assembly voted 96 to 29 to extend Emile LAHUD's six-year term by three years; the prime minister and deputy prime minister appointed by the president in consultation with the National Assembly; by agreement, the president is a Maronite Christian, the prime minister is a Sunni Muslim, and the speaker of the National Assembly is a Shi'a Muslim |
+| Executive branch: | election results: for 15 October 1998 election: Emile LAHUD elected president; National Assembly vote - 118 votes in favor, 0 against, 10 abstentions |
+| Legislative branch: | unicameral National Assembly or Majlis Alnuwab (Arabic) or Assemblee Nationale (French) (128 seats; members elected by popular vote on the basis of sectarian proportional representation to serve four-year terms) |
+| Legislative branch: | elections: last held in four rounds on 29 May, 5, 12, 19 June 2005 (next to be held 2009) |
+| Legislative branch: | election results: percent of vote by group - NA; seats by group - Future Movement Bloc 36; Democratic Gathering 15; Development and Resistance Bloc 15; Free Patriotic Movement 15; Loyalty to the Resistance 14; Qornet Shewan 6; Lebanese Forces 5; Popular Bloc 4; Tripoli Independent Bloc 3; Kataeb Reform Movement 2; Syrian National Socialist Party 2; Tachnaq Party 2; Ba'th Party 1; Democratic Left 1; Democratic Renewal Movement 1; Kataeb Party 1; Nasserite Popular Movement 1; independent 4 |
+| Judicial branch: | four Courts of Cassation (three courts for civil and commercial cases and one court for criminal cases); Constitutional Council (called for in Ta'if Accord - rules on constitutionality of laws); Supreme Council (hears charges against the president and prime minister as needed) |
+| Political parties and leaders: | 14 March Coalition: Democratic Gathering [Walid JUNBLATT, leader of Progressive Socialist Party]; Democratic Left [Ilyas ATALLAH]; Democratic Renewal Movement [Nassib LAHUD]; Future Movement Bloc [Sa'ad HARIRI]; Kataeb Reform Movement [Amine GEMAYEL]; Lebanese Forces [Samir JA'JA]; Nasserite Popular Movement [Ussama SAAD]; Qornet Shewan Gathering (a grouping composed of political parties and independent members of the National Assembly [no individual leader]); Tripoli Independent Bloc |
+| Political parties and leaders: | Change and Reform Alliance: Free Patriotic Movement [Michel AWN]; Metn Bloc [Michel MURR]; Popular Bloc [Elias SKAFF]; Tachnaq |
+| Political parties and leaders: | Hizballah and Amal Alliance: Ba'th Party [Muhammad MUHAMMADIYAH]; Development and Resistance Bloc [Nabih BERRI, leader of Amal Movement]; Kataeb Party [Karim PAKRADONI]; Loyalty to the Resistance [Mohammad RA'AD]; Syrian Social Nationalist Party [Dr. Issam al-MAYHAYRI, secretary general] |
+| Political pressure groups and leaders: | none |
+| International organization participation: | ABEDA, ACCT, AFESD, AMF, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Antoine CHEDID |
+| Diplomatic representation in the US: | chancery: 2560 28th Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-6320 |
+| Diplomatic representation in the US: | FAX: [1] (202) 939-6324 |
+| Diplomatic representation in the US: | consulate(s) general: Detroit, New York, Los Angeles |
+| Diplomatic representation from the US: | chief of mission: Ambassador Jeffrey D. FELTMAN |
+| Diplomatic representation from the US: | embassy: Awkar, Lebanon; (Awkar facing the Municipality) |
+| Diplomatic representation from the US: | mailing address: P. O. Box 70-840, Antelias, Lebanon; PSC 815, Box 2, FPO AE 09836-0002; from US: US Embassy Beirut, 6070 Beirut Place, Washington, DC 20521-6070 |
+| Diplomatic representation from the US: | telephone: [961] (4) 542600, 543600 |
+| Diplomatic representation from the US: | FAX: [961] (4) 544136 |
+| Flag description: | three horizontal bands consisting of red (top), white (middle, double width), and red (bottom) with a green cedar tree centered in the white band |

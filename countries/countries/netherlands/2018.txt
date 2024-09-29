@@ -1,0 +1,76 @@
+| Government | Netherlands |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of the Netherlands |
+| Country name: | conventional short form: Netherlands |
+| Country name: | local long form: Koninkrijk der Nederlanden |
+| Country name: | local short form: Nederland |
+| Country name: | abbreviation: NL |
+| Country name: | etymology: the country name literally means "the lowlands" and refers to the geographic features of the land being both flat and down river from higher areas (i.e., at the estuaries of the Scheldt, Meuse, and Rhine Rivers; only about half of the Netherlands is more than 1 meter above sea level) |
+| Government type: | parliamentary constitutional monarchy; part of the Kingdom of the Netherlands |
+| Capital: | name: Amsterdam; note - The Hague is the seat of government |
+| Capital: | geographic coordinates: 52 21 N, 4 55 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: time descriptions apply to the continental Netherlands only, for the constituent countries in the Caribbean, the time difference is UTC-4 |
+| Administrative divisions: | 12 provinces (provincies, singular - provincie); Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland) |
+| Administrative divisions: | note: the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population |
+| Administrative divisions: | note: three other Caribbean islands, Bonaire, Sint Eustatius, and Saba, are considered to be special municipalities of the Netherlands proper |
+| Dependent areas: | Aruba, Curacao, Sint Maarten |
+| Independence: | 23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581 they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence) |
+| National holiday: | King's Day (birthday of King WILLEM-ALEXANDER), 27 April (1967); note - King's or Queen's Day are observed on the ruling monarch's birthday; currently celebrated on 26 April if 27 April is a Sunday |
+| Constitution: | history: previous 1597, 1798; latest adopted 24 August 1815 (substantially revised in 1848) (2016) |
+| Constitution: | amendments: proposed as an "Act of Parliament" by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the "Act"; passage requires a second reading by both the First Chamber and newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king; amended many times, last in 2010 (2016) |
+| Legal system: | civil law system based on the French system; constitution does not permit judicial review of acts of the States General |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the Netherlands |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers |
+| Judicial branch: | judge selection and term of office: justices appointed by the monarch from a list provided by the Second Chamber of the States General; justices appointed for life or until mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: courts of appeal; district courts, each with up to 5 subdistrict courts; note in December 2018, the Dutch Senate approved a bill to establish the Netherlands Commercial Court for international trade disputes with the Netherlands |
+| Executive branch: | chief of state: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003) |
+| Executive branch: | head of government: Prime Minister Mark RUTTE (since 14 October 2010; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017 |
+| Executive branch: | cabinet: Council of Ministers appointed by the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch |
+| Legislative branch: | description: bicameral States General or Staten Generaal consists of: |
+| Legislative branch: | First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | Second Chamber or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve up to 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | First Chamber - last held on 26 May 2015 (next to be held in May 2019) |
+| Legislative branch: | Second Chamber - last held on 15 March 2017 (next to be held 15 March 2021) |
+| Legislative branch: | election results: |
+| Legislative branch: | First Chamber - percent of vote by party - NA; seats by party - VVD 13, CDA 12, D66 10, PVV 9, SP 9, PvdA 8, GL 4, CU 3, other 7; composition - men 49, women 26, percent of women 34.7% |
+| Legislative branch: | Second Chamber - percent of vote by party - VVD 21.3%, PVV 13.1%, CDA 12.4%, D66 12.2%, GL 9.1%, SP 9.1%, PvdA 5.7%, CU 3.4%, PvdD 3.2%, 50 Plus 3.1%, other 7.4%; seats by party - VVD 33, PVV 20, CDA 19, D66 19, GL 14, SP 14, PvdA 9, CU 5, PvdD 5, 50 Plus 4, other 8; composition - men 96, women 54, percent of women 36%; note - total States General percent of women 35.6% |
+| Political parties and leaders: | Christian Democratic Appeal or CDA [Sybrand VAN HAERSMA BUMA] |
+| Political parties and leaders: | Christian Union or CU [Gert-Jan SEGERS] |
+| Political parties and leaders: | Democrats 66 or D66 [Rob JETTEN] |
+| Political parties and leaders: | Denk [Tunahan KUZU] |
+| Political parties and leaders: | 50 Plus [Henk KROL] |
+| Political parties and leaders: | Forum for Democracy or FvD [Thierry BAUDET] |
+| Political parties and leaders: | Green Left or GL [Jesse KLAVER] |
+| Political parties and leaders: | Labor Party or PvdA [Lodewijk ASSCHER] |
+| Political parties and leaders: | Party for Freedom or PVV [Geert WILDERS] |
+| Political parties and leaders: | Party for the Animals or PvdD [Marianne THIEME] |
+| Political parties and leaders: | People's Party for Freedom and Democracy or VVD [Mark RUTTE] |
+| Political parties and leaders: | Reformed Political Party or SGP [Kees VAN DER STAAIJ] |
+| Political parties and leaders: | Socialist Party or SP [Emile ROEMER] |
+| Political parties and leaders: | plus a few minor parties |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hendrik Jan Jurriaan SCHUWER (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 4200 Linnean Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-5300, [1] 877-388-2443 |
+| Diplomatic representation in the US: | FAX: [1] (202) 362-3430 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Peter HOEKSTRA (since 10 January 2018) |
+| Diplomatic representation from the US: | embassy: John Adams Park 1, 2244 BZ Wassenaar |
+| Diplomatic representation from the US: | mailing address: PSC 71, Box 1000, APO AE 09715 |
+| Diplomatic representation from the US: | telephone: [31] (70) 310-2209 |
+| Diplomatic representation from the US: | FAX: [31] (70) 310-2207 |
+| Diplomatic representation from the US: | consulate(s) general: Amsterdam |
+| Flag description: | three equal horizontal bands of red (bright vermilion; top), white, and blue (cobalt); similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors were derived from those of WILLIAM I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century; originally the upper band was orange, but because its dye tended to turn red over time, the red shade was eventually made the permanent color; the banner is perhaps the oldest tricolor in continuous use |
+| National symbol(s): | lion, tulip; national color: orange |
+| National anthem: | name: "Het Wilhelmus" (The William) |
+| National anthem: | lyrics/music: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown |
+| National anthem: | note: adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt |

@@ -1,0 +1,41 @@
+| Government | Israel |
+| --- | --- |
+| Country name: | conventional long form: State of Israel |
+| Country name: | conventional short form: Israel |
+| Country name: | local long form: Medinat Yisra'el |
+| Country name: | local short form: Yisra'el |
+| Government type: | parliamentary democracy |
+| Capital: | name: Jerusalem; note - Israel proclaimed Jerusalem as its capital in 1950, but the US, like nearly all other countries, maintains its Embassy in Tel Aviv |
+| Capital: | geographic coordinates: 32 05 N, 34 48 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Friday in March; ends the Sunday between the holidays of Rosh Hashana and Yom Kippur |
+| Administrative divisions: | 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv |
+| Independence: | 14 May 1948 (from League of Nations mandate under British administration) |
+| National holiday: | Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May |
+| Constitution: | no formal constitution; some of the functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws of the parliament (Knesset), and the Israeli citizenship law |
+| Legal system: | mixture of English common law, British Mandate regulations, and, in personal matters, Jewish, Christian, and Muslim legal systems; in December 1985, Israel informed the UN Secretariat that it would no longer accept compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Moshe KATZAV (since 31 July 2000) |
+| Executive branch: | head of government: Prime Minister Ehud OLMERT (since May 2006); Deputy Prime Minister Tzipora "Tzipi" LIVNI (since May 2006) |
+| Executive branch: | cabinet: Cabinet selected by prime minister and approved by the Knesset |
+| Executive branch: | elections: president is largely a ceremonial role and is elected by the Knesset for a seven-year term (no term limits); election last held 31 July 2000 (next to be held mid-2007); following legislative elections, the president assigns a Knesset member - traditionally the leader of the largest party - the task of forming a governing coalition |
+| Executive branch: | election results: Moshe KATZAV elected president by the 120-member Knesset with a total of 60 votes, other candidate, Shimon PERES, received 57 votes (there were three abstentions); Ariel SHARON continued as prime minister after Likud Party victory in January 2003 Knesset elections; Likud won 38 seats and then formed coalition government with Shinui, the National Religious Party, and the National Union; controversy surrounding SHARON's disengagement plan ultimately led to the formation of a Likud-Labor-United Torah Judaism (UTJ) coalition government in January 2005 |
+| Legislative branch: | unicameral Knesset (120 seats; members elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 29 March 2006 (next scheduled to be held in 2010) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - Kadima 29, Labor 19, Likud 12, SHAS 12, Yisrael Beiteinu 11, NU/NRP 9, GIL 7, Torah and Shabbat Judaism 6, Meretz-YAHAD 5, United Arab List 4, Balad 3, HADASH 3 |
+| Judicial branch: | Supreme Court (justices appointed by Judicial Selection Committee - made up of all three branches of the government; mandatory retirement age is 70) |
+| Political parties and leaders: | Democratic Front for Peace and Equality (HADASH) [Muhammad BARAKA]; GIL (Pensioners) [Rafael EITAN]; Kadima [Ehud OLMERT]; Labor Party [Amir PERETZ]; Likud Party [Binyamin NETANYAHU]; Meretz-YAHAD [Yossi BEILIN]; National Democratic Assembly (Balad) [Azmi BISHARA]; National Union (NU)/National Religious Party (NRP) [Binyamin ELON]; SHAS [Eliyahu YISHAI]; Torah and Shabbat Judaism [Yaakov LITZMAN]; United Arab List [Ibrahim SARSOUR]; Yisrael Beiteinu [Avigdor LIEBERMAN]; Yisrael Ba'Aliya (merged with Likud) |
+| Political pressure groups and leaders: | Israeli nationalists advocating Jewish settlement on the West Bank and Gaza Strip; Peace Now supports territorial concessions in the West Bank and Gaza Strip; Yesha (settler) Council promotes settler interests and opposes territorial compromise; B'Tselem monitors human rights abuses |
+| International organization participation: | BIS, BSEC (observer), CERN (observer), EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, OAS (observer), OPCW (signatory), OSCE (partner), PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCO, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Salai MERIDOR |
+| Diplomatic representation in the US: | chancery: 3514 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 364-5500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-5607 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard H. JONES |
+| Diplomatic representation from the US: | embassy: 71 Hayarkon Street, Tel Aviv 63903 |
+| Diplomatic representation from the US: | mailing address: PSC 98, Box 29, APO AE 09830 |
+| Diplomatic representation from the US: | telephone: [972] (3) 519-7575 |
+| Diplomatic representation from the US: | FAX: [972] (3) 516-4390 |
+| Diplomatic representation from the US: | consulate(s) general: Jerusalem; note - an independent US mission, established in 1928, whose members are not accredited to a foreign government |
+| Flag description: | white with a blue hexagram (six-pointed linear star) known as the Magen David (Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag |

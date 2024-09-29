@@ -1,0 +1,66 @@
+| Government | Korea, South |
+| --- | --- |
+| Country name: | conventional long form: Republic of Korea |
+| Country name: | conventional short form: South Korea |
+| Country name: | local long form: Taehan-min'guk |
+| Country name: | local short form: Han'guk |
+| Country name: | abbreviation: ROK |
+| Country name: | etymology: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name "Han'guk" derives from the long form, "Taehan-min'guk," which is itself a derivation from "Daehan-je'guk," which means "the Great Empire of the Han"; "Han" refers to the "Sam'han" or the "Three Han Kingdoms" (Goguryeo, Baekje, and Silla from the Three Kingdoms Era, 1st-7th centuries A.D.) |
+| Government type: | presidential republic |
+| Capital: | name: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, is serving as an administrative capital for segments of the South Korean Government |
+| Capital: | geographic coordinates: 37 33 N, 126 59 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla |
+| Administrative divisions: | 9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi) |
+| Administrative divisions: | provinces: Chungbuk (North Chungcheong), Chungnam (South Chungcheong), Gangwon, Gyeongbuk (North Gyeongsang), Gyeonggi, Gyeongnam (South Gyeongsang), Jeju, Jeonbuk (North Jeolla), Jeonnam (South Jeolla) |
+| Administrative divisions: | metropolitan cities: Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan |
+| Administrative divisions: | special city: Seoul |
+| Administrative divisions: | special self-governing city: Sejong |
+| Independence: | 15 August 1945 (from Japan) |
+| National holiday: | Liberation Day, 15 August (1945) |
+| Constitution: | history: several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988 |
+| Constitution: | amendments: proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987 |
+| Legal system: | mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of South Korea |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election |
+| Executive branch: | chief of state: President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister CHUNG Sye-kyun (since 14 January 2020) serves as the principal executive assistant to the president, similar to the role of a vice presidentÂ  |
+| Executive branch: | head of government: President MOON Jae-in (since 10 May 2017)Â  |
+| Executive branch: | cabinet: State Council appointed by the president on the prime minister's recommendationÂ  |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held in March 2022); prime minister appointed by president with consent of National Assembly |
+| Executive branch: | election results: MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12% |
+| Legislative branch: | description: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 15 April 2020 (next to be held in April 2024) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17% |
+| Judicial branch: | highest courts: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices) |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65 |
+| Judicial branch: | subordinate courts: High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues |
+| Political parties and leaders: | Bareun Mirae Party or BMP [SOHN Hak-kyu] (merger of Bareun Party and People's Party) |
+| Political parties and leaders: | Democratic Party or DP [LEE Hae-chan] (renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP) [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014) |
+| Political parties and leaders: | Justice Party or JP [SIM Sang-jung] |
+| Political parties and leaders: | Minjung Party or MP (formed from the merger of the New People's Party (formerly the New People's Political Party or NPP) and the People's United Party or PUP) |
+| Political parties and leaders: | Open Democratic Pary or ODP [LEE Keun-shik] (formed in early 2020) |
+| Political parties and leaders: | Our Republic Party [CHO Won-jin and HONG Moon-jong] (formerly Korean Patriots' Party or KPP) |
+| Political parties and leaders: | Party for Democracy and Peace or PDP [CHUNG Dong-young] |
+| Political parties and leaders: | People Party or PP [AHN Cheol-soo] (formed in February 2020) |
+| Political parties and leaders: | Together Citizens' Party [WOO Hee-jong, ChOI Bae-geun] (formed in early 2020 in alliance with the Democratic Party) |
+| Political parties and leaders: | United Future Party or UFP (formed in early 2020 by the merger of Liberty Korea Party, New Conservative Party, Onward for Future 4.0, and several other minor parties; it has a sister relationship with the Future Korea Party |
+| International organization participation: | ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CICA, CP, EAS, EBRD, FAO, FATF, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSTAH, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SAARC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: AmbassadorÂ LEE Soo-hyuckÂ (since 6 January 2020) |
+| Diplomatic representation in the US: | chancery: 2450 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-5600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 797-0595 |
+| Diplomatic representation in the US: | consulate(s) general: Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador Harry HARRIS (since 10 July 2018) |
+| Diplomatic representation from the US: | telephone: [82] (2) 397-4114 |
+| Diplomatic representation from the US: | embassy: 188 Sejong-daero, Jongno-gu, Seoul 03141 |
+| Diplomatic representation from the US: | mailing address: US Embassy Seoul, 9600 Seoul Place Washington, D.C., 20521-9600 |
+| Diplomatic representation from the US: | FAX: [82] (2) 725-0152 |
+| Flag description: | white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony |
+| National symbol(s): | taegeuk (yin yang symbol), Hibiscus syriacus (Rose of Sharon), Siberian tiger; national colors: red, white, blue, black |
+| National anthem: | name: "Aegukga" (Patriotic Song) |
+| National anthem: | lyrics/music: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay |
+| National anthem: | note: adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics |

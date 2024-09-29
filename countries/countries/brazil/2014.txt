@@ -1,0 +1,81 @@
+| Government | Brazil |
+| --- | --- |
+| Country name: | conventional long form: Federative Republic of Brazil |
+| Country name: | conventional short form: Brazil |
+| Country name: | local long form: Republica Federativa do Brasil |
+| Country name: | local short form: Brasil |
+| Government type: | federal republic |
+| Capital: | name: Brasilia |
+| Capital: | geographic coordinates: 15 47 S, 47 55 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins third Sunday in October; ends third Sunday in February |
+| Capital: | note: Brazil has three time zones, including one for the Fernando de Noronha Islands |
+| Administrative divisions: | 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins |
+| Independence: | 7 September 1822 (from Portugal) |
+| National holiday: | Independence Day, 7 September (1822) |
+| Constitution: | several previous; latest ratified 5 October 1988; amended many times, last in 2012 (2012) |
+| Legal system: | civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | voluntary between 16 to under 18 years of age and over 70; compulsory 18 to 70 years of age; note - military conscripts by law cannot vote |
+| Executive branch: | chief of state: President Dilma ROUSSEFF (since 1 January 2011); Vice President Michel Miguel Elias TEMER Lulia (since 1 January 2011); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Dilma ROUSSEFF (since 1 January 2011); Vice President Michel Miguel Elias TEMER Lulia (since 1 January 2011) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | (For more information visit the World Leaders website&nbsp;) |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for a single four-year term; election last held on 3 October 2010 with runoff on 31 October 2010 (next to be held on 5 October 2014 and, if necessary, a runoff election on 26 October 2014) |
+| Executive branch: | election results: Dilma ROUSSEFF (PT) elected president in a runoff election; percent of vote - Dilma ROUSSEFF 56.01%, Jose SERRA (PSDB) 43.99% |
+| Legislative branch: | bicameral National Congress or Congresso Nacional consists of the Federal Senate or Senado Federal (81 seats; 3 members from each state and federal district elected according to the principle of majority to serve eight-year terms; one-third and two-thirds of members elected every four years, alternately) and the Chamber of Deputies or Camara dos Deputados (513 seats; members are elected by proportional representation to serve four-year terms) |
+| Legislative branch: | elections: Federal Senate - last held on 3 October 2010 for two-thirds of the Senate (next to be held in October 2014 for one-third of the Senate); Chamber of Deputies - last held on 3 October 2010 (next to be held in October 2014) |
+| Legislative branch: | election results: Federal Senate - percent of vote by party - NA; seats by party - PMDB 19, PT 15, PSDB 11, DEM (formerly PFL) 7, PTB 6, PP 4, PDT 4, PR 4, PSB 3, PCdoB 2, PSOL 2, other 4; Chamber of Deputies - percent of vote by party - NA; seats by party - PT 88, PMDB 79, PSDB 53, DEM (formerly PFL) 43, PP 41, PR 41, PSB 34, PDT 28, PTB 21, PSC 17, PCdoB 15, PPS 12, PPS 12, PRB 8, PMN 4, PSOL 3, other 26 |
+| Judicial branch: | highest court(s): Supreme Federal Court (consists of 11 justices) |
+| Judicial branch: | judge selection and term of office: justices appointed by the president and approved by the Federal Senate; justices appointed to serve until mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system |
+| Political parties and leaders: | Brazilian Communist Party or PCB [Ivan Martins PINHEIRO] |
+| Political parties and leaders: | Brazilian Democratic Movement Party or PMDB [Michel TEMER] |
+| Political parties and leaders: | Brazilian Labor Party or PTB [Benito GAMA] |
+| Political parties and leaders: | Brazilian Renewal Labor Party or PRTB [Jose Levy FIDELIX da Cruz] |
+| Political parties and leaders: | Brazilian Republican Party or PRB [Marcos Antonio PEREIRA] |
+| Political parties and leaders: | Brazilian Social Democracy Party or PSDB [Aecio NEVES] |
+| Political parties and leaders: | Brazilian Socialist Party or PSB [Eduardo CAMPOS] |
+| Political parties and leaders: | Christian Labor Party or PTC [Daniel TOURINHO] |
+| Political parties and leaders: | Christian Social Democratic Party or PSDC [Jose Maria EYMAEL] |
+| Political parties and leaders: | Communist Party of Brazil or PCdoB [Jose Renato RABELO] |
+| Political parties and leaders: | Democratic Labor Party or PDT [Carlos Roberto LUPI] |
+| Political parties and leaders: | the Democrats or DEM [Jose AGRIPINO] (formerly Liberal Front Party or PFL) |
+| Political parties and leaders: | Free Homeland Party or PPL [Sergio RUBENS] |
+| Political parties and leaders: | Green Party or PV [Jose Luiz PENNA] |
+| Political parties and leaders: | Humanist Party of Solidarity or PHS [Eduardo MACHADO] |
+| Political parties and leaders: | Labor Party of Brazil or PTdoB [Luis Henrique de Oliveira RESENDE] |
+| Political parties and leaders: | National Ecologic Party or PEN [Adilson Barroso OLIVEIRA] |
+| Political parties and leaders: | National Labor Party or PTN [Jose Masci de ABREU] |
+| Political parties and leaders: | National Mobilization Party or PMN [Oscar Noronha FILHO] |
+| Political parties and leaders: | Party of the Republic or PR [Alfredo NASCIMENTO] |
+| Political parties and leaders: | Popular Socialist Party or PPS [Roberto Joao Pereira FREIRE] |
+| Political parties and leaders: | Progressive Party or PP [Ciro NOGUEIRA] |
+| Political parties and leaders: | Progressive Republican Party or PRP [Ovasco Roma Altimari RESENDE] |
+| Political parties and leaders: | Social Christian Party or PSC [Vitor Jorge Abdala NOSSEIS] |
+| Political parties and leaders: | Social Democratic Party or PSD [Gilberto KASSAB] |
+| Political parties and leaders: | Social Liberal Party or PSL [Luciano Caldas BIVAR] |
+| Political parties and leaders: | Socialism and Freedom Party or PSOL [Luiz ARAUJO] |
+| Political parties and leaders: | United Socialist Workers' Party or PSTU [Jose Maria DE ALMEIDA] |
+| Political parties and leaders: | Workers' Cause Party or PCO [Rui Costa PIMENTA] |
+| Political parties and leaders: | Workers' Party or PT [Rui FALCAO] |
+| Political pressure groups and leaders: | Landless Workers' Movement or MST |
+| Political pressure groups and leaders: | other: industrial federations; labor unions and federations; large farmers' associations; religious groups including evangelical Christian churches and the Catholic Church |
+| International organization participation: | AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OECD (Enhanced Engagement, OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNMIT, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mauro Luiz Iecker VIEIRA (since 11 January 2010) |
+| Diplomatic representation in the US: | chancery: 3006 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-2805 |
+| Diplomatic representation in the US: | FAX: [1] (202) 238-2827 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Liliana AYALDE (since 1 August 2013) |
+| Diplomatic representation from the US: | embassy: Avenida das Nacoes, Quadra 801, Lote 3, Distrito Federal Cep 70403-900, Brasilia |
+| Diplomatic representation from the US: | mailing address: Unit 7500, DPO, AA 34030 |
+| Diplomatic representation from the US: | telephone: [55] (61) 3312-7000 |
+| Diplomatic representation from the US: | FAX: [55] (61) 3225-9136 |
+| Diplomatic representation from the US: | consulate(s) general: Rio de Janeiro, Sao Paulo |
+| Diplomatic representation from the US: | consulate(s): Recife |
+| Flag description: | green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth; the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District) |
+| National symbol(s): | Southern Cross constellation |
+| National anthem: | name: "Hino Nacional Brasileiro" (Brazilian National Anthem) |
+| National anthem: | lyrics/music: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA |
+| National anthem: | note: music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted |

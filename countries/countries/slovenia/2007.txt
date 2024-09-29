@@ -1,0 +1,42 @@
+| Government | Slovenia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Slovenia |
+| Country name: | conventional short form: Slovenia |
+| Country name: | local long form: Republika Slovenija |
+| Country name: | local short form: Slovenija |
+| Country name: | former: People's Republic of Slovenia, Socialist Republic of Slovenia |
+| Government type: | parliamentary republic |
+| Capital: | name: Ljubljana |
+| Capital: | geographic coordinates: 46 03 N, 14 31 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 182 municipalities (obcine, singular - obcina) and 11 urban municipalities* (mestne obcine , singular - mestna obcina ) Ajdovscina, Beltinci, Benedikt, Bistrica ob Sotli, Bled, Bloke, Bohinj, Borovnica, Bovec, Braslovce, Brda, Brezice, Brezovica, Cankova, Celje*, Cerklje na Gorenjskem, Cerknica, Cerkno, Cerkvenjak, Crensovci, Crna na Koroskem, Crnomelj, Destrnik, Divaca, Dobje, Dobrepolje, Dobrna, Dobrova-Horjul-Polhov Gradec, Dobrovnik-Dobronak, Dolenjske Toplice, Dol pri Ljubljani, Domzale, Dornava, Dravograd, Duplek, Gorenja Vas-Poljane, Gorisnica, Gornja Radgona, Gornji Grad, Gornji Petrovci, Grad, Grosuplje, Hajdina, Hoce-Slivnica, Hodos-Hodos, Horjul, Hrastnik, Hrpelje-Kozina, Idrija, Ig, Ilirska Bistrica, Ivancna Gorica, Izola-Isola, Jesenice, Jezersko, Jursinci, Kamnik, Kanal, Kidricevo, Kobarid, Kobilje, Kocevje, Komen, Komenda, Koper-Capodistria*, Kostel, Kozje, Kranj*, Kranjska Gora, Krizevci, Krsko, Kungota, Kuzma, Lasko, Lenart, Lendava-Lendva, Litija, Ljubljana*, Ljubno, Ljutomer, Logatec, Loska Dolina, Loski Potok, Lovrenc na Pohorju, Luce, Lukovica, Majsperk, Maribor*, Markovci, Medvode, Menges, Metlika, Mezica, Miklavz na Dravskem Polju, Miren-Kostanjevica, Mirna Pec, Mislinja, Moravce, Moravske Toplice, Mozirje, Murska Sobota*, Muta, Naklo, Nazarje, Nova Gorica*, Novo Mesto*, Odranci, Oplotnica, Ormoz, Osilnica, Pesnica, Piran-Pirano, Pivka, Podcetrtek, Podlehnik, Podvelka, Polzela, Postojna, Prebold, Preddvor, Prevalje, Ptuj*, Puconci, Race-Fram, Radece, Radenci, Radlje ob Dravi, Radovljica, Ravne na Koroskem, Razkrizje, Ribnica, Ribnica na Pohorju, Rogasovci, Rogaska Slatina, Rogatec, Ruse, Salovci, Selnica ob Dravi, Semic, Sempeter-Vrtojba, Sencur, Sentilj, Sentjernej, Sentjur pri Celju, Sevnica, Sezana, Skocjan, Skofja Loka, Skofljica, Slovenj Gradec*, Slovenska Bistrica, Slovenske Konjice, Smarje pri Jelsah, Smartno ob Paki, Smartno pri Litiji, Sodrazica, Solcava, Sostanj, Starse, Store, Sveta Ana, Sveti Andraz v Slovenskih Goricah, Sveti Jurij, Tabor, Tisina, Tolmin, Trbovlje, Trebnje, Trnovska Vas, Trzic, Trzin, Turnisce, Velenje*, Velika Polana, Velike Lasce, Verzej, Videm, Vipava, Vitanje, Vodice, Vojnik, Vransko, Vrhnika, Vuzenica, Zagorje ob Savi, Zalec, Zavrc, Zelezniki, Zetale, Ziri, Zirovnica, Zuzemberk, Zrece |
+| Administrative divisions: | note: there may be 45 more municipalities |
+| Independence: | 25 June 1991 (from Yugoslavia) |
+| National holiday: | Independence Day/Statehood Day, 25 June (1991) |
+| Constitution: | adopted 23 December 1991 |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal (16 years of age, if employed) |
+| Executive branch: | chief of state: President Janez DRNOVSEK (since 22 December 2002) |
+| Executive branch: | head of government: Prime Minister Janez JANSA (since 9 November 2004) |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister and elected by the National Assembly |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 21 October and 11 November 2007 (next to be held in the fall of 2012); following National Assembly elections, the leader of the majority party or the leader of a majority coalition is usually nominated to become prime minister by the president and elected by the National Assembly; election last held on 9 November 2004 (next National Assembly elections to be held in October 2008) |
+| Executive branch: | election results: Danilo TURK elected president; percent of vote - Danilo TURK 68.2%, Lajze PETERLE 31.8%; Janez JANSA elected prime minister by National Assembly vote - 57 to 27 in 2004; called for vote of confidence 19 November 2007; TURK will be sworn in in December 2007 |
+| Legislative branch: | bicameral Parliament consists of a National Assembly or Drzavni Zbor (90 seats; 40 members are directly elected and 50 are elected on a proportional basis; note - the number of directly elected and proportionally elected seats varies with each election; the constitution mandates 1 seat each for Slovenia's Hungarian and Italian minorities; members are elected by popular vote to serve four-year terms) and the National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve five-year terms; note - this is primarily an advisory body with limited legislative powers; it may propose laws, ask to review any National Assembly decision, and call national referenda) |
+| Legislative branch: | elections: National Assembly - last held 3 October 2004 (next to be held in October 2008) |
+| Legislative branch: | election results: percent of vote by party - SDS 29.1%, LDS 22.8%, ZLSD 10.2%, NSi 9%, SLS 6.8%, SNS 6.3%, DeSUS 4.1%, other 11.7%; seats by party - SDS 29, LDS 23, ZLSD 10, NSi 9, SLS 7, SNS 6, DeSUS 4, Hungarian minority 1, Italian minority 1 |
+| Judicial branch: | Supreme Court (judges are elected by the National Assembly on the recommendation of the Judicial Council); Constitutional Court (judges elected for nine-year terms by the National Assembly and nominated by the president) |
+| Political parties and leaders: | Liberal Democratic Party or LDS [Jelko KACIN]; New Slovenia or NSi [Andrej BAJUK]; Slovenian Democratic Party or SDS [Janez JANSA]; Democratic Party of Pensioners of Slovenia or DeSUS [Karl ERJAVEC]; Slovene National Party or SNS [Zmago JELINCIC]; Slovene People's Party or SLS [Janez PODOBNIK]; Slovene Youth Party or SMS [Darko KRANJC]; Social Democrats or SD [Borut PAHOR] (formerly ZLSD) |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT (observer), Australia Group, BIS, CE, CEI, EAPC, EBRD, EIB, EMU, EU, FAO, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NAM (guest), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SECI, UN, UNCTAD, UNESCO, UNIDO, UNTSO, UNWTO, UPU, WCO, WEU (associate partner), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Samuel ZBOGAR |
+| Diplomatic representation in the US: | chancery: 1525 New Hampshire Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-5363 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-4563 |
+| Diplomatic representation in the US: | consulate(s) general: Cleveland, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Maryruth COLEMAN |
+| Diplomatic representation from the US: | embassy: Presernova 31, 1000 Ljubljana |
+| Diplomatic representation from the US: | mailing address: American Embassy Ljubljana, US Department of State, 7140 Ljubljana Place, Washington, DC 20521-7140 |
+| Diplomatic representation from the US: | telephone: [386] (1) 200-5500 |
+| Diplomatic representation from the US: | FAX: [386] (1) 200-5555 |
+| Flag description: | three equal horizontal bands of white (top), blue, and red, with the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the great Slovene dynastic house of the late 14th and early 15th centuries); the seal is in the upper hoist side of the flag centered in the white and blue bands |

@@ -1,0 +1,100 @@
+| Government | Jordan |
+| --- | --- |
+| Country name: | conventional long form: Hashemite Kingdom of Jordan |
+| Country name: | conventional short form: Jordan |
+| Country name: | local long form: Al Mamlakah al Urduniyah al Hashimiyah |
+| Country name: | local short form: Al Urdun |
+| Country name: | former: Transjordan |
+| Country name: | etymology: named for the Jordan River, which makes up part of Jordan's northwest border |
+| Government type: | parliamentary constitutional monarchy |
+| Capital: | name: Amman |
+| Capital: | geographic coordinates: 31 57 N, 35 56 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Friday in March; ends last Friday in October |
+| Capital: | etymology: in the 13th century B.C., the Ammonites named their main city "Rabbath Ammon"; "rabbath" designated "capital," so the name meant "The Capital of [the] Ammon[ites]"; over time, the "Rabbath" came to be dropped and the city became known simply as "Ammon" and then "Amman" |
+| Administrative divisions: | 12 governorates (muhafazat, singular - muhafazah); 'Ajlun, Al 'Aqabah, Al Balqa', Al Karak, Al Mafraq, Al â€˜Asimah (Amman), At Tafilah, Az Zarqa', Irbid, Jarash, Ma'an, Madaba |
+| Independence: | 25 May 1946 (from League of Nations mandate under British administration) |
+| National holiday: | Independence Day, 25 May (1946) |
+| Constitution: | history: previous 1928 (preindependence); latest initially adopted 28 November 1947, revised and ratified 1 January 1952 |
+| Constitution: | amendments: constitutional amendments require at least aÂ two-thirds majority vote of both the Senate and the House and ratification by the king; no amendment of the constitution affecting the rights of the king and the succession to the throne isÂ permitted during the regency period;Â amended several times, last in 2016 |
+| Legal system: | mixed system developed from codes instituted by the Ottoman Empire (based on French law), British common law, and Islamic law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Jordan |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 15 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: King ABDALLAH II (since 7 February 1999); Crown Prince HUSSEIN (born 28 June 1994), eldest son of King ABDALLAH IIÂ  |
+| Executive branch: | head of government: Prime Minister Bisher AL-KHASAWNEH (since 7 October 2020) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister in consultation with the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary; prime minister appointed by the monarch |
+| Legislative branch: | description: bicameral National Assembly or Majlis al-'Umma consists of: |
+| Legislative branch: | Senate or the House of Notables or Majlis al-Ayan (65 seats; members appointed by the monarch to serve 4-year terms) |
+| Legislative branch: | Chamber of Deputies or House of Representatives or Majlis al-Nuwaab (130 seats; 115 members directly elected in 23 multi-seat constituencies by open-list proportional representation vote and 15 seats for women; 12 of the 115 seats reserved for Christian, Chechen, and Circassian candidates; members serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Chamber of Deputies - last held on 10 November 2020 (next to be held in November 2024) |
+| Legislative branch: | election results: |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - NA; seats by party - NA |
+| Judicial branch: | highest courts: Court of Cassation or Supreme Court (consists of 15 members, including the chief justice); Constitutional Court (consists ofÂ 9 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice appointed by the king; other judges nominated by the Judicial Council, an 11-member judicial policymaking body consisting of high-level judicial officials and judges, and approved by the king; judge tenure generally not limited; Constitutional Court members appointed by the king for 6-year non-renewable terms with one-third of the membership renewed every 2 years |
+| Judicial branch: | subordinate courts: Courts of Appeal; Great Felonies Court; religious courts; military courts; juvenile courts; Land Settlement Courts; Income Tax Court; Higher Administrative Court; Customs Court; special courts including the State Security Court |
+| Political parties and leaders: | Ahrar al-Urdun (Free People of Jordan) Party [Samir al-ZU'BI] |
+| Political parties and leaders: | Al-Awn al-Watani (National Aid) Party [Faysal al-AWAR] |
+| Political parties and leaders: | Al-Balad al-Amin Party [Khalil al-SAYED] |
+| Political parties and leaders: | Al-Itijah al-Watani (National Trend Party) [Ahmad al-KAYED] |
+| Political parties and leaders: | Al-Mustaqbal (Future) Party [Salah al-QUDAH] |
+| Political parties and leaders: | Al-Nidaâ€™ Party [Abd-al-Majid ABU-KHALID] |
+| Political parties and leaders: | Al-Rayah Party (Flag Party) [Bilal DHEISAT] |
+| Political parties and leaders: | Al-Shahama Party [Mashhour ZREIQAT] |
+| Political parties and leaders: | Al-Shura Party [Firas al-ABBADI] |
+| Political parties and leaders: | Arab Socialist Baâ€™th Party [Zyad AL-HOMSI] |
+| Political parties and leaders: | Conservatives Party [Hasan RASHID] |
+| Political parties and leaders: | Democratic Popular Unity Party [Saâ€™eed DHIYAB] |
+| Political parties and leaders: | Democratic Shaâ€™b Party (HASHD) [Abla ABU-OLBEH] |
+| Political parties and leaders: | Freedom and Equality Party [Hamad Abu ZEID] |
+| Political parties and leaders: | Islamic Action Front [Murad AL-ADAYLAH] |
+| Political parties and leaders: | Islamic Centrist Party [Madallah AL-TARAWNEH] |
+| Political parties and leaders: | Jordanian Al-Ansar Party [Awni al-RJOUB] |
+| Political parties and leaders: | Jordanian Al-Hayah Party [Abd-al-Fattah al-KILANI] |
+| Political parties and leaders: | Jordanian Communist Party [Faraj ITMIZYEH] |
+| Political parties and leaders: | Jordanian Democratic Socialist Party [Jamil al-NIMRI] |
+| Political parties and leaders: | Jordanian Democratic Tabiyâ€™ah (Nature) Party [Ali ASFOUR] |
+| Political parties and leaders: | Jordanian Equality Party [Zuhair al-SHURAFA] |
+| Political parties and leaders: | Jordanian Fursan (Cavaliers Party) [Ali al-DHWEIB] |
+| Political parties and leaders: | Jordanian Justice and Development Party [Ali al-SHURAFA] |
+| Political parties and leaders: | Jordanian National Action Party [Abd-al-Hadi al-MAHARMAH] |
+| Political parties and leaders: | Jordanian National Constitutional Party [Ahmad al-SHUNNAQ] |
+| Political parties and leaders: | Jordanian National Democratic Grouping Party [Shakir al-ABBADI] |
+| Political parties and leaders: | Jordanian National Party [Muna ABU-BAKR] |
+| Political parties and leaders: | Jordanian National Union Party [Zeid ABU-ZEID] |
+| Political parties and leaders: | Jordanian Progressive Baâ€™th Party [Fuâ€™ad DABBOUR] |
+| Political parties and leaders: | Jordanian Promise Party [Mahmoud al-KHALILI] |
+| Political parties and leaders: | Jordanian Reform Party [Eid DHAYYAT] |
+| Political parties and leaders: | Jordanian Social Justice Party [Abd-al-Fattah al-NSOUR] |
+| Political parties and leaders: | Jordanian Wafaâ€™ (Loyalty) Party [Mazin al-QADI] |
+| Political parties and leaders: | Justice and Reform Party [Saâ€™eed Nathir ARABIYAT] |
+| Political parties and leaders: | Modernity and Change Party [Nayef al-HAMAYDEH] |
+| Political parties and leaders: | National Congress Party [Irhayil GHARAYBEH] (formerly the Zamzam party) |
+| Political parties and leaders: | National Renaissance Front Party [Ismaâ€™il KHATATBEH] |
+| Political parties and leaders: | National Unity Party [Muhammad al-ZBOUN] |
+| Political parties and leaders: | Pan Arab Movement Party [Dayfallah FARRAJ] |
+| Political parties and leaders: | Partnership and Salvation Party [Muhammad al-HAMMOURI] |
+| Political parties and leaders: | Reform and Renewal Party [Mazin RYAL] |
+| Political parties and leaders: | Risalah Party [Hazim QASHOUâ€™] |
+| Political parties and leaders: | Stronger Jordan Party [Rula al-HROUB] |
+| Political parties and leaders: | Unified Jordanian Front Party [Farouq AL-ABBADI] |
+| International organization participation: | ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Dina Khalil Tawiq KAWAR (since 27 June 2016) |
+| Diplomatic representation in the US: | chancery: 3504 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 966-2664 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-3110 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Henry T. WOOSTER (since 18 October 2020) |
+| Diplomatic representation from the US: | telephone: [962] (6) 590-6000 |
+| Diplomatic representation from the US: | embassy: Abdoun, Al-Umawyeen St., Amman |
+| Diplomatic representation from the US: | mailing address: P. O. Box 354, Amman 11118 Jordan; Unit 70200, Box 5, DPO AE 09892-0200 |
+| Diplomatic representation from the US: | FAX: [962] (6) 592-0163 |
+| Flag description: | three equal horizontal bands of black (top), representing the Abbassid Caliphate, white, representing the Ummayyad Caliphate, and green, representing the Fatimid Caliphate; a red isosceles triangle on the hoist side, representing the Great Arab Revolt of 1916, and bearing a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Holy Koran; the seven points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; design is based on the Arab Revolt flag of World War I |
+| National symbol(s): | eagle; national colors: black, white, green, red |
+| National anthem: | name: "As-salam al-malaki al-urdoni" (Long Live the King of Jordan) |
+| National anthem: | lyrics/music: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER |
+| National anthem: | note: adopted 1946; the shortened version of the anthem is used most commonly, while the full version is reserved for special occasions |

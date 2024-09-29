@@ -1,0 +1,64 @@
+| Government | EGYPT |
+| --- | --- |
+| Country name: | conventional long form: Arab Republic of Egypt |
+| Country name: | conventional short form: Egypt |
+| Country name: | local long form: Jumhuriyat Misr al-Arabiyah |
+| Country name: | local short form: Misr |
+| Country name: | former: United Arab Republic (with Syria) |
+| Government type: | republic |
+| Capital: | name: Cairo |
+| Capital: | geographic coordinates: 30 03 N, 31 15 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 27 governorates (muhafazat, singular - muhafazat); Ad Daqahliyah, Al Bahr al Ahmar (Red Sea), Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah (Alexandria), Al Isma'iliyah (Ismailia), Al Jizah (Giza), Al Minufiyah, Al Minya, Al Qahirah (Cairo), Al Qalyubiyah, Al Uqsur (Luxor), Al Wadi al Jadid (New Valley), As Suways (Suez), Ash Sharqiyah, Aswan, Asyut, Bani Suwayf, Bur Sa'id (Port Said), Dumyat (Damietta), Janub Sina' (South Sinai), Kafr ash Shaykh, Matruh, Qina, Shamal Sina' (North Sinai), Suhaj |
+| Independence: | 28 February 1922 (from UK protectorate status; the revolution that began on 23 July 1952 led to a republic being declared on 18 June 1953 and all British troops withdrawn on 18 June 1956); note - it was ca. 3200 B.C. that the Two Lands of Upper (southern) and Lower (northern) Egypt were first united politically |
+| National holiday: | Revolution Day, 23 July (1952) |
+| Constitution: | several previous; latest approved by a constitutional committee in December 2013, approved by referendum 14-15 January 2014, ratified by interim president 19 January 2014 (2015) |
+| Legal system: | mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | Chief of state: President Abdelfattah Said ELSISI (since 8 June 2014) |
+| Executive branch: | head of government: Prime Minister Sherif ISMAIL (since 12 September 2015); note - Prime Minister Ibrahim MEHLAB resigned 12 September 2015 |
+| Executive branch: | cabinet: Cabinet sworn in 17 June 2014 |
+| Executive branch: | elections/appointments: president elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 26-28 May 2014 (next to be held in May 2018); prime minister appointed by the president, approved by the House of Representatives |
+| Executive branch: | election results: Abdelfattah Said ELSISI elected president; percent of vote in 1 round - Abdelfattah Said ELSISI (independent) 96.6%, Hamdeen SABAHI (Egyptian Current Party ) 3.4% |
+| Legislative branch: | description: unicameral House of Representatives (Majlis Al-Nowaab); according to 2014 election laws, will consist of up to 567 members; 420 members to be in elected in single- and multi-seat districts by simple majority vote, 120 members to be elected in party-list districts by simple majority vote, and up to 27 seats as presidential appointees |
+| Legislative branch: | elections (for new House of Representatives): initially scheduled for late December 2014, changed several times, latest to 18 October 2015 |
+| Legislative branch: | election results (for previous legislature): Advisory Council (held 29 January and 14 February 2012) - percent of vote by party - Democratic Alliance for Egypt 45%, Alliance for Egypt (Islamic Bloc) 28.6%, New Wafd Party 8.5%, Egyptian Bloc 5.4%, other 12.5%; seats by party - Democratic Alliance for Egypt 105, Alliance for Egypt (Islamic Bloc) 45, New Wafd Party 14, Egyptian Bloc 8, other 4, independents 4, presidential appointees 90; People's Assembly (held in three stages 28 November 2011 to 11 January 2012) - percent of vote by party - Democratic Alliance for Egypt 37.5%, Alliance for Egypt (Islamic Bloc) 27.8%, New Wafd Party 9.2%, Egyptian Bloc 8.9%, Al-Wasat Party 3.7%, The Revolution Continues Alliance 2.8%, Reform and Development Party 2.2%, National Party of Egypt 1.6%, Freedom Party 1.9%, Egyptian Citizen Party 0.9%, other 3.5%; seats by party - Democratic Alliance of Egypt 235, Alliance for Egypt (Islamic Bloc) 123, New Wafd Party 38, Egyptian Bloc 35, Al-Wasat 10, Reform and Development Party 9, The Revolution Continues Alliance 8, National Party of Egypt 5, Egyptian Citizen Party 4, Freedom Party 4, independents 21, other 6, SCAF appointees 10 |
+| Judicial branch: | highest court(s): Supreme Constitutional Court or SCC (consists of the court president and 10 justices); the SCC serves as the final court of arbitrator on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as &ldquo;ordinary justices"; Supreme Administrative Court (SAC) - consists of the court president and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council |
+| Judicial branch: | judge selection and term of office: under the 2014 constitution, all judges and justices selected by the Supreme Judiciary Council and appointed by the president of the Republic; tenure NA |
+| Judicial branch: | subordinate courts: Courts of Appeal; Courts of First Instance; courts of limited jurisdiction; Family Court (established in 2004) |
+| Political parties and leaders: | officially recognized: Al-Asala [Ehab SHIHA] |
+| Political parties and leaders: | Al-Dustour (Constitution) Party [Hala SHOKRALLAH] |
+| Political parties and leaders: | Al-Karama Party [Mohamed SAMY] |
+| Political parties and leaders: | Al-Nour [Yunis MAKHYUN] |
+| Political parties and leaders: | Al-Wasat Party [Mohamad Abdel LATIF] |
+| Political parties and leaders: | Al-Watan [Imad Abd al-GHAFUR] |
+| Political parties and leaders: | Building and Development Party or BDP [Tarek al-ZOMOR] |
+| Political parties and leaders: | Congress Party [Omar Mokhtar SEMEIDA] |
+| Political parties and leaders: | Egyptian National Movement Party [Ahmed SHAFIK] |
+| Political parties and leaders: | Egyptian Social Democratic Party [Mohamed Aboul GHAR] |
+| Political parties and leaders: | El Tagamu'u Party [Sayed Abdel AAL] |
+| Political parties and leaders: | Free Egyptians Party [Essam KHALIL] |
+| Political parties and leaders: | New Wafd Party [Sayed al-BADADWI] |
+| Political parties and leaders: | Popular Current Party [Hamdeen SABAHI] |
+| Political parties and leaders: | Reform and Development Party [Mohamad Anwar al-SADAT] |
+| Political parties and leaders: | Socialist Popular Alliance [Abdel Ghafar SHOUKR] |
+| Political parties and leaders: | Strong Egypt Party [Abdel Moneim Aboul FOTOUH] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ABEDA, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAPEC, OAS (observer), OIC, OIF, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Yasser REDA (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 3521 International Court NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 895-5400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 244-4319 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador R. Stephen BEECROFT (since 18 December 2014) |
+| Diplomatic representation from the US: | embassy: 5 Tawfik Diab St., Garden City, Cairo |
+| Diplomatic representation from the US: | mailing address: Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo |
+| Diplomatic representation from the US: | telephone: [20] (2) 2797-3300 |
+| Diplomatic representation from the US: | FAX: [20] (2) 2797-3200 |
+| Flag description: | three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white) |
+| Flag description: | note: similar to the flag of Syria, which has two green stars in the white band, Iraq, which has an Arabic inscription centered in the white band, and Yemen, which has a plain white band |
+| National symbol(s): | golden eagle, white lotus; national colors: red, white, black |
+| National anthem: | name: "Bilady, Bilady, Bilady" (My Homeland, My Homeland, My Homeland) |
+| National anthem: | lyrics/music: Younis-al QADI/Sayed DARWISH |
+| National anthem: | note: adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem |

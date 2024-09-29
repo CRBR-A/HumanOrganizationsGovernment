@@ -1,0 +1,65 @@
+| Government | BULGARIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Bulgaria |
+| Country name: | conventional short form: Bulgaria |
+| Country name: | local long form: Republika Balgariya |
+| Country name: | local short form: Balgariya |
+| Government type: | parliamentary democracy |
+| Capital: | name: Sofia |
+| Capital: | geographic coordinates: 42 41 N, 23 19 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Khaskovo, Kurdzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofiya (Sofia), Sofiya-Grad (Sofia City), Stara Zagora, Turgovishte, Varna, Veliko Turnovo, Vidin, Vratsa, Yambol |
+| Independence: | 3 March 1878 (as an autonomous principality within the Ottoman Empire); 22 September 1908 (complete independence from the Ottoman Empire) |
+| National holiday: | Liberation Day, 3 March (1878) |
+| Constitution: | several previous; latest drafted between late 1990 and early 1991, adopted 12 July 1991; amended several times, last in 2007 (2007) |
+| Legal system: | civil law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Rosen PLEVNELIEV (since 22 January 2012); Vice President Margarita POPOVA (since 22 January 2012) |
+| Executive branch: | head of government: Prime Minister Boyko BORISOV (since 7 November 2014); Deputy Prime Ministers Tomislav DONCHEV (since 7 November 2014), Rumyana BACHVAROVA (since 7 November 2014), Meglena KUNEVA (since 7 November 2014), Ivaylo KALFIN (since 7 November 2014); note - this is BORISOV's second term as prime minister, he first served between 27 July 2009 and 13 March 2013 |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister, elected by the National Assembly |
+| Executive branch: | elections/appointments: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 and 30 October 2011 (next to be held in 2016); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly |
+| Executive branch: | election results: Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4% |
+| Legislative branch: | description: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: last held on 5 October 2014 (next to be held in 2018) |
+| Legislative branch: | election results: percent of vote by party - GERB 32.7%, BSP 15.4%, DPS 14.8%, RB 8.9%, PF 7.3%, BBTs 5.7%, Ataka 4.5%, ABV 4.2%, other 6.5%; seats by party - GERB 84, BSP 39, DPS 38, RB 23, PF 19, BBTs 15, Ataka 11, ABV 11 |
+| Judicial branch: | highest court(s): Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized in 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the Judiciary |
+| Judicial branch: | judge selection and term of office: Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial Council or SJC (consists of 25 members with extensive legal experience) and appointed by the president; judge tenure NA; Constitutional Court justices elected by the National Assembly and appointed by the president and the SJC; justices appointed for 9-year terms with renewal of 4 justices every 3 years |
+| Judicial branch: | subordinate courts: appeals courts; regional and district courts; administrative courts; courts martial |
+| Political parties and leaders: | Alternative for Bulgarian Revival or ABV [Georgi PARVANOV] |
+| Political parties and leaders: | Attack (Ataka) [Volen Nikolov SIDEROV] |
+| Political parties and leaders: | Bulgarian Socialist Party or BSP [Mihail MIKOV] |
+| Political parties and leaders: | Bulgaria of the Citizens or DBG [Meglena KUNEVA] |
+| Political parties and leaders: | Bulgaria Without Censorship or BBTs [Nikolay BAREKOV] |
+| Political parties and leaders: | Citizens for the European Development of Bulgaria or GERB [Boyko BORISOV] |
+| Political parties and leaders: | Coalition for Bulgaria or CfB [Sergei STANISHEV] (coalition of parties dominated by BSP) |
+| Political parties and leaders: | Democrats for a Strong Bulgaria or DSB [Radan KANEV] |
+| Political parties and leaders: | IMRO - Bulgarian National Movement or IMRO-BNM [Krasimir KARAKACHANOV] |
+| Political parties and leaders: | Movement for Rights and Freedoms or DPS [Lyutvi MESTAN] |
+| Political parties and leaders: | National Front for the Salvation of Bulgaria or NFSB [Valeri SIMEONOV] |
+| Political parties and leaders: | National Movement for Stability and Progress or NDSV [Hristina HRISTOVA] (formerly National Movement Simeon II or NMS2) |
+| Political parties and leaders: | Order, Law, and Justice or RZS [Yane YANEV] |
+| Political parties and leaders: | Patriotic Front or PF (alliance of IMRO-BNM and NFSB) |
+| Political parties and leaders: | Union of Democratic Forces or SDS [Bozhidar LUKARSKI] |
+| Political parties and leaders: | Reformist Bloc or RB (a five-party alliance including the DSB, DBG, and SDS) |
+| Political pressure groups and leaders: | Confederation of Independent Trade Unions of Bulgaria or CITUB |
+| Political pressure groups and leaders: | Podkrepa Labor Confederation |
+| Political pressure groups and leaders: | other: numerous regional, ethnic, and national interest groups with various agendas |
+| International organization participation: | Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Elena POPTODOROVA (since 4 August 2010) |
+| Diplomatic representation in the US: | chancery: 1621 22nd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-0174 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-7973 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Marcie B. RIES (since 5 September 2012) |
+| Diplomatic representation from the US: | embassy: 16 Kozyak Street, Sofia 1408 |
+| Diplomatic representation from the US: | mailing address: American Embassy Sofia, US Department of State, 5740 Sofia Place, Washington, DC 20521-5740 |
+| Diplomatic representation from the US: | telephone: [359] (2) 937-5100 |
+| Diplomatic representation from the US: | FAX: [359] (2) 937-5320 |
+| Flag description: | three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue |
+| Flag description: | note: the national emblem, formerly on the hoist side of the white stripe, has been removed |
+| National symbol(s): | lion; national colors: white, green, red |
+| National anthem: | name: "Mila Rodino" (Dear Homeland) |
+| National anthem: | lyrics/music: Tsvetan Tsvetkov RADOSLAVOV |
+| National anthem: | note: adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War |

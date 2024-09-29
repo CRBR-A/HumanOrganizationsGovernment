@@ -1,0 +1,78 @@
+| Government | Kosovo |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kosovo |
+| Country name: | conventional short form: Kosovo |
+| Country name: | local long form: Republika e Kosoves (Republika Kosovo) |
+| Country name: | local short form: Kosova (Kosovo) |
+| Government type: | republic |
+| Capital: | name: Pristina (Prishtine, Prishtina) |
+| Capital: | geographic coordinates: 42 40 N, 21 10 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 37 municipalities (komunat, singular - komuna (Albanian); opstine, singular - opstina (Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice/Dardana (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice (Mitrovica), Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan |
+| Independence: | 17 February 2008 (from Serbia) |
+| National holiday: | Independence Day, 17 February (2008) |
+| Constitution: | previous 1974, 1990; latest (postindependence) draft finalized 2 April 2008, signed 7 April 2008, ratified 8 April 2008, entered into force 15 June 2008; amended 2013 (2013) |
+| Legal system: | evolving legal system; mixture of applicable Kosovo law, UNMIK laws and regulations, and applicable laws of the Former Socialist Republic of Yugoslavia that were in effect in Kosovo as of 22 March 1989 |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Atifete JAHJAGA (since 7 April 2011); |
+| Executive branch: | head of government: Prime Minister Hashim THACI (since 9 January 2008) |
+| Executive branch: | cabinet: ministers; elected by the Kosovo Assembly |
+| Executive branch: | (For more information visit the World Leaders website&nbsp;) |
+| Executive branch: | elections: the president is elected for a five-year term by the Kosovo Assembly; election last held on 7 April 2011; note - the prime minister elected by the Kosovo Assembly |
+| Executive branch: | election results: Atifete JAHJAGA elected in one round (Atifete JAHJAGA 80, Suzana NOVOBERDALIU 10); Hashim THACI reelected prime minister by the Assembly |
+| Legislative branch: | unicameral national Assembly (120 seats; 100 seats directly elected, 10 seats guaranteed for ethnic Serbs, 10 seats guaranteed for other ethnic minorities; members to serve four-year terms) |
+| Legislative branch: | elections: last held on 12 December 2010 with runoff elections in a few municipalities in January 2011 (next expected to be held in 2015) |
+| Legislative branch: | election results: percent of vote by party - PDK 32.1%, LDK 24.7%, VV 12.7%, AAK 11.0%, KKR 7.3%, SLS 2.1%, KDTP 1.2%, and others 8.9; seats by party - PDK 34, LDK 27, VV 14, AAK 12, KKR 8, SLS 8, JSL 4, KDTP 3, VAKAT 2, PDAK 1, NDS 1, BSDAK 1, IRDK, 1, PAI 1, SDSKIM 1, GIG 1, PREBK 1 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the court president and at least 15 percent of judges to reflect Kosovo's territorial ethnic composition); Constitutional Court (consists of the court president, vice president, and 7 judges) |
+| Judicial branch: | note - Kosovo initiated a new judicial system in January 2013 |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by the Kosovo Judicial Council, an independent body staffed by judges and lay members, and also responsible for overall administration of Kosovo's judicial system; judges appointed by the president of the Republic of Kosovo; judges appointed until mandatory retirement age; Constitutional Court members nominated by the Kosovo Assembly and appointed by the president of the republic to serve single, 9-year terms |
+| Judicial branch: | subordinate courts: Court of Appeals (organized into 4 departments: General, Serious Crime, Commercial Matters), and Administrative Matters; Basic Court (located in 9 municipalities, each with several branches) |
+| Political parties and leaders: | Albanian Christian Democratic Party of Kosovo or PNDSH [Uke BERISHA] |
+| Political parties and leaders: | Alliance for a New Kosovo or AKR [Behgjet PACOLLI] |
+| Political parties and leaders: | Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ] |
+| Political parties and leaders: | Alliance of Independent Social Democrats of Kosovo and Metohija or SDSKIM [Ljubisa ZIVIC] |
+| Political parties and leaders: | Ashkali Party for Integration or PAI |
+| Political parties and leaders: | Bosniak Party of Democratic Action of Kosovo or BSDAK |
+| Political parties and leaders: | Vakat Coalition or VAKAT [Sadik IDRIZI] |
+| Political parties and leaders: | Citizens' Initiative of Gora or GIG [Murselj HALJILJI] |
+| Political parties and leaders: | Coalition for New Kosovo or KKR (includes AKR, Justice Party, Social Democratic Party, Pensionists and Disabled Party, Pensionists of Kosovo, PNDSH, and the Green Party of Kosovo) |
+| Political parties and leaders: | Democratic Action Party or SDA [Numan BALIC] |
+| Political parties and leaders: | Democratic League of Dardania or LDD [Nexhat DACI] |
+| Political parties and leaders: | Democratic League of Kosovo or LDK [Isa MUSTAFA] |
+| Political parties and leaders: | Democratic Party of Ashkali of Kosovo or PDAK [Berat QERIMI] |
+| Political parties and leaders: | Democratic Party of Kosovo or PDK [Hashim THACI] |
+| Political parties and leaders: | Independent Liberal Party or SLS [Slobadan PETROVIC] |
+| Political parties and leaders: | Kosovo Democratic Turkish Party or KDTP [Mahir YAGCILAR] |
+| Political parties and leaders: | Movement for Self-Determination (Vetevendosje) or VV [Albin KURTI] |
+| Political parties and leaders: | Movement for Unification or LB [Avni KLINAKU] |
+| Political parties and leaders: | New Democratic Initiative of Kosovo or IRDK [Xhevdet NEZIRAJ] |
+| Political parties and leaders: | New Democratic Party or NDS [Predrag JOVIC] |
+| Political parties and leaders: | Serb People's Party or SNS [Mihailo SCEPANOVIC] |
+| Political parties and leaders: | Serbian Democratic Party of Kosovo and Metohija or SDSKiM [Sasa DJOKIC] |
+| Political parties and leaders: | Serbian Kosovo and Metohija Party or SKMS [Dragisa MIRIC] |
+| Political parties and leaders: | Serbian National Council of Northern Kosovo and Metohija or SNV [Milan IVANOVIC] |
+| Political parties and leaders: | Social Democratic Party of Kosovo or PSDK |
+| Political parties and leaders: | Socialist Party of Kosovo or PSK [Ilaz KADOLLI] |
+| Political parties and leaders: | United Roma Party of Kosovo or PREBK [Haxhi Zylfi MERXHA] |
+| Political parties and leaders: | United Serb List or JSL |
+| Political pressure groups and leaders: | Council for the Defense of Human Rights and Freedom (human rights) |
+| Political pressure groups and leaders: | Organization for Democracy, Anti-Corruption and Dignity Rise! [Avni ZOGIANI] |
+| Political pressure groups and leaders: | Serb National Council (SNV) |
+| Political pressure groups and leaders: | The Speak Up Movement [Ramadan ILAZI] |
+| International organization participation: | IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA |
+| Diplomatic representation in the US: | chief of mission: Ambassador Akan ISMAILI (since 23 April 2012) |
+| Diplomatic representation in the US: | chancery: 1101 30th Street NW, Suites 330/340, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: 202-380-3581 |
+| Diplomatic representation in the US: | FAX: 202-380-3628 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Tracey Ann JACOBSON (since 26 July 2012) |
+| Diplomatic representation from the US: | embassy: Arberia/Dragodan, Nazim Hikmet 30, Pristina, Kosovo |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [381] 38 59 59 3000 |
+| Diplomatic representation from the US: | FAX: [381] 38 549 890 |
+| Flag description: | centered on a dark blue field is the geographical shape of Kosovo in a gold color surmounted by six white, five-pointed stars arrayed in a slight arc; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks |
+| National anthem: | name: "Europe" |
+| National anthem: | lyrics/music: none/Mendi MENGJIQI |
+| National anthem: | note: adopted 2008; Kosovo chose to not include lyrics in its anthem so as not to offend minority ethnic groups in the country |

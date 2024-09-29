@@ -1,0 +1,44 @@
+| Government | France |
+| --- | --- |
+| Country name: | conventional long form: French Republic |
+| Country name: | conventional short form: France |
+| Country name: | local long form: Republique francaise |
+| Country name: | local short form: France |
+| Government type: | republic |
+| Capital: | name: Paris |
+| Capital: | geographic coordinates: 48 52 N, 2 20 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 22 regions (regions, singular - region); Alsace, Aquitaine, Auvergne, Basse-Normandie, Bourgogne, Bretagne, Centre, Champagne-Ardenne, Corse, Franche-Comte, Haute-Normandie, Ile-de-France, Languedoc-Roussillon, Limousin, Lorraine, Midi-Pyrenees, Nord-Pas-de-Calais, Pays de la Loire, Picardie, Poitou-Charentes, Provence-Alpes-Cote d'Azur, Rhone-Alpes |
+| Administrative divisions: | note: metropolitan France is divided into 22 regions (including the "territorial collectivity" of Corse or Corsica) and is subdivided into 96 departments; see separate entries for the overseas departments (French Guiana, Guadeloupe, Martinique, Reunion) and the overseas territorial collectivities (Mayotte, Saint Pierre, Miquelon) |
+| Dependent areas: | Bassas da India, Clipperton Island, Europa Island, French Polynesia, French Southern and Antarctic Lands, Glorioso Islands, Juan de Nova Island, New Caledonia, Tromelin Island, Wallis and Futuna |
+| Dependent areas: | note: the US does not recognize claims to Antarctica |
+| Independence: | 486 (unified by Clovis) |
+| National holiday: | Fete de la Federation, 14 July (1790); note - although often incorrectly referred to as Bastille Day, the celebration actually commemorates the holiday held on the first anniversary of the storming of the Bastille (on 14 July 1789) and the establishment of a constitutional monarchy; other names for the holiday are Fete Nationale (National Holiday) and quatorze juillet (14th of July) |
+| Constitution: | adopted by referendum 28 September 1958, effective 4 October 1958; amended concerning election of president in 1962; amended to comply with provisions of 1992 EC Maastricht Treaty, 1996 Amsterdam Treaty, 2000 Treaty of Nice; amended to tighten immigration laws in 1993; amended in 2000 to change the seven-year presidential term to a five-year term |
+| Legal system: | civil law system with indigenous concepts; review of administrative but not legislative acts |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Jacques CHIRAC (since 17 May 1995) |
+| Executive branch: | head of government: Prime Minister Dominique DE VILLEPIN (since 31 May 2005) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the suggestion of the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (changed from seven-year term in October 2000); election last held 21 April and 5 May 2002 (next to be held, first round April 2007, second round May 2007); prime minister nominated by the National Assembly majority and appointed by the president |
+| Executive branch: | election results: Jacques CHIRAC reelected president; percent of vote, second ballot - Jacques CHIRAC (RPR) 81.96%, Jean-Marie LE PEN (FN) 18.04% |
+| Legislative branch: | bicameral Parliament or Parlement consists of the Senate or Senat (321 seats - 296 for metropolitan France, 13 for overseas departments and territories, and 12 for French nationals abroad; members are indirectly elected by an electoral college to serve nine-year terms; elected by thirds every three years); note - between 2004 and 2010, 25 new seats will be added to the Senate for a total of 346 seats - 326 for metropolitan France and overseas departments, 2 for New Caledonia, 2 for Mayotte, 1 for Saint-Pierre and Miquelon, 3 for overseas territories, and 12 for French nationals abroad; starting in 2008, members will be indirectly elected by an electoral college to serve six-year terms, with one-half the seats being renewed every three years; and the National Assembly or Assemblee Nationale (577 seats; members are elected by popular vote under a single-member majority system to serve five-year terms) |
+| Legislative branch: | elections: Senate - last held 26 September 2004 (next to be held September 2008); National Assembly - last held 8-16 June 2002 (next to be held not later than June 2007) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - UMP 156, PS 97, UDF 33, PCF 23, RDSE 15, other 7; National Assembly - percent of vote by party - NA; seats by party - UMP 355, PS 140, UDF 29, PCF 21, Left Radical Party 7, Greens 3, other 22 |
+| Judicial branch: | Supreme Court of Appeals or Cour de Cassation (judges are appointed by the president from nominations of the High Council of the Judiciary); Constitutional Council or Conseil Constitutionnel (three members appointed by the president, three appointed by the president of the National Assembly, and three appointed by the president of the Senate); Council of State or Conseil d'Etat |
+| Political parties and leaders: | Citizen and Republican Movement or MRC [Jean Pierre CHEVENEMENT]; Democratic and European Social Rally or RDSE (mainly Radical Republican and Socialist Parties, and PRG) [Jacques PELLETIER]; French Communist Party or PCF [Marie-George BUFFET]; Greens [Yan WEHRLING, national secretary]; Left Radical Party or PRG (previously Radical Socialist Party or PRS and the Left Radical Movement or MRG) [Jean-Michel BAYLET]; Movement for France or MPF [Philippe DE VILLIERS]; National Front or FN [Jean-Marie LE PEN]; Rally for France or RPF [Charles PASQUA]; Socialist Party or PS [Francois HOLLANDE]; Union for French Democracy or UDF [Francois BAYROU]; Union for a Popular Movement or UMP [Nicolas SARKOZY] |
+| Political pressure groups and leaders: | historically-Communist labor union (Confederation Generale du Travail) or CGT, approximately 700,000 members (claimed); left-leaning labor union (Confederation Francaise Democratique du Travail) or CFDT, approximately 889,000 members (claimed); independent labor union (Confederation Generale du Travail - Force Ouvriere) or FO, 300,000 members (est.); independent white-collar union (Confederation Generale des Cadres) or CGC, 196,000 members (claimed); employers' union (Mouvement des Entreprises de France) or MEDEF, 750,000 companies as members (claimed) |
+| International organization participation: | ABEDA, ACCT, AfDB, Arctic Council (observer), AsDB, Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, FZ, G- 5, G- 7, G- 8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, MINURSO, MINUSTAH, MONUC, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Paris Club, PCA, PIF (partner), SECI (observer), SPC, UN, UN Security Council, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNITAR, UNMEE, UNMIL, UNMOVIC, UNOCI, UNOMIG, UNRWA, UNTSO, UPU, WADB (nonregional), WCL, WCO, WEU, WFTU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jean-David LEVITTE |
+| Diplomatic representation in the US: | chancery: 4101 Reservoir Road NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 944-6000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 944-6166 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Craig R. STAPLETON |
+| Diplomatic representation from the US: | embassy: 2 Avenue Gabriel, 75382 Paris Cedex 08 |
+| Diplomatic representation from the US: | mailing address: PSC 116, APO AE 09777 |
+| Diplomatic representation from the US: | telephone: [33] (1) 43-12-22-22 |
+| Diplomatic representation from the US: | FAX: [33] (1) 42 66 97 83 |
+| Diplomatic representation from the US: | consulate(s) general: Marseille, Strasbourg |
+| Flag description: | three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Ireland, Cote d'Ivoire, Luxembourg, and Netherlands; the official flag for all French dependent areas |

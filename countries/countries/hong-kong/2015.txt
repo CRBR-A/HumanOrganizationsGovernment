@@ -1,0 +1,71 @@
+| Government | HONG KONG |
+| --- | --- |
+| Country name: | conventional long form: Hong Kong Special Administrative Region |
+| Country name: | conventional short form: Hong Kong |
+| Country name: | local long form: Heung Kong Takpit Hangching Ku (Eitel/Dyer-Ball); Xianggang Tebie Xingzhengqu (Hanyu Pinyin) |
+| Country name: | local short form: Heung Kong (Eitel/Dyer-Ball); Xianggang (Hanyu Pinyin) |
+| Country name: | abbreviation: HK |
+| Dependency status: | special administrative region of China |
+| Government type: | limited democracy |
+| Administrative divisions: | none (special administrative region of China) |
+| Independence: | none (special administrative region of China) |
+| National holiday: | National Day (Anniversary of the Founding of the People's Republic of China), 1 October (1949); note - 1 July 1997 is celebrated as Hong Kong Special Administrative Region Establishment Day |
+| Constitution: | several previous (governance documents while under British authority); latest drafted April 1988 to February 1989, approved March 1990, promulgated 4 April 1990 (Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China serves as the constitution); note - since 1990, China's National People's Congress has interpreted specific articles of the Basic Law (2013) |
+| Legal system: | mixed legal system of common law based on the English model and Chinese customary law (in matters of family and land tenure) |
+| Suffrage: | 18 years of age in direct elections for half the legislature and a majority of seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past seven years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials |
+| Executive branch: | chief of state: President of China XI Jinping (since 14 March 2013) |
+| Executive branch: | head of government: Chief Executive LEUNG Chun-ying [C.Y. LEUNG] (since 1 July 2012) |
+| Executive branch: | cabinet: Executive Council or ExCo appointed by the chief executive |
+| Executive branch: | elections/appointments: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 5-17 March 2013 (next to be held in March 2018); chief executive indirectly elected by the Election Committee and appointed by the Central People's Government for a 5-year term (eligible for a second term) ; LEUNG Chun-ying [C.Y.LEUNG] elected chief executive on 25 March 2012 and took office on 1 July 2012 (next to be held in March 2017) |
+| Executive branch: | election results: LEUNG Chun-ying elected chief executive; Election Committee vote - LEUNG Chun-ying 689, Henry TANG 285, Albert HO 76 |
+| Executive branch: | note: the Legislative Council voted in June 2010 to expand the electoral committee to 1,200 seats for the 2012 election |
+| Legislative branch: | description: unicameral Legislative Council or LegCo (70 seats; members directly elected in single- and multi-seat constituencies by several majority vote methods based on the rules of the individual constituencies; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 9 September 2012 (next to be held in September 2016) |
+| Legislative branch: | election results: percent of vote by block - pro-democracy 56%; pro-Beijing 41%, independent 3%; seats by block/party - pro-Beijing 43 (DAB 13, BPA 7, FTU 6, Liberal Party 5, NPP 2, other 10); pro-democracy 27 (Democratic Party 6, Civic Party 6, Labor Party 4, People Power 3, Professional Commons 2, League of Social Democrats 1, ADPL 1, PTU 1, Neo Democrats 1, NWSC 1); independent 2 |
+| Judicial branch: | highest court(s): Court of Final Appeal (consists of the chief justice, 3 permanent judges and 20 non-permanent judges); note -  a sitting bench consists of the chief justice and 3 permanent  and 1 non-permanent judges |
+| Judicial branch: | judge selection and term of office: all judges appointed by the Hong Kong Chief Executive upon the recommendation of the Judicial Officers Recommendation Commission, an independent body consisting of the Secretary for Justice and other judges, judicial and legal professionals; permanent judges appointed until normal retirement at age 65, but can be extended; non-permanent judges appointed for renewable 3-year terms without age limit |
+| Judicial branch: | subordinate courts: High Court (consists of the Court of Appeal and Court of First Instance); District Courts (includes Family and Land Courts); magistrates' courts; specialized tribunals |
+| Political parties and leaders: | parties: |
+| Political parties and leaders: | Association for Democracy and People's Livelihood or ADPL [Bruce LIU Sing-lee] |
+| Political parties and leaders: | Business and Professional Alliance or BPA [Andrew LEUNG] |
+| Political parties and leaders: | Civic Party [EU Audrey] |
+| Political parties and leaders: | Democratic Alliance for the Betterment and Progress of Hong Kong or DAB [TAM Yiu-chung] |
+| Political parties and leaders: | Democratic Party [Emily LAU] |
+| Political parties and leaders: | Labor Party [LEE Cheuk-yan] |
+| Political parties and leaders: | League of Social Democrats or LSD [LEUNG Kwok-hung] |
+| Political parties and leaders: | Liberal Party [Felix CHUNG Kwok-pan] |
+| Political parties and leaders: | Neo Democrats [joint leaders] |
+| Political parties and leaders: | New People's Party [Regina IP Lau Su-yee] |
+| Political parties and leaders: | People Power [Erica YUEN Mi-ming] |
+| others: | Confederation of Trade Unions or CTU |
+| others: | Federation of Trade Unions or FTU |
+| others: | Neighborhood and Workers Service Center or NWSC |
+| others: | Professional Commons (think tank) [Charles Peter MOK] |
+| others: | Professional Teachers Union or PTU |
+| others: | note: political blocs include: pro-democracy - ADPL, Civic Party, Democratic Party, Labor Party, LSD, People Power, Professional Commons; pro-Beijing - DAB, FTU, Liberal Party, New People's Party, BPA; there is no political party ordinance, so there are no registered political parties; politically active groups register as societies or companies |
+| Political pressure groups and leaders: | Chinese General Chamber of Commerce (pro-China) |
+| Political pressure groups and leaders: | Chinese Manufacturers' Association of Hong Kong |
+| Political pressure groups and leaders: | Civic Act-up [Cyd HO Sau-lan, Legislative Council of Hong Kong member] (pro-democracy) |
+| Political pressure groups and leaders: | Confederation of Trade Unions or CTU [LEE Cheuk-yan, general secretary] (pro-democracy) |
+| Political pressure groups and leaders: | Federation of Hong Kong Industries |
+| Political pressure groups and leaders: | Federation of Trade Unions or FTU [LAM Shuk-yee, President] (pro-China) |
+| Political pressure groups and leaders: | Hong Kong Alliance in Support of the Patriotic Democratic Movement in China [LEE Cheuk-yan, chairman] |
+| Political pressure groups and leaders: | Hong Kong and Kowloon Trade Union Council (pro-Taiwan) |
+| Political pressure groups and leaders: | Hong Kong General Chamber of Commerce |
+| Political pressure groups and leaders: | Hong Kong Professional Teachers' Union [FUNG Wai-wah, president] |
+| Political pressure groups and leaders: | Neighborhood and Workers' Service Center or NWSC [LEUNG Yui-chung, Legislative Council of Hong Kong member] (pro-democracy) |
+| International organization participation: | ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO |
+| Diplomatic representation in the US: | none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison and communication with the US Government and other US entities |
+| Diplomatic representation in the US: | commissioner: Clement C.M. LEUNG |
+| Diplomatic representation in the US: | office: 1520 18th Street NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] 202 331-8947 |
+| Diplomatic representation in the US: | FAX: [1] 202 331-8958 |
+| Diplomatic representation in the US: | HKETO offices: New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Consul General Clifford A. HART Jr. (since 30 July 2013); note - also accredited to Macau |
+| Diplomatic representation from the US: | consulate(s) general: 26 Garden Road, Hong Kong |
+| Diplomatic representation from the US: | mailing address: Unit 8000, Box 1, DPO AP 96521-0006 |
+| Diplomatic representation from the US: | telephone: [852] 2523-9011 |
+| Diplomatic representation from the US: | FAX: [852] 2845-1598 |
+| Flag description: | red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China |
+| National symbol(s): | orchid tree flower; national colors: red, white |
+| National anthem: | note: as a Special Administrative Region of China, "Yiyongjun Jinxingqu" is the official anthem (see China) |

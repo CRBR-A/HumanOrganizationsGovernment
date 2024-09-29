@@ -1,0 +1,35 @@
+| Government | Monaco |
+| --- | --- |
+| Country name: | conventional long form: Principality of Monaco |
+| Country name: | conventional short form: Monaco |
+| Country name: | local long form: Principaute de Monaco |
+| Country name: | local short form: Monaco |
+| Government type: | constitutional monarchy |
+| Capital: | name: Monaco |
+| Capital: | geographic coordinates: 43 44 N, 7 25 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | none; there are no first-order administrative divisions as defined by the US Government, but there are four quarters (quartiers, singular - quartier); Fontvieille, La Condamine, Monaco-Ville, Monte-Carlo |
+| Independence: | 1419 (beginning of rule by the House of Grimaldi) |
+| National holiday: | National Day (Saint Rainier's Day), 19 November (1857) |
+| Constitution: | 17 December 1962; modified 2 April 2002 |
+| Legal system: | based on French law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Prince ALBERT II (since 6 April 2005) |
+| Executive branch: | head of government: Minister of State Jean-Paul PROUST (since 1 June 2005) |
+| Executive branch: | cabinet: Council of Government is under the authority of the monarch |
+| Executive branch: | elections: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government |
+| Legislative branch: | unicameral National Council or Conseil National (24 seats; 16 members elected by list majority system, 8 by proportional representation; to serve five-year terms) |
+| Legislative branch: | elections: last held 3 February 2008 (next to be held in February 2013) |
+| Legislative branch: | election results: percent of vote by party - UPM 52.2%, REM 40.5%, Monaco Together 7.3%; seats by party - UPM 21, REM 3 |
+| Judicial branch: | Supreme Court or Tribunal Supreme (judges appointed by the monarch on the basis of nominations by the National Council) |
+| Political parties and leaders: | Union for Monaco or UPM (including National Union for the Future of Monaco or UNAM); Rally and Issues for Monaco or REM; Monaco Together |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | CE, FAO, IAEA, ICAO, ICC, ICCt (signatory), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OIF, OPCW, OSCE, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WFTU, WHO, WIPO, WMO |
+| Diplomatic representation in the US: | chief of mission: Ambassador to the US and Representative to the UN Gilles NOGHES |
+| Diplomatic representation in the US: | chancery: 3400 International Drive NW, Suite 2K-100, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: (202) 234-1530 |
+| Diplomatic representation in the US: | FAX: (202) 552-5778 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | the US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US ambassador to France, handles routine diplomatic and consular matters concerning Monaco |
+| Flag description: | two equal horizontal bands of red (top) and white; similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red |

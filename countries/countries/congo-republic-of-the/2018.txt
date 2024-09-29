@@ -1,0 +1,72 @@
+| Government | Congo, Republic of the |
+| --- | --- |
+| Country name: | conventional long form: Republic of the Congo |
+| Country name: | conventional short form: Congo (Brazzaville) |
+| Country name: | local long form: Republique du Congo |
+| Country name: | local short form: Congo |
+| Country name: | former: French Congo, Middle Congo, People's Republic of the Congo, Congo/Brazzaville |
+| Country name: | etymology: named for the Congo River, which makes up much of the country's eastern border; the river name derives from Kongo, a Bantu kingdom that occupied its mouth at the time of Portuguese discovery in the late 15th century and whose name stems from its people the Bakongo, meaning "hunters" |
+| Government type: | presidential republic |
+| Capital: | name: Brazzaville |
+| Capital: | geographic coordinates: 4 15 S, 15 17 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha |
+| Independence: | 15 August 1960 (from France) |
+| National holiday: | Independence Day, 15 August (1960) |
+| Constitution: | history: several previous; latest approved by referendum 25 October 2015 (2017) |
+| Constitution: | amendments: proposed by the president of the republic or by Parliament; passage of presidential proposals requires Supreme Court review followed by approval in a referendum; such proposals may also be submitted directly to Parliament, in which case passage requires at least three-quarters majority vote of both houses in joint session; proposals by Parliament require three-fourths majority vote of both houses in joint session; constitutional articles including those affecting the countryâ€™s territory, republican form of government, and secularity of the state are not amendable (2017) |
+| Legal system: | mixed legal system of French civil law and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the Republic of the Congo |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic |
+| Judicial branch: | judge selection and term of office: Supreme Court judges elected by Parliament and serve until age 65; Constitutional Court members appointed by the president of the republic - 3 directly by the president and 6 nominated by Parliament; members appointed for renewable 9-year terms with one-third of the membership renewed every 3 years |
+| Judicial branch: | subordinate courts: Court of Audit and Budgetary Discipline; courts of appeal; regional and district courts; employment tribunals; juvenile courts |
+| Executive branch: | chief of state: President Denis SASSOU-Nguesso (since 25 October 1997) |
+| Executive branch: | head of government: Prime Minister (vacant); Prime Minister Clement MOUAMBA (since 23 April 2016) resigned on 18 August 2017; note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 20 March 2016 (next to be held in 2021) |
+| Executive branch: | election results: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 60.4%, Guy Price Parfait KOLELAS (MCDDI) 15.1%, Jean-Marie MOKOKO (independent) 13.9%, Pascal Tsaty MABIALA (UPADS) 4.4%, other 6.2% |
+| Legislative branch: | description: bicameral Parliament or Parlement consists of: |
+| Legislative branch: | Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years) |
+| Legislative branch: | National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms) |
+| Legislative branch: | elections: Â  |
+| Legislative branch: | Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020) |
+| Legislative branch: | National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022) |
+| Legislative branch: | election results: Â  |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4% |
+| Legislative branch: | National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9% |
+| Political parties and leaders: | Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO] |
+| Political parties and leaders: | Citizen's Rally or RC [Claude Alphonse NSILOU] |
+| Political parties and leaders: | Congolese Labour Party or PCT [Denis SASSOU-NGUESSO] |
+| Political parties and leaders: | Congolese Movement for Democracy and Integral Development or MCDDI [Guy Price Parfait KOLELAS] |
+| Political parties and leaders: | Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI] |
+| Political parties and leaders: | Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA] |
+| Political parties and leaders: | Party for the Unity of the Republic or PUR |
+| Political parties and leaders: | Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA] |
+| Political parties and leaders: | Prospects and Realities Club or CPR |
+| Political parties and leaders: | Rally for Democracy and Social Progress or RDPS [Bernard BATCHI] |
+| Political parties and leaders: | Rally of the Presidential Majority or RMP |
+| Political parties and leaders: | Republican and Liberal Party or PRL [Bonaventure MIZIDY] |
+| Political parties and leaders: | Union for the Republic or UR |
+| Political parties and leaders: | Union of Democratic Forces or UDF |
+| Political parties and leaders: | Union for Democracy and Republic or UDR |
+| Political parties and leaders: | many smaller parties |
+| International organization participation: | ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Serge MOMBOULI (since 31 July 2001) |
+| Diplomatic representation in the US: | chancery: 1720 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 726-5500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 726-1860 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Todd P. HASKELL (since July 2017) |
+| Diplomatic representation from the US: | embassy: 70-83 Section D, Maya-Maya Boulevard, Brazzaville |
+| Diplomatic representation from the US: | mailing address: B.P. 1015, Brazzaville |
+| Diplomatic representation from the US: | telephone: [242] 06 612-2000 |
+| Flag description: | divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | lion, elephant; national colors: green, yellow, red |
+| National anthem: | name: "La Congolaise" (The Congolese) |
+| National anthem: | lyrics/music: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADILIERE |
+| National anthem: | note: originally adopted 1959, restored 1991 |

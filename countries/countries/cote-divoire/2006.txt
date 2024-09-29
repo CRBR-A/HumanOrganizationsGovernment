@@ -1,0 +1,41 @@
+| Government | Cote d'Ivoire |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cote d'Ivoire |
+| Country name: | conventional short form: Cote d'Ivoire |
+| Country name: | local long form: Republique de Cote d'Ivoire |
+| Country name: | local short form: Cote d'Ivoire |
+| Country name: | former: Ivory Coast |
+| Government type: | republic; multiparty presidential regime established 1960 |
+| Capital: | name: Yamoussoukro |
+| Capital: | geographic coordinates: 5 19 N, 4 02 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| Capital: | note: although Yamoussoukro has been the official capital since 1983, Abidjan remains the commercial and administrative center; the US, like other countries, maintains its Embassy in Abidjan |
+| Administrative divisions: | 19 regions; Agneby, Bafing, Bas-Sassandra, Denguele, Dix-Huit Montagnes, Fromager, Haut-Sassandra, Lacs, Lagunes, Marahoue, Moyen-Cavally, Moyen-Comoe, N'zi-Comoe, Savanes, Sud-Bandama, Sud-Comoe, Vallee du Bandama, Worodougou, Zanzan |
+| Independence: | 7 August 1960 (from France) |
+| National holiday: | Independence Day, 7 August (1960) |
+| Constitution: | new constitution adopted 4 August 2000 |
+| Legal system: | based on French civil law system and customary law; judicial review in the Constitutional Chamber of the Supreme Court; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Laurent GBAGBO (since 26 October 2000) |
+| Executive branch: | head of government: Prime Minister Charles Konan BANNY (since 7 December 2005) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a five-year term (no term limits); election last held 26 October 2000 (next to be held by October 2006, after the government postponed the election); prime minister appointed by the president |
+| Executive branch: | election results: Laurent GBAGBO elected president; percent of vote - Laurent GBAGBO 59.4%, Robert GUEI 32.7%, Francis WODIE 5.7%, other 2.2% |
+| Legislative branch: | unicameral National Assembly or Assemblee Nationale (225 seats; members are elected in single- and multi-district elections by direct popular vote to serve five-year terms) |
+| Legislative branch: | elections: elections last held 10 December 2000 with by-elections on 14 January 2001 (next to be held by 31 October 2006) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - FPI 96, PDCI-RDA 94, RDR 5, PIT 4, other 2, independents 22, vacant 2 |
+| Legislative branch: | note: a Senate is scheduled to be created in the next full election in 2006 |
+| Judicial branch: | Supreme Court or Cour Supreme consists of four chambers: Judicial Chamber for criminal cases, Audit Chamber for financial cases, Constitutional Chamber for judicial review cases, and Administrative Chamber for civil cases; there is no legal limit to the number of members |
+| Political parties and leaders: | Citizen's Democratic Union or UDCY [Eg Theodore MEL]; Democratic Party of Cote d'Ivoire-African Democratic Rally or PDCI-RDA [Henri Konan BEDIE]; Ivorian Popular Front or FPI [Laurent GBAGBO]; Ivorian Worker's Party or PIT [Francis WODIE]; Rally of the Republicans or RDR [Alassane OUATTARA]; Union for Democracy and Peace or UDPCI [Paul Akoto YAO]; over 20 smaller parties |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT, ACP, AfDB, AU, ECOWAS, Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WADB (regional), WAEMU, WCL, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Daouda DIABATE |
+| Diplomatic representation in the US: | chancery: 3421 Massachusetts Avenue NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 797-0300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 244-3088 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Aubrey HOOKS |
+| Diplomatic representation from the US: | embassy: Riviera Golf 01, Abidjan |
+| Diplomatic representation from the US: | mailing address: B. P. 1866, Abidjan 01 |
+| Diplomatic representation from the US: | telephone: [225] 20 21 09 79 |
+| Diplomatic representation from the US: | FAX: [225] 20 22 32 59 |
+| Flag description: | three equal vertical bands of orange (hoist side), white, and green; similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France |

@@ -1,0 +1,68 @@
+| Government | MAURITANIA |
+| --- | --- |
+| Country name: | conventional long form: Islamic Republic of Mauritania |
+| Country name: | conventional short form: Mauritania |
+| Country name: | local long form: Al Jumhuriyah al Islamiyah al Muritaniyah |
+| Country name: | local short form: Muritaniyah |
+| Country name: | etymology: named for the ancient Kingdom of Mauretania (3rd century B.C. to 1st century A.D.), which existed further north in present-day Morocco; the name derives from the Mauri (Moors), the Berber-speaking peoples of northwest Africa |
+| Government type: | presidential republic |
+| Capital: | name: Nouakchott |
+| Capital: | geographic coordinates: 18 04 N, 15 58 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 15 regions (wilayas, singular - wilaya); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza |
+| Independence: | 28 November 1960 (from France) |
+| National holiday: | Independence Day, 28 November (1960) |
+| Constitution: | previous 1964; latest adopted 12 July 1991; amended 2004, 2006, 2012 (2016) |
+| Legal system: | mixed legal system of Islamic and French civil law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Mauritania |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Mohamed Ould Abdel AZIZ (since 5 August 2009); note - AZIZ deposed President Sidi Ould Cheikh ABDELLAHI in a coup and installed himself as president in August 2008; he subsequently retired from the military, stepped down from the appropriated presidency in April 2009 to run for the legitimate presidency, and was elected president on 18 July 2009 |
+| Executive branch: | head of government: Prime Minister Yahya Ould HADEMINE (since 21 August 2014) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 21 June 2014 (next to be held by 2019); prime minister appointed by the president |
+| Executive branch: | election results: Mohamed Ould Abdel AZIZ elected president; percent of vote - Mohamed Ould Abdel AZIZ (UPR) 81.9%, Biram Dah ABEID (independent) 8.7%, Boidiel Ould HOUMEIT (El Wiam) 4.5%, Ibrahima Moctar SARR (SJD/MR) 4.4%, other 0.5% |
+| Legislative branch: | description: bicameral Parliament or Barlamane consists of the Senate or Majlis al-Shuyukh (56 seats; 53 members indirectly elected by municipal leaders by simple majority vote and 3 directly elected by Mauritanians abroad; members serve a 6-year term with one-third of membership renewed every 2 years) and the National Assembly or Al Jamiya Al Wataniya (146 seats; 106 members directly elected in single- and two-seat constituencies by absolute majority vote in two rounds if needed and 40 directly elected in constituencies with three or more seats by proportional representation vote; members serve a 5-year term) |
+| Legislative branch: | elections: Senate - last held on 23 November 2013 (next election scheduled for 2015 but delayed because of opposition party threats to boycott election); National Assembly - first round last held on 23 November and second round on 21 December 2013 (next to be held in 2018) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - NA; National Assembly - percent of vote by party - NA; seats by party - UPR 75, RNRD-TAWASSOUL 16, El Wiam 10, APP 7, El Karama Party 6, UDP 6, AJD/MR 4, Burst of Youth for the Nation 4, El Vadila Party 3, PRDR 3, PUD 3, Ravah Party 3, other 6; note - parties winning fewer than 3 seats sit as independents unless they join a coalition |
+| Judicial branch: | highest court(s): Supreme Court or Cour Supreme (subdivided into 1 criminal and 2 civil chambers, each with a president and 5 counselors); Constitutional Council (consists of 6 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court president appointed by the president of the republic to serve a 5-year renewable term; Constitutional Council members appointed - 3 by the president of the republic, 2 by the president of the National Assembly, and 1 by the president of the Senate; members serve single, 9-year terms with one-third of membership renewed every 3 years |
+| Judicial branch: | subordinate courts: High Court of Justice (cases involving treason and criminal acts of high government officials); courts of appeal; wilaya (regional) courts (located at the headquarters of each of the 13 regions); commercial and labor courts; criminal courts; moughataa (district) courts; informal/customary courts |
+| Political parties and leaders: | Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moctar SARR] |
+| Political parties and leaders: | Burst of Youth for the Nation [Lalla CHERIVA] |
+| Political parties and leaders: | Coalition for Pacific Alternation or CAP (coalition of opposition parties, including APP, El Wiam) |
+| Political parties and leaders: | Coalition of Majority Parties or CPM (including UPR, UDP) |
+| Political parties and leaders: | Coordination of Democratic Opposition or COD [Ahmed Ould DADDAH] (coalition including RNRD-TAWASSOUL) |
+| Political parties and leaders: | El Karama Party [Cheikhna Ould Mohamed Ould HAJBOU] |
+| Political parties and leaders: | El Vadila Party [Ethmane Ould Ahmed ABOULMAALY] |
+| Political parties and leaders: | El Wiam [Boidiel Ould HOUMEIT] |
+| Political parties and leaders: | National Rally for Reform and Development or RNRD-TAWASSOUL [Mohamed Jamil Ould MANSOUR] |
+| Political parties and leaders: | Party of Unity and Development or PUD [Mohamed BARO] |
+| Political parties and leaders: | Popular Progressive Alliance or APP [Messaoud Ould BOULKHEIR] |
+| Political parties and leaders: | Ravah Party |
+| Political parties and leaders: | Republican Party for Democracy and Renewal or PRDR [Sidi Mohamed Ould Mohamed VALL] |
+| Political parties and leaders: | Union for Democracy and Progress or UDP [Naha Mint MOUKNASS] |
+| Political parties and leaders: | Union for the Republic or UPR [Sidi Mohamed Ould MAHAM] |
+| Political pressure groups and leaders: | General Confederation of Mauritanian Workers or CGTM [Abdallahi Ould MOHAMED, secretary general] |
+| Political pressure groups and leaders: | Independent Confederation of Mauritanian Workers or CLTM and El Hor [Samory Ould BEYE] (civil society organization) |
+| Political pressure groups and leaders: | Mauritanian Workers Union or UTM [Mohamed Ely Ould BRAHIM, secretary general] |
+| Political pressure groups and leaders: | SOS-Esclaves [Boubacar MESSAOUD] (anti-slavery group) |
+| Political pressure groups and leaders: | other: Arab nationalists; Ba'athists; Islamists; Nasserists |
+| International organization participation: | ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU (candidate), EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mohamedoun DADDAH (since 27 June 2016) |
+| Diplomatic representation in the US: | chancery: 2129 Leroy Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 232-5700 through 5701 |
+| Diplomatic representation in the US: | FAX: [1] (202) 319-2623 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Larry Edward ANDRE, Jr. (since 25 September 2014) |
+| Diplomatic representation from the US: | embassy: 288, rue 42-100 (rue Abdallaye), Nouakchott |
+| Diplomatic representation from the US: | mailing address: B.P. 222, Nouakchott |
+| Diplomatic representation from the US: | telephone: [222] 4525-2660 or [222] 2660-2663 |
+| Diplomatic representation from the US: | FAX: [222] 4525-1592 |
+| Flag description: | green with a yellow five-pointed star above a yellow, horizontal crescent; the closed side of the crescent is down; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara |
+| National symbol(s): | star and crescent; national colors: green, yellow |
+| National anthem: | name: "Hymne National de la Republique Islamique de Mauritanie" (National Anthem of the Islamic Republic of Mauritania) |
+| National anthem: | lyrics/music: Baba Ould CHEIKH/traditional, arranged by Tolia NIKIPROWETZKY |
+| National anthem: | note: adopted 1960; the unique rhythm of the Mauritanian anthem makes it particularly challenging to sing |

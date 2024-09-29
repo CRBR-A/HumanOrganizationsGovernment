@@ -1,0 +1,53 @@
+| Government | KOREA, NORTH |
+| --- | --- |
+| Country name: | conventional long form: Democratic People's Republic of Korea |
+| Country name: | conventional short form: North Korea |
+| Country name: | local long form: Choson-minjujuui-inmin-konghwaguk |
+| Country name: | local short form: Choson |
+| Country name: | abbreviation: DPRK |
+| Country name: | etymology: derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the North Korean name "Choson" means "[Land of the] Morning Calm" |
+| Government type: | single-party state; official state ideology of "Juche" or "national self-reliance |
+| Capital: | name: Pyongyang |
+| Capital: | geographic coordinates: 39 01 N, 125 45 E |
+| Capital: | time difference: UTC+8.5 (13.5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | note: on 15 August 2015, North Korea reverted to UTC+8.5, a time zone that had been observed during pre-colonial times |
+| Administrative divisions: | 9 provinces (do, singular and plural) and 2 cities (si, singular and plural) |
+| Administrative divisions: | provinces: Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ranggang |
+| Administrative divisions: | cities: Namp'o, P'yongyang, Rason |
+| Administrative divisions: | note: Namp'o is sometimes designated as a metropolitan city, P'yongyang as a capital city, and Rason as a special city |
+| Independence: | 15 August 1945 (from Japan) |
+| National holiday: | Founding of the Democratic People's Republic of Korea (DPRK), 9 September (1948) |
+| Constitution: | previous 1948, 1972; latest adopted 1998; revised 2009, 2012, 2013 (2016) |
+| Legal system: | civil law system based on the Prussian model; system influenced by Japanese traditions and Communist legal theory |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of North Korea |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: unknown |
+| Suffrage: | 17 years of age; universal and compulsory |
+| Executive branch: | chief of state: Supreme People's Assembly President KIM Yong Nam (since 5 September 1998); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials |
+| Executive branch: | head of government: State Affairs Commission Chairman KIM Jong Un (since 17 December 2011); note - functions as the commander-in-chief and chief executive |
+| Executive branch: | cabinet: Cabinet or Naegak members appointed by the Supreme People's Assembly except the Minister of People's Armed Forces |
+| Executive branch: | elections/appointments: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 9 March 2014 (next election NA) |
+| Executive branch: | election results: KIM Jong Un reelected unopposed |
+| Executive branch: | note: the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively |
+| Legislative branch: | description: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by absolute majority vote to serve 5-year terms); note - the Korean Workers' Party selects all candidates |
+| Legislative branch: | elections: last held on 9 March 2014 (next to be held in March 2019) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - KWP 607, KSDF 50, Chondoist Chongu Party 22, Chongryon 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; KWP, KSDP, Chondoist Chongu Party, and Chongryon are part of the DFRF; a token number of seats are reserved for minor parties |
+| Judicial branch: | highest court(s): Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or for some cases, 3 judges) |
+| Judicial branch: | judge selection and term of office: judges elected by the Supreme People's Assembly for 5-year terms |
+| Judicial branch: | subordinate courts: lower provincial courts as determined by the Supreme People's Assembly |
+| Political parties and leaders: | major parties: Democratic Front for the Reunification of the Fatherland or DFRF |
+| Political parties and leaders: | Korean Workers' Party or KWP [KIM Jong Un] |
+| Political parties and leaders: | General Association of Korean Residents in Japan or Chongryon |
+| Political parties and leaders: | minor parties: Chondoist Chongu Party (under KWP control) |
+| Political parties and leaders: | Social Democratic Party or KSDP [KIM Yong Dae] (under KWP control) |
+| Political pressure groups and leaders: | none |
+| International organization participation: | ARF, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IHO, IMO, IMSO, IOC, IPU, ISO, ITSO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WFTU (NGOs), WHO, WIPO, WMO |
+| Diplomatic representation in the US: | none; North Korea has a Permanent Mission to the UN in New York |
+| Diplomatic representation from the US: | none; note - Swedish Embassy in Pyongyang represents the US as consular protecting power |
+| Flag description: | three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in white; on the hoist side of the red band is a white disk with a red five-pointed star; the broad red band symbolizes revolutionary traditions; the narrow white bands stand for purity, strength, and dignity; the blue bands signify sovereignty, peace, and friendship; the red star represents socialism |
+| National symbol(s): | red star, chollima (winged horse); national colors: red, white, blue |
+| National anthem: | name: "Aegukka" (Patriotic Song) |
+| National anthem: | lyrics/music: PAK Se Yong/KIM Won Gyun |
+| National anthem: | note: adopted 1947; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics; the North Korean anthem is also known as "Ach'imun pinnara" (Let Morning Shine) |

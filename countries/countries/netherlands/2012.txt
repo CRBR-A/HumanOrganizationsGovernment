@@ -1,0 +1,50 @@
+| Government | Netherlands |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of the Netherlands |
+| Country name: | conventional short form: Netherlands |
+| Country name: | local long form: Koninkrijk der Nederlanden |
+| Country name: | local short form: Nederland |
+| Government type: | constitutional monarchy |
+| Capital: | name: Amsterdam |
+| Capital: | geographic coordinates: 52 21 N, 4 55 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: The Hague is the seat of government; time descriptions apply to the continental Netherlands only, not to the Caribbean components |
+| Administrative divisions: | 12 provinces (provincies, singular - provincie); Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland) |
+| Dependent areas: | Aruba, Curacao, Sint Maarten |
+| Independence: | 23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581 they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence) |
+| National holiday: | Queen's Day (Birthday of deceased Queen-Mother JULIANA and accession to the throne of her oldest daughter BEATRIX), 30 April (1909 and 1980) |
+| Constitution: | adopted 1815; amended many times |
+| Legal system: | civil law system based on the French system; constitution does not permit judicial review of acts of the States General |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen BEATRIX (since 30 April 1980); Heir Apparent WILLEM-ALEXANDER (born 27 April 1967), son of the monarch |
+| Executive branch: | head of government: Prime Minister Mark RUTTE (since 14 October 2010); Deputy Prime Minister Lodewijk ASSCHER (since 5 November 2012); note - Mark RUTTE tendered his resignation 23 April 2012; new elections were held on 12 September 2012 in which his party won the most seats; during the interim period he remained in office in a care-taking position; he was sworn in again to be prime minister on 5 November 2012 |
+| Executive branch: | cabinet: Council of Ministers appointed by the monarch |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or leader of a majority coalition usually appointed prime minister by the monarch; deputy prime ministers appointed by the monarch |
+| Executive branch: | note: there is also a Council of State composed of the monarch, heir apparent, and councilors that provides consultations to the cabinet on legislative and administrative policy |
+| Legislative branch: | bicameral States General or Staten Generaal consists of the First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial councils to serve four-year terms) and the Second Chamber or Tweede Kamer (150 seats; members elected by popular vote to serve at most four-year terms) |
+| Legislative branch: | elections: First Chamber - last held on May 2011 (next to be held in May 2015); Second Chamber - last held on 12 September 2012 (next to be held by September 2016) |
+| Legislative branch: | election results: First Chamber - percent of vote by party - NA; seats by party - VVD 16, PvdA 14, CDA 11, PVV 10, SP 8, D66 5, GL 5, other 6; Second Chamber - percent of vote by party - VVD 26.6%, PvdA 24.8%, PVV, 10.1%, SP 9.7%, CDA 8.5%, D66 8.0%, CU 3.1%, GL 6.7%, other 2.5%; seats by party - VVD 41, PvdA 38, PVV 15, SP 15, CDA 13, D66 12, CU 5, GL 4, other 7 |
+| Judicial branch: | Supreme Court or Hoge Raad (justices are nominated for life by the monarch) |
+| Political parties and leaders: | Christian Democratic Appeal or CDA [Sybrand VAN HAERSMA BUMA]; Christian Union or CU [Arie SLOB]; Democrats 66 or D66 [Alexander PECHTOLD]; Green Left or GL [Bram VAN OJIK]; Labor Party or PvdA [Diederik SAMSOM]; Party for Freedom or PVV [Geert WILDERS]; Party for the Animals or PvdD [Marianne THIEME]; People's Party for Freedom and Democracy or VVD [Halbe ZIJLSTRA]; Reformed Political Party of SGP [Kees VAN DER STAAIJ]; Socialist Party of SP [Emile ROEMER]; plus a few minor parties |
+| Political pressure groups and leaders: | Christian Trade Union Federation or CNV [Jaap SMIT]; Confederation of Netherlands Industry and Employers or VNO-NCW [Bernard WIENTJES]; Federation for Small and Medium-sized businesses or MKB [Hans BIESHEUVEL]; Netherlands Trade Union Federation or FNV [Ton HEERTS]; Social Economic Council or SER [Wiebe DRAIJER]; Trade Union Federation of Middle and High Personnel or MHP [Reginald VISSER] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Rudolf Simon BEKINK |
+| Diplomatic representation in the US: | chancery: 4200 Linnean Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-5300, [1] 877-388-2443 |
+| Diplomatic representation in the US: | FAX: [1] (202) 362-3430 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, San Francisco, Miami, New York |
+| Diplomatic representation in the US: | consulate(s): Boston |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires ad interim Edwin NOLAN |
+| Diplomatic representation from the US: | embassy: Lange Voorhout 102, 2514 EJ, The Hague |
+| Diplomatic representation from the US: | mailing address: PSC 71, Box 1000, APO AE 09715 |
+| Diplomatic representation from the US: | telephone: [31] (70) 310-2209 |
+| Diplomatic representation from the US: | FAX: [31] (70) 361-4688 |
+| Diplomatic representation from the US: | consulate(s) general: Amsterdam |
+| Flag description: | three equal horizontal bands of red (top), white, and blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors were those of WILLIAM I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century; originally the upper band was orange, but because it tended to fade to red over time, the red shade was eventually made the permanent color; the banner is perhaps the oldest tricolor in continuous use |
+| National symbol(s): | lion |
+| National anthem: | name: "Het Wilhelmus" (The William) |
+| National anthem: | lyrics/music: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown |
+| National anthem: | note: adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as "Wilhelmus van Nassouwe" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt |

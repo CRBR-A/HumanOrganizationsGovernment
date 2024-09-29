@@ -1,0 +1,63 @@
+| Government | Bolivia |
+| --- | --- |
+| Country name: | conventional long form: Plurinational State of Bolivia |
+| Country name: | conventional short form: Bolivia |
+| Country name: | local long form: Estado Plurinacional de Bolivia |
+| Country name: | local short form: Bolivia |
+| Country name: | etymology: the country is named after Simon BOLIVAR, a 19th-century leader in the South American wars for independence |
+| Government type: | presidential republic |
+| Capital: | name: La Paz (administrative capital); Sucre (constitutional [legislative and judicial] capital) |
+| Capital: | geographic coordinates: 16 30 S, 68 09 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time) |
+| Capital: | note: at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world |
+| Administrative divisions: | 9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija |
+| Independence: | 6 August 1825 (from Spain) |
+| National holiday: | Independence Day, 6 August (1825) |
+| Constitution: | history: many previous; latest drafted 6 August 2006 to 9 December 2008, approved by referendum 25 January 2009, effective 7 February 2009; note - in late 2017, the Constitutional Tribunal declared inapplicable provisions of the constitution that prohibit elected officials, including the president, from serving more than 2 consecutive terms (2018) |
+| Constitution: | amendments: proposed through public petition by at least 20% of voters or by the Plurinational Legislative Assembly; passage requires approval by at least two-thirds majority vote of the total membership of the Assembly and approval in a referendum; amended 2013 (2018) |
+| Legal system: | civil law system with influences from Roman, Spanish, canon (religious), French, and indigenous law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 3 years |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Judicial branch: | highest courts: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court, Plurinational Constitutional Tribunal, National Agro-Environmental Court, and Council of the Judiciary candidates pre-selected by the Plurinational Legislative Assembly and elected by direct popular vote; judges elected for 6-year terms; Plurinational Electoral Organ judges appointed - 6 by the Legislative Assembly and 1 by the president of the republic; members serve single 6-year terms |
+| Judicial branch: | subordinate courts: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts |
+| Executive branch: | chief of state: President Juan Evo MORALES Ayma (since 22 January 2006); Vice President Alvaro GARCIA Linera (since 22 January 2006); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Juan Evo MORALES Ayma (since 22 January 2006); Vice President Alvaro GARCIA Linera (since 22 January 2006) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; no term limits (changed from two consecutive term limit by Constitutional Court in late 2017); election last held on 12 October 2014 (next to be held in 2019) |
+| Executive branch: | election results: Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4% |
+| Legislative branch: | description: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of: |
+| Legislative branch: | Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by proportional representation vote, and 7 - apportioned to non-contiguous, rural areas in 7 of the 9 states - directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Chamber of Senators - last held on 12 October 2014 (next to be held in 2019) |
+| Legislative branch: | Chamber of Deputies - last held on 12 October 2014 (next to be held in 2019) |
+| Legislative branch: | election results: |
+| Legislative branch: | Chamber of Senators - percent of vote by party - NA; seats by party - MAS 25, UD 9, PDC 2; |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 88, UD 32, PDC 10 |
+| Political parties and leaders: | Christian Democratic Party or PDC [Jorge Fernando QUIROGA Ramirez] |
+| Political parties and leaders: | Movement Toward Socialism or MAS [Juan Evo MORALES Ayma] |
+| Political parties and leaders: | National Unity or UN [Samuel DORIA MEDINA Arana] |
+| International organization participation: | CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Rafael Pablo CANEDO Daroca (since July 2017) |
+| Diplomatic representation in the US: | chancery: 3014 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 328-4155 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-3712 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, Los Angeles, Miami, New York, Washington, DC |
+| Diplomatic representation in the US: | note: in September 2008, the US expelled the Bolivian ambassador to the US in reciprocity for Bolivia expelling the US ambassador to Bolivia |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Bruce WILLIAMSON (since December 2017) |
+| Diplomatic representation from the US: | embassy: Avenida Arce 2780, Casilla 425, La Paz |
+| Diplomatic representation from the US: | mailing address: 3220 La Paz Place, Dulles, VA, 20189-3220 |
+| Diplomatic representation from the US: | telephone: [591] (2) 216-8000 |
+| Diplomatic representation from the US: | FAX: [591] (2) 216-8111 |
+| Diplomatic representation from the US: | note: in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors |
+| Flag description: | three equal horizontal bands of red (top), yellow, and green with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the fertility of the land |
+| Flag description: | note: similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag |
+| National symbol(s): | llama, Andean condor; national colors: red, yellow, green |
+| National anthem: | name: "Cancion Patriotica" (Patriotic Song) |
+| National anthem: | lyrics/music: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI |
+| National anthem: | note: adopted 1852 |

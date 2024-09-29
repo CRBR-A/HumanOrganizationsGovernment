@@ -1,0 +1,68 @@
+| Government | Kazakhstan |
+| --- | --- |
+| Country name: | conventional long form: Republic of Kazakhstan |
+| Country name: | conventional short form: Kazakhstan |
+| Country name: | local long form: Qazaqstan Respublikasy |
+| Country name: | local short form: Qazaqstan |
+| Country name: | former: Kazakh Soviet Socialist Republic |
+| Country name: | etymology: the name "Kazakh" derives from the Turkic word "kaz" meaning "to wander," recalling the Kazakh's nomadic lifestyle; the Persian suffix "-stan" means "place of" or "country," so the word Kazakhstan literally means "Land of the Wanderers" |
+| Government type: | presidential republic |
+| Capital: | name: Nur-Sultan |
+| Capital: | geographic coordinates: 51 10 N, 71 25 E |
+| Capital: | time difference: UTC+6 (11 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | note 1: Kazakhstan has two time zones |
+| Capital: | note 2: on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998 |
+| Administrative divisions: | 14 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Almaty (Taldyqorghan), Almaty*, Aqmola (Kokshetau), Aqtobe, Astana*, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Zhambyl (Taraz) |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050 |
+| Independence: | 16 December 1991 (from the Soviet Union) |
+| National holiday: | Independence Day, 16 December (1991) |
+| Constitution: | history: previous 1937, 1978 (preindependence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995 |
+| Constitution: | amendments: introducedÂ by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2019 (2019) |
+| Legal system: | civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Kazakhstan |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory |
+| Executive branch: | head of government: Prime MinisterÂ Askar MAMIN (since 25 February 2019); First Deputy Prime Minister Alikhan SMAILOV (since 25 February 2019); Deputy Prime Ministers Berdibek SAPARBAYEV and Roman SKLYAR (since 18 September 2019) |
+| Executive branch: | cabinet: the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis |
+| Executive branch: | election results: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7% |
+| Legislative branch: | description: bicameral Parliament consists of: |
+| Legislative branch: | Senate (49 seats; 34 members indirectly elected by majority 2-round vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years) |
+| Legislative branch: | Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 350-member, presidentially appointed advisory body designed to represent the country's ethnic minorities) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 28 June 2017 (next to be held in 2020) |
+| Legislative branch: | Mazhilis - last held on 20 March 2016 (next to be held by 2021) |
+| Legislative branch: | election results: Â  |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - NA; composition - menÂ 42, women 5, percent of women 10.6% |
+| Legislative branch: | Mazhilis - percent of vote by party - Nur Otan 82.2%, Ak Zhol 7.2%, Communist People's Party 7.1%, other 3.5%; seats by party - Nur Otan 84, Ak Zhol 7, Communist People's Party 7; composition - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 22.1% |
+| Judicial branch: | highest courts: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges proposed by the president of the republic on recommendation of the Supreme Judicial Council and confirmed by the Senate; judges normally serve until age 65 but can be extended to age 70; Constitutional Council - the president of the republic, the Senate chairperson, and the Mazhilis chairperson each appoints 2 members for a 6-year term; chairman of the Constitutional Council appointed by the president for a 6-year term |
+| Judicial branch: | subordinate courts: regional and local courts |
+| Political parties and leaders: | Ak Zhol (Bright Path) Party or Democratic Party of Kazakhstan Ak Zhol [Azat PERUASHEV] |
+| Political parties and leaders: | Birlik (Unity) Party [Serik SULTANGALI] |
+| Political parties and leaders: | Communist People's Party of Kazakhstan [informal leader Aikyn KONUROV] |
+| Political parties and leaders: | National Social Democratic Party or NSDP [Zharmakhan TUYAKBAY] |
+| Political parties and leaders: | Nur Otan (Radiant Fatherland) Democratic People's Party [Nursultan NAZARBAYEV] |
+| Political parties and leaders: | People's Democratic (Patriotic) Party "Auyl" [Ali BEKTAYEV] |
+| Political parties and leaders: | Ult Tagdyry (Conscience of the Nation) |
+| International organization participation: | ADB, CICA, CIS, CSTO, EAEU, EAPC, EBRD, ECO, EITI (compliant country), FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, MINURSO, NAM (observer), NSG, OAS (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC |
+| Diplomatic representation in the US: | Ambassador Yerzhan KAZYKHANOV (since 24 April 2017) |
+| Diplomatic representation in the US: | chancery: 1401 16th Street NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 232-5488 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-5845 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador William MOSER (since 27 March 2019) |
+| Diplomatic representation from the US: | telephone: [7] (7172) 70-21-00 |
+| Diplomatic representation from the US: | embassy: Rakhymzhan Koshkarbayev Ave. No 3, Astana 010010 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | FAX: [7] (7172) 54-09-14 |
+| Diplomatic representation from the US: | consulate(s) general: Almaty |
+| Flag description: | a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue background; the hoist side displays a national ornamental pattern "koshkar-muiz" (the horns of the ram) in gold; the blue color is of religious significance to the Turkic peoples of the country, and so symbolizes cultural and ethnic unity; it also represents the endless sky as well as water; the sun, a source of life and energy, exemplifies wealth and plenitude; the sun's rays are shaped like grain, which is the basis of abundance and prosperity; the eagle has appeared on the flags of Kazakh tribes for centuries and represents freedom, power, and the flight to the future |
+| National symbol(s): | golden eagle; national colors: blue, yellow |
+| National anthem: | name: "Menin Qazaqstanim" (My Kazakhstan) |
+| National anthem: | lyrics/music: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKOV |
+| National anthem: | note: adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics |

@@ -1,0 +1,37 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Mozambique |
+| Country name: | conventional short form: Mozambique |
+| Country name: | local long form: Republica de Mocambique |
+| Country name: | local short form: Mocambique |
+| Data code: | MZ |
+| Government type: | republic |
+| Capital: | Maputo |
+| Administrative divisions: | 10 provinces (provincias, singular - provincia); Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Nampula, Niassa, Sofala, Tete, Zambezia |
+| Independence: | 25 June 1975 (from Portugal) |
+| National holiday: | Independence Day, 25 June (1975) |
+| Constitution: | 30 November 1990 |
+| Legal system: | based on Portuguese civil law system and customary law |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Joaquim Alberto CHISSANO (since 6 November 1986); note - before being popularly elected, CHISSANO was elected president by Frelimo's Central Committee 4 November 1986 (reelected by the Committee 30 July 1989) |
+| Executive branch: | head of government: Prime Minister Pascoal MOCUMBI (since NA December 1994) |
+| Executive branch: | cabinet: Cabinet |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 3-4 December 1999 (next to be held NA 2004); prime minister appointed by the president |
+| Executive branch: | election results: Joaquim Alberto CHISSANO reelected president; percent of vote - Joaquim Alberto CHISSANO 52.29%, Afonso DHLAKAMA 47.71% |
+| Legislative branch: | unicameral Assembly of the Republic or Assembleia da Republica (250 seats; members are directly elected by popular vote on a secret ballot to serve five-year terms) |
+| elections: | last held 3-5 December 1999 (next to be held NA 2004) |
+| election results: | percent of vote by party - Frelimo 48.54%, Renamo-UE 38.81%; seats by party - Frelimo 133, Renamo-UE 117 |
+| note: | Renamo-UE ran as a multiparty coalition; none of the other opposition parties received the 5% required to win parliamentary seats |
+| Judicial branch: | Supreme Court, judges appointed by the president and judges elected by the Assembly |
+| Political parties and leaders: | Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or Frelimo [Joaquim Alberto CHISSANO, chairman]; Mozambique National Resistance - Electoral Union (Resistencia Nacional Mocambicana - Uniao Eleitoral) or Renamo-UE [Afonso DHLAKAMA, president] |
+| International organization participation: | ACP, AfDB, C, CCC, ECA, FAO, G-77, IBRD, ICAO, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, NAM, OAU, OIC, SADC, UN, UNCTAD, UNESCO, UNIDO, UNTAET, UPU, WFTU, WHO, WIPO, WMO, WToO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marcos Geraldo NAMASHULUA |
+| Diplomatic representation in the US: | chancery: Suite 570, 1990 M Street NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 293-7146 |
+| Diplomatic representation in the US: | FAX: [1] (202) 835-0245 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Bryan Dean CURRAN |
+| Diplomatic representation from the US: | embassy: Avenida Kenneth Kuanda 193, Maputo |
+| Diplomatic representation from the US: | mailing address: P. O. Box 783, Maputo |
+| Diplomatic representation from the US: | telephone: [258] (1) 492797 |
+| Diplomatic representation from the US: | FAX: [258] (1) 490114 |
+| Flag description: | three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book |

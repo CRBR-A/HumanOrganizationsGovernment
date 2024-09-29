@@ -1,0 +1,42 @@
+| Government | Poland |
+| --- | --- |
+| Country name: | conventional long form: Republic of Poland |
+| Country name: | conventional short form: Poland |
+| Country name: | local long form: Rzeczpospolita Polska |
+| Country name: | local short form: Polska |
+| Government type: | republic |
+| Capital: | name: Warsaw |
+| Capital: | geographic coordinates: 52 15 N, 21 00 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 16 provinces (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie, Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie, Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie, Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania) |
+| Independence: | 11 November 1918 (republic proclaimed) |
+| National holiday: | Constitution Day, 3 May (1791) |
+| Constitution: | adopted by the National Assembly 2 April 1997; passed by national referendum 25 May 1997; effective 17 October 1997 |
+| Legal system: | based on a mixture of Continental (Napoleonic) civil law and holdover Communist legal theory; changes being gradually introduced as part of broader democratization process; limited judicial review of legislative acts, but rulings of the Constitutional Tribunal are final; court decisions can be appealed to the European Court of Justice in Strasbourg; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Lech KACZYNSKI (since 23 December 2005) |
+| Executive branch: | head of government: Prime Minister Donald TUSK (since 16 November 2007); Deputy Prime Ministers Waldemar PAWLAK (since 16 November 2007) and Grzegorz SCHETYNA (since 16 November 2007) |
+| Executive branch: | cabinet: Council of Ministers responsible to the prime minister and the Sejm; the prime minister proposes, the president appoints, and the Sejm approves the Council of Ministers |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 9 and 23 October 2005 (next to be held in the fall 2010); prime minister and deputy prime ministers appointed by the president and confirmed by the Sejm |
+| Executive branch: | election results: Lech KACZYNSKI elected president; percent of popular vote - Lech KACZYNSKI 54%, Donald Tusk 46% |
+| Legislative branch: | bicameral legislature consists of an upper house, the Senate or Senat (100 seats; members are elected by a majority vote on a provincial basis to serve four-year terms), and a lower house, the Sejm (460 seats; members are elected under a complex system of proportional representation to serve four-year terms); the designation of National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the two houses meet jointly |
+| Legislative branch: | elections: Senate - last held 21 October 2007 (next to be held by October 2011); Sejm elections last held 21 October 2007 (next to be held by October 2011) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - PO 60, PiS 39, independents 1; Sejm - percent of vote by party - PO 41.5%, PiS 32.1%, LiD 13.2%, PSL 8.9%, other 4.3%; seats by party - PO 209, PiS 166, LiD 53, PSL 31, German minorities 1; note - seats by party as of February 2008 - PO 209, PiS 159, LiD 53, PSL 31, German minorities 1, nonaffiliated 7 |
+| Legislative branch: | note: one seat is assigned to ethnic minority parties in the Sejm only |
+| Judicial branch: | Supreme Court (judges are appointed by the president on the recommendation of the National Council of the Judiciary for an indefinite period); Constitutional Tribunal (judges are chosen by the Sejm for nine-year terms) |
+| Political parties and leaders: | Civic Platform or PO [Donald TUSK]; Democratic Left Alliance or SLD [Grzegorz NAPIERALSKI]; Democratic Party or PD [Janusz ONYSZKIEWICZ]; German Minority of Lower Silesia or MNSO [Henryk KROLL]; Law and Justice or PiS [Jaroslaw KACZYNSKI]; League of Polish Families or LPR [Sylwester CHRUSZCZ]; Left and Democrats or LiD [Wojciech OLEJNICZAK] (a coalition formed by the SLD, PD, SDPL, and UP); Polish People's Party or PSL [Waldemar PAWLAK]; Samoobrona or SO [Andrzej LEPPER]; Social Democratic Party of Poland or SDPL [Bartosz DOMINIK, acting]; Union of Labor or UP [Andrzej SPYCHALSKI] |
+| Political pressure groups and leaders: | All Poland Trade Union Alliance or OPZZ (trade union) [Jan GUZ]; Roman Catholic Church [Cardinal Stanislaw DZIWISZ, Archbishop Jozef MICHALIK]; Solidarity Trade Union [Janusz SNIADEK] |
+| International organization participation: | Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CE, CEI, CERN, EAPC, EBRD, EIB, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURCAT, MINURSO, MONUC, NAM (guest), NATO, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SECI (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMIS, UNOCI, UNOMIG, UNWTO, UPU, WCL, WCO, WEU (associate), WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Robert KUPIECKI |
+| Diplomatic representation in the US: | chancery: 2640 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-3800 through 3802 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-6271 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Victor ASHE |
+| Diplomatic representation from the US: | embassy: Aleje Ujazdowskie 29/31 00-540 Warsaw |
+| Diplomatic representation from the US: | mailing address: American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch) |
+| Diplomatic representation from the US: | telephone: [48] (22) 504-2000 |
+| Diplomatic representation from the US: | FAX: [48] (22) 504-2688 |
+| Diplomatic representation from the US: | consulate(s) general: Krakow |
+| Flag description: | two equal horizontal bands of white (top) and red; similar to the flags of Indonesia and Monaco which are red (top) and white |

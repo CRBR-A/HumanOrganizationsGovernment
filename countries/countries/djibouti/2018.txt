@@ -1,0 +1,63 @@
+| Government | Djibouti |
+| --- | --- |
+| Country name: | conventional long form: Republic of Djibouti |
+| Country name: | conventional short form: Djibouti |
+| Country name: | local long form: Republique de Djibouti/Jumhuriyat Jibuti |
+| Country name: | local short form: Djibouti/Jibuti |
+| Country name: | former: French Somaliland, French Territory of the Afars and Issas |
+| Country name: | etymology: the country name derives from the capital city of Djibouti |
+| Government type: | semi-presidential republic |
+| Capital: | name: Djibouti |
+| Capital: | geographic coordinates: 11 35 N, 43 09 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 6 districts (cercles, singular - cercle); Ali Sabieh, Arta, Dikhil, Djibouti, Obock, Tadjourah |
+| Independence: | 27 June 1977 (from France) |
+| National holiday: | Independence Day, 27 June (1977) |
+| Constitution: | history: approved by referendum 4 September 1992 (2017) |
+| Constitution: | amendments: proposed by the president of the republic or by the National Assembly; Assembly consideration of proposals requires assent by at least one-third of the membership; passage requires a simple majority vote by the Assembly and approval by simple majority vote in a referendum; the president can opt to bypass a referendum if adopted by at least two-thirds majority vote of the Assembly; constitutional articles on the sovereignty of Djibouti, its republican form of government, and its pluralist form of democracy cannot by amended; amended 2006, 2008, 2010 (2017) |
+| Legal system: | mixed legal system based primarily on the French civil code (as it existed in 1997), Islamic religious law (in matters of family law and successions), and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the mother must be a citizen of Djibouti |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates) |
+| Judicial branch: | judge selection and term of office: Supreme Court magistrates appointed by the president with the advice of the Superior Council of the Magistracy or CSM, a 10-member body consisting of 4 judges, 3 members (non parliamentarians and judges) appointed by the president, and 3 appointed by the National Assembly president or speaker; magistrates appointed for life with retirement at age 65; Constitutional Council magistrate appointments - 2 by the president of the republic, 2 by the president of the National Assembly, and 2 by the CSM; magistrates appointed for 8-year, non-renewable terms |
+| Judicial branch: | subordinate courts: High Court of Appeal; 5 Courts of First Instance; customary courts; State Court (replaced sharia courts in 2003) |
+| Executive branch: | chief of state: President Ismail Omar GUELLEH (since 8 May 1999) |
+| Executive branch: | head of government: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 8 April 2016 (next to be held by 2021); prime minister appointed by the president |
+| Executive branch: | election results: Ismail Omar GUELLEH reelected president for a fourth term; percent of vote - Ismail Omar GUELLEH (RPP) 87%, Omar Elmi KHAIREH (CDU) 7.3%, other 5.6% |
+| Legislative branch: | description: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 23 February 2018 (next to be held in February 2023) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - UMP 57, UDJ-PDD 7, CDU 1; composition - men 58, women 7, percent of women 10.8% |
+| Political parties and leaders: | Center for United Democrats or CDU [Omar Elmi KHAIREH, chairman] |
+| Political parties and leaders: | Democratic Renewal Party or PRD [Abdillahi HAMARITEH] |
+| Political parties and leaders: | Djibouti Development Party or PDD [Mohamed Daoud CHEHEM] |
+| Political parties and leaders: | Front for Restoration of Unity and Democracy (Front pour la Restauration de l'Unite Democratique) or FRUD [Ali Mohamed DAOUD] |
+| Political parties and leaders: | Movement for Democratic Renewal and Development [Daher Ahmed FARAH] |
+| Political parties and leaders: | Movement for Development and Liberty or MoDel [Ismail Ahmed WABERI] |
+| Political parties and leaders: | National Democratic Party or PND [Aden Robleh AWALEH] |
+| Political parties and leaders: | People's Rally for Progress or RPP [Ismail Omar GUELLEH] (governing party) |
+| Political parties and leaders: | Peoples Social Democratic Party or PPSD [Hasna Moumin BAHDON] |
+| Political parties and leaders: | Republican Alliance for Democracy or ARD |
+| Political parties and leaders: | Union for a Presidential Majority or UMP (coalition includes RPP, FRUD, PND, PPSD) |
+| Political parties and leaders: | Union for Democracy and Justice or UDJ [Ilya Ismail GUEDI Hared] |
+| Political parties and leaders: | Union for National Salvation or USN [Ahmed Youssouf HOUMED] (coalition includes ARD, MoDel, MRD, PDD, PND, UDJ) |
+| International organization participation: | ACP, AfDB, AFESD, AMF, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mohamed Said DOUALEH (28 December 2016) |
+| Diplomatic representation in the US: | chancery: 1156 15th Street NW, Suite 515, Washington, DC 20005 |
+| Diplomatic representation in the US: | telephone: [1] (202) 331-0270 |
+| Diplomatic representation in the US: | FAX: [1] (202) 331-0302 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Larry Edward ANDRE, Jr. (since 20 November 2017) |
+| Diplomatic representation from the US: | embassy: Lot 350-B, Haramouss |
+| Diplomatic representation from the US: | mailing address: B.P. 185, Djibouti |
+| Diplomatic representation from the US: | telephone: [253] 21 45 30 00 |
+| Diplomatic representation from the US: | FAX: [253] 21 45 31 29 |
+| Flag description: | two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people; green symbolizes earth and the Afar people; white represents peace; the red star recalls the struggle for independence and stands for unity |
+| National symbol(s): | red star; national colors: light blue, green, white, red |
+| National anthem: | name: "Jabuuti" (Djibouti) |
+| National anthem: | lyrics/music: Aden ELMI/Abdi ROBLEH |
+| National anthem: | note: adopted 1977 |

@@ -1,0 +1,64 @@
+| Government | Chad |
+| --- | --- |
+| Country name: | conventional long form: Republic of Chad |
+| Country name: | conventional short form: Chad |
+| Country name: | local long form: Republique du Tchad/Jumhuriyat Tshad |
+| Country name: | local short form: Tchad/Tshad |
+| Country name: | etymology: named for Lake Chad, which lies along the country's western border; the word "tsade" means "large body of water" or "lake" in several local native languages |
+| Country name: | note: the only country whose name is composed of a single syllable with a single vowel |
+| Government type: | presidential republic |
+| Capital: | name: N'Djamena |
+| Capital: | geographic coordinates: 12 06 N, 15 02 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"Â  |
+| Administrative divisions: | 23 regions (regions, singular - region); Barh el Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi Est, Mayo-Kebbi Ouest, Moyen-Chari, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Ville de N'Djamena, Wadi Fira |
+| Independence: | 11 August 1960 (from France) |
+| National holiday: | Independence Day, 11 August (1960) |
+| Constitution: | history: several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018 |
+| Constitution: | amendments: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly; amended 2005, 2013 (2018) |
+| Legal system: | mixed legal system of civil and customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: both parents must be citizens of Chad |
+| Citizenship: | dual citizenship recognized: Chadian law does not address dual citizenship |
+| Citizenship: | residency requirement for naturalization: 15 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Idriss DEBY Itno, Lt. Gen. (since 4 December 1990) |
+| Executive branch: | head of government: President Idriss DEBY Itno, Lt. Gen. (since 4 December 1990); prime minister position eliminated under the 2018 constitution |
+| Executive branch: | cabinet: Council of Ministers |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 10 April 2016 (next to be held in April 2021) |
+| Executive branch: | election results: Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8% |
+| Legislative branch: | description: unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 13 February and 6 May 2011 (next to be held NA) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8% |
+| Legislative branch: | note: the National Assembly mandate was extended to 2019, reportedly due to a lack of funding for the scheduled 2015 election |
+| Judicial branch: | highest courts: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists) |
+| Judicial branch: | judge selection and term of office: Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Constitutional Council judges - 2 appointed by the president and 1 by the speaker of the National Assembly; jurists - 3 each by the president and by the speaker of the National Assembly; judges appointed for 9-year terms |
+| Judicial branch: | subordinate courts: High Court of Justice; Courts of Appeal; tribunals; justices of the peace |
+| Political parties and leaders: | Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDAR] |
+| Political parties and leaders: | Federation Action for the Republic or FAR [Ngarledjy YORONGAR] |
+| Political parties and leaders: | Framework of Popular Action for Solidarity and Unity of the Republic or CAP-SUR [Joseph Djimrangar DADNADJI] |
+| Political parties and leaders: | National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE] |
+| Political parties and leaders: | National Union for Democracy and Renewal or UNDR [Saleh KEBZABO] |
+| Political parties and leaders: | Party for Liberty and Development or PLD [Ahmat ALHABO] |
+| Political parties and leaders: | Party for Unity and Reconciliation |
+| Political parties and leaders: | Patriotic Salvation Movement or MPS [Idriss DEBY] |
+| Political parties and leaders: | Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]RNDT/Le Reveil [Albert Pahimi PADACKE] |
+| Political parties and leaders: | Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA] |
+| Political parties and leaders: | Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE] |
+| International organization participation: | ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Ngote Gali KOUTOU (since 22 June 2018) |
+| Diplomatic representation in the US: | chancery: 2401 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 652-1312 |
+| Diplomatic representation in the US: | FAX: [1] (202) 758-0431 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Thomas R. GENTON (since 16 August 2019) |
+| Diplomatic representation from the US: | telephone: [235] 2251-5017 |
+| Diplomatic representation from the US: | embassy: Chagoua Round Point, BP 413, N'Djamena |
+| Diplomatic representation from the US: | mailing address: B. P. 413, N'Djamena |
+| Diplomatic representation from the US: | FAX: [235] 2253-9102 |
+| Flag description: | three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice |
+| Flag description: | note: almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on the flag of France |
+| National symbol(s): | goat (north), lion (south); national colors: blue, yellow, red |
+| National anthem: | name: "La Tchadienne" (The Chadian) |
+| National anthem: | lyrics/music: Louis GIDROL and his students/Paul VILLARD |
+| National anthem: | note: adopted 1960 |

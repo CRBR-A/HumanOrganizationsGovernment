@@ -1,0 +1,67 @@
+| Government | Cote d'Ivoire |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cote d'Ivoire |
+| Country name: | conventional short form: Cote d'Ivoire |
+| Country name: | local long form: Republique de Cote d'Ivoire |
+| Country name: | local short form: Cote d'Ivoire |
+| Country name: | former: Ivory Coast |
+| Country name: | etymology: name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries |
+| Country name: | note: pronounced coat-div-whar |
+| Government type: | presidential republic |
+| Capital: | name: Yamoussoukro (legislative capital), Abidjan (administrative capital); note - although Yamoussoukro has been the official capital since 1983, Abidjan remains the administrative capital as well as the officially designated economic capital; the US, like other countries, maintains its Embassy in Abidjan |
+| Capital: | geographic coordinates: 6 49 N, 5 16 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: Yamoussoukro is named after Queen Yamoussou, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix "-kro" meaning "town" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fledÂ  shouting "min-chan mâ€™bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response |
+| Administrative divisions: | 12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan |
+| Independence: | 7 August 1960 (from France) |
+| National holiday: | Independence Day, 7 August (1960) |
+| Constitution: | history: previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016 |
+| Constitution: | amendments: proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended (2017) |
+| Legal system: | civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Cote d'Ivoire |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President Daniel Kablan DUNCAN (since 16 January 2017); note - the 2016 constitution calls for the establishment of the position of vice-president |
+| Executive branch: | head of government: Prime Minister Amadou Gon COULIBALY (since 11 January 2017) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 25 October 2015 (next to be held in 2020); vice president elected on same ballot as president; prime minister appointed by the president; note â€“ because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms |
+| Executive branch: | election results: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 83.7%, Pascal Affi N'GUESSAN (FPI) 9.3%, Konan Bertin KOUADIO (independent) 3.9%, other 3.1% |
+| Legislative branch: | description: bicameral Parliament consists of: |
+| Legislative branch: | Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms) |
+| Legislative branch: | National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - first ever held on 25 March 2018 (next to be held in 2023) |
+| Legislative branch: | National Assembly - last held on 18 December 2016 (next to be held in 2021) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2% |
+| Legislative branch: | National Assembly - percent of vote by party - RHDP 50.3%, FPI 5.8%, UDPCI 1%, other 1.4%, independent 38.5%; seats by party - RHDP, 167, UDPCI 6, FPI 3, UPCI 3, independent 76; composition - men 228, women 27, percent of women 10.6%; note - total Parliament percent of women 13% |
+| Judicial branch: | highest courts: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates) |
+| Judicial branch: | judge selection and term of office: judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 "bench" judges, and 3 public prosecutors; judges appointed for life |
+| Judicial branch: | subordinate courts: Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts |
+| Political parties and leaders: | Democratic Party of Cote d'Ivoire or PDCI [Henri Konan BEDIE] |
+| Political parties and leaders: | Ivorian Popular Front or FPI [former pres. Laurent GBAGBO] |
+| Political parties and leaders: | Liberty and Democracy for the Republic or LIDER [Mamadou KOULIBALY] |
+| Political parties and leaders: | Movement of the Future Forces or MFA [Innocent Augustin ANAKY KOBENA] |
+| Political parties and leaders: | Rally of Houphouetists for Democracy and Peace or RHDP [Alassane OUATTARA] (alliance includes MFA, PDCI, RDR, UDPCI, UPCI) |
+| Political parties and leaders: | Rally of the Republicans or RDR [Henriette DIABATE] |
+| Political parties and leaders: | Union for Cote d'Ivoire or UPCI [Gnamien KONAN] |
+| Political parties and leaders: | Union for Democracy and Peace in Cote d'Ivoire or UDPCI [Albert Toikeusse MABRI] |
+| International organization participation: | ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UN Security Council (temporary), UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Mamadou HAIDARA (since 28 March 2018) |
+| Diplomatic representation in the US: | chancery: 2424 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 797-0300 |
+| Diplomatic representation in the US: | FAX: [1] (202) 462-9444 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Richard K. BELL (since 3 September 2019) |
+| Diplomatic representation from the US: | telephone: [225] 22 49 40 00 |
+| Diplomatic representation from the US: | embassy: BP730, Abidjan Cidex 01, Republic of Cote d'Ivoire |
+| Diplomatic representation from the US: | mailing address: B. P. 1712, Abidjan 01 |
+| Diplomatic representation from the US: | FAX: [225] 22 49 43 23 |
+| Flag description: | three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future |
+| Flag description: | note: similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France |
+| National symbol(s): | elephant; national colors: orange, white, green |
+| National anthem: | name: "L'Abidjanaise" (Song of Abidjan) |
+| National anthem: | lyrics/music: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO |
+| National anthem: | note: adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital |

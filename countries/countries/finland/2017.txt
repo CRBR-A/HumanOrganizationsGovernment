@@ -1,0 +1,60 @@
+| Government | FINLAND |
+| --- | --- |
+| Country name: | conventional long form: Republic of Finland |
+| Country name: | conventional short form: Finland |
+| Country name: | local long form: Suomen tasavalta/Republiken Finland |
+| Country name: | local short form: Suomi/Finland |
+| Country name: | etymology: name may derive from the ancient Fenni peoples who are first described as living in northeastern Europe in the first centuries A.D. |
+| Government type: | parliamentary republic |
+| Capital: | name: Helsinki |
+| Capital: | geographic coordinates: 60 10 N, 24 56 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland] |
+| Independence: | 6 December 1917 (from Russia) |
+| National holiday: | Independence Day, 6 December (1917) |
+| Constitution: | history: previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000 |
+| Constitution: | amendments: proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared “urgent” by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only; amended several times, last in 2012 (2016) |
+| Legal system: | civil law system based on the Swedish model |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Finland |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 6 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Sauli NIINISTO (since 1 March 2012) |
+| Executive branch: | head of government: Prime Minister Juha SIPILA (since 28 May 2015) |
+| Executive branch: | cabinet: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 22 January 2012 and 5 February 2012 (next to be held in February 2018); prime minister appointed by Parliament in 2015 |
+| Executive branch: | election results: percent of vote in first round - Sauli NIINISTO (Kok) 37%, Pekka HAAVISTO (Vihr) 18.8%, Paavo VAYRYNEN (Kesk) 17.5%, Timo SOINI (TF) 9.4%, Paavo LIPPONEN (SDP) 6.7%, Paavo ARHINMAKI (Vas) 5.5%, Eva BIAUDET (SFP) 2.7%, Sari ESSAYAH (KD) 2.5%; Sauli NIINISTO elected president in second round; percent of vote - NIINISTO 62.6%, HAAVISTO 37.4%; Juha SIPILA appointed prime minister |
+| Legislative branch: | description: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 19 April 2015 (next to be held by April 2019) |
+| Legislative branch: | election results: percent of vote by party/coalition - Kesk 21.1%, PS 17.6%, Kok 18.2%, SDP 16.5%, Vihr 8.5%, Vas 7.1%, SFP 4.9%, KD 3.5%, other 2.6%; seats by party/coalition - Kesk 49, PS 38, Kok 37, SDP 34, Vihr 15, Vas 12, SFP 9, KD 5, Aland Coalition 1 |
+| Judicial branch: | highest court(s): Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities |
+| Judicial branch: | judge selection and term of office: Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 65 |
+| Judicial branch: | subordinate courts: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights |
+| Political parties and leaders: | Aland Coalition (a coalition of several political parties on the Aland Islands) |
+| Political parties and leaders: | Center Party or Kesk [Juha SIPILA] |
+| Political parties and leaders: | Christian Democrats or KD [Sari ESSAYAH] |
+| Political parties and leaders: | Finns Party or PS [Jussi HALLA-AHO] |
+| Political parties and leaders: | Green League or Vihr [Ville NIINISTO] |
+| Political parties and leaders: | Left Alliance or Vas [Li ANDERSSON]] |
+| Political parties and leaders: | National Coalition Party or Kok [Petteri ORPO] |
+| Political parties and leaders: | Social Democratic Party or SDP [Antti RINNE] |
+| Political parties and leaders: | Swedish People's Party or SFP [Anna-Maja HENRIKSSON] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Kirsti KAUPPI (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 3301 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-5800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-6030 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Donna Ann WELTON (since 20 January 2017) |
+| Diplomatic representation from the US: | embassy: Itainen Puistotie 14B, 00140 Helsinki |
+| Diplomatic representation from the US: | mailing address: APO AE 09723 |
+| Diplomatic representation from the US: | telephone: [358] (9) 616250 |
+| Diplomatic representation from the US: | FAX: [358] (9) 6162 5800 |
+| Flag description: | white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter |
+| National symbol(s): | lion; national colors: blue, white |
+| National anthem: | name: "Maamme" (Our Land) |
+| National anthem: | lyrics/music: Johan Ludvig RUNEBERG/Fredrik PACIUS |
+| National anthem: | note: in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland |

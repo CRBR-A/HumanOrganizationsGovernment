@@ -1,0 +1,43 @@
+| Government | Argentina |
+| --- | --- |
+| Country name: | conventional long form: Argentine Republic |
+| Country name: | conventional short form: Argentina |
+| Country name: | local long form: Republica Argentina |
+| Country name: | local short form: Argentina |
+| Government type: | republic |
+| Capital: | name: Buenos Aires |
+| Capital: | geographic coordinates: 34 36 S, 58 40 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Sunday in October; ends third Saturday in March; note - a new policy of daylight saving time was initiated by the government on 30 December 2007 |
+| Administrative divisions: | 23 provinces (provincias, singular - provincia) and 1 autonomous city* (distrito federal); Buenos Aires, Buenos Aires Capital Federal*, Catamarca, Chaco, Chubut, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur, Tucuman |
+| Administrative divisions: | note: the US does not recognize any claims to Antarctica |
+| Independence: | 9 July 1816 (from Spain) |
+| National holiday: | Revolution Day, 25 May (1810) |
+| Constitution: | 1 May 1853; amended many times starting in 1860 |
+| Legal system: | mixture of US and West European legal systems; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2007); Vice President Julio COBOS (since 10 December 2007); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2007); Vice President Julio COBOS (since 10 December 2007) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for four-year terms (eligible for a second term); election last held 28 October 2007 (next election to be held in 2011) |
+| Executive branch: | election results: Cristina FERNANDEZ DE KIRCHNER elected president; percent of vote - Cristina FERNANDEZ DE KIRCHNER 45%, Elisa CARRIO 23%, Roberto LAVAGNA 17%, Alberto Rodriguez SAA 8% |
+| Legislative branch: | bicameral National Congress or Congreso Nacional consists of the Senate (72 seats; members are elected by direct vote; presently one-third of the members elected every two years to serve six-year terms) and the Chamber of Deputies (257 seats; members are elected by direct vote; one-half of the members elected every two years to serve four-year terms) |
+| Legislative branch: | elections: Senate - last held 28 October 2007 (next to be held in 2009); Chamber of Deputies - last held last held 28 October 2007 (next to be held in 2009) |
+| Legislative branch: | election results: Senate - percent of vote by bloc or party - NA; seats by bloc or party - FV 12, UCR 4, CC 4, other 4; Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - FV 5, UCR 10, PJ 10, PRO 6, CC 16, FJ 2, other 31; note - Senate and Chamber of Deputies seating reflect the number of replaced senators and deputies, rather than the whole Senate and Chamber of Deputies |
+| Judicial branch: | Supreme Court or Corte Suprema (the nine Supreme Court judges are appointed by the president with approval of the Senate) |
+| Judicial branch: | note: the Supreme Court currently has two unfilled vacancies, and the Argentine Congress is considering a bill to reduce the number of Supreme Court judges to five |
+| Political parties and leaders: | Coalicion Civica (a broad coalition loosely affiliated with Elisa CARRIO); Front for Victory or FV (a broad coalition, including elements of the UCR and numerous provincial parties) [Cristina FERNANDEZ DE KIRCHNER]; Interbloque Federal or IF (a broad coalition of approximately 12 parties including PRO); Justicialist Front or FJ; Justicialist Party or PJ (Peronist umbrella political organization); Radical Civic Union or UCR [Gerardo MORALES]; Republican Proposal or PRO (including Federal Recreate Movement or RECREAR [Ricardo LOPEZ MURPHY] and Commitment for Change or CPC [Mauricio MACRI]); Socialist Party or PS [Ruben GIUSTINIANI]; Union For All [Patricia BULLRICH]; several provincial parties |
+| Political pressure groups and leaders: | Argentine Association of Pharmaceutical Labs (CILFA); Argentine Industrial Union (manufacturers' association); Argentine Rural Confederation or CRA (small to medium landowners' association); Argentine Rural Society (large landowners' association); Central of Argentine Workers or CTA (a radical union for employed and unemployed workers); General Confederation of Labor or CGT (Peronist-leaning umbrella labor organization); Roman Catholic Church |
+| Political pressure groups and leaders: | other: business organizations; Peronist-dominated labor movement; Piquetero groups (popular protest organizations that can be either pro or anti-government); students |
+| International organization participation: | AfDB (nonregional members), Australia Group, BCIE, BIS, CAN (associate), FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NSG, OAS, OPANAL, OPCW, PCA, RG, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hector Marcos TIMERMAN |
+| Diplomatic representation in the US: | chancery: 1600 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-6400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-3171 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Earl Anthony WAYNE |
+| Diplomatic representation from the US: | embassy: Avenida Colombia 4300, C1425GMN Buenos Aires |
+| Diplomatic representation from the US: | mailing address: international mail: use embassy street address; APO address: US Embassy Buenos Aires, Unit 4334, APO AA 34034 |
+| Diplomatic representation from the US: | telephone: [54] (11) 5777-4533 |
+| Diplomatic representation from the US: | FAX: [54] (11) 5777-4240 |
+| Flag description: | three equal horizontal bands of light blue (top), white, and light blue; centered in the white band is a radiant yellow sun with a human face known as the Sun of May |

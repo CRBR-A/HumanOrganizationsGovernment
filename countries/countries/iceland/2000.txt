@@ -1,0 +1,37 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Iceland |
+| Country name: | conventional short form: Iceland |
+| Country name: | local long form: Lyoveldio Island |
+| Country name: | local short form: Island |
+| Data code: | IC |
+| Government type: | constitutional republic |
+| Capital: | Reykjavik |
+| Administrative divisions: | 23 counties (syslar, singular - sysla) and 14 independent towns* (kaupstadhir, singular - kaupstadhur); Akranes*, Akureyri*, Arnessysla, Austur-Bardhastrandarsysla, Austur-Hunavatnssysla, Austur-Skaftafellssysla, Borgarfjardharsysla, Dalasysla, Eyjafjardharsysla, Gullbringusysla, Hafnarfjordhur*, Husavik*, Isafjordhur*, Keflavik*, Kjosarsysla, Kopavogur*, Myrasysla, Neskaupstadhur*, Nordhur-Isafjardharsysla, Nordhur-Mulasys-la, Nordhur-Thingeyjarsysla, Olafsfjordhur*, Rangarvallasysla, Reykjavik*, Saudharkrokur*, Seydhisfjordhur*, Siglufjordhur*, Skagafjardharsysla, Snaefellsnes-og Hnappadalssysla, Strandasysla, Sudhur-Mulasysla, Sudhur-Thingeyjarsysla, Vesttmannaeyjar*, Vestur-Bardhastrandarsysla, Vestur-Hunavatnssysla, Vestur-Isafjardharsysla, Vestur-Skaftafellssysla |
+| Independence: | 17 June 1944 (from Denmark) |
+| National holiday: | Anniversary of the Establishment of the Republic, 17 June (1944) |
+| Constitution: | 16 June 1944, effective 17 June 1944 |
+| Legal system: | civil law system based on Danish law; does not accept compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Olafur Ragnar GRIMSSON (since 1 August 1996) |
+| Executive branch: | head of government: Prime Minister David ODDSSON (since 30 April 1991) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a four-year term; election last held 29 June 1996 (next to be held NA June 2000); prime minister appointed by the president |
+| Executive branch: | election results: Olafur Ragnar GRIMSSON elected president; percent of vote - 41.4% |
+| Legislative branch: | unicameral Parliament or Althing (63 seats; members are elected by popular vote to serve four-year terms) |
+| elections: | last held on 8 May 1999 (next to be held by April 2003) |
+| election results: | percent of vote by party - NA; seats by party - NA |
+| Judicial branch: | Supreme Court or Haestirettur, justices are appointed for life by the president |
+| Political parties and leaders: | Independence Party (conservative) or IP [David ODDSSON]; National Awakening (People's Revival Party) or PR [Johanna SIGURDARDOTTIR]; People's Alliance (left socialist) or PA [Margret FRIMANNSDOTTIR]; People's Movement (centrist) [leader NA]; Progressive Party (liberal) or PP [Halldor ASGRIMSSON]; Social Democratic Party or SDP [Sighvatur BJORGVINSSON]; Women's Party or WL [Kristin ASTGEIRSDOTTIR] |
+| International organization participation: | Australia Group, BIS, CBSS, CCC, CE, EAPC, EBRD, ECE, EFTA, FAO, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA (observer), IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, ISO, ITU, NATO, NC, NEA, NIB, OECD, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNMIBH, UNMIK, UNU, UPU, WEU (associate), WHO, WIPO, WMO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jon-Baldvin HANNIBALSSON |
+| Diplomatic representation in the US: | chancery: Suite 1200, 1156 15th Street NW, Washington, DC 20005 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-6653 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-6656 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Barbara GRIFFITHS |
+| Diplomatic representation from the US: | embassy: Laufasvegur 21, Reykjavik |
+| Diplomatic representation from the US: | mailing address: US Embassy, PSC 1003, Box 40, FPO AE 09728-0340 |
+| Diplomatic representation from the US: | telephone: [354] 5629100 |
+| Diplomatic representation from the US: | FAX: [354] 5629118 |
+| Flag description: | blue with a red cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag) |

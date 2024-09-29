@@ -1,0 +1,71 @@
+| Government | BELGIUM |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Belgium |
+| Country name: | conventional short form: Belgium |
+| Country name: | local long form: Royaume de Belgique (French)/Koninkrijk Belgie (Dutch)/Koenigreich Belgien (German) |
+| Country name: | local short form: Belgique/Belgie/Belgien |
+| Country name: | etymology: the name derives from the Belgae, an ancient Celtic tribal confederation that inhabited an area between the English Channel and the west bank of the Rhine in the first centuries B.C. |
+| Government type: | federal parliamentary democracy under a constitutional monarchy |
+| Capital: | name: Brussels |
+| Capital: | geographic coordinates: 50 50 N, 4 20 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form) |
+| Administrative divisions: | note: as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities |
+| Independence: | 4 October 1830 (a provisional government declared independence from the Netherlands); 21 July 1831 (King LEOPOLD I ascended to the throne) |
+| National holiday: | Belgian National Day (ascension to the throne of King LEOPOLD I), 21 July (1831) |
+| Constitution: | history: drafted 25 November 1830, approved 7 February 1831, entered into force 26 July 1831, revised 14 July 1993 (creating a federal state) |
+| Constitution: | amendments: "revisions" proposed as declarations by the federal government in accord with the king or by Parliament followed by dissolution of Parliament and new elections; adoption requires two-thirds majority vote of a two-thirds quorum in both houses of the next elected Parliament; amended many times, last in 2014 (2016) |
+| Legal system: | civil law system based on the French Civil Code; note - Belgian law continues to be modified in conformance with the legislative norms mandated by the European Union; judicial review of legislative acts |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Belgium |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH, daughter of the monarch |
+| Executive branch: | head of government: Prime Minister Charles MICHEL (since 11 October 2014); Deputy Prime Ministers Alexander DE CROO (since 22 October 2012), Jan JAMBON (since 11 October 2014), Kris PEETERS, Didier REYNDERS (since 30 December 2008) |
+| Executive branch: | cabinet: Council of Ministers formally appointed by the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament |
+| Legislative branch: | description: bicameral Parliament consists of the Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms) and the Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | note: the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform |
+| Legislative branch: | elections: Chamber of Representatives - last held on 25 May 2014 (next to be held in May 2019); note - elections will coincide with the EU's elections |
+| Legislative branch: | election results: Chamber of Representatives - percent of vote by party - N-VA 20.3%, PS 11.7%, CD&V 11.6%, Open VLD 9.8%, MR 9.6%, SP.A 8.8%, Groen! 5.3%, CDH 5.0% Workers' Party 3.7%, VB 3.7%, Ecolo 3.3%, Defi 1.8%, PP 1.5%, other 3.9%; seats by party - N-VA 33, PS 23, MR 20, CD&V 18, Open VLD 14, SP.A 13, Groen! 6, CDH 9, Workers' Party 2, VB 3, Ecolo 6, Defi 2, PP 1 |
+| Judicial branch: | highest court(s): Constitutional Court or Grondwettelijk Hof in Dutch and Cour constitutionelle in French (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie in Dutch and Cour de Cassation in French (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges) |
+| Judicial branch: | judge selection and term of office: Constitutional Court judges appointed by the monarch from candidates submitted by Parliament; judges appointed for life with mandatory retirement at age 70; Supreme Court judges appointed by the monarch from candidates submitted by the High Council of Justice, a 44-member independent body of judicial and non-judicial members; judges appointed for life |
+| Judicial branch: | subordinate courts: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace |
+| Political parties and leaders: | Flemish parties: |
+| Political parties and leaders: | Christian Democratic and Flemish or CD&V [Wouter BEKE] |
+| Political parties and leaders: | Flemish Liberals and Democrats or Open VLD [Gwendolyn RUTTEN] |
+| Political parties and leaders: | Groen! [Meyrem ALMACI] (formerly AGALEV, Flemish Greens) |
+| Political parties and leaders: | New Flemish Alliance or N-VA [Bart DE WEVER] |
+| Political parties and leaders: | Social Progressive Alternative or SP.A [John CROMBEZ] |
+| Political parties and leaders: | Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN] |
+| Francophone parties: | Ecolo (Francophone Greens) [Patrick DUPRIEZ and Zakia KHATTABI] |
+| Francophone parties: | Francophone Federalist Democrats or Defi [Olivier MAINGAIN] |
+| Francophone parties: | Humanist and Democratic Center or CDH [Benoit LUTGEN] |
+| Francophone parties: | People's Party or PP [Mischael MODRIKAMEN] |
+| Francophone parties: | Reform Movement or MR [Olivier CHASTEL] |
+| Francophone parties: | Socialist Party or PS [Elio DI RUPO] |
+| Francophone parties: | Workers' Party or PTB [Peter MERTENS] |
+| Francophone parties: | other minor parties |
+| Political pressure groups and leaders: | Belgian General Federation of Labor or ABVV or FGTB [Rudy DE LEEUW, Marc GOBLET] |
+| Political pressure groups and leaders: | Confederation of Christan Trade Unions or ACV or CSC [Marc LEEMANS, Marie-Helene SKA] |
+| Political pressure groups and leaders: | Federation of Enterprises in Belgium or VBO or FEB [Pieter TIMMERMANS, Bernard GILLIOT] |
+| Political pressure groups and leaders: | other: numerous other associations representing bankers, manufacturers, middle-class artisans, and the legal and medical professions; trade unions; various organizations representing the cultural interests of Flanders and Wallonia; various peace groups such as BEPax and groups representing immigrants |
+| International organization participation: | ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Dirk Jozef M. WOUTERS (since 16 September 2016) |
+| Diplomatic representation in the US: | chancery: 3330 Garfield Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 333-6900 |
+| Diplomatic representation in the US: | FAX: [1] (202) 333-3079 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Matthew LUSSENHOP (since 20 January 2017) |
+| Diplomatic representation from the US: | embassy: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels |
+| Diplomatic representation from the US: | mailing address: PSC 82, Box 002, APO AE 09710 |
+| Diplomatic representation from the US: | telephone: [32] (2) 811-4000 |
+| Diplomatic representation from the US: | FAX: [32] (2) 811-4500 |
+| Flag description: | three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field) |
+| National symbol(s): | golden rampant lion; national colors: red, black, yellow |
+| National anthem: | name: "La Brabanconne" (The Song of Brabant) |
+| National anthem: | lyrics/music: Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois VAN CAMPENHOUT |
+| National anthem: | note: adopted 1830; according to legend, Louis-Alexandre DECHET, an actor at the theater in which the revolution against the Netherlands began, wrote the lyrics with a group of young people in a Brussels cafe |

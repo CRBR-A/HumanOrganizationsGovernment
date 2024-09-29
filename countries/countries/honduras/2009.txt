@@ -1,0 +1,41 @@
+| Government | Honduras |
+| --- | --- |
+| Country name: | conventional long form: Republic of Honduras |
+| Country name: | conventional short form: Honduras |
+| Country name: | local long form: Republica de Honduras |
+| Country name: | local short form: Honduras |
+| Government type: | democratic constitutional republic |
+| Capital: | name: Tegucigalpa |
+| Capital: | geographic coordinates: 14 06 N, 87 13 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in March; ends first Sunday in November |
+| Administrative divisions: | 18 departments (departamentos, singular - departamento); Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | 11 January 1982, effective 20 January 1982; amended many times |
+| Legal system: | rooted in Roman and Spanish civil law with increasing influence of English common law; recent judicial reforms include abandoning Napoleonic legal codes in favor of the oral adversarial system; accepts ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Jose Manuel ZELAYA Rosales (since 27 January 2006); Vice President Commissioner Aristides MEJIA Carranza (since 1 February 2009); note - the president is both the chief of state and head of government; because the president and vice president are elected on the same ticket, the position of "vice president commissioner" was created after Vice President Elvin SANTOS resigned in late 2008 to run for president in the November 2009 election |
+| Executive branch: | head of government: President Jose Manuel ZELAYA Rosales (since 27 January 2006); Vice President Commissioner Aristides MEJIA Carranza (since 1 February 2009) |
+| Executive branch: | cabinet: Cabinet appointed by president |
+| Executive branch: | elections: president elected by popular vote for a four-year term; election last held 27 November 2005 (next to be held in November 2009) |
+| Executive branch: | election results: Jose Manuel ZELAYA Rosales elected president - 49.8%, Porfirio "Pepe" LOBO Sosa 46.1%, other 4.1% |
+| Legislative branch: | unicameral National Congress or Congreso Nacional (128 seats; members are elected proportionally by department to serve four-year terms) |
+| Legislative branch: | elections: last held 27 November 2005 (next to be held in November 2009) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PL 62, PN 55, PUD 5, PDC 4, PINU 2 |
+| Judicial branch: | Supreme Court of Justice or Corte Suprema de Justicia (15 judges are elected for seven-year terms by the National Congress) |
+| Political parties and leaders: | Christian Democratic Party or PDC [Felicito AVILA]; Democratic Unification Party or PUD [Cesar HAM]; Liberal Party or PL [Patricia RODAS]; National Innovation and Unity Party or PINU [Jorge AQUILAR Paredes]; National Party of Honduras or PN [Porfirio LOBO] |
+| Political pressure groups and leaders: | Committee for the Defense of Human Rights in Honduras or CODEH; Confederation of Honduran Workers or CTH; Coordinating Committee of Popular Organizations or CCOP; General Workers Confederation or CGT; Honduran Council of Private Enterprise or COHEP; National Association of Honduran Campesinos or ANACH; National Union of Campesinos or UNC; Popular Bloc or BP; United Confederation of Honduran Workers or CUTH |
+| International organization participation: | BCIE, CACM, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (subscriber), ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, MINURSO, NAM, OAS, OPANAL, OPCW, PCA, RG, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Eduardo Enrique REINA Garcia |
+| Diplomatic representation in the US: | chancery: Suite 4-M, 3007 Tilden Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 966-2604 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-9751 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, Phoenix, San Francisco |
+| Diplomatic representation in the US: | honorary consulate(s): Jacksonville |
+| Diplomatic representation from the US: | chief of mission: Ambassador Hugo LLORENS |
+| Diplomatic representation from the US: | embassy: Avenida La Paz, Apartado Postal No. 3453, Tegucigalpa |
+| Diplomatic representation from the US: | mailing address: American Embassy, APO AA 34022, Tegucigalpa |
+| Diplomatic representation from the US: | telephone: [504] 236-9320, 238-5114 |
+| Diplomatic representation from the US: | FAX: [504] 238-4357 |
+| Flag description: | three equal horizontal bands of blue (top), white, and blue, with five blue, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America - Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the word REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band |

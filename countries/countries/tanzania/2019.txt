@@ -1,0 +1,63 @@
+| Government | Tanzania |
+| --- | --- |
+| Country name: | conventional long form: United Republic of Tanzania |
+| Country name: | conventional short form: Tanzania |
+| Country name: | local long form: Jamhuri ya Muungano wa Tanzania |
+| Country name: | local short form: Tanzania |
+| Country name: | former: German East Africa, Trust Territory of Tanganyika, United Republic of Tanganyika and Zanzibar |
+| Country name: | etymology: the country's name is a combination of the first letters of Tanganyika and Zanzibar, the two states that merged to form Tanzania in 1964 |
+| Government type: | presidential republic |
+| Capital: | name: Dar es Salaam (administrative capital), Dodoma (legislative capital); note - Dodoma was designated the national capital in 1996 and serves as the meeting place for the National Assembly; Dar es Salaam remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation; the government contends that it will complete the transfer of the executive branch to Dodoma by 2020 |
+| Capital: | geographic coordinates: 6 48 S, 39 17 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: Dar es Salaam was the name given by Majid bin Said, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk" |
+| Administrative divisions: | 31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga |
+| Independence: | 26 April 1964 (Tanganyika united with Zanzibar to form the United Republic of Tanganyika and Zanzibar); 29 October 1964 (renamed United Republic of Tanzania); notable earlier dates: 9 December 1961 (Tanganyika became independent from UK-administered UN trusteeship); 10 December 1963 (Zanzibar became independent from UK) |
+| National holiday: | Union Day (Tanganyika and Zanzibar), 26 April (1964) |
+| Constitution: | history: several previous; latest adopted 25 April 1977; note - progress enacting a new constitution drafted in 2014 by the Constituent Assembly stalled |
+| Constitution: | amendments: proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required; amended several times, last in 2017 (2019) |
+| Legal system: | English common law; judicial review of legislative acts limited to matters of interpretation |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Tanzania; if a child is born abroad, the father must be a citizen of Tanzania |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President John MAGUFULI, Dr. (since 5 November 2015); Vice President Samia Suluhu HASSAN (since 5 November 2015); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President John MAGUFULI, Dr. (since 5 November 2015); Vice President Samia Suluhu HASSAN (since 5 November 2015); note - Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet |
+| Executive branch: | cabinet: Cabinet appointed by the president from among members of the National Assembly |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held in October 2020); prime minister appointed by the president |
+| Executive branch: | election results: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5% |
+| Executive branch: | note: Zanzibar elects a president as head of government for internal matters; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%; the main opposition party in Zanzibar CUF boycotted the 20 March 2016 election rerun |
+| Legislative branch: | description: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term) |
+| Legislative branch: | elections: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016 |
+| Legislative branch: | election results: National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2% |
+| Legislative branch: | Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA |
+| Judicial branch: | highest courts: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices) |
+| Judicial branch: | judge selection and term of office: Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65 |
+| Judicial branch: | subordinate courts: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts |
+| Political parties and leaders: | Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE] |
+| Political parties and leaders: | Alliance for Democratic Change or ADC [Miraji ABDALLAH] |
+| Political parties and leaders: | Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim LIPUMBA] |
+| Political parties and leaders: | National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA] |
+| Political parties and leaders: | National League for Democracy |
+| Political parties and leaders: | Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE] |
+| Political parties and leaders: | Revolutionary Party (Chama Cha Mapinduzi) or CCM [John MAGUFULI] |
+| Political parties and leaders: | Tanzania Labor Party or TLP [Augustine MREMA] |
+| Political parties and leaders: | United Democratic Party or UDP [John Momose CHEYO] |
+| Political parties and leaders: | note: in March 2014, four opposition parties (CUF, CHADEMA, NCCR-Mageuzi, and NLD) united to form Coalition for the People's Constitution (Umoja wa Katiba ya Wananchi) or UKAWA; during local elections held in October, 2014, UKAWA entered one candidate representing the three parties united in the coalition |
+| International organization participation: | ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Wilson Mutagaywa MASILINGI (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 1232 22nd Street NW, Washington, DC 20037 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-6125 |
+| Diplomatic representation in the US: | FAX: [1] (202) 797-7408 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Inmi PATTERSON (since 5 July 2017) |
+| Diplomatic representation from the US: | telephone: [255] (22) 229-4000 |
+| Diplomatic representation from the US: | embassy: 686 Old Bagamoyo Road, Msasani, Dar es Salaam |
+| Diplomatic representation from the US: | mailing address: P.O. Box 9123, Dar es Salaam |
+| Diplomatic representation from the US: | FAX: [255] (22) 229-4970 or 4971 |
+| Flag description: | divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean |
+| National symbol(s): | Uhuru (Freedom) torch, giraffe; national colors: green, yellow, blue, black |
+| National anthem: | name: "Mungu ibariki Afrika" (God Bless Africa) |
+| National anthem: | lyrics/music: collective/Enoch Mankayi SONTONGA |
+| National anthem: | note: adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia but has different lyrics; the melody is also incorporated into South Africa's anthem |

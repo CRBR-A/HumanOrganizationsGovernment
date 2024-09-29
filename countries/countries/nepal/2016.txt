@@ -1,0 +1,83 @@
+| Government | NEPAL |
+| --- | --- |
+| Country name: | conventional long form: Federal Democratic Republic of Nepal |
+| Country name: | conventional short form: Nepal |
+| Country name: | local long form: Sanghiya Loktantrik Ganatantra Nepal |
+| Country name: | local short form: Nepal |
+| Country name: | etymology: the Newar people of the Kathmandu Valley and surrounding areas apparently gave their name to the country; the terms "Nepal," "Newar," "Nepar," and "Newal" are phonetically different forms of the same word |
+| Government type: | federal parliamentary republic |
+| Capital: | name: Kathmandu |
+| Capital: | geographic coordinates: 27 43 N, 85 19 E |
+| Capital: | time difference: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 14 zones (anchal, singular and plural); Bagmati, Bheri, Dhawalagiri, Gandaki, Janakpur, Karnali, Kosi, Lumbini, Mahakali, Mechi, Narayani, Rapti, Sagarmatha, Seti |
+| Independence: | 1768 (unified by Prithvi Narayan SHAH) |
+| National holiday: | Republic Day, 28 May (2008), the abdication of Gyanendra SHAH, last Nepalese monarch, and the establishment of a federal republic |
+| Constitution: | several previous; latest adopted 20 September 2015; amended January 2016 |
+| Legal system: | English common law and Hindu legal concepts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent: yes |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 15 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015) |
+| Executive branch: | head of government: Prime Minister Pushpa Kamal DAHAL (since 4 August 2016); note - Prime Minister Khadga Prasad OLI resigned on 24 July 2016 |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister; cabinet dominated by the Nepali Congress and the Communist Party of Nepal-United Marxist-Leninist |
+| Executive branch: | elections/appointments: president indirectly elected by the Constituency Assembly; term extends until the new constitution is promulgated; president elected on 29 October 2015 (next election NA); prime minister indirectly elected by the Constituent Assembly |
+| Executive branch: | election results: Bidhya Devi BHANDARI elected president; Constituent Assembly vote count - Bidhya Devi BHANDARI (CPN-UML) 327, Kul Bahadur GURUNG (NC) 214; BHANDARI is Nepal's first woman president |
+| Legislative branch: | description: unicameral Constituent Assembly or Sambidhan Sabha (601 seats; 240 members directly elected in single-seat constituencies by simple majority vote, 335 directly elected in a single nationwide constituency by proportional representation (PR) vote and 26 appointed by the cabinet (Council of Ministers); note - political parties allocated more than 30 percent of the PR seats are obliged to follow specified quotas for ethnic groups and within them equal percentages of men and women |
+| Legislative branch: | elections: last held on 19 November 2013 (next to be held NA) |
+| Legislative branch: | election results: percent of vote by party - NC 26%, CPN-UML 24%, Unified Communist Party of Nepal (Maoist) 15%, Rastriya Prajatantra Party Nepal 7%; other 28%; seats by party - NC 196, CPN-UML 175, UCPN(M) 80, Rastriya Prajatantra Party Nepal 24, other smaller parties 100 |
+| Judicial branch: | highest court(s): Supreme Court (consists of the chief justice and up to 14 judges) |
+| Judicial branch: | judge selection and term of office: the Supreme Court chief justice appointed by the prime minister on the recommendation of the Constitutional Council; other judges appointed by the prime minister on the recommendation of the Judicial Council; judges serve until age 65 |
+| Judicial branch: | subordinate courts: Court of Appeal; district courts |
+| Judicial branch: | note: Nepal's judiciary was restructured under its 2007 Interim Constitution |
+| Political parties and leaders: | note: 122 political parties participated in the 19 November 2013 election and the 30 parties listed below were elected to serve in the Constituent Assembly |
+| Political parties and leaders: | Akhanda Nepal Party [Kumar KHADKA] |
+| Political parties and leaders: | Communist Party of Nepal-Marxist Leninist or CPN-ML [C.P. MAINALI] |
+| Political parties and leaders: | Communist Party of Nepal-Unified Marxist-Leninist or CPN-UML [Jhala Nath KHANAL] |
+| Political parties and leaders: | Communist Party of Nepal (United) or CPN (United) [Jaydev JOSHI] |
+| Political parties and leaders: | Dalit Janajati Party [Bishwendra PASHWAN] |
+| Political parties and leaders: | Federal Socialist Party [Ashok RAI] |
+| Political parties and leaders: | Jana Jagaran Party Nepal (Awareness Party Nepal) [Lok Mani DHAKAL] |
+| Political parties and leaders: | Khambuwan Rastriya Morcha-Nepal [Ram Kumar RAI] |
+| Political parties and leaders: | Madhesi People's Rights Forum-Democratic [Bijay Kumar GACHCHADAR] |
+| Political parties and leaders: | Madhesi People's Rights Forum-Nepal [Upendra YADAV] |
+| Political parties and leaders: | Madhesi People's Rights Forum-Republican |
+| Political parties and leaders: | Madhesh Samata Party Nepal [Meghraj SAHANI] |
+| Political parties and leaders: | National Madhes Socialist Party [Sharat Singh BHANDARI] |
+| Political parties and leaders: | Nepal Rastriya Party [Keshav Man SHAKYA] |
+| Political parties and leaders: | Nepal Pariwar Dal [Ek Nath DHAKAL] |
+| Political parties and leaders: | Nepal Workers and Peasants Party [Narayan Man BIJUKCHHE] |
+| Political parties and leaders: | Nepali Congress or NC [Sushil KOIRALA] |
+| Political parties and leaders: | Nepali Janata Dal [Hari Charan SHAH] |
+| Political parties and leaders: | Rastriya Janamorcha Nepal [Chitra Bahadur K.C.] |
+| Political parties and leaders: | Rastriya Janamukti Party [Malwar Singh THAPA] |
+| Political parties and leaders: | Rastriya Prajatantra Party |
+| Political parties and leaders: | Rastriya Prajatantra Party-Nepal [Kamal THAPA] |
+| Political parties and leaders: | Sadbhavana Party [Rajendra MAHATO] |
+| Political parties and leaders: | Samajbadi Prajatanytrik Janata Party Nepal [Prem Bahadur SINGH] |
+| Political parties and leaders: | Sanghiya Sadbhavana Party [Anil Kumar JHA] |
+| Political parties and leaders: | Sanghiye Loktantrik Rastriya Manch [Rukmini CHAUDHARY] |
+| Political parties and leaders: | Terai Madhesh Democratic Party [Mahantha THAKUR] |
+| Political parties and leaders: | Terai-Madhesh Sadbhavana Party-Nepal [Mahendra YADAV] |
+| Political parties and leaders: | Tharuhat Terai Party Nepal [Bhanuram CHAUDARY] |
+| Political parties and leaders: | Unified Communist Party of Nepal (Maoist) or UCPN(M) [Pushpa Kamal DAHAL, also known as Comrade PRACHANDA] |
+| Political pressure groups and leaders: | other: various groups advocating regional autonomy such as the Federal State Limbuwan Council in far eastern Nepal |
+| International organization participation: | ADB, BIMSTEC, CD, CP, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NAM, OPCW, SAARC, SACEP, UN, UNAMID, UNCTAD, UNDOF, UNESCO, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Arjun Kumar KARKI (since 18 May 2015) |
+| Diplomatic representation in the US: | chancery: 2131 Leroy Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-4550 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-5534 |
+| Diplomatic representation in the US: | consulate(s) general: Cleveland (OH), New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Alaina B. TEPLITZ (since 7 October 2015) |
+| Diplomatic representation from the US: | embassy: Maharajgunj, Kathmandu |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [977] (1) 423-4000 |
+| Diplomatic representation from the US: | FAX: [977] (1) 400-7272 |
+| Flag description: | red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (Nepal's national flower) and is a sign of victory and bravery, the blue border signifies peace and harmony; the two right triangles are a combination of two single pennons (pennants) that originally symbolized the Himalaya Mountains while their charges represented the families of the king (upper) and the prime minister, but today they are understood to denote Hinduism and Buddhism, the country's two main religions; the moon represents the serenity of the Nepalese people and the shade and cool weather in the Himalayas, while the sun depicts the heat and higher temperatures of the lower parts of Nepal; the moon and the sun are also said to express the hope that the nation will endure as long as these heavenly bodies |
+| Flag description: | note: Nepal is the only country in the world whose flag is not rectangular or square |
+| National symbol(s): | rhododendron blossom; national color: red |
+| National anthem: | name: "Sayaun Thunga Phool Ka" (Hundreds of Flowers) |
+| National anthem: | lyrics/music: Pradeep Kumar RAI/Ambar GURUNG |
+| National anthem: | note: adopted 2007; after the abolition of the monarchy in 2006, a new anthem was required because of the previous anthem's praise for the king |

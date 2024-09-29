@@ -1,0 +1,7 @@
+| Government | GAZA STRIP |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Gaza Strip |
+| Country name: | local long form: none |
+| Country name: | local short form: Qita' Ghazzah |
+| Country name: | etymology: named for the largest city in the region, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as "Ghazzat") |

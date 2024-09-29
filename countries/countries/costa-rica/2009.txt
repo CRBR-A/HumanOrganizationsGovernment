@@ -1,0 +1,39 @@
+| Government | Costa Rica |
+| --- | --- |
+| Country name: | conventional long form: Republic of Costa Rica |
+| Country name: | conventional short form: Costa Rica |
+| Country name: | local long form: Republica de Costa Rica |
+| Country name: | local short form: Costa Rica |
+| Government type: | democratic republic |
+| Capital: | name: San Jose |
+| Capital: | geographic coordinates: 9 56 N, 84 05 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC during Standard Time) |
+| Administrative divisions: | 7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | 7 November 1949 |
+| Legal system: | based on Spanish civil law system; judicial review of legislative acts in the Supreme Court; has accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Oscar ARIAS Sanchez (since 8 May 2006); First Vice President (vacant); Second Vice President (vacant); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Oscar ARIAS Sanchez (since 8 May 2006); First Vice President (vacant); Second Vice President (vacant) |
+| Executive branch: | cabinet: Cabinet selected by the president |
+| Executive branch: | elections: president and vice presidents elected on the same ticket by popular vote for a single four-year term; election last held 5 February 2006 (next to be held in February 2010) |
+| Executive branch: | election results: Oscar ARIAS Sanchez elected president; percent of vote - Oscar ARIAS Sanchez (PLN) 40.9%; Otton SOLIS (PAC) 39.8%, Otto GUEVARA Guth (PML) 8%, Ricardo TOLEDO (PUSC) 3% |
+| Legislative branch: | unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members are elected by direct, popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 5 February 2006 (next to be held in February 2010) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - PLN 25, PAC 17, PML 6, PUSC 5, PASE 1, PFA 1, PRN 1, PUN 1; note - as of 1 January 2009: seats by party - PLN 25, PAC 16, PML 5, PUSC 5, PASE 1, PFA 1, PRN 1, independent 3 |
+| Judicial branch: | Supreme Court or Corte Suprema (22 justices are elected for renewable eight-year terms by the Legislative Assembly) |
+| Political parties and leaders: | Authentic Member from Heredia [Jose SALAS]; Citizen Action Party or PAC [Epsy CAMPBELL Barr]; Costa Rican Renovation Party or PRC [Gerardo Justo OROZCO Alvarez]; Democratic Force Party or PFD [Marco NUNEZ Gonzalez]; General Union Party or PUGEN [Carlos Alberto FERNANDEZ Vega]; Homeland First or PP [Juan Jose VARGAS Fallas]; Independent Worker Party or PIO [Jose Alberto CUBERO Carmona]; Libertarian Movement Party or PML [Otto GUEVARA Guth]; National Christian Alliance Party or ANC [Juan Carlos CHAVEZ Mora]; National Integration Party or PIN [Walter MUNOZ Cespedes]; National Liberation Party or PLN [Francisco Antonio PACHECO Fernandez]; National Patriotic Party or PPN [Daniel Enrique REYNOLDS Vargas]; National Restoration Party or PRN [Fabio Enrique DELGADO Hernandez]; National Union Party or PUN [Arturo ACOSTA Mora]; Nationalist Democratic Alliance or ADN [Jose Miguel VILLALOBOS Umana]; Patriotic Union or UP [Jose Miguel CORRALES Bolanos]; Social Christian Unity Party or PUSC [Luis FISHMAN Zonzinski]; Union for Change Party or UPC [Antonio ALVAREZ Desanti]; United Leftist Coalition or IU [Humberto VARGAS Carbonel] |
+| Political pressure groups and leaders: | Authentic Confederation of Democratic Workers or CATD (Communist Party affiliate); Chamber of Coffee Growers; Confederated Union of Workers or CUT (Communist Party affiliate); Costa Rican Confederation of Democratic Workers or CCTD (Liberation Party affiliate); Costa Rican Exporter's Chamber or CADEXCO; Costa Rican Solidarity Movement; Costa Rican Union of Private Sector Enterprises or UCCAEP [Rafael CARRILLO]; Federation of Public Service Workers or FTSP; National Association for Economic Development or ANFE; National Association of Educators or ANDE; National Association of Public and Private Employees or ANEP [Albino VARGAS]; Rerum Novarum or CTRN (PLN affiliate) [Gilbert BROWN] |
+| International organization participation: | BCIE, CACM, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, NAM (observer), OAS, OPANAL, OPCW, PCA, RG, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Luis DIEGO Escalante |
+| Diplomatic representation in the US: | chancery: 2114 S Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-2945 or 2946 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-4795 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Peter CIANCHETTE |
+| Diplomatic representation from the US: | embassy: Calle 120 Avenida O, Pavas, San Jose |
+| Diplomatic representation from the US: | mailing address: APO AA 34020 |
+| Diplomatic representation from the US: | telephone: [506] 519-2000 |
+| Diplomatic representation from the US: | FAX: [506] 519-2305 |
+| Flag description: | five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk on the hoist side of the red band; above the coat of arms a light blue ribbon contains the words, AMERICA CENTRAL, and just below it near the top of the coat of arms is a white ribbon with the words, REPUBLICA COSTA RICA |

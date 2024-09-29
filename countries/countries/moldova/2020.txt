@@ -1,0 +1,86 @@
+| Government | Moldova |
+| --- | --- |
+| Country name: | conventional long form: Republic of Moldova |
+| Country name: | conventional short form: Moldova |
+| Country name: | local long form: Republica Moldova |
+| Country name: | local short form: Moldova |
+| Country name: | former: Moldavian Soviet Socialist Republic, Moldovan Soviet Socialist Republic |
+| Country name: | etymology: named for the Moldova River in neighboring eastern Romania |
+| Government type: | parliamentary republic |
+| Capital: | name: Chisinau in Moldovan (Kishinev in Russian) |
+| Capital: | geographic coordinates: 47 00 N, 28 51 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: pronounced KEE-shee-now (KIH-shi-nyov) |
+| Capital: | etymology: origin unclear but may derive from the archaic Romanian word "chisla" ("spring" or "water source") and "noua" ("new") because the original settlement was built at the site of a small spring |
+| Administrative divisions: | 32 raions (raioane, singular - raion), 3 municipalities (municipii, singular - municipiul), 1 autonomous territorial unit (unitatea teritoriala autonoma), and 1 territorial unit (unitatea teritoriala) |
+| Administrative divisions: | raions: Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni |
+| Administrative divisions: | municipalities: Balti, Bender, Chisinau |
+| Administrative divisions: | autonomous territorial unit: Gagauzia |
+| Administrative divisions: | territorial unit: Stinga Nistrului (Transnistria) |
+| Independence: | 27 August 1991 (from the Soviet Union) |
+| National holiday: | Independence Day, 27 August (1991) |
+| Constitution: | history: previous 1978; latest adopted 29 July 1994, effective 27 August 1994 |
+| Constitution: | amendments: proposed by voter petition (at least 200,000 eligible voters), by at least one third of Parliament members, or by the government; passage requires two-thirds majority vote of Parliament within one year of initial proposal; revisions to constitutional articles on sovereignty, independence, and neutrality require majority vote by referendum; articles on fundamental rights and freedoms cannot be amended; amended several times, last in 2010; note â€“ in early 2016, the Moldovan Constitutional Court decision returned the country to direct presidential elections, reversing a 2000 constitutional amendment that allowed Parliament to select the president |
+| Legal system: | civil law system with Germanic law influences; Constitutional Court review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Moldova |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Igor DODON (since 23 December 2016); note â€“ in 2017-19, DODON was temporarily suspended several times by the Moldovan Constitutional Court for rejecting ministerial appointments and for refusing to sign legislationÂ  |
+| Executive branch: | head of government: Prime Minister Ion CHICU (since 14 November 2019) |
+| Executive branch: | cabinet: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in ParliamentÂ  |
+| Executive branch: | elections/appointments: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament |
+| Executive branch: | election results: Maia SANDU elected president; percent of vote - Maia SANDU (PAS) 57.8%, Igor DODON (PSRM) 42.2%; Ion CHICU designated prime minister; Parliament vote - 62 of 101 |
+| Legislative branch: | description: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms |
+| Legislative branch: | elections: last held on 24 February 2019 (next scheduled for February 2023) |
+| Legislative branch: | election results: percent of vote by party - PSRM 31.2%, ACUM (PPDA + PAS) 26.8%, PDM 23.6%, PS 8.3%, other 10.1%; seats by party - PSRM 35, ACUM (PPDA + PAS) 26, PDM 30, PS 7, independent 3; composition - men 78, women 23, percent of women 22.8% |
+| Judicial branch: | highest courts: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government |
+| Judicial branch: | judge selection and term of office: Supreme Court of Justice judges appointed by the president upon the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term |
+| Judicial branch: | subordinate courts: Courts of Appeal; Court of Business Audit; municipal courts |
+| Political parties and leaders: | represented in Parliament: |
+| Political parties and leaders: | Action and Solidarity Party or PAS [Maia SANDU] |
+| Political parties and leaders: | Democratic Party of Moldova or PDM [Vladimir PLAHOTNIUC] |
+| Political parties and leaders: | Dignity and Truth Platform or PPDA [Andrei NASTASE] |
+| Political parties and leaders: | NOW Platform or ACUM (PPDA + PAS) |
+| Political parties and leaders: | Shor Party or PS [Ilan SHOR] |
+| Political parties and leaders: | Socialist Party of the Republic of Moldova or PSRM [Zinaida GRECEANII] |
+| Political parties and leaders: | not represented in Parliament, participated in recent elections (2014-2019): |
+| Political parties and leaders: | Anti-Mafia Movement or MPA [Sergiu MOCANU] |
+| Political parties and leaders: | Centrist Union of Moldova or UCM [Mihai PETRACHE] |
+| Political parties and leaders: | Christian Democratic People's Party or PPCD [Victor CIOBANU] |
+| Political parties and leaders: | Communist Party of the Republic of Moldova or PCRM [Vladimir VORONIN] |
+| Political parties and leaders: | Conservative Party or PC [Natalia NIRCA] |
+| Political parties and leaders: | Democracy at Home Party or PDA [Vasile COSTIUC] |
+| Political parties and leaders: | Democratic Action Party or PAD [Mihai GODEA] |
+| Political parties and leaders: | Ecologist Green Party or PVE [Anatolie PROHNITCHI] |
+| Political parties and leaders: | European Peopleâ€™s Party of Moldova or EPPM [Iurie LEANCA] |
+| Political parties and leaders: | Law and Justice Party or PLD [Nicolae ALEXEI] |
+| Political parties and leaders: | Liberal Democratic Party of Moldova or PLDM [Tudor DELIU] |
+| Political parties and leaders: | Liberal Party or PL [Dorin CHIRTOACA] |
+| Political parties and leaders: | "Motherland" Party or PP [Sergiu BIRIUCOV] |
+| Political parties and leaders: | National Liberal Party or PNL [Vitalia PAVLICENKO] |
+| Political parties and leaders: | Our Home Moldova or PCNM [Grigore PETRENCO] |
+| Political parties and leaders: | Our Party or PN [Renato USATII] |
+| Political parties and leaders: | Party of National Unity [Anatol SALARU] |
+| Political parties and leaders: | Peopleâ€™s Party of Moldova or PPRM [Alexandru OLEINIC] |
+| Political parties and leaders: | Regions Party of Moldova or PRM [Alexandr KALININ] |
+| Political parties and leaders: | Socialist Peopleâ€™s Party of Moldova or PPSM [Victor STEPANIUC] |
+| International organization participation: | BSEC, CD, CE, CEI, CIS, EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, OIF, OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Eugen CARAS (since 17 July 2020) |
+| Diplomatic representation in the US: | chancery: 2101 S Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 667-1130 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-1204 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Dereck J. HOGAN (sinceÂ 15Â October 2018) |
+| Diplomatic representation from the US: | telephone: [373] (22) 40-8300 |
+| Diplomatic representation from the US: | embassy: 103 Mateevici Street, Chisinau MD-2009 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | FAX: [373] (22) 23-3044 |
+| Flag description: | three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is of a Roman eagle of dark gold (brown) outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized aurochs head, star, rose, and crescent all in black-outlined yellow; based on the color scheme of the flag of Romania - with which Moldova shares a history and culture - but Moldova's blue band is lighter; the reverse of the flag displays a mirrored image of the coat of arms |
+| Flag description: | note: one of only three national flags that differ on their obverse and reverse sides - the others are Paraguay and Saudi Arabia |
+| National symbol(s): | aurochs (a type of wild cattle); national colors: blue, yellow, red |
+| National anthem: | name: "Limba noastra" (Our Language) |
+| National anthem: | lyrics/music: Alexei MATEEVICI/Alexandru CRISTEA |
+| National anthem: | note: adopted 1994 |

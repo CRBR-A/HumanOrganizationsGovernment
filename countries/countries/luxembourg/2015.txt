@@ -1,0 +1,63 @@
+| Government | LUXEMBOURG |
+| --- | --- |
+| Country name: | conventional long form: Grand Duchy of Luxembourg |
+| Country name: | conventional short form: Luxembourg |
+| Country name: | local long form: Grand Duche de Luxembourg |
+| Country name: | local short form: Luxembourg |
+| Government type: | constitutional monarchy |
+| Capital: | name: Luxembourg |
+| Capital: | geographic coordinates: 49 36 N, 6 07 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz |
+| Independence: | 1839 (from the Netherlands) |
+| National holiday: | National Day (birthday of Grand Duke Henri) 23 June; note - this date of birth is not the true date of birth for any of the Royals, but the festivities were shifted to allow observance during a more favorable time of year |
+| Constitution: | previous 1842 (heavily amended 1848, 1856); latest effective 17 October 1968; amended many times, last in 2008 (2008) |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981) |
+| Executive branch: | head of government: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Etienne SCHNEIDER (since 4 December 2013) |
+| Executive branch: | cabinet: Council of Ministers recommended by the prime minister, appointed by the monarch |
+| Executive branch: | elections/appointments: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies |
+| Legislative branch: | description: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies |
+| Legislative branch: | elections: last held on 20 October 2013 (next to be held by June 2018) |
+| Legislative branch: | election results: percent of vote by party - CSV 33.7%, LSAP 20.3%, DP 18.3%, Green Party 10.1%, ADR 6.6%, The Left 4.5%, other 6.1%; seats by party - CSV 23, LSAP 13, DP 13, Green Party 6, ADR 3, The Left 2 |
+| Judicial branch: | highest court(s): Superior Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members) |
+| Judicial branch: | judge selection and term of office: judges of both courts appointed by the monarch for life |
+| Judicial branch: | subordinate courts: district and local tribunals and courts |
+| Political parties and leaders: | Alternative Democratic Reform Party or ADR [Jean SCHOOS] |
+| Political parties and leaders: | Christian Social People's Party or CSV [Marc SPAUTZ] |
+| Political parties and leaders: | Democratic Party or DP [Xavier BETTEL] |
+| Political parties and leaders: | Green Party [Francoise FOLMER and Christian KMIOTEK] |
+| Political parties and leaders: | Luxembourg Socialist Workers' Party or LSAP [Claude HAAGEN] |
+| Political parties and leaders: | The Left (dei Lenk/la Gauche) [Serge URBANY] |
+| Political parties and leaders: | other minor parties |
+| Political pressure groups and leaders: | Business Federation Luxembourg or FEDIL [Nicolas SOISSON] |
+| Political pressure groups and leaders: | Centrale Paysanne [Marc FISCH] (federation of agricultural producers) |
+| Political pressure groups and leaders: | Chamber of Artisans (Chambre des Metiers) [Roland KUHN] |
+| Political pressure groups and leaders: | Chamber of Commerce (Chambre de Commerce) [Carlo THELEN] |
+| Political pressure groups and leaders: | Chambre des Salaries or CSL [Jean-Claude REDING] |
+| Political pressure groups and leaders: | General Association of Officials (Confederation Generale de la Fonction Publique or CGFP [Romain WOLFF] (trade union representing civil service) |
+| Political pressure groups and leaders: | Greenpeace [Kumi NAIDOO] |
+| Political pressure groups and leaders: | LCGP [Patrick DURY] (center-right trade union) |
+| Political pressure groups and leaders: | Luxembourg Association of Bankers and Insurance Employees or ALEBA [Roberto SCOLATI] |
+| Political pressure groups and leaders: | Luxembourg Bankers Association or ABBL [Yves MAAS] |
+| Political pressure groups and leaders: | Mouvement Ecologique [Blanche WEBER] (environment protection) |
+| Political pressure groups and leaders: | OGB-L [Andre ROELTGEN] (center-left trade union) |
+| International organization participation: | ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jean-Louis WOLZFELD (since 11 September 2012) |
+| Diplomatic representation in the US: | chancery: 2200 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-4171 through 72 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-8270 |
+| Diplomatic representation in the US: | consulate(s) general: New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Charge d'Affaires Alison SHORTER-LAWRENCE |
+| Diplomatic representation from the US: | embassy: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City |
+| Diplomatic representation from the US: | mailing address: American Embassy Luxembourg, Unit 1410, APO AE 09126-1410 (official mail); American Embassy Luxembourg, PSC 9, Box 9500, APO AE 09123 (personal mail) |
+| Diplomatic representation from the US: | telephone: [352] 46-01-23 |
+| Diplomatic representation from the US: | FAX: [352] 46-14-01 |
+| Flag description: | three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field) |
+| National symbol(s): | lion; national colors: red, white, light blue |
+| National anthem: | name: "Ons Heemecht" (Our Motherland); "De Wilhelmus" (The William) |
+| National anthem: | lyrics/music: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown |
+| National anthem: | note: "Ons Heemecht," adopted 1864, is the national anthem, while "De Wilhelmus," adopted 1919, serves as a royal anthem for use when members of the grand ducal family enter or exit a ceremony in Luxembourg |

@@ -1,0 +1,71 @@
+| Government | Israel |
+| --- | --- |
+| Country name: | conventional long form: State of Israel |
+| Country name: | conventional short form: Israel |
+| Country name: | local long form: Medinat Yisra'el |
+| Country name: | local short form: Yisra'el |
+| Country name: | etymology: named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name "Israel" ("He who struggles with God") after he wrestled an entire night with an angel of the Lord; Jacob's 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel |
+| Government type: | parliamentary democracy |
+| Capital: | name: Jerusalem; note - the US recognized Jerusalem as Israelâ€™s capital in December 2017 without taking a position on the specific boundaries of Israeli sovereignty |
+| Capital: | geographic coordinates: 31 46 N, 35 14 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, Friday before the last Sunday in March; ends the last Sunday in October |
+| Administrative divisions: | 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv |
+| Independence: | 14 May 1948 (from League of Nations mandate under British administration) |
+| National holiday: | Independence Day, 14 May (1948); note - Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May |
+| Constitution: | history: no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended) (2018) |
+| Constitution: | amendments: proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2018 (2018) |
+| Legal system: | mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; withdrew acceptance of International Criminal Court jurisdiction in 2002 |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Israel |
+| Citizenship: | dual citizenship recognized: yes, but naturalized citizens are not allowed to maintain dual citizenship |
+| Citizenship: | residency requirement for naturalization: 3 out of the 5 years preceding the application for naturalization |
+| Citizenship: | note: Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren |
+| Suffrage: | 18 years of age; universal; 17 years of age for municipal elections |
+| Judicial branch: | highest courts: Supreme Court (consists of the chief justice and 14 judges) |
+| Judicial branch: | judge selection and term of office: judges selected by the Judicial Selection Committee consisting of 3 Supreme Court judges, 2 Cabinet members including the Minister of Justice as chairman, 2 Knesset members, and 2 representatives from the Israel Bar Association; judges can serve up to mandatory retirement at age 70 |
+| Judicial branch: | subordinate courts: Court for Administrative Matters; district and magistrate courts; national and regional labor courts; special and religious courts |
+| Executive branch: | chief of state: President Reuven RIVLIN (since 27 July 2014) |
+| Executive branch: | head of government: Prime Minister Binyamin NETANYAHU (since 31 March 2009, most recently reformed on 15 May 2015) |
+| Executive branch: | cabinet: Cabinet selected by prime minister and approved by the Knesset |
+| Executive branch: | elections/appointments: president indirectly elected by the Knesset for a 7-year term (limited to 1 term); election last held on 10 June 2014 (next to be held in 2021 but can be called earlier); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government |
+| Executive branch: | election results: Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4 |
+| Legislative branch: | description: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 17 March 2015 (next to be held by 5 November 2019 but can be called earlier) |
+| Legislative branch: | election results: percent of vote by party - Likud 23.4%, Zionist Union 18.7%, Joint List 10.5%, Yesh Atid 8.8%, Kulanu 7.5%, The Jewish Home 6.7%, Shas, 5.7%, Yisrael Beitenu 5.1%, UTJ 5%, Meretz 3.9%, Yachad 3%, other 1.7%; seats by party as of December 2018Â - Likud 30, Zionist Union 24, Joint List 13, Yesh Atid 11, Kulanu 10, The Jewish Home 8, Shas 7, Yisrael Beitenu 6, UTJ 6, Meretz 5; composition - men 91, women 29, percent of women 24.2% |
+| Political parties and leaders: | Balad [Jamal ZAHALKA] |
+| Political parties and leaders: | Democratic Front for Peace and Equality or HADASH [Ayman ODEH] |
+| Political parties and leaders: | Israeli Labor Party [Avi GABBAY] |
+| Political parties and leaders: | Joint List [Ayman ODEH] (coalition includes Balad, HADASH, United Arab List, Ta'al)) |
+| Political parties and leaders: | Kulanu [Moshe KAHLON] |
+| Political parties and leaders: | Likud [Binyamin NETANYAHU] |
+| Political parties and leaders: | Meretz [Tamar ZANDBERG] |
+| Political parties and leaders: | SHAS [Arye DERI] |
+| Political parties and leaders: | Ta'al (Arab Movement for Renewal) [Ahmad TIBI] |
+| Political parties and leaders: | Tekumah/National Union (Ichud Leumi) [Uri ARIEL] |
+| Political parties and leaders: | The Jewish Home (Habayit Hayehudi) [Naftali BENNETT] |
+| Political parties and leaders: | The Movement (Hatnuah) [Tzipora "Tzipi" LIVNI] |
+| Political parties and leaders: | United Arab List [Masud GANAIM] |
+| Political parties and leaders: | United Torah Judaism or UTJ [Yaakov LITZMAN] (an alliance of three parties)Yachad [Eli YISHAI] |
+| Political parties and leaders: | Yesh Atid [Yair LAPID] |
+| Political parties and leaders: | Yisrael Beiteinu [Avigdor LIEBERMAN] |
+| Political parties and leaders: | Zionist Union or Zionist Camp [Avi GABBAY] (alliance includes Israeli Labor Party, The Movement) |
+| International organization participation: | BIS, BSEC (observer), CE (observer), CERN, CICA, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OAS (observer), OECD, OPCW (signatory), OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ron DERMER (since 3 December 2013) |
+| Diplomatic representation in the US: | chancery: 3514 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 364-5500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-5607 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador David M. FRIEDMAN (since 23 May 2017) |
+| Diplomatic representation from the US: | embassy: David Flusser St.14, Jerusalem, 9378322 |
+| Diplomatic representation from the US: | telephone: [972] (2) 630-4000 |
+| Diplomatic representation from the US: | FAX: NA |
+| Diplomatic representation from the US: | consular agent: Haifa |
+| Diplomatic representation from the US: | note: on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv, replacing the site of the Jerusalem Consulate General |
+| Flag description: | white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times |
+| Flag description: | note: the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue |
+| National symbol(s): | Star of David (Magen David), menorah (seven-branched lampstand); national colors: blue, white |
+| National anthem: | name: "Hatikvah" (The Hope) |
+| National anthem: | lyrics/music: Naftali Herz IMBER/traditional, arranged by Samuel COHEN |
+| National anthem: | note: adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song "Carul cu boi" (The Ox Driven Cart) |

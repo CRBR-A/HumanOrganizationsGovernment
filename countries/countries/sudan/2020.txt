@@ -1,0 +1,69 @@
+| Government | Sudan |
+| --- | --- |
+| Country name: | conventional long form: Republic of the Sudan |
+| Country name: | conventional short form: Sudan |
+| Country name: | local long form: Jumhuriyat as-Sudan |
+| Country name: | local short form: As-Sudan |
+| Country name: | former: Anglo-Egyptian Sudan, Democratic Republic of the Sudan |
+| Country name: | etymology: the name "Sudan" derives from the Arabic "bilad-as-sudan" meaning "Land of the Black [peoples]" |
+| Government type: | presidential republic |
+| Capital: | name: Khartoum |
+| Capital: | geographic coordinates: 15 36 N, 32 32 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: several explanations of the name exist; two of the more plausible are that it is derived from Arabic "al-jartum" meaning "elephant's trunk" or "hose," and likely referring to the narrow strip of land extending between the Blue and White Niles; alternatively, the name could derive from the Dinka words "khar-tuom," indicating a "place where rivers meet" |
+| Administrative divisions: | 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile |
+| Administrative divisions: | note: the peace accord signed in October 2020 included a protocol to restructure the country's current 18 provinces/states into eight regions |
+| Independence: | 1 January 1956 (from Egypt and the UK) |
+| National holiday: | Independence Day, 1 January (1956) |
+| Constitution: | history: previous 1973, 1998; 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the "Draft Constitutional Charter for the 2019 Transitional Period," was signed by the Council and opposition coalition on 4 August 2019 |
+| Constitution: | amendments: NA |
+| Legal system: | mixed legal system of Islamic law and English common law; note - in mid-July 2020, Sudan amended 15 provisions of its 1991 penal code |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; withdrew acceptance of ICCt jurisdiction in 2008 |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Sudan |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 17 years of age; universal |
+| Executive branch: | chief of state: president (vacant); note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal as the "Sovereignty Council," chaired byÂ  General Abd-al-Fatah al-BURHAN Abd-al-Rahman and consisting of 6 civilians and 5 generals; the Council is currently led by the military but is intended to transition to civilian leadership in May 2021 until elections can be held; General BURHAN serves as both chief of state and head of government |
+| Executive branch: | head of government: president (vacant); note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal as the "Sovereignty Council," chaired byÂ  General Abd-al-Fatah al-BURHAN Abd-al-Rahman and consisting of 6 civilians and 5 generals; the Council is currently led by the military but is intended to transition to civilian leadership in May 2021 until elections can be held (Abd-al-Rahman) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister (2019) |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed; last held on 13-16 April 2015 (next to be held in 2022 at the end of the transitional period); prime minister typically appointed by the president; note - the position of prime minister was reinstated in December 2016 as a result of the 2015-16 national dialogue process, and President al-BASHIR appointed BAKRI Hassan Salih to the position on 2 March 2017; on 21 August 2019, the Forces for Freedom and Change, the civilian opposition alliance, named Abdallah HANDOUK as prime minister of Sudan for the transitional period |
+| Executive branch: | election results: Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9% |
+| Legislative branch: | description: according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held in 2022; as of early December 2019, the TLC had not been established |
+| Legislative branch: | elections: |
+| Legislative branch: | Council of State - last held 1 June 2015 |
+| Legislative branch: | National Assembly - last held on 13-15 April 2015 |
+| Legislative branch: | note - elections for an as yet defined new legislature to be held in 2022 at the expiry of the Transnational Legislative Council |
+| Legislative branch: | election results: |
+| Legislative branch: | Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2% |
+| Legislative branch: | National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31% |
+| Judicial branch: | highest courts: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary |
+| Judicial branch: | judge selection and term of office: National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the Draft Constitutional Charter for the 2019 Transitional Period |
+| Judicial branch: | subordinate courts: Court of Appeal; other national courts; public courts; district, town, and rural courts |
+| Political parties and leaders: | Democratic Unionist Party or DUP [Jalal al-DIGAIR] |
+| Political parties and leaders: | Democratic Unionist Party [Muhammad Uthman al-MIRGHANI] |
+| Political parties and leaders: | Federal Umma Party [Dr. Ahmed Babikir NAHAR] |
+| Political parties and leaders: | Muslim Brotherhood or MB |
+| Political parties and leaders: | National Congress Party or NCP (in November 2019, Sudan's transitional government approved a law to "dismantle" the regime of former President Omar al-Bashir, including the dissolution of his political party, the NCP) |
+| Political parties and leaders: | National Umma Party or NUP [Saddiq al-MAHDI] |
+| Political parties and leaders: | Popular Congress Party or PCP [Hassan al-TURABI] |
+| Political parties and leaders: | Reform Movement Now [Dr. Ghazi Salahuddin al-ATABANI]Sudan National Front [Ali Mahmud HASANAYN] |
+| Political parties and leaders: | Sudanese Communist Party or SCP [Mohammed Moktar Al-KHATEEB] |
+| Political parties and leaders: | Sudanese Congress Party or SCoP [Ibrahim Al-SHEIKH] |
+| Political parties and leaders: | Umma Party for Reform and Development |
+| Political parties and leaders: | Unionist Movement Party or UMP |
+| International organization participation: | ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Nureldin Mohamed Hamed SATTI (since 17 September 2020) |
+| Diplomatic representation in the US: | chancery: 2210 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 338-8565 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-2406 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Brian SHUKAN (since September 2019) |
+| Diplomatic representation from the US: | telephone: [249] 18702-2000 |
+| Diplomatic representation from the US: | embassy: Kilo 10, Soba, Khartoum |
+| Diplomatic representation from the US: | mailing address: P.O. Box 699, Kilo 10, Soba, Khartoum; APO AE 09829 |
+| Diplomatic representation from the US: | FAX: [249] 18702-2547 |
+| Flag description: | three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity |
+| National symbol(s): | secretary bird; national colors: red, white, black, green |
+| National anthem: | name: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land) |
+| National anthem: | lyrics/music: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN |
+| National anthem: | note: adopted 1956; originally served as the anthem of the Sudanese military |

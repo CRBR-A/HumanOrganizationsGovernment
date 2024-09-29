@@ -1,0 +1,39 @@
+| Government | Tunisia |
+| --- | --- |
+| Country name: | conventional long form: Tunisian Republic |
+| Country name: | conventional short form: Tunisia |
+| Country name: | local long form: Al Jumhuriyah at Tunisiyah |
+| Country name: | local short form: Tunis |
+| Government type: | republic |
+| Capital: | name: Tunis |
+| Capital: | geographic coordinates: 36 48 N, 10 11 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 24 governorates; Ariana (Aryanah), Beja (Bajah), Ben Arous (Bin 'Arus), Bizerte (Banzart), Gabes (Qabis), Gafsa (Qafsah), Jendouba (Jundubah), Kairouan (Al Qayrawan), Kasserine (Al Qasrayn), Kebili (Qibili), Kef (Al Kaf), Mahdia (Al Mahdiyah), Manouba (Manubah), Medenine (Madanin), Monastir (Al Munastir), Nabeul (Nabul), Sfax (Safaqis), Sidi Bou Zid (Sidi Bu Zayd), Siliana (Silyanah), Sousse (Susah), Tataouine (Tatawin), Tozeur (Tawzar), Tunis, Zaghouan (Zaghwan) |
+| Independence: | 20 March 1956 (from France) |
+| National holiday: | Independence Day, 20 March (1956) |
+| Constitution: | 1 June 1959; amended 1988, 2002 |
+| Legal system: | based on French civil law system and Islamic law; some judicial review of legislative acts in the Supreme Court in joint session; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 20 years of age; universal except for active duty military |
+| Executive branch: | chief of state: President Zine el Abidine BEN ALI (since 7 November 1987) |
+| Executive branch: | head of government: Prime Minister Mohamed GHANNOUCHI (since 17 November 1999) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a five-year term (no term limits); election last held on 24 October 2004 (next to be held in October 2009); prime minister appointed by the president |
+| Executive branch: | election results: President Zine El Abidine BEN ALI reelected for a fourth term; percent of vote - Zine El Abidine BEN ALI 94.5%, Mohamed BOUCHIHA 3.8%, Mohamed Ali HALOUANI 1% |
+| Legislative branch: | bicameral system consists of the Chamber of Deputies or Majlis al-Nuwaab (189 seats; members elected by popular vote to serve five-year terms) and the Chamber of Advisors (126 seats; 85 members elected by municipal counselors, deputies, mayors, and professional associations and trade unions; 41 members are presidential appointees; members serve six-year terms) |
+| Legislative branch: | elections: Chamber of Deputies - last held on 24 October 2004 (next to be held in October 2009); Chamber of Advisors - last held on 3 July 2005 (next to be held in July 2011) |
+| Legislative branch: | election results: Chamber of Deputies - percent of vote by party - NA; seats by party - RCD 152, MDS 14, PUP 11, UDU 7, Al-Tajdid 3, PSL 2; Chamber of Advisors - percent of vote by party - NA; seats by party - RCD 71 (14 trade union seats vacant (boycotted)) |
+| Judicial branch: | Court of Cassation or Cour de Cassation |
+| Political parties and leaders: | Al-Tajdid Movement [Ali HALOUANI]; Constitutional Democratic Rally Party (Rassemblement Constitutionnel Democratique) or RCD (official ruling party) [President Zine El Abidine BEN ALI]; Green Party for Progress or PVP [Mongi KHAMASSI]; Liberal Social Party or PSL [Mounir BEJI]; Movement of Socialist Democrats or MDS [Ismail BOULAHYA]; Popular Unity Party or PUP [Mohamed BOUCHIHA]; Progressive Democratic Party [Nejib CHEBBI]; Unionist Democratic Union or UDU [Ahmed INOUBLI] |
+| Political pressure groups and leaders: | 18 October Group [collective leadership]; Democratic Forum for Labor and Liberties or FDTL [Mustapha Ben JAFAAR]; Tunisian League for Human Rights or LTDH [Mokhtar TRIFI]; note - the Islamic fundamentalist party, Al Nahda (Renaissance), is outlawed |
+| International organization participation: | ABEDA, ACCT, AfDB, AFESD, AMF, AMU, AU, BSEC (observer), FAO, G-77, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAS, MIGA, MONUC, NAM, OAPEC (suspended), OAS (observer), OIC, OIF, ONUB, OPCW, OSCE (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMEE, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Nejib HACHANA |
+| Diplomatic representation in the US: | chancery: 1515 Massachusetts Avenue NW, Washington, DC 20005 |
+| Diplomatic representation in the US: | telephone: [1] (202) 862-1850 |
+| Diplomatic representation in the US: | FAX: [1] (202) 862-1858 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert F. GODEC |
+| Diplomatic representation from the US: | embassy: Zone Nord-Est des Berges du Lac Nord de Tunis 1053 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [216] 71 107-000 |
+| Diplomatic representation from the US: | FAX: [216] 71 107-090 |
+| Flag description: | red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; the crescent and star are traditional symbols of Islam |

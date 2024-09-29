@@ -1,0 +1,41 @@
+| Government | Austria |
+| --- | --- |
+| Country name: | conventional long form: Republic of Austria |
+| Country name: | conventional short form: Austria |
+| Country name: | local long form: Republik Oesterreich |
+| Country name: | local short form: Oesterreich |
+| Government type: | federal republic |
+| Capital: | name: Vienna |
+| Capital: | geographic coordinates: 48 12 N, 16 22 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 9 states (Bundeslaender, singular - Bundesland); Burgenland, Kaernten (Carinthia), Niederoesterreich, Oberoesterreich, Salzburg, Steiermark (Styria), Tirol, Vorarlberg, Wien (Vienna) |
+| Independence: | 17 September 1156 (Duchy of Austria founded); 11 August 1804 (Austrian Empire proclaimed); 12 November 1918 (republic proclaimed) |
+| National holiday: | National Day, 26 October (1955); note - commemorates the State Treaty restoring national sovereignty and the end of occupation and the passage of the law on permanent neutrality |
+| Constitution: | 1920; revised 1929 (reinstated 1 May 1945) |
+| Legal system: | civil law system with Roman law origin; judicial review of legislative acts by the Constitutional Court; separate administrative and civil/penal supreme courts; accepts compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Heinz FISCHER (since 8 July 2004) |
+| Executive branch: | head of government: Chancellor Wolfgang SCHUESSEL (OeVP)(since 4 February 2000); Vice Chancellor Hubert GORBACH (since 21 October 2003) |
+| Executive branch: | cabinet: Council of Ministers chosen by the president on the advice of the chancellor |
+| Executive branch: | elections: president elected by direct popular vote for a six-year term (eligible for a second term); presidential election last held 25 April 2004 (next to be held April 2010); chancellor traditionally chosen by the president from the plurality party in the National Council; vice chancellor chosen by the president on the advice of the chancellor |
+| Executive branch: | election results: Heinz FISCHER elected president; percent of vote - Heinz FISCHER (SPOe) 52.4%, Benita FERRERO-WALDNER (OeVP) 47.6% |
+| Executive branch: | note: government coalition - OeVP and FPOe |
+| Legislative branch: | bicameral Federal Assembly or Bundesversammlung consists of Federal Council or Bundesrat (62 members; members represent each of the states on the basis of population, but with each state having at least 3 representatives; members serve a five- or six-year term) and the National Council or Nationalrat (183 seats; members elected by direct popular vote to serve four-year terms) |
+| Legislative branch: | elections: National Council - last held 1 October 2006 (next to be held in the fall of 2010) |
+| Legislative branch: | election results: National Council - percent of vote by party - SPOe 35.3%, OeVP 34.3%, Greens 11.1%, FPOe 11.0%, BZOe 4.1%; seats by party - SPOe 68, OeVP 66, Greens 21, FPOe 21, BZOe 7 |
+| Judicial branch: | Supreme Judicial Court or Oberster Gerichtshof; Administrative Court or Verwaltungsgerichtshof; Constitutional Court or Verfassungsgerichtshof |
+| Political parties and leaders: | Alliance for the Future of Austria or BZOe [Joerg HAIDER]; Austrian People's Party or OeVP [Wolfgang SCHUESSEL]; Freedom Party of Austria or FPOe [Heinz Christian STRACHE]; Social Democratic Party of Austria or SPOe [Alfred GUSENBAUER]; The Greens [Alexander VAN DER BELLEN] |
+| Political pressure groups and leaders: | Austrian Trade Union Federation (nominally independent but primarily Socialist) or OeGB; Federal Economic Chamber; OeVP-oriented League of Austrian Industrialists or VOeI; Roman Catholic Church, including its chief lay organization, Catholic Action; three composite leagues of the Austrian People's Party or OeVP representing business, labor, and farmers and other non-government organizations in the areas of environment and human rights |
+| International organization participation: | ACCT (observer), AfDB, AsDB, Australia Group, BIS, BSEC (observer), CE, CEI, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G- 9, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, MINURSO, NAM (guest), NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, SECI (observer), UN, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNIDO, UNMEE, UNOMIG, UNTSO, UPU, WCL, WCO, WEU (observer), WFTU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Eva NOWOTNY |
+| Diplomatic representation in the US: | chancery: 3524 International Court NW, Washington, DC 20008-3035 |
+| Diplomatic representation in the US: | telephone: [1] (202) 895-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 895-6750 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Susan R. McCAW |
+| Diplomatic representation from the US: | embassy: Boltzmanngasse 16, A-1090, Vienna |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [43] (1) 31339-0 |
+| Diplomatic representation from the US: | FAX: [43] (1) 3100682 |
+| Flag description: | three equal horizontal bands of red (top), white, and red |

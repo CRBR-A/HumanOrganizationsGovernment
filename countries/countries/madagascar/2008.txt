@@ -1,0 +1,40 @@
+| Government | Madagascar |
+| --- | --- |
+| Country name: | conventional long form: Republic of Madagascar |
+| Country name: | conventional short form: Madagascar |
+| Country name: | local long form: Republique de Madagascar/Repoblikan'i Madagasikara |
+| Country name: | local short form: Madagascar/Madagasikara |
+| Country name: | former: Malagasy Republic |
+| Government type: | republic |
+| Capital: | name: Antananarivo |
+| Capital: | geographic coordinates: 18 55 S, 47 31 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara |
+| Independence: | 26 June 1960 (from France) |
+| National holiday: | Independence Day, 26 June (1960) |
+| Constitution: | 19 August 1992 by national referendum |
+| Legal system: | based on French civil law system and traditional Malagasy law; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Marc RAVALOMANANA (since 6 May 2002) |
+| Executive branch: | head of government: Prime Minister Charles RABEMANANJARA (25 January 2007) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 3 December 2006 (next to be held in December 2011); prime minister appointed by the president |
+| Executive branch: | election results: percent of vote - Marc RAVALOMANANA 54.8%, Jean LAHINIRIKO 11.7%, Roland RATSIRAKA 10.1%, Herizo RAZAFIMAHALEO 9.1%, Norbert RATSIRAHONANA 4.2%, Ny Hasina ANDRIAMANJATO 4.2%, Elia RAVELOMANANTSOA 2.6%, Pety RAKOTONIAINA 1.7%, other 1.6% |
+| Legislative branch: | bicameral legislature consists of a National Assembly or Assemblee Nationale (127 seats - reduced from 160 seats by an April 2007 national referendum; members are elected by popular vote to serve four-year terms) and a Senate or Senat (100 seats; two-thirds of the seats filled by regional assemblies; the remaining one-third of seats appointed by the president; to serve four-year terms) |
+| Legislative branch: | elections: National Assembly - last held 23 September 2007 (next to be held in 2011) |
+| Legislative branch: | election results: National Assembly - percent of vote by party - NA; seats by party - TIM 106, LEADER/Fanilo 1, independents 20 |
+| Judicial branch: | Supreme Court or Cour Supreme; High Constitutional Court or Haute Cour Constitutionnelle |
+| Political parties and leaders: | Association for the Rebirth of Madagascar or AREMA [Pierrot RAJAONARIVELO]; Democratic Party for Union in Madagascar or PSDUM [Jean LAHINIRIKO]; Economic Liberalism and Democratic Action for National Recovery or LEADER/Fanilo [Herizo RAZAFIMAHALEO]; Fihaonana Party or FP [Guy-Willy RAZANAMASY]; I Love Madagascar or TIM [Marc RAVALOMANANA]; Renewal of the Social Democratic Party or RPSD [Evariste MARSON] |
+| Political pressure groups and leaders: | Committee for the Defense of Truth and Justice or KMMR; Committee for National Reconciliation or CRN [Albert Zafy]; National Council of Christian Churches or FFKM |
+| International organization participation: | ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jocelyn Bertin RADIFERA |
+| Diplomatic representation in the US: | chancery: 2374 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 265-5525, 5526 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-3034 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador R. Niels MARQUARDT |
+| Diplomatic representation from the US: | embassy: 14-16 Rue Rainitovo, Antsahavola, Antananarivo 101 |
+| Diplomatic representation from the US: | mailing address: B. P. 620, Antsahavola, Antananarivo |
+| Diplomatic representation from the US: | telephone: [261] (20) 22-212-57, 22-212-73, 22-209-56 |
+| Diplomatic representation from the US: | FAX: [261] (20) 22-345-39 |
+| Flag description: | two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side |

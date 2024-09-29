@@ -1,0 +1,41 @@
+| Government | Armenia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Armenia |
+| Country name: | conventional short form: Armenia |
+| Country name: | local long form: Hayastani Hanrapetut'yun |
+| Country name: | local short form: Hayastan |
+| Country name: | former: Armenian Soviet Socialist Republic, Armenian Republic |
+| Government type: | republic |
+| Capital: | name: Yerevan |
+| Capital: | geographic coordinates: 40 10 N, 44 30 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan |
+| Independence: | 21 September 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 21 September (1991) |
+| Constitution: | adopted by nationwide referendum 5 July 1995; amendments adopted through a nationwide referendum 27 November 2005 |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Serzh SARGSIAN (since 9 April 2008) |
+| Executive branch: | head of government: Prime Minister Tigran SARGSIAN (since 9 April 2008) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 19 February 2008 (next to be held February 2013); prime minister appointed by the president based on majority or plurality support in parliament; the prime minister and Council of Ministers must resign if the National Assembly refuses to accept their program |
+| Executive branch: | election results: Serzh SARGSIAN elected president; percent of vote - Serzh SARGSIAN 52.9%, Levon TER-PETROSSIAN 21.5%, Artur BAGHDASARIAN 16.7% |
+| Legislative branch: | unicameral National Assembly (Parliament) or Azgayin Zhoghov (131 seats; members elected by popular vote, 90 members elected by party list and 41 by direct vote; to serve four-year terms) |
+| Legislative branch: | elections: last held 12 May 2007 (next to be held in the spring of 2012) |
+| Legislative branch: | election results: percent of vote by party - HHK 33.9%, Prosperous Armenia 15.1%, ARF (Dashnak) 13.2%, Rule of Law 7.1%, Heritage Party 6%, other 24.7%; seats by party - HHK 64, Prosperous Armenia 18, ARF (Dashnak) 16, Rule of Law 9, Heritage Party 7, independent 17 |
+| Judicial branch: | Constitutional Court; Court of Cassation (Appeals Court) |
+| Political parties and leaders: | Armenian National Movement or ANM [Ararat ZURABYAN]; Armenian People's Party [Tigran KARAPETYAN]; Armenian Ramkavar Azadagan Party Alliance or HRAK (includes former Dashink Party, National Revival Party, and Ramkavar Liberal Party); Armenian Revolutionary Federation ("Dashnak" Party) or ARF [Hrant MARKARYAN]; Heritage Party [Raffi HOVHANNISYAN]; National Democratic Party [Shavarsh KOCHARIAN]; National Democratic Union or NDU [Vazgen MANUKIAN]; National Unity Party [Artashes GEGHAMYAN]; People's Party of Armenia [Stepan DEMIRCHYAN]; Prosperous Armenia [Gagik TSAROUKYAN]; Republic Party [Aram SARKISYAN]; Republican Party of Armenia or HHK [Serzh SARGSIAN]; Rule of Law Party (Orinats Yerkir) [Artur BAGHDASARIAN]; Union of Constitutional Rights [Hrant KHACHATURYAN]; United Labor Party [Gurgen ARSENYAN] |
+| Political pressure groups and leaders: | Aylentrank (Impeachment) [Nikol PASHINYAN]; Yerkrapah Union [Manvel GRIGORIAN] |
+| International organization participation: | ACCT (observer), ADB, BSEC, CE, CIS, CSTO, EAEC (observer), EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF (associate member), OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Tatoul MARKARIAN |
+| Diplomatic representation in the US: | chancery: 2225 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 319-1976 |
+| Diplomatic representation in the US: | FAX: [1] (202) 319-2982 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles |
+| Diplomatic representation from the US: | chief of mission: Ambassador Marie L. YOVANOVITCH |
+| Diplomatic representation from the US: | embassy: 1 American Ave., Yerevan 0082 |
+| Diplomatic representation from the US: | mailing address: American Embassy Yerevan, US Department of State, 7020 Yerevan Place, Washington, DC 20521-7020 |
+| Diplomatic representation from the US: | telephone: [374](10) 464-700 |
+| Diplomatic representation from the US: | FAX: [374](10) 464-742 |
+| Flag description: | three equal horizontal bands of red (top), blue, and orange |

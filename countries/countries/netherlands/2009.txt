@@ -1,0 +1,44 @@
+| Government | Netherlands |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of the Netherlands |
+| Country name: | conventional short form: Netherlands |
+| Country name: | local long form: Koninkrijk der Nederlanden |
+| Country name: | local short form: Nederland |
+| Government type: | constitutional monarchy |
+| Capital: | name: Amsterdam |
+| Capital: | geographic coordinates: 52 23 N, 4 54 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: The Hague is the seat of government; time descriptions apply to the continental Netherlands only, not to the Caribbean components |
+| Administrative divisions: | 12 provinces (provincies, singular - provincie); Drenthe, Flevoland, Friesland (Fryslan), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland) |
+| Dependent areas: | Aruba, Netherlands Antilles |
+| Independence: | 23 January 1579 (the northern provinces of the Low Countries conclude the Union of Utrecht breaking with Spain; on 26 July 1581 they formally declared their independence with an Act of Abjuration; however, it was not until 30 January 1648 and the Peace of Westphalia that Spain recognized this independence) |
+| National holiday: | Queen's Day (Birthday of Queen-Mother JULIANA and accession to the throne of her oldest daughter BEATRIX), 30 April (1909 and 1980) |
+| Constitution: | adopted 1815; amended many times, most recently in 2002 |
+| Legal system: | based on civil law system incorporating French penal theory; constitution does not permit judicial review of acts of the States General; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen BEATRIX (since 30 April 1980); Heir Apparent WILLEM-ALEXANDER (born 27 April 1967), son of the monarch |
+| Executive branch: | head of government: Prime Minister Jan Peter BALKENENDE (since 22 July 2002); Deputy Prime Ministers Wouter BOS (since 22 February 2007) and Andre ROUVOET (since 22 February 2007) |
+| Executive branch: | cabinet: Council of Ministers appointed by the monarch |
+| Executive branch: | elections: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or leader of a majority coalition is usually appointed prime minister by the monarch; deputy prime ministers appointed by the monarch |
+| Executive branch: | note: there is also a Council of State composed of the monarch, heir apparent, and councilors that provides consultations to the cabinet on legislative and administrative policy |
+| Legislative branch: | bicameral States General or Staten Generaal consists of the First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial councils to serve four-year terms) and the Second Chamber or Tweede Kamer (150 seats; members elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: First Chamber - last held 29 May 2007 (next to be held in May 2011); Second Chamber - last held 22 November 2006 (next to be held by early 2011) |
+| Legislative branch: | election results: First Chamber - percent of vote by party - NA%; seats by party - CDA 21, PvdA 14, VVD 14, Socialist Party 11, Christian Union 4, Green Left Party 4, D66 2, other 5; Second Chamber - percent of vote by party - CDA 26.5%, PvdA 21.2%, Socialist Party 16.6%, VVD 14.6%, Party for Freedom 5.9%, Green Party 4.6%, Christian Union 4.0%, other 6.6%; seats by party - CDA 41, PvdA 33, Socialist Party 25, VVD 22, Party for Freedom 9, Green Party 7, Christian Union 6, other 7 |
+| Judicial branch: | Supreme Court or Hoge Raad (justices are nominated for life by the monarch) |
+| Political parties and leaders: | Christian Democratic Appeal or CDA [Pieter VAN GEEL]; Christian Union Party [Arie SLOB]; Democrats 66 or D66 [Alexander PECHTOLD]; Green Left Party [Femke HALSEMA]; Labor Party or PvdA [Mariette HAMER]; Party for Freedom or PVV [Geert WILDERS]; Party for the Animals or PvdD [Marianne THIEME]; People's Party for Freedom and Democracy (Liberal) or VVD [Mark RUTTE]; Reformed Political Party of SGP [Bas VAN DER VLIES]; Socialist Party [Agnes KANT]; plus a few minor parties |
+| Political pressure groups and leaders: | Christian Trade Union Federation or CNV [Rene PAAS]; Confederation of Netherlands Industry and Employers or VNO-NCW [Bernard WIENTJES]; Federation for Small and Medium-sized businesses or MKB [Loek HERMANS]; Netherlands Trade Union Federation or FNV [Agnes JONGERIUS]; Social Economic Council or SER [Alexander RINNOOY KAN]; Trade Union Federation of Middle and High Personnel or MHP [Ad VERHOEVEN] |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CE, CERN, EAPC, EBRD, EIB, EMU, ESA, EU, FAO, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, SECI (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIS, UNRWA, UNTSO, UNWTO, UPU, WCL, WCO, WEU, WFTU, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Regina "Renee" JONES-BOS |
+| Diplomatic representation in the US: | chancery: 4200 Linnean Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-5300, [1] 877-388-2443 |
+| Diplomatic representation in the US: | FAX: [1] (202) 362-3430 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, Miami, New York |
+| Diplomatic representation in the US: | consulate(s): Boston |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Michael GALLAGHER |
+| Diplomatic representation from the US: | embassy: Lange Voorhout 102, 2514 EJ, The Hague |
+| Diplomatic representation from the US: | mailing address: PSC 71, Box 1000, APO AE 09715 |
+| Diplomatic representation from the US: | telephone: [31] (70) 310-2209 |
+| Diplomatic representation from the US: | FAX: [31] (70) 361-4688 |
+| Diplomatic representation from the US: | consulate(s) general: Amsterdam |
+| Flag description: | three equal horizontal bands of red (top), white, and blue; similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors were those of WILLIAM I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century; originally the upper band was orange, but because it tended to fade to red over time, the red shade was eventually made the permanent color; the banner is perhaps the oldest tricolor in continuous use |

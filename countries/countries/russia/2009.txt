@@ -1,0 +1,51 @@
+| Government | Russia |
+| --- | --- |
+| Country name: | conventional long form: Russian Federation |
+| Country name: | conventional short form: Russia |
+| Country name: | local long form: Rossiyskaya Federatsiya |
+| Country name: | local short form: Rossiya |
+| Country name: | former: Russian Empire, Russian Soviet Federative Socialist Republic |
+| Government type: | federation |
+| Capital: | name: Moscow |
+| Capital: | geographic coordinates: 55 45 N, 37 35 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: Russia is divided into 11 time zones |
+| Administrative divisions: | 46 oblasts (oblastey, singular - oblast), 21 republics (respublik, singular - respublika), 4 autonomous okrugs (avtonomnykh okrugov, singular - avtonomnyy okrug), 9 krays (krayev, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast') |
+| Administrative divisions: | oblasts: Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl' |
+| Administrative divisions: | republics: Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk) |
+| Administrative divisions: | autonomous okrugs: Chukotka (Anadyr'), Khanty-Mansi (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard) |
+| Administrative divisions: | krays: Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime] (Vladivostok), Stavropol', Zabaykal'sk (Chita) |
+| Administrative divisions: | federal cities: Moscow [Moskva], Saint Petersburg [Sankt-Peterburg] |
+| Administrative divisions: | autonomous oblast: Yevrey [Jewish] (Birobidzhan) |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) |
+| Independence: | 24 August 1991 (from the Soviet Union) |
+| National holiday: | Russia Day, 12 June (1990) |
+| Constitution: | adopted 12 December 1993 |
+| Legal system: | based on civil law system; judicial review of legislative acts; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Dmitriy Anatolyevich MEDVEDEV (since 7 May 2008) |
+| Executive branch: | head of government: Premier Vladimir Vladimirovich PUTIN (since 8 May 2008); First Deputy Premiers Igor Ivanovich SHUVALOV and Viktor Alekseyevich ZUBKOV (since 12 May 2008); Deputy Premiers Sergey Borisovich IVANOV (since 12 May 2008), Dmitriy Nikolayevich KOZAK (since 14 October 2008), Aleksey Leonidovich KUDRIN (since 24 September 2007), Igor Ivanovich SECHIN (since 12 May 2008), Sergey Semenovich SOBYANIN (since 12 May 2008), Aleksandr Dmitriyevich ZHUKOV (since 9 March 2004), and Dmitry Nikolayevich KOZAK (since 14 October 2008) |
+| Executive branch: | cabinet: Ministries of the Government or "Government" composed of the premier and his deputies, ministers, and selected other individuals; all are appointed by the president |
+| Executive branch: | note: there is also a Presidential Administration (PA) that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president |
+| Executive branch: | elections: president elected by popular vote for a four-year term (eligible for a second term); election last held 2 March 2008 (next to be held in March 2012); note - no vice president; if the president dies in office, cannot exercise his powers because of ill health, is impeached, or resigns, the premier serves as acting president until a new presidential election is held, which must be within three months; premier appointed by the president with the approval of the Duma |
+| Executive branch: | election results: Dmitriy MEDVEDEV elected president; percent of vote - Dmitry MEDVEDEV 70.2%, Gennady ZYUGANOV 17.7%, Vladimir ZHIRINOVSKY 9.4%, Andrey BOGDANOV 1.3% |
+| Legislative branch: | bicameral Federal Assembly or Federalnoye Sobraniye consists of an upper house, the Federation Council or Sovet Federatsii (168 seats; as of July 2000, members appointed by the top executive and legislative officials in each of the 84 federal administrative units - oblasts, krays, republics, autonomous okrugs and oblasts, and the federal cities of Moscow and Saint Petersburg; serve four-year terms) and a lower house, the State Duma or Gosudarstvennaya Duma (450 seats; as of 2007, all members elected by proportional representation from party lists winning at least 7% of the vote; members elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: State Duma - last held 2 December 2007 (next to be held in December 2011) |
+| Legislative branch: | election results: State Duma - United Russia 64.3%, CPRF 11.5%, LDPR 8.1%, Just Russia 7.7%, other 8.4%; total seats by party - United Russia 315, CPRF 57, LDPR 40, Just Russia 38 |
+| Judicial branch: | Constitutional Court; Supreme Court; Supreme Arbitration Court; judges for all courts are appointed for life by the Federation Council on the recommendation of the president |
+| Political parties and leaders: | A Just Russia [Sergey MIRONOV]; Communist Party of the Russian Federation or CPRF [Gennadiy Andreyevich ZYUGANOV]; Liberal Democratic Party of Russia or LDPR [Vladimir Volfovich ZHIRINOVSKIY]; Patriots of Russia [Gennadiy SEMIGIN]; People's Union [Sergey BABURIN]; Right Cause [Leonid Yakovlevich GOZMAN, Boris Yuriyevich TITOV, and Georgiy Georgiyevich BOVT] (registration pending; formed from merger of Union of Right Forces, Democratic Party of Russia, and Civic Force); United Russia [Vladimir Vladimirovich PUTIN]; Yabloko Party [Sergey Sergeyevich MITROKHIN] |
+| Political pressure groups and leaders: | All-Russian Confederation of Labor; Baikal Environmental Wave; Federation of Independent Labor Unions of Russia; Freedom of Choice Interregional Organization of Automobilists; Glasnost Defense Foundation; Golos Association in Defense of Voters' Rights; Greenpeace Russia; Human Rights Watch (Russian chapter); Institute for Collective Action; Memorial (human rights group); Movement Against Illegal Migration; Pamjat (preservation of historical monuments and recording of history); Russian Orthodox Church; Russian-Chechen Friendship Society; SOVA Analytical-Information Center; Union of the Committees of Soldiers' Mothers; World Wildlife Fund (Russian chapter) |
+| International organization participation: | APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BSEC, CBSS, CE, CERN (observer), CIS, CSTO, EAEC, EAPC, EBRD, G-20, G-8, GCTU, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC, LAIA (observer), MIGA, MINURSO, MONUC, NAM (guest), NSG, OAS (observer), OECD (accession state), OIC (observer), OPCW, OSCE, Paris Club, PCA, PFP, SCO, UN, UN Security Council, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMIL, UNMIS, UNOCI, UNOMIG, UNTSO, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer), ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sergey Ivanovich KISLYAK |
+| Diplomatic representation in the US: | chancery: 2650 Wisconsin Avenue NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 298-5700, 5701, 5704, 5708 |
+| Diplomatic representation in the US: | FAX: [1] (202) 298-5735 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador John R. BEYRLE |
+| Diplomatic representation from the US: | embassy: Bolshoy Deviatinskiy Pereulok No. 8, 121099 Moscow |
+| Diplomatic representation from the US: | mailing address: PSC-77, APO AE 09721 |
+| Diplomatic representation from the US: | telephone: [7] (495) 728-5000 |
+| Diplomatic representation from the US: | FAX: [7] (495) 728-5090 |
+| Diplomatic representation from the US: | consulate(s) general: Saint Petersburg, Vladivostok, Yekaterinburg |
+| Flag description: | three equal horizontal bands of white (top), blue, and red |

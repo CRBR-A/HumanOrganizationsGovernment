@@ -1,0 +1,69 @@
+| Government | EL SALVADOR |
+| --- | --- |
+| Country name: | conventional long form: Republic of El Salvador |
+| Country name: | conventional short form: El Salvador |
+| Country name: | local long form: Republica de El Salvador |
+| Country name: | local short form: El Salvador |
+| Country name: | note: name is an abbreviation of the original Spanish conquistador designation for the area "Provincia de Nuestro Senor Jesus Cristo, el Salvador del Mundo" (Province of Our Lord Jesus Christ, the Saviour of the World), which became simply "El Salvador" (The Savior) |
+| Government type: | republic |
+| Capital: | name: San Salvador |
+| Capital: | geographic coordinates: 13 42 N, 89 12 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC, during Standard Time) |
+| Administrative divisions: | 14 departments (departamentos, singular - departamento); Ahuachapan, Cabanas, Chalatenango, Cuscatlan, La Libertad, La Paz, La Union, Morazan, San Miguel, San Salvador, San Vicente, Santa Ana, Sonsonate, Usulutan |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | many previous; latest drafted 16 December 1983, enacted 23 December 1983; amended many times, last on 12 June 2014 to recognize indigenous communities (2012) |
+| Legal system: | civil law system with minor common law influence; judicial review of legislative acts in the Supreme Court |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Salvador SANCHEZ CEREN (since 1 June 2014); Vice President Salvador Oscar ORTIZ (since 1 June 2014); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Salvador SANCHEZ CEREN (since 1 June 2014); Vice President Salvador Oscar ORTIZ (since 1 June 2014) |
+| Executive branch: | cabinet: Council of Ministers selected by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 2 February 2014, with a runoff on 9 March 2014 (next to be held in February 2019) |
+| Executive branch: | election results: percent of vote - Salvador SANCHEZ CEREN elected president; first-round results - Salvador SANCHEZ CEREN (FMLN) 48.9%, Norman QUIJANO (ARENA) 39%, Antonio SACA (CN) 11.4%, other 0.7%; second-round results - Salvador SANCHEZ CEREN 50.1%, Norman QUIJANO 49.9% |
+| Legislative branch: | description: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote to serve 3-year terms) |
+| Legislative branch: | elections: last held on 1 March 2015 (next to be held in March 2018) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - ARENA 35, FMLN 31, GANA 11, PCN 6, PDC 1 |
+| Judicial branch: | highest court(s): Supreme Court or Corte Suprema de Justicia (CSJ) (consists of 15 judges assigned to constitutional, civil, penal, and administrative conflict divisions) |
+| Judicial branch: | judge selection and term of office: judges elected by the Legislative Assembly on the recommendation of the National Council of the Judicature, an independent body elected by the Legislative Assembly; judges elected for a 9-year term, with renewal of one-third of judges every 3 years; consecutive re-election is allowed |
+| Judicial branch: | subordinate courts: Appellate Courts; Courts of First Instance; Courts of Peace |
+| Political parties and leaders: | Christian Democratic Party or PDC [Rodolfo Antonio PARKER Soto] |
+| Political parties and leaders: | Democratic Change (Cambio Democratico) or CD [Douglas AVILES] (formerly United Democratic Center or CDU) |
+| Political parties and leaders: | Farabundo Marti National Liberation Front or FMLN [Medardo GONZALEZ] |
+| Political parties and leaders: | Great Alliance for National Unity or GANA [Jose Andres ROVIRA Caneles] |
+| Political parties and leaders: | National Conciliation Party or PCN [Manuel RODRIGUEZ] |
+| Political parties and leaders: | Nationalist Republican Alliance or ARENA [Jorge VELADO] |
+| Political pressure groups and leaders: | labor organizations: |
+| Political pressure groups and leaders: | Electrical Industry Union of El Salvador or SIES |
+| Political pressure groups and leaders: | Federation of the Construction Industry, Similar Transport and other activities, or FESINCONTRANS |
+| Political pressure groups and leaders: | National Confederation of Salvadoran Workers or CNTS |
+| Political pressure groups and leaders: | National Trade Union Federation of Salvadoran Workers or FENASTRAS |
+| Political pressure groups and leaders: | National Union of Salvadoran Workers or UNTS |
+| Political pressure groups and leaders: | Port Industry Union of El Salvador or SIPES |
+| Political pressure groups and leaders: | Salvadoran Workers Central or CTS |
+| Political pressure groups and leaders: | Union of Judiciary Workers or SITTOJ |
+| Political pressure groups and leaders: | Union of Workers of the Ministry of Treasury or SITRAMI |
+| Political pressure groups and leaders: | Workers Union of Electrical Corporation or STCEL |
+| business organizations: | American Chamber of Commerce in El Salvador |
+| business organizations: | National Association of Private Enterprise or ANEP |
+| business organizations: | Salvadoran Chamber of Commerce |
+| business organizations: | Salvadoran Chamber of the Construction Industry or CASALCO |
+| business organizations: | Salvadoran Industrial Association or ASI |
+| International organization participation: | BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Francisco Roberto ALTSCHUL Fuentes (since 18 September 2014) |
+| Diplomatic representation in the US: | chancery: 1400 16th Street NW, Suite 100, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 595-7517 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-1928 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Brentwood (NY), Chicago, Coral Gables (FL), Dallas, Houston, Las Vegas (NV), Los Angeles, McAllen (TX), New Orleans, New York, Nogales (AZ), San Francisco, Santa Ana (CA), Seattle, Tucson (AZ), Woodbridge (VA), Woodstock (GA) |
+| Diplomatic representation in the US: | consulate(s): Costa Mesa (CA), Elizabeth (NJ), Kansas City (MO), Newark (NJ), Philadelphia (PA), Phoenix (AZ), San Diego (CA), St. Louis (MO) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Mari Carmen APONTE (since 22 September 2010) |
+| Diplomatic representation from the US: | embassy: Final Boulevard Santa Elena Sur, Antiguo Cuscatlan, La Libertad, San Salvador |
+| Diplomatic representation from the US: | mailing address: Unit 3450, APO AA 34023; 3450 San Salvador Place, Washington, DC 20521-3450 |
+| Diplomatic representation from the US: | telephone: [503] 2501-2999 |
+| Diplomatic representation from the US: | FAX: [503] 2501-2150 |
+| Flag description: | three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity |
+| Flag description: | note: similar to the flag of Nicaragua, which has a different coat of arms centered in the white band - it features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band |
+| National symbol(s): | turquoise-browed motmot (bird); national colors: blue, white |
+| National anthem: | name: "Himno Nacional de El Salvador" (National Anthem of El Salvador) |
+| National anthem: | lyrics/music: Juan Jose CANAS/Juan ABERLE |
+| National anthem: | note: officially adopted 1953, in use since 1879; at 4:20 minutes the anthem of El Salvador is one of the world's longest |

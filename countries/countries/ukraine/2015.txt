@@ -1,0 +1,62 @@
+| Government | UKRAINE |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Ukraine |
+| Country name: | local long form: none |
+| Country name: | local short form: Ukrayina |
+| Country name: | former: Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic |
+| Country name: | note: name derives from the Old East Slavic word "ukraina" meaning borderland or march (militarized border region) |
+| Government type: | republic |
+| Capital: | name: Kyiv (Kiev) |
+| Capital: | note: pronounced KAY-yiv |
+| Capital: | geographic coordinates: 50 26 N, 30 31 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities (mista, singular - misto) with oblast status**; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol'), Dnipropetrovs'k, Donets'k, Ivano-Frankivs'k, Kharkiv, Kherson, Khmel'nyts'kyy, Kirovohrad, Kyiv**, Kyiv, Luhans'k, L'viv, Mykolayiv, Odesa, Poltava, Rivne, Sevastopol'**, Sumy, Ternopil', Vinnytsya, Volyn' (Luts'k), Zakarpattya (Uzhhorod), Zaporizhzhya, Zhytomyr |
+| Administrative divisions: | note 1: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses) |
+| Administrative divisions: | note 2: the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the Republic of Crimea and the Federal City of Sevastopol |
+| Independence: | 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus), 1648 (establishment of Cossack Hetmanate) |
+| National holiday: | Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence (from Soviet Russia) and the day the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day |
+| Constitution: | several previous; latest adopted and ratified 28 June 1996; amended 2004, 2010; note - to revert to the 2004 version pending additional constitutional reforms (2014) |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Petro POROSHENKO (since 7 June 2014) |
+| Executive branch: | head of government: Prime Minister Arseniy YATSENYUK (since 27 February 2014) |
+| Executive branch: | cabinet: Cabinet of Ministers nominated by the president, approved by the  Verkhovna Rada |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 25 May 2014 (next to be held in 2019); prime minister nominated by the president, confirmed by the Verkhovna Rada |
+| Executive branch: | election results: Petro POROSHENKO elected president; percent of vote - Petro POROSHENKO (independent) 54.5%, Yuliya TYMOSHENKO (Fatherland) 12.9%, Oleh LYASHKO (Radical Party) 8.4%, other 24.2% |
+| Executive branch: | note: there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president |
+| Legislative branch: | description: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - because of the Russian annexation of Crimea and the partial occupation of two eastern provinces, 27 of the 450 seats remain unfilled |
+| Legislative branch: | elections: last held on 26 October 2014 (next to be held fall 2019) |
+| Legislative branch: | election results: percent of vote by party - NF 22.2%, BPP 21.8%, Samopomich 11%, OB 9.4%, Radical 7.4%, Batkivshchyna 5.7%, Svoboda 4.7%, CPU 3.9%, other 13.9%; seats won by party - BPP 132, NF 82, Samopomich 33, OB 29, Radical 22, Batkivshchyna 19, Svoboda 6, minor parties 4, independents 96, vacant 27; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 27 seats vacant; seats of first parliamentary session (27 November 2014) following weeks of negotiations - BPP 145, NF 83, Samopomich 32, OB 40, Radical 22, VN 20, Batkivshchyna 19, ER 19, independents 38, vacant 32 |
+| Judicial branch: | highest court(s): Supreme Court of Ukraine or SCU (consists of 95 judges organized into civil, criminal, commercial, and administrative chambers, and a military panel); Constitutional Court (consists of 18 justices) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges proposed by the Supreme Council of Justice or SCJ (a 20-member independent body of judicial officials and other appointees) and appointed by presidential decree; judges initially appointed for 5 years and, if approved by the SCJ, serve until mandatory retirement at age 65; Constitutional Court justices appointed - 6 each by the president, by the SCU, and by the Verkhovna Rada; justices appointed for 9-year non-renewable terms |
+| Judicial branch: | subordinate courts: specialized high courts; Courts of Cassation; Courts of Appeal; regional, district, city, and town courts |
+| Political parties and leaders: | Batkivshchyna ("Fatherland") [Yuliya TYMOSHENKO] |
+| Political parties and leaders: | Communist Party of Ukraine or CPU [Petro SYMONENKO] |
+| Political parties and leaders: | Opposition Bloc or OB [Yuriy BOIKO] |
+| Political parties and leaders: | People's Front or NF [Arseniy YATSENIUK] |
+| Political parties and leaders: | People's Will or VN [Ihor YEREMEYEV] |
+| Political parties and leaders: | Radical Party [Oleh LYASHKO] |
+| Political parties and leaders: | Samopomich ("Selfreliance") [Andriy SADOVYI] |
+| Political parties and leaders: | Svoboda ("Freedom") [Oleh TYAHNYBOK] |
+| Political parties and leaders: | UDAR-Solidarity [Vitali KLITSCHKO] (formed from the merger of the Petro Poroshenko Bloc (BPP) and UDAR) |
+| Political pressure groups and leaders: | Committee of Voters of Ukraine [Oleksandr CHERNENKO] |
+| Political pressure groups and leaders: | OPORA [Olha AIVAZOVSKA] |
+| International organization participation: | Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Valerii CHALYI (since 3 August 2015) |
+| Diplomatic representation in the US: | chancery: 3350 M Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 349-2920 |
+| Diplomatic representation in the US: | FAX: [1] (202) 333-0817 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Geoffrey R. PYATT (since 7 August 2013) |
+| Diplomatic representation from the US: | embassy: 4 Igor Sikorsky Street, 04112 Kyiv |
+| Diplomatic representation from the US: | mailing address: 5850 Kyiv Place, Washington, DC 20521-5850 |
+| Diplomatic representation from the US: | telephone: [380] (44) 521-5000 |
+| Diplomatic representation from the US: | FAX: [380] (44) 521-5155 |
+| Flag description: | two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky |
+| National symbol(s): | tryzub (trident); national colors: blue, yellow |
+| National anthem: | name: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished) |
+| National anthem: | lyrics/music: Paul CHUBYNSKYI/Mikhail VERBYTSKYI |
+| National anthem: | note: music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003 |

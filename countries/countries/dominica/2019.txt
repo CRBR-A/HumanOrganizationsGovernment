@@ -1,0 +1,48 @@
+| Government | Dominica |
+| --- | --- |
+| Country name: | conventional long form: Commonwealth of Dominica |
+| Country name: | conventional short form: Dominica |
+| Country name: | etymology: the island was named by explorer Christopher COLUMBUS for the day of the week on which he spotted it, Sunday ("Domingo" in Latin), 3 November 1493 |
+| Government type: | parliamentary republic |
+| Capital: | name: Roseau |
+| Capital: | geographic coordinates: 15 18 N, 61 24 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the name is French for "reed"; the first settlement was named after the river reeds that grew in the area |
+| Administrative divisions: | 10 parishes; Saint Andrew, Saint David, Saint George, Saint John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint Peter |
+| Independence: | 3 November 1978 (from the UK) |
+| National holiday: | Independence Day, 3 November (1978) |
+| Constitution: | history: previous 1967 (preindependence); latest presented 25 July 1978, entered into force 3 November 1978 |
+| Constitution: | amendments: proposed by the House of Assembly; passage of amendments to constitutional sections such as fundamental rights and freedoms, the government structure, and constitutional amendment procedures requires approval by three fourths of the Assembly membership in the final reading of the amendment bill, approval by simple majority in a referendum, and assent of the president; amended several times, last in 2015 (2018) |
+| Legal system: | common law based on the English model |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Charles A. SAVARIN (since 2 October 2013) |
+| Executive branch: | head of government: Prime Minister Roosevelt SKERRIT (since 8 January 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the advice of the prime minister |
+| Executive branch: | elections/appointments: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 1 October 2018 (next to be held in October 2023); prime minister appointed by the president |
+| Executive branch: | election results: Charles A. SAVARIN (DLP) reelected president unopposed |
+| Legislative branch: | description: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 8 December 2014 (next to be held in 2019); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period |
+| Legislative branch: | election results: percent of vote by party - DLP 57.0%, UWP 42.9%, other 0.1%; seats by party - DLP 15, UWP 6; composition - men 25, women 7, percent of women 21.9% |
+| Judicial branch: | highest courts: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London |
+| Judicial branch: | judge selection and term of office: chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62 |
+| Judicial branch: | subordinate courts: Court of Summary Jurisdiction; magistrates' courts |
+| Political parties and leaders: | Dominica Freedom Party or DFP [Judith PESTAINA] |
+| Political parties and leaders: | Dominica Labor Party or DLP [Roosevelt SKERRIT] |
+| Political parties and leaders: | Dominica United Workers Party or UWP [Lennox LINTON] |
+| International organization participation: | ACP, AOSIS, C, Caricom, CD, CDB, CELAC, Commonwealth of Nations, ECCU, FAO, G-77, IAEA, IBRD, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OAS, OECS, OIF, OPANAL, OPCW, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Vince HENDERSON (since 18 January 2017) |
+| Diplomatic representation in the US: | chancery: 3216 New Mexico Avenue NW, Washington, DC 20016 |
+| Diplomatic representation in the US: | telephone: [1] (202) 364-6781 |
+| Diplomatic representation in the US: | FAX: [1] (202) 364-6791 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | the US does not have an embassy in Dominica; the US Ambassador to Barbados is accredited to Dominica |
+| Flag description: | green with a centered cross of three equal bands - the vertical part is yellow (hoist side), black, and white and the horizontal part is yellow (top), black, and white; superimposed in the center of the cross is a red disk bearing a Sisserou parrot, unique to Dominica, encircled by 10 green, five-pointed stars edged in yellow; the 10 stars represent the 10 administrative divisions (parishes); green symbolizes the island's lush vegetation; the triple-colored cross represents the Christian Trinity; the yellow color denotes sunshine, the main agricultural products (citrus and bananas), and the native Carib Indians; black is for the rich soil and the African heritage of most citizens; white signifies rivers, waterfalls, and the purity of aspirations; the red disc stands for social justice |
+| National symbol(s): | Sisserou parrot, Carib Wood flower; national colors: green, yellow, black, white, red |
+| National anthem: | name: Isle of Beauty |
+| National anthem: | lyrics/music: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN |
+| National anthem: | note: adopted 1967 |

@@ -1,0 +1,103 @@
+| Government | Haiti |
+| --- | --- |
+| Country name: | conventional long form: Republic of Haiti |
+| Country name: | conventional short form: Haiti |
+| Country name: | local long form: Republique d'Haiti/Repiblik d Ayiti |
+| Country name: | local short form: Haiti/Ayiti |
+| Country name: | etymology: the native Taino name means "Land of High Mountains" and was originally applied to the entire island of Hispaniola |
+| Government type: | semi-presidential republic |
+| Capital: | name: Port-au-Prince |
+| Capital: | geographic coordinates: 18 32 N, 72 20 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in March; ends first Sunday in November |
+| Capital: | etymology: according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, "the Port of The Prince" |
+| Administrative divisions: | 10 departments (departements, singular - departement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est |
+| Independence: | 1 January 1804 (from France) |
+| National holiday: | Independence Day, 1 January (1804) |
+| Constitution: | history: many previous; latest adopted 10 March 1987 |
+| Constitution: | amendments: proposed by the executive branch or by either the Senate or the Chamber of Deputies; consideration of proposed amendments requires support by at least two-thirds majority of both houses; passage requires at least two-thirds majority of the membership present and at least two-thirds majority of the votes cast; approved amendments enter into force after installation of the next president of the republic; constitutional articles on the democratic and republican form of government cannot be amended; amended 2011, 2012 (2018) |
+| Legal system: | civil law system strongly influenced by Napoleonic Code |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a native-born citizen of Haiti |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Jovenel MOISE (since 7 February 2017) |
+| Executive branch: | head of government: Prime MinisterÂ Fritz William MICHELÂ (since 22Â July 2019); note - Prime Minister Jean Michel LAPIN resigned on 22 July 2019 |
+| Executive branch: | cabinet: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election originally scheduled for 9 October 2016 but postponed until 20 November 2016 due to Hurricane Matthew |
+| Executive branch: | election results: Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8% |
+| Legislative branch: | description: bicameral legislature or le Corps l'egislatif ou le Parlement consists of: |
+| Legislative branch: | le S'enat or Senate (30 seats, 29 filled as of June 2019; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years) |
+| Legislative branch: | la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next scheduled for 27 October 2019) |
+| Legislative branch: | Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next scheduled for 27 October 2019) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6% |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7% |
+| Judicial branch: | highest courts: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice |
+| Judicial branch: | judge selection and term of office: judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life |
+| Judicial branch: | subordinate courts: Courts of Appeal; Courts of First Instance; magistrate's courts;Â  land, labor, and children's courts |
+| Judicial branch: | note: the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government |
+| Political parties and leaders: | Alternative League for Haitian Progress and Empowerment or LAPEH [Jude CELESTIN] |
+| Political parties and leaders: | Christian Movement for a New Haiti or MCNH [Luc MESADIEU] |
+| Political parties and leaders: | Christian National Movement for the Reconstruction of Haiti or UNCRH [Chavannes JEUNE] |
+| Political parties and leaders: | Convention for Democratic Unity or KID [Evans PAUL] |
+| Political parties and leaders: | Cooperative Action to Rebuild Haiti or KONBA [Jean William JEANTY] |
+| Political parties and leaders: | December 16 Platform or Platfom 16 Desanm [Dr. Gerard BLOT] |
+| Political parties and leaders: | Democratic Alliance Party or ALYANS [Evans PAUL] (coalition includes KID and PPRH) |
+| Political parties and leaders: | Democratic Centers' National Council or CONACED [Osner FEVRY] |
+| Political parties and leaders: | Dessalinian Patriotic and Popular Movement or MOPOD [Jean Andre VICTOR] |
+| Political parties and leaders: | Effort and Solidarity to Create an Alternative for the People or ESKAMP [Joseph JASME] |
+| Political parties and leaders: | Fanmi Lavalas or FL [Jean-Bertrand ARISTIDE] |
+| Political parties and leaders: | For Us All or PONT [Jean-Marie CHERESTAL] |
+| Political parties and leaders: | Fusion of Haitian Social Democrats or FHSD [Edmonde Supplice BEAUZILE] |
+| Political parties and leaders: | Grouping of Citizens for Hope or RESPE [Charles-Henri BAKER] |
+| Political parties and leaders: | Haitians for Haiti [Yvon NEPTUNE] |
+| Political parties and leaders: | Haitian Tet Kale Party or PHTK [Ann Valerie Timothee MILFORT] |
+| Political parties and leaders: | Haiti in Action or AAA [Youri LATORTUE] |
+| Political parties and leaders: | Independent Movement for National Reconstruction or MIRN [Luc FLEURINORD] |
+| Political parties and leaders: | Konbit Pou refe Ayiti or KONBIT |
+| Political parties and leaders: | Lavni Organization or LAVNI [Yves CRISTALIN] |
+| Political parties and leaders: | Liberal Party of Haiti or PLH [Jean Andre VICTOR] |
+| Political parties and leaders: | Love Haiti or Renmen Ayiti [Jean-Henry CEANT, Camille LEBLANC] |
+| Political parties and leaders: | Mobilization for National Development or MDN [Hubert de RONCERAY] |
+| Political parties and leaders: | New Christian Movement for a New Haiti or MOCHRENA [Luc MESADIEU] |
+| Political parties and leaders: | Organization for the Advancement of Haiti and Haitians or OLAHH |
+| Political parties and leaders: | Party for the Integral Advancement of the Haitian People or PAIPH |
+| Political parties and leaders: | Patriotic Unity or IP [Marie Denise CLAUDE] |
+| Political parties and leaders: | Peasant's Response or Repons Peyizan [Michel MARTELLY] |
+| Political parties and leaders: | Platform Alternative for Progress and Democracy or ALTENATIV [Victor BENOIT and Evans PAUL] |
+| Political parties and leaders: | Platform of Haitian Patriots or PLAPH [Dejean BELISAIRE, Himmler REBU] |
+| Political parties and leaders: | Platform Pitit Desaline or PPD [Jean-Charles MOISE] |
+| Political parties and leaders: | Pont |
+| Political parties and leaders: | Popular Party for the Renewal of Haiti or PPRH [Claude ROMAIN] |
+| Political parties and leaders: | PPG18 |
+| Political parties and leaders: | Rally of Progressive National Democrats or RDNP [Mirlande MANIGAT] |
+| Political parties and leaders: | Renmen Ayiti or RA [Jean-Henry CEANT] |
+| Political parties and leaders: | Reseau National Bouclier or Bouclier |
+| Political parties and leaders: | Respect or RESPE |
+| Political parties and leaders: | Strength in Unity or Ansanm Nou Fo [Leslie VOLTAIRE] |
+| Political parties and leaders: | Struggling People's Organization or OPL [Jacques-Edouard ALEXIS] |
+| Political parties and leaders: | Truth (Verite) |
+| Political parties and leaders: | Union [Chavannes JEUNE] |
+| Political parties and leaders: | Unity or Inite [Levaillant LOUIS-JEUNE] |
+| Political parties and leaders: | Vigilance or Veye Yo [Lavarice GAUDIN] |
+| International organization participation: | ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, MIGA, NAM, OAS, OIF, OPANAL, OPCW, PCA, Petrocaribe, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Paul Getty ALTIDOR (since 2 May 2012) |
+| Diplomatic representation in the US: | chancery: 2311 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-4090 |
+| Diplomatic representation in the US: | FAX: [1] (202) 745-7215 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michele SISON (since 21 February 2018) |
+| Diplomatic representation from the US: | telephone: [509] 229-8000 |
+| Diplomatic representation from the US: | embassy: Tabarre 41, Route de Tabarre, Port-au-Prince |
+| Diplomatic representation from the US: | mailing address: (in Haiti) P.O. Box 1634, Port-au-Prince, Haiti; (from abroad) 3400 Port-au-Prince, State Department, Washington, DC 20521-3400 |
+| Diplomatic representation from the US: | FAX: [509] 229-8028 |
+| Flag description: | two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes |
+| National symbol(s): | Hispaniolan trogon (bird), hibiscus flower; national colors: blue, red |
+| National anthem: | name: "La Dessalinienne" (The Dessalines Song) |
+| National anthem: | lyrics/music: Justin LHERISSON/Nicolas GEFFRARD |
+| National anthem: | note: adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of an independent Haiti |

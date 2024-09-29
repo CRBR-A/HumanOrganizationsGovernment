@@ -1,0 +1,64 @@
+| Government | NORWAY |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Norway |
+| Country name: | conventional short form: Norway |
+| Country name: | local long form: Kongeriket Norge |
+| Country name: | local short form: Norge |
+| Country name: | etymology: derives from the Old Norse words "nordr" and "vegr" meaning "northern way" and refers to the long coastline of western Norway |
+| Government type: | parliamentary constitutional monarchy |
+| Capital: | name: Oslo |
+| Capital: | geographic coordinates: 59 55 N, 10 45 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 19 counties (fylker, singular - fylke); Akershus, Aust-Agder, Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland, Nord-Trondelag, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane, Sor-Trondelag, Telemark, Troms, Vest-Agder, Vestfold |
+| Dependent areas: | Bouvet Island, Jan Mayen, Svalbard |
+| Independence: | 7 June 1905 (Norway declared the union with Sweden dissolved); 26 October 1905 (Sweden agreed to the repeal of the union) |
+| National holiday: | Constitution Day, 17 May (1814) |
+| Constitution: | history: drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814 |
+| Constitution: | amendments: proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2015 |
+| Legal system: | mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Norway |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 7 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS, son of the monarch (born 20 July 1973) |
+| Executive branch: | head of government: Prime Minister Erna SOLBERG (since 16 October 2013) |
+| Executive branch: | cabinet: State Council appointed by the monarch, approved by Parliament |
+| Executive branch: | elections/appointments: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament |
+| Legislative branch: | description: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 9 September 2013 (next to be held in September 2017) |
+| Legislative branch: | election results: percent of vote by party - Center-Right Coalition 54.0% (H 26.3%, FrP 16.3%, KrF 5.6%, V 5.2%), Red-Green Coalition 40.6% (Ap 30.8%, SP 5.5%, SV 4.1%), MDG 2.8, other 2.7%; seats by party - Center-Right Coalition 96 (H 48, FrP 29, KrF 10, V 9), Red-Green Coalition 72 (Ap 55, Sp 10, SV 7), MDG 1 |
+| Judicial branch: | highest court(s): Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices) |
+| Judicial branch: | judge selection and term of office: justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justice retirement mandatory at age 70 |
+| Judicial branch: | subordinate courts: Courts of Appeal or Lagmensrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts |
+| Political parties and leaders: | Center Party or Sp [Trygve Slagsvold VEDUM] |
+| Political parties and leaders: | Center-Right Coalition (includes FrP, H, KrF, V) |
+| Political parties and leaders: | Christian Democratic Party or KrF [Knut Arild HAREIDE] |
+| Political parties and leaders: | Conservative Party or H [Erna SOLBERG] |
+| Political parties and leaders: | Green Party or MDG [Rasmus HANSSON and Hilde OPOKU] |
+| Political parties and leaders: | Labor Party or Ap [Jonas Gahr STORE] |
+| Political parties and leaders: | Liberal Party or V [Trine SKEI GRANDE] |
+| Political parties and leaders: | Progress Party or FrP [Siv JENSEN] |
+| Political parties and leaders: | Red-Green Coalition (includes Ap, Sp, SV) |
+| Political parties and leaders: | Socialist Left Party or SV [Audun LYSBAKKEN] |
+| Political pressure groups and leaders: | Confederation of Norwegian Enterprise (Naeringslivets Hovedorganisasjon) or NHO [President Tore ULSTEIN; CEO Kristin SKOGEN LUND] |
+| Political pressure groups and leaders: | Norwegian Confederation of Trade Unions (Landsorganisasjonen i Norge) or LO [Gerd KRISTIANSEN] |
+| Political pressure groups and leaders: | other: environmental groups; media; digital privacy movements |
+| International organization participation: | ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Kare Reidar AAS (since 22 August 2013) |
+| Diplomatic representation in the US: | chancery: 2720 34th Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 333-6000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 459-3990 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Samuel HEINS (since 10 March 2016) |
+| Diplomatic representation from the US: | embassy: Henrik Ibsens gate 48, 0244 Oslo; note - the embassy will move to Huseby in the near future |
+| Diplomatic representation from the US: | mailing address: PSC 69, Box 1000, APO AE 09707 |
+| Diplomatic representation from the US: | telephone: [47] 21-30-85-40 |
+| Diplomatic representation from the US: | FAX: [47] 22-44-33-63, 22-56-27-51 |
+| Flag description: | red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue) |
+| National symbol(s): | lion; national colors: red, white, blue |
+| National anthem: | name: "Ja, vi elsker dette landet" (Yes, We Love This Country) |
+| National anthem: | lyrics/music: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK |
+| National anthem: | note: adopted 1864; in addition to the national anthem, "Kongesangen" (Song of the King), which uses the tune of "God Save the Queen," serves as the royal anthem |

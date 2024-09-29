@@ -1,0 +1,95 @@
+| Government | Brazil |
+| --- | --- |
+| Country name: | conventional long form: Federative Republic of Brazil |
+| Country name: | conventional short form: Brazil |
+| Country name: | local long form: Republica Federativa do Brasil |
+| Country name: | local short form: Brasil |
+| Country name: | etymology: the country name derives from the brazilwood tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye |
+| Government type: | federal presidential republic |
+| Capital: | name: Brasilia |
+| Capital: | geographic coordinates: 15 47 S, 47 55 W |
+| Capital: | time difference: UTC-3 (2 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins third Sunday in October; ends third Sunday in February |
+| Capital: | note: Brazil has four time zones, including one for the Fernando de Noronha Islands |
+| Administrative divisions: | 26 states (estados, singular - estado) and 1 federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas, Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins |
+| Independence: | 7 September 1822 (from Portugal) |
+| National holiday: | Independence Day, 7 September (1822) |
+| Constitution: | history: several previous; latest ratified 5 October 1988 (2018) |
+| Constitution: | amendments: proposed by at least one-third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of 2 readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2017 (2018) |
+| Legal system: | civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 4 years |
+| Suffrage: | voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote |
+| Judicial branch: | highest courts: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices) |
+| Judicial branch: | judge selection and term of office: justices appointed by the president and approved by the Federal Senate; justices appointed to serve until mandatory retirement at age 75 |
+| Judicial branch: | subordinate courts: Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system |
+| Executive branch: | chief of state: President Michel Miguel Elias TEMER Lulia (since 31 August 2016); Vice President (vacant); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Michel Miguel Elias TEMER Lulia (since 31 August 2016); Vice President (vacant) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 4-year term (eligible for a second term); election last held on 7 October 2018 with runoff on 28 October 2018 (next to be held in October 2022) |
+| Executive branch: | election results: Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%; note - BOLSONARO will take office 1 January 2019 |
+| Executive branch: | note: on 12 May 2016, Brazil's Senate voted to hold an impeachment trial of President Dilma ROUSSEFF, who was then suspended from her executive duties; Vice President Michel TEMER took over as acting president; on 31 August 2016 the Senate voted 61-20 in favor of conviction and her removal from office; TEMER is serving as president for the remainder of ROUSSEFF's term, which ends 1 January 2019 |
+| Legislative branch: | description: bicameral National Congress or Congresso Nacional consists of: |
+| Legislative branch: | Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years) |
+| Legislative branch: | Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held in October 2022 for one-third of the Senate) |
+| Legislative branch: | Chamber of Deputies - last held on 7 October 2018 (next to be held in October 2022) |
+| Legislative branch: | election results: |
+| Legislative branch: | Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1 Â Â Â  |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1 |
+| Political parties and leaders: | Avante [Luis TIBE] (formerly Labor Party of Brazil or PTdoB)Â  |
+| Political parties and leaders: | Brazilian Communist Party or PCB [Ivan Martins PINHEIRO] |
+| Political parties and leaders: | Brazilian Democratic Movement Party or PMDB [Michel TEMER] |
+| Political parties and leaders: | Brazilian Labor Party or PTB [Cristiane BRASIL] |
+| Political parties and leaders: | Brazilian Renewal Labor Party or PRTB [Jose Levy FIDELIX da Cruz] |
+| Political parties and leaders: | Brazilian Republican Party or PRB [Marcos Antonio PEREIRA] |
+| Political parties and leaders: | Brazilian Social Democracy Party or PSDB [Aecio NEVES] |
+| Political parties and leaders: | Brazilian Socialist Party or PSB [Carlos Roberto SIQUEIRA de Barros] |
+| Political parties and leaders: | Christian Democracy or DC [Jose Maria EYMAEL] (formerly Christian Social Democratic Party or PSDC) |
+| Political parties and leaders: | Christian Labor Party or PTC [Daniel TOURINHO] |
+| Political parties and leaders: | Communist Party of Brazil or PCdoB [Jose Renato RABELO] |
+| Political parties and leaders: | Democratic Labor Party or PDT [Carlos Roberto LUPI] |
+| Political parties and leaders: | The Democrats or DEM [Jose AGRIPINO] (formerly Liberal Front Party or PFL) |
+| Political parties and leaders: | Free Homeland Party or PPL [Sergio RUBENS] |
+| Political parties and leaders: | Green Party or PV [Jose Luiz PENNA] |
+| Political parties and leaders: | Humanist Party of Solidarity or PHS [Eduardo MACHADO] |
+| Political parties and leaders: | National Mobilization Party or PMN [Telma RIBEIRO dos Santos] |
+| Political parties and leaders: | New Party or NOVO [Moises JARDIM] |
+| Political parties and leaders: | Party of the Republic or PR [Alfredo NASCIMENTO] |
+| Political parties and leaders: | Patriota [Adilson BARROSO Oliveira] (formerly National Ecologic Party or PEN) |
+| Political parties and leaders: | Podemos [Renata ABREU] (formerly National Labor Party or PTN)Â  |
+| Political parties and leaders: | Popular Socialist Party or PPS [Roberto Joao Pereira FREIRE] |
+| Political parties and leaders: | Progressive Party or PP [Ciro NOGUEIRA] |
+| Political parties and leaders: | Progressive Republican Party or PRP [Ovasco Roma Altimari RESENDE] |
+| Political parties and leaders: | Republican Social Order Party or PROS [Euripedes JUNIOR] |
+| Political parties and leaders: | Social Christian Party or PSC [Vitor Jorge Abdala NOSSEIS] |
+| Political parties and leaders: | Social Democratic Party or PSD [Guilherme CAMPOS] |
+| Political parties and leaders: | Social Liberal Party or PSL [Luciano Caldas BIVAR] |
+| Political parties and leaders: | Socialism and Freedom Party or PSOL [Luiz ARAUJO] |
+| Political parties and leaders: | Solidarity or SD [Paulo PEREIRA DA SILVA] |
+| Political parties and leaders: | Sustainability Network or REDE [Marina SILVA] |
+| Political parties and leaders: | United Socialist Workers' Party or PSTU [Jose Maria DE ALMEIDA] |
+| Political parties and leaders: | Workers' Cause Party or PCO [Rui Costa PIMENTA] |
+| Political parties and leaders: | Workers' Party or PT [Rui FALCAO] |
+| International organization participation: | AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sergio Silva do AMARAL (since 16 September 2016) |
+| Diplomatic representation in the US: | chancery: 3006 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-2700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 238-2827 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, San Francisco, Washington, DC |
+| Diplomatic representation from the US: | chief of mission: Ambassador Michael MCKINLEY (since 19 December 2016) |
+| Diplomatic representation from the US: | embassy: Avenida das Nacoes, Quadra 801, Lote 3, Distrito Federal Cep 70403-900, Brasilia |
+| Diplomatic representation from the US: | mailing address: Unit 7500, DPO, AA 34030 |
+| Diplomatic representation from the US: | telephone: [55] (61) 3312-7000 |
+| Diplomatic representation from the US: | FAX: [55] (61) 3225-9136 |
+| Diplomatic representation from the US: | consulate(s) general: Recife, Rio de Janeiro, Sao Paulo |
+| Flag description: | green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth (the diamond shape roughly mirrors that of the country); the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District) |
+| Flag description: | note: one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Eritrea, and Vanuatu |
+| National symbol(s): | Southern Cross constellation; national colors: green, yellow, blue |
+| National anthem: | name: "Hino Nacional Brasileiro" (Brazilian National Anthem) |
+| National anthem: | lyrics/music: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA |
+| National anthem: | note: music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted |

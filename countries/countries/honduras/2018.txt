@@ -1,0 +1,53 @@
+| Government | Honduras |
+| --- | --- |
+| Country name: | conventional long form: Republic of Honduras |
+| Country name: | conventional short form: Honduras |
+| Country name: | local long form: Republica de Honduras |
+| Country name: | local short form: Honduras |
+| Country name: | etymology: the name means "depths" in Spanish and refers to the deep anchorage in the northern Bay of Trujillo |
+| Government type: | presidential republic |
+| Capital: | name: Tegucigalpa |
+| Capital: | geographic coordinates: 14 06 N, 87 13 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC during Standard Time) |
+| Administrative divisions: | 18 departments (departamentos, singular - departamento); Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | history: several previous; latest approved 11 January 1982, effective 20 January 1982 (2018) |
+| Constitution: | amendments: proposed by the National Congress with at least two-thirds majority vote of the membership; passage requires at least two-thirds majority vote of Congress in its next annual session; constitutional articles such as the form of government, national sovereignty, the presidential term, and the procedure for amending the constitution cannot be amended; amended many times, last in 2015; note - the 2015 amendment struck down several constitutional articles on presidential term limits (2018) |
+| Legal system: | civil law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 1 to 3 years |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Judicial branch: | highest courts: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges - including the court president - and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction |
+| Judicial branch: | judge selection and term of office: court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials, and other government and non-government officials selected by each of their organizations; judges elected by Congress for renewable, 7-year terms |
+| Judicial branch: | subordinate courts: courts of appeal; courts of first instance; peace courts |
+| Executive branch: | chief of state: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Rossana GUEVARA, and Lorena HERRERA (since 27 January 2014) |
+| Executive branch: | cabinet: Cabinet appointed by president |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 4-year term; election last held on 26 November 2017 (next to be held in November 2021); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits |
+| Executive branch: | election results: Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza Opositora) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other .9% |
+| Legislative branch: | description: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in multi-seat constituencies by closed, pary-list proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 27 November 2017 (next to be held on 28 November 2021) |
+| Legislative branch: | election results: percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1 |
+| Political parties and leaders: | Alliance against the Dictatorship or Alianza Opositora [Salvador NASRALLA] (electoral coalition) Anti-Corruption Party or PAC [Marlene ALVARENGA] Christian Democratic Party or DC [Felicito AVILA Ordonez] Democratic Unification Party or UD [Cesar HAM] Freedom and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales] Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] Liberal Party or PL [Luis Orlando ZELAYA Medrano] National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] Innovation and Unity Party or PINU [Guillermo VALLE] |
+| International organization participation: | BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marlon Ramsses TABORA Munoz (since 24 April 2017) |
+| Diplomatic representation in the US: | chancery: Suite 4-M, 3007 Tilden Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 966-2604 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-9751 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco |
+| Diplomatic representation in the US: | consulate(s): Dallas, McAllen (TX) |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Heide B. FULTON (since June 2017) |
+| Diplomatic representation from the US: | embassy: Avenida La Paz, Apartado Postal No. 3453, Tegucigalpa |
+| Diplomatic representation from the US: | mailing address: American Embassy, APO AA 34022, Tegucigalpa |
+| Diplomatic representation from the US: | telephone: [504] 2236-9320, 2238-5114 |
+| Diplomatic representation from the US: | FAX: [504] 2236-9037 |
+| Flag description: | three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people |
+| Flag description: | note: similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band |
+| National symbol(s): | scarlet macaw, white-tailed deer; national colors: blue, white |
+| National anthem: | name: "Himno Nacional de Honduras" (National Anthem of Honduras) |
+| National anthem: | lyrics/music: Augusto Constancio COELLO/Carlos HARTLING |
+| National anthem: | note: adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung |

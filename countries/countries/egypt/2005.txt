@@ -1,0 +1,39 @@
+| Government | Egypt |
+| --- | --- |
+| Country name: | conventional long form: Arab Republic of Egypt |
+| Country name: | conventional short form: Egypt |
+| Country name: | local long form: Jumhuriyat Misr al-Arabiyah |
+| Country name: | local short form: Misr |
+| Country name: | former: United Arab Republic (with Syria) |
+| Government type: | republic |
+| Capital: | Cairo |
+| Administrative divisions: | 26 governorates (muhafazat, singular - muhafazah); Ad Daqahliyah, Al Bahr al Ahmar, Al Buhayrah, Al Fayyum, Al Gharbiyah, Al Iskandariyah, Al Isma'iliyah, Al Jizah, Al Minufiyah, Al Minya, Al Qahirah, Al Qalyubiyah, Al Wadi al Jadid, Ash Sharqiyah, As Suways, Aswan, Asyut, Bani Suwayf, Bur Sa'id, Dumyat, Janub Sina', Kafr ash Shaykh, Matruh, Qina, Shamal Sina', Suhaj |
+| Independence: | 28 February 1922 (from UK) |
+| National holiday: | Revolution Day, 23 July (1952) |
+| Constitution: | 11 September 1971; amended 22 May 1980 |
+| Legal system: | based on English common law, Islamic law, and Napoleonic codes; judicial review by Supreme Court and Council of State (oversees validity of administrative decisions); accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Mohammed Hosni MUBARAK (since 14 October 1981) |
+| Executive branch: | head of government: Prime Minister Ahmed NAZIF (since 9 July 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president elected by popular vote for six-year term; note - a national referendum in May 2005 approved a constitutional amendment that changed the presidential election to a multicandidate popular vote; previously the president was nominated by the People's Assembly and the nomination was validated by a national, popular referendum; last referendum held 26 September 1999; first election under terms of constitutional amendment held 7 September 2005; next election scheduled for 2011 |
+| Executive branch: | election results: Hosni MUBARAK reelected president; percent of vote - Hosni MUBARAK 88.6%, Ayman NOUR 7.6%, Noman GOMAA 2.9% |
+| Legislative branch: | bicameral system consists of the People's Assembly or Majlis al-Sha'b (454 seats; 444 elected by popular vote, 10 appointed by the president; members serve five-year terms) and the Advisory Council or Majlis al-Shura - which functions only in a consultative role (264 seats; 176 elected by popular vote, 88 appointed by the president; members serve six-year terms; mid-term elections for half the members) |
+| Legislative branch: | elections: People's Assembly - three-phase voting - last held 19 October, 29 October, 8 November 2000 (next to be held October-November 2005); Advisory Council - last held May-June 2004 (next to be held May-June 2007) |
+| Legislative branch: | election results: People's Assembly - percent of vote by party - NA; seats by party - NDP 388, Tagammu 6, NWP 7, Nasserists 3, Al-Ahrar 1, independents 37 (2 seats determined by a later byelection, 10 seats appointed by President); Advisory Council - percent of vote by party - NA; seats by party - NA |
+| Judicial branch: | Supreme Constitutional Court |
+| Political parties and leaders: | Al-Ahrar Party [Helmi SALEM]; Nasserist Arab Democratic Party or Nasserists [Dia' al-din DAWUD]; National Democratic Party or NDP [Mohammed Hosni MUBARAK (governing party)]; National Progressive Unionist Grouping or Tagammu [Rifaat EL-SAID]; New Wafd Party or NWP [No'man GOMAA] |
+| Political parties and leaders: | note: formation of political parties must be approved by the government |
+| Political pressure groups and leaders: | despite a constitutional ban against religious-based parties, the technically illegal Muslim Brotherhood constitutes MUBARAK's potentially most significant political opposition; MUBARAK tolerated limited political activity by the Brotherhood for his first two terms, but moved more aggressively since then to block its influence; civic society groups are sanctioned, but constrained in practical terms; trade unions and professional associations are officially sanctioned |
+| International organization participation: | ABEDA, ACCT, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, EBRD, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITU, LAS, MIGA, MINURSO, MONUC, NAM, OAPEC, OAS (observer), OIC, ONUB, OSCE (partner), PCA, UN, UNAMSIL, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMIK, UNMIL, UNOMIG, UNRWA, UPU, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador M. Nabil FAHMY |
+| Diplomatic representation in the US: | chancery: 3521 International Court NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 895-5400 |
+| Diplomatic representation in the US: | FAX: [1] (202) 244-4319 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, New York, and San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador designate Francis J. RICCIARDONE, Jr |
+| Diplomatic representation from the US: | embassy: 8 Kamal El Din Salah St., Garden City, Cairo |
+| Diplomatic representation from the US: | mailing address: Unit 64900, Box 15, APO AE 09839-4900 |
+| Diplomatic representation from the US: | telephone: [20] (2) 797-3300 |
+| Diplomatic representation from the US: | FAX: [20] (2) 797-3200 |
+| Flag description: | three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; design is based on the Arab Liberation flag and similar to the flag of Syria, which has two green stars, Iraq, which has three green stars (plus an Arabic inscription) in a horizontal line centered in the white band, and Yemen, which has a plain white band |

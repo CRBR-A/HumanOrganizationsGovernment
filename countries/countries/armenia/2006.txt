@@ -1,0 +1,41 @@
+| Government | Armenia |
+| --- | --- |
+| Country name: | conventional long form: Republic of Armenia |
+| Country name: | conventional short form: Armenia |
+| Country name: | local long form: Hayastani Hanrapetut'yun |
+| Country name: | local short form: Hayastan |
+| Country name: | former: Armenian Soviet Socialist Republic; Armenian Republic |
+| Government type: | republic |
+| Capital: | name: Yerevan |
+| Capital: | geographic coordinates: 40 11 N, 44 30 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan |
+| Independence: | 21 September 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 21 September (1991) |
+| Constitution: | adopted by nationwide referendum 5 July 1995; amendments adopted through a nationwide referendum 27 November 2005 |
+| Legal system: | based on civil law system |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Robert KOCHARIAN (since 30 March 1998) |
+| Executive branch: | head of government: Prime Minister Andranik MARGARYAN (since 12 May 2000) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 19 February and 5 March 2003 (next to be held in 2008); prime minister appointed by the president and confirmed with the majority support of the National Assembly; the prime minister and Council of Ministers must resign if the National Assembly refuses to accept their program |
+| Executive branch: | election results: Robert KOCHARIAN reelected president; percent of vote - Robert KOCHARIAN 67.5%, Stepan DEMIRCHYAN 32.5% |
+| Legislative branch: | unicameral National Assembly (Parliament) or Azgayin Zhoghov (131 seats; members elected by popular vote to serve four-year terms; 90 members elected by party list, 41 by direct vote) |
+| Legislative branch: | elections: last held 25 May 2003 (next to be held in the spring of 2007) |
+| Legislative branch: | election results: percent of vote by party - Republican Party 23.5%, Justice Bloc 13.6%, Rule of Law 12.3%, ARF (Dashnak) 11.4%, National Unity Party 8.8%, United Labor Party 5.7%; seats by faction - Republican Party 39, Rule of Law 20, Justice Bloc 14, ARF (Dashnak) 11, National Unity 7, United Labor 6, People's Deputy Group 16, independent (not in faction or group) 18; note - as of 10 March 2006; voting blocs in the legislature are more properly termed factions and can be composed of members of several parties; seats by faction change frequently as deputies switch parties or announce themselves independent |
+| Judicial branch: | Constitutional Court; Court of Cassation (Appeals Court) |
+| Political parties and leaders: | Agro-Industrial Party [Vladimir BADALYAN]; Armenia Party [Myasnik MALKHASYAN]; Armenian National Movement or ANM [Alex ARZUMANYAN, chairman]; Armenian Ramkavar Liberal Party or HRAK [Harutyun MIRZAKHANYAN, chairman]; Armenian Revolutionary Federation ("Dashnak" Party) or ARF [Levon MKRTCHYAN]; Democratic Party [Aram SARKISYAN]; Justice Bloc (comprised of the Democratic Party, National Democratic Party, National Democratic Union, the People's Party, and the Republic Party) [Stepan DEMIRCHYAN]; National Democratic Party [Shavarsh KOCHARIAN]; National Democratic Union or NDU [Vazgen MANUKIAN]; National Revival Party [Albert BAZEYAN]; National Unity Party [Artashes GEGHAMYAN, chairman]; People's Party of Armenia [Stepan DEMIRCHYAN]; Republic Party [Aram SARKISYAN, chairman]; Republican Party or RPA [Andranik MARGARYAN]; Rule of Law Party [Samvel BALASANYAN]; Union of Constitutional Rights [Hrant KHACHATURYAN]; United Labor Party [Gurgen ARSENYAN] |
+| Political pressure groups and leaders: | Yerkrapah Union [Manvel GRIGORIAN] |
+| International organization participation: | ACCT (observer), AsDB, BSEC, CE, CIS, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NAM (observer), OAS (observer), OIF (observer), OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Tatoul MARKARIAN |
+| Diplomatic representation in the US: | chancery: 2225 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 319-1976 |
+| Diplomatic representation in the US: | FAX: [1] (202) 319-2982 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Anthony F. GODFREY |
+| Diplomatic representation from the US: | embassy: 1 American Ave., Yerevan 375082 |
+| Diplomatic representation from the US: | mailing address: American Embassy Yerevan, US Department of State, 7020 Yerevan Place, Washington, DC 20521-7020 |
+| Diplomatic representation from the US: | telephone: [374](10) 464-700 |
+| Diplomatic representation from the US: | FAX: [374](10) 464-742 |
+| Flag description: | three equal horizontal bands of red (top), blue, and orange |

@@ -1,0 +1,66 @@
+| Government | SUDAN |
+| --- | --- |
+| Country name: | conventional long form: Republic of the Sudan |
+| Country name: | conventional short form: Sudan |
+| Country name: | local long form: Jumhuriyat as-Sudan |
+| Country name: | local short form: As-Sudan |
+| Country name: | former: Anglo-Egyptian Sudan |
+| Country name: | etymology: the name "Sudan" derives from the Arabic "bilad-as-sudan" meaning "Land of the Black [peoples]" |
+| Government type: | presidential republic |
+| Capital: | name: Khartoum |
+| Capital: | geographic coordinates: 15 36 N, 32 32 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile |
+| Independence: | 1 January 1956 (from Egypt and the UK) |
+| National holiday: | Independence Day, 1 January (1956) |
+| Constitution: | history: previous 1998; latest adopted 6 July 2005, effective 9 July 2005 (interim constitution) |
+| Constitution: | amendments: proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least two months prior to consideration, approval by at least three-quarters majority vote in both houses of the Legislature, and assent by the president; amended 2015 (2017) |
+| Legal system: | mixed legal system of Islamic law and English common law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; withdrew acceptance of ICCt jurisdiction in 2008 |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Sudan |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 17 years of age; universal |
+| Executive branch: | chief of state: President Umar Hassan Ahmad al-BASHIR (since 16 October 1993); First Vice President BAKRI Hassan Salih (since 3 December 2013) and prime minister (since 2 March 2017); Second Vice President Hasabu Mohamed ABDEL RAHMIN (since 3 December 2013); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Umar Hassan Ahmad al-BASHIR (since 16 October 1993); First Vice President BAKRI Hassan Salih (since 3 December 2013) and prime minister (since 2 March 2017); Second Vice President Hasabu Mohamed ABDEL RAHMIN (since 3 December 2013) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president; note - the NCP dominates al-BASHIR's cabinet |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed; last held on 13-16 April 2015 (next to be held in 2020); prime minister appointed by the president; note - the position of prime minister was reinstated in December 2016 as a result of the 2015-16 national dialogue process, and President al-BASHIR appointed BAKRI Hassan Salih to the position on 2 March 2017 |
+| Executive branch: | election results: Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9% |
+| Legislative branch: | description: bicameral National Legislature consists of the Council of States or Majlis al-Wilayat (50 seats; members indirectly elected - 2 each by the 25 state legislatures to serve 6-year terms) and the National Assembly or Majlis Watani (426 seats; 213 members directly elected in single-seat constituencies by simple majority vote, 128 for women only directly elected by proportional representation vote, and 85 directly elected by proportional representation vote; members serve 6-year terms) |
+| Legislative branch: | elections: last held on 13-15 April 2015 (next to be held in 2021) |
+| Legislative branch: | election results: National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19 |
+| Judicial branch: | highest court(s): National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary |
+| Judicial branch: | judge selection and term of office: National Supreme Court and Constitutional Court judges appointed by the president of the republic upon the recommendation of the National Judicial Service Commission, an independent body chaired by the chief justice of the republic and members including other judges and judicial and legal officials; Supreme Court judge tenure NA; Constitutional Court judges appointed for 7 years |
+| Judicial branch: | subordinate courts: Court of Appeal; other national courts; public courts; district, town, and rural courts |
+| Political parties and leaders: | Democratic Unionist Party or DUP [Jalal al-DIGAIR] |
+| Political parties and leaders: | Democratic Unionist Party [Muhammad Uthman al-MIRGHANI] |
+| Political parties and leaders: | Federal Umma Party [Dr. Ahmed Babikir NAHAR] |
+| Political parties and leaders: | Muslim Brotherhood or MB |
+| Political parties and leaders: | National Congress Party or NCP [Umar Hassan al-BASHIR] |
+| Political parties and leaders: | National Umma Party or NUP [Saddiq al-MAHDI] |
+| Political parties and leaders: | Popular Congress Party or PCP [Hassan al-TURABI] |
+| Political parties and leaders: | Reform Movement Now [Dr. Ghazi Salahuddin al-ATABANI] |
+| Political parties and leaders: | Sudan National Front [Ali Mahmud HASANAYN] |
+| Political parties and leaders: | Sudanese Communist Party or SCP [Mohammed Moktar Al-KHATEEB] |
+| Political parties and leaders: | Sudanese Congress Party or SCoP [Ibrahim Al-SHEIKH] |
+| Political parties and leaders: | Umma Party for Reform and Development |
+| Political parties and leaders: | Unionist Movement Party or UMP |
+| Political pressure groups and leaders: | Darfur rebel groups including the Justice and Equality Movement or JEM [Gibril Fidail IBRAHIM], Sudan Liberation Movement or SLM-AW [Abdel Wahid al-NUR, various factional leaders], Sudan Liberation Movement or SLM-MM [Minni Arkou MINAWI] |
+| Political pressure groups and leaders: | National Consensus Front or NCF [Farouq ABU ISSA] |
+| Political pressure groups and leaders: | Sudan People's Liberation Movement-North or SPLM-N [Yasir ARMAN] |
+| International organization participation: | ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires MAOWIA Osman Khalid Mohammed (since 31 January 2014) |
+| Diplomatic representation in the US: | chancery: 2210 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 338-8565 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-2406 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Steven KOUTSIS (since July 2016) |
+| Diplomatic representation from the US: | embassy: Sharia Ali Abdul Latif Street, Khartoum |
+| Diplomatic representation from the US: | mailing address: P.O. Box 699, Kilo 10, Soba, Khartoum; APO AE 09829 |
+| Diplomatic representation from the US: | telephone: [249] (187)-0-(22000) |
+| Diplomatic representation from the US: | FAX: [249] (183) 774-137 |
+| Flag description: | three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity |
+| National symbol(s): | secretary bird; national colors: red, white, black, green |
+| National anthem: | name: "Nahnu Djundulla Djundulwatan" (We Are the Army of God and of Our Land) |
+| National anthem: | lyrics/music: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN |
+| National anthem: | note: adopted 1956; originally served as the anthem of the Sudanese military |

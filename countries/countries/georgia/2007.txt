@@ -1,0 +1,43 @@
+| Government | Georgia |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Georgia |
+| Country name: | local long form: none |
+| Country name: | local short form: Sak'art'velo |
+| Country name: | former: Georgian Soviet Socialist Republic |
+| Government type: | republic |
+| Capital: | name: T'bilisi |
+| Capital: | geographic coordinates: 41 43 N, 44 47 E |
+| Capital: | time difference: UTC+4 (9 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 9 regions (mkharebi, singular - mkhare), 1 city (k'alak'i), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika) |
+| Administrative divisions: | regions: Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta-Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli |
+| Administrative divisions: | city: Tbilisi |
+| Administrative divisions: | autonomous republics: Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi) |
+| Administrative divisions: | note: the administrative centers of the two autonomous republics are shown in parentheses |
+| Independence: | 9 April 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 26 May (1918); note - 26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union |
+| Constitution: | adopted 24 August 1995 |
+| Legal system: | based on civil law system; accepts compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Acting President Nino BURJANADZE (since 25 November 2007); note - Mikheil SAAKASHVILI, who had been president since 25 January 2004, resigned the presidency on 25 November 2007 in order to become a candidate in early presidential elections to be held 5 January 2008; the president is both the chief of state and head of government for the power ministries: state security (includes interior) and defense |
+| Executive branch: | head of government: Acting President Nino BURJANADZE (since 25 November 2007); Prime Minister Lado GURGENIDZE (since 19 November 2007); note - Mikheil SAAKASHVILI, who had been president since 25 January 2004, resigned the presidency on 25 November 2007 in order to become a candidate in early presidential elections to be held 5 January 2008; the president is both the chief of state and head of government for the power ministries: state security (includes interior) and defense |
+| Executive branch: | cabinet: Cabinet of Ministers |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 4 January 2004 (next to be held 5 January 2008) |
+| Executive branch: | election results: Mikheil SAAKASHVILI elected president; percent of vote - Mikheil SAAKASHVILI 96.3%, Temur SHASHIASHVILI 1.9% |
+| Legislative branch: | unicameral Supreme Council (commonly referred to as Parliament) or Umaghlesi Sabcho (235 seats; 150 members elected by proportional representation, 75 from single-seat constituencies, and 10 represent displaced persons from Abkhazia; to serve five-year terms) |
+| Legislative branch: | elections: last held 28 March 2004 (next to be held in spring 2008) |
+| Legislative branch: | election results: percent of vote by party - National Movement-Democratic Front 67.6%, Rightist Opposition 7.6%, other parties 24.8%; seats by party - National Movement-Democratic Front 135, Rightist Opposition 15 |
+| Judicial branch: | Supreme Court (judges elected by the Supreme Council on the president's or chairman of the Supreme Court's recommendation); Constitutional Court; first and second instance courts |
+| Political parties and leaders: | Burjanadze-Democrats [Nino BURJANADZE]; Georgian People's Front [Nodar NATADZE]; Georgian United Communist Party or UCPG [Panteleimon GIORGADZE]; Georgia's Way Party [Salome ZOURABICHVILI]; Greens [Giorgi GACHECHILADZE]; Industry Will Save Georgia (Industrialists) or IWSG [Georgi TOPADZE]; Labor Party [Shalva NATELASHVILI]; National Democratic Party or NDP [Bachuki KARDAVA]; National Movement Democratic Front [Mikheil SAAKASHVILI] (bloc composed of National Movement and Burjanadze-Democrats); National Movement [Mikheil SAAKASHVILI]; New Rights [David GAMKRELIDZE]; Republican Party [David USUPASHVILI]; Rightist Opposition [David GAMKRELIDZE] (bloc composed of Industrialists and New Right Party); Socialist Party or SPG [Irakli MINDELI]; Traditionalists [Akaki ASATIANI]; Union of National Forces-Conservatives [Koba DAVITASHVILI and Zviad DZIDZIGURI] |
+| Political pressure groups and leaders: | Georgian independent deputies from Abkhaz government in exile; separatists in the breakaway regions of Abkhazia and South Ossetia |
+| International organization participation: | ACCT (observer), BSEC, CE, CIS, EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC, MIGA, OAS (observer), OIF (observer), OPCW, OSCE, PFP, SECI (observer), UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Vasil SIKHARULIDZE |
+| Diplomatic representation in the US: | chancery: 1101 15th Street NW, Suite 602, Washington, DC 20005 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-2390 |
+| Diplomatic representation in the US: | FAX: [1] (202) 393-4537 |
+| Diplomatic representation from the US: | chief of mission: Ambassador John F. TEFFT |
+| Diplomatic representation from the US: | embassy: 11 George Balanchine Street, T'bilisi 0131 |
+| Diplomatic representation from the US: | mailing address: 7060 T'bilisi Place, Washington, DC 20521-7060 |
+| Diplomatic representation from the US: | telephone: [995] (32) 27-70-00 |
+| Diplomatic representation from the US: | FAX: [995] (32) 53-23-10 |
+| Flag description: | white rectangle, in its central portion a red cross connecting all four sides of the flag; in each of the four corners is a small red bolnur-katskhuri cross; the five-cross flag appears to date back to the 14th century |

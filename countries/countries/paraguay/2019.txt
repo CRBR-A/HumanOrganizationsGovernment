@@ -1,0 +1,73 @@
+| Government | Paraguay |
+| --- | --- |
+| Country name: | conventional long form: Republic of Paraguay |
+| Country name: | conventional short form: Paraguay |
+| Country name: | local long form: Republica del Paraguay |
+| Country name: | local short form: Paraguay |
+| Country name: | etymology: the precise meaning of the name Paraguay is unclear, but it seems to derive from the river of the same name; one explanation has the name meaning "water of the Payagua" (an indigenous tribe that lived along the river) |
+| Government type: | presidential republic |
+| Capital: | name: Asuncion |
+| Capital: | geographic coordinates: 25 16 S, 57 40 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Sunday in October; ends last Sunday in March |
+| Capital: | etymology: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption) |
+| Administrative divisions: | 17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro |
+| Independence: | 14-15 May 1811 (from Spain); note - the uprising against Spanish authorities took place during the night of 14-15 May 1811 and both days are celebrated in Paraguay |
+| National holiday: | Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Flag Day |
+| Constitution: | history: several previous; latest approved and promulgated 20 June 1992 |
+| Constitution: | amendments: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires absolute majority vote by both chambers and approval in a referendum; amended 2011, 2014; note - in April 2017, a proposed amendment to extend presidential term limits was defeated by the lower house of the National Congress (2018) |
+| Legal system: | civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: at least one parent must be a native-born citizen of Paraguay |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 3 years |
+| Suffrage: | 18 years of age; universal and compulsory until the age of 75 |
+| Executive branch: | chief of state: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 22 April 2018 (next to be held in April 2023) |
+| Executive branch: | election results: Mario Abdo BENITEZ elected president; percent of vote - Mario Abdo BENITEZ (ANR) 46.4%, Efrain ALEGRE (PLRA) 42.7%, Juan Bautista YBANEZ 3.3%, other 7.6% |
+| Legislative branch: | description: bicameral National Congress or Congreso Nacional consists of: |
+| Legislative branch: | Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Chamber of Senators - last held on 22 April 2018 (next to be held in April 2023) |
+| Legislative branch: | Chamber of Deputies - last held on 22 April 2018 (next to be held in April 2023) |
+| Legislative branch: | election results: |
+| Legislative branch: | Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 36, women 9, percent of women 20% |
+| Legislative branch: | Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 18.4% |
+| Judicial branch: | highest courts: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division) |
+| Judicial branch: | judge selection and term of office: justices proposed by the Council of Magistrates or Consejo de la Magistratura, a 6-member independent body, and appointed by the Chamber of Senators with presidential concurrence; judges can serve until mandatory retirement at age 75 |
+| Judicial branch: | subordinate courts: appellate courts; first instance courts; minor courts, including justices of the peace |
+| Political parties and leaders: | Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA] |
+| Political parties and leaders: | Avanza Pais coalition or AP [Adolfo FERREIRO] |
+| Political parties and leaders: | Broad Front coalition (Frente Guasu) or FG [Esperanza MARTINEZ] |
+| Political parties and leaders: | Ganar Alliance (alliance between PLRA and Guasu Front) |
+| Political parties and leaders: | Movimiento Cruzada Nacional or MCN |
+| Political parties and leaders: | Movimiento Hagamos or MH [Antonio "Tony" APURIL] |
+| Political parties and leaders: | Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO] |
+| Political parties and leaders: | Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado] |
+| Political parties and leaders: | Partido Democratica Progresista or PDP [Rafael FILIZZOLA] |
+| Political parties and leaders: | Partido Encuentro Nacional or PEN [Hermann RATZLAFFIN Klippemstein] |
+| Political parties and leaders: | Partido Liberal Radical Autentico or PLRA [Efrain ALEGRE] |
+| Political parties and leaders: | Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares] |
+| Political parties and leaders: | Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano] |
+| Political parties and leaders: | Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA] |
+| International organization participation: | CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Ambassador Manuel Maria CACERES (since 11 January 2019) |
+| Diplomatic representation in the US: | chancery: 2400 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 483-6960 through 6962 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-4508 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, Miami, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Lee MCCLENNY (sinceÂ 20 FebruaryÂ 2018) |
+| Diplomatic representation from the US: | telephone: [595] (21) 213-715 |
+| Diplomatic representation from the US: | embassy: 1776 Avenida Mariscal Lopez, Casilla Postal 402, Asuncion |
+| Diplomatic representation from the US: | mailing address: Unit 4711, DPO AA 34036-0001 |
+| Diplomatic representation from the US: | FAX: [595] (21) 213-728 |
+| Flag description: | three equal, horizontal bands of red (top), white, and blue with an emblem centered in the white band; unusual flag in that the emblem is different on each side; the obverse (hoist side at the left) bears the national coat of arms (a yellow five-pointed star within a green wreath capped by the words REPUBLICA DEL PARAGUAY, all within two circles); the reverse (hoist side at the right) bears a circular seal of the treasury (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA (Peace and Justice)); red symbolizes bravery and patriotism, white represents integrity and peace, and blue denotes liberty and generosity |
+| Flag description: | note: the three color bands resemble those on the flag of the Netherlands; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Saudi Arabia |
+| National symbol(s): | lion; national colors: red, white, blue |
+| National anthem: | name: "Paraguayos, Republica o muerte!" (Paraguayans, The Republic or Death!) |
+| National anthem: | lyrics/music: Francisco Esteban ACUNA de Figueroa/disputed |
+| National anthem: | note: adopted 1934, in use since 1846; officially adopted following its re-arrangement in 1934 |

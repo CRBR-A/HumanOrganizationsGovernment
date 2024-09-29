@@ -1,0 +1,38 @@
+| Government | Switzerland |
+| --- | --- |
+| Country name: | conventional long form: Swiss Confederation |
+| Country name: | conventional short form: Switzerland |
+| Country name: | local long form: Schweizerische Eidgenossenschaft (German), Confederation Suisse (French), Confederazione Svizzera (Italian) |
+| Country name: | local short form: Schweiz (German), Suisse (French), Svizzera (Italian) |
+| Government type: | formally a confederation, but similar in structure to a federal republic |
+| Capital: | Bern |
+| Administrative divisions: | 26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; kantone, singular - kanton in German); Aargau, Appenzell Ausser-Rhoden, Appenzell Inner-Rhoden, Basel-Landschaft, Basel-Stadt, Bern, Fribourg, Geneve, Glarus, Graubunden, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais, Vaud, Zug, Zurich |
+| Independence: | 1 August 1291 (founding of the Swiss Confederation) |
+| National holiday: | Founding of the Swiss Confederation, 1 August (1291) |
+| Constitution: | revision of Constitution of 1874 approved by the Federal Parliament 18 December 1998, adopted by referendum 18 April 1999, officially entered into force 1 January 2000 |
+| Legal system: | civil law system influenced by customary law; judicial review of legislative acts, except with respect to federal decrees of general obligatory character; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Samuel SCHMID (since 1 January 2005); Vice President Moritz LEUENBERGER (since 1 January 2005); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Samuel SCHMID (since 1 January 2005); Vice President Moritz LEUENBERGER (since 1 January 2005); note - the president is both the chief of state and head of government |
+| Executive branch: | cabinet: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) elected by the Federal Assembly usually from among its own members for a four-year term |
+| Executive branch: | elections: president and vice president elected by the Federal Assembly from among the members of the Federal Council for one-year terms that run concurrently; election last held 8 December 2004 (next to be held December 2005) |
+| Executive branch: | election results: Samuel SCHMID elected president; percent of Federal Assembly vote - 70.7%; Moritz LEUENBERGER elected vice president; percent of legislative vote - 64.8% |
+| Legislative branch: | bicameral Federal Assembly or Bundesversammlung (in German), Assemblee Federale (in French), Assemblea Federale (in Italian) consists of the Council of States or Standerat (in German), Conseil des Etats (in French), Consiglio degli Stati (in Italian) (46 seats - members serve four-year terms) and the National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats - members are elected by popular vote on the basis of proportional representation to serve four-year terms) |
+| Legislative branch: | elections: Council of States - last held in most cantons 19 October 2003 (each canton determines when the next election will be held); National Council - last held 19 October 2003 (next to be held October 2007) |
+| Legislative branch: | election results: Council of States - percent of vote by party - NA%; seats by party - CVP 15, FDP 14, SVP 8, SPS 6, other 3; National Council - percent of vote by party - SVP 26.6%, SPS 23.3%, FDP 17.3%, CVP 14.4%, Greens 7.4%, other small parties all under 5%; seats by party - SVP 55, SPS 54, FDP 36, CVP 28, Green Party 13, other small parties 14 |
+| Judicial branch: | Federal Supreme Court (judges elected for six-year terms by the Federal Assembly) |
+| Political parties and leaders: | Green Party (Grune Partei der Schweiz or Grune, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda) [Ruth GENNER]; Christian Democratic People's Party (Christichdemokratische Volkspartei der Schweiz or CVP, Parti Democrate-Chretien Suisse or PDC, Partito Democratico-Cristiano Popolare Svizzero or PDC, Partida Cristiandemocratica dalla Svizra or PCD) [Doris LEUTHARD, president]; Radical Free Democratic Party (Freisinnig-Demokratische Partei der Schweiz or FDP, Parti Radical-Democratique Suisse or PRD, Partitio Liberal-Radicale Svizzero or PLR) [Marianne KLEINER-SCHLAEPFER, president]; Social Democratic Party (Sozialdemokratische Partei der Schweiz or SPS, Parti Socialist Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS) [Hans-Juerg FEHR, president]; Swiss People's Party (Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica de Centro or UDC, Uniun Democratica dal Center or UDC) [Ueli MAURER, president]; and other minor parties |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT, AfDB, AsDB, Australia Group, BIS, CE, CERN, EAPC, EBRD, EFTA, ESA, FAO, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITU, LAIA (observer), MIGA, MONUC, NAM (guest), NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMEE, UNMIK, UNOMIG, UNTSO, UPU, WCL, WCO, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Christian BLICKENSTORFER |
+| Diplomatic representation in the US: | chancery: 2900 Cathedral Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 745-7900 |
+| Diplomatic representation in the US: | FAX: [1] (202) 387-2564 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, New York, and San Francisco |
+| Diplomatic representation in the US: | consulate(s): Boston |
+| Diplomatic representation from the US: | chief of mission: Ambassador Pamela P. WILLEFORD |
+| Diplomatic representation from the US: | embassy: Jubilaumsstrasse 93, CH-3005 Bern |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [41] (031) 357 70 11 |
+| Diplomatic representation from the US: | FAX: [41] (031) 357 73 44 |
+| Flag description: | red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag |

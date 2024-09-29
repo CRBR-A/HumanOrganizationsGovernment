@@ -1,0 +1,41 @@
+| Government | Chile |
+| --- | --- |
+| Country name: | conventional long form: Republic of Chile |
+| Country name: | conventional short form: Chile |
+| Country name: | local long form: Republica de Chile |
+| Country name: | local short form: Chile |
+| Government type: | republic |
+| Capital: | name: Santiago |
+| Capital: | geographic coordinates: 33 27 S, 70 40 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in October; ends second Sunday in March |
+| Administrative divisions: | 15 regions (regiones, singular - region); Aisen del General Carlos Ibanez del Campo, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena, Maule, Region Metropolitana (Santiago), Tarapaca, Valparaiso |
+| Administrative divisions: | note: the US does not recognize claims to Antarctica |
+| Independence: | 18 September 1810 (from Spain) |
+| National holiday: | Independence Day, 18 September (1810) |
+| Constitution: | 11 September 1980, effective 11 March 1981; amended 1989, 1991, 1997, 1999, 2000, 2003, and 2005 |
+| Legal system: | based on Code of 1857 derived from Spanish law and subsequent codes influenced by French and Austrian law; judicial review of legislative acts in the Supreme Court; has not accepted compulsory ICJ jurisdiction; note - in June 2005, Chile completed overhaul of its criminal justice system to a new, US-style adversarial system |
+| Suffrage: | 18 years of age; universal and compulsory |
+| Executive branch: | chief of state: President Michelle BACHELET Jeria (since 11 March 2006); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Michelle BACHELET Jeria (since 11 March 2006) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections: president elected by popular vote for a single four-year term; election last held 11 December 2005, with runoff election held 15 January 2006 (next to be held in December 2009) |
+| Executive branch: | election results: Michelle BACHELET Jeria elected president; percent of vote - Michelle BACHELET Jeria 53.5%; Sebastian PINERA Echenique 46.5% |
+| Legislative branch: | bicameral National Congress or Congreso Nacional consists of the Senate or Senado (38 seats; members elected by popular vote to serve eight-year terms; one-half elected every four years) and the Chamber of Deputies or Camara de Diputados (120 seats; members are elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: Senate - last held 11 December 2005 (next to be held in December 2009); Chamber of Deputies - last held 11 December 2005 (next to be held in December 2009) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - CPD 20 (PDC 6, PS 8, PPD 3, PRSD 3), APC 17 (UDI 9, RN 8), independent 1; Chamber of Deputies - percent of vote by party - NA; seats by party - CPD 65 (PDC 21, PPD 22, PS 15, PRSD 7), APC 54 (UDI 34, RN 20), independent 1 |
+| Judicial branch: | Supreme Court or Corte Suprema (judges are appointed by the president and ratified by the Senate from lists of candidates provided by the court itself; the president of the Supreme Court is elected every three years by the 20-member court); Constitutional Tribunal |
+| Political parties and leaders: | Alliance for Chile ("Alianza") or APC (including National Renewal or RN [Carlos LARRAIN Pena] and Independent Democratic Union or UDI [Hernan LARRAIN Fernandez]); Coalition of Parties for Democracy ("Concertacion") or CPD (including Christian Democratic Party or PDC [Soledad ALVEAR], Socialist Party or PS [Camilo ESCALONA], Party for Democracy or PPD [Sergio BITAR Chacra], Radical Social Democratic Party or PRSD [Jose Antonio GOMEZ Urrutia]); Communist Party or PC [Guillermo TEILLIER] |
+| Political pressure groups and leaders: | revitalized university student federations at all major universities; Roman Catholic Church; United Labor Central or CUT includes trade unionists from the country's five largest labor confederations |
+| International organization participation: | ABEDA, APEC, BIS, CAN (associate), CSN, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, PCA, RG, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mariano FERNANDEZ |
+| Diplomatic representation in the US: | chancery: 1732 Massachusetts Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 530-4104, 530-4106, 530-4107 |
+| Diplomatic representation in the US: | FAX: [1] (202) 887-5579 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco, San Juan (Puerto Rico) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Craig A. KELLY |
+| Diplomatic representation from the US: | embassy: Avenida Andres Bello 2800, Las Condes, Santiago |
+| Diplomatic representation from the US: | mailing address: APO AA 34033 |
+| Diplomatic representation from the US: | telephone: [56] (2) 232-2600 |
+| Diplomatic representation from the US: | FAX: [56] (2) 330-3710 |
+| Flag description: | two equal horizontal bands of white (top) and red; there is a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red stands for the blood spilled to achieve independence; design was influenced by the US flag |

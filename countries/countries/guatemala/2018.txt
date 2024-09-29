@@ -1,0 +1,76 @@
+| Government | Guatemala |
+| --- | --- |
+| Country name: | conventional long form: Republic of Guatemala |
+| Country name: | conventional short form: Guatemala |
+| Country name: | local long form: Republica de Guatemala |
+| Country name: | local short form: Guatemala |
+| Country name: | etymology: name derives from the Maya word meaning "Land of Trees" |
+| Government type: | presidential republic |
+| Capital: | name: Guatemala City |
+| Capital: | geographic coordinates: 14 37 N, 90 31 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC, during Standard Time) |
+| Administrative divisions: | 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | history: several previous; latest adopted 31 May 1985, effective 14 January 1986; suspended and reinstated in 1994 (2018) |
+| Constitution: | amendments: proposed by the president of the republic, by agreement of 10 or more deputies of Congress, by the Constitutional Court, or by public petition of at least 5,000 citizens; passage requires at least two-thirds majority vote by the Congress membership and approval by public referendum, referred to as "popular consultation"; constitutional articles such as national sovereignty, the republican form of government, limitations on those seeking the presidency, or presidential tenure cannot be amended; amended 1994 (2018) |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years with no absences of six consecutive months or longer or absences totaling more than a year |
+| Suffrage: | 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day |
+| Judicial branch: | highest courts: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates |
+| Judicial branch: | judge selection and term of office: Supreme Court magistrates elected by the Congress of the Republic from candidates proposed by the Postulation Committee, an independent body of deans of the country's university law schools, representatives of the country's law associations, and representatives of the Courts of Appeal; magistrates elected for concurrent, renewable 5-year terms; Constitutional Court judges - 1 elected by the Congress of the Republic, 1 by the Supreme Court, 1 by the president of the republic, 1 by the (public) University of San Carlos, and 1 by the Assembly of the College of Attorneys and Notaries; judges elected for concurrent, renewable 5-year terms; the presidency of the court rotates among the magistrates for a single 1-year term |
+| Judicial branch: | subordinate courts: numerous first instance and appellate courts |
+| Executive branch: | chief of state: President Jimmy Ernesto MORALES Cabrera (since 14 January 2016); Vice President Jafeth CABRERA Franco (since 14 January 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Jimmy Ernesto MORALES Cabrera (since 14 January 2016); Vice President Jafeth CABRERA Franco (since 14 January 2016) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 6 September 2015 with a runoff on 25 October 2015 (next to be held in September 2019) |
+| Executive branch: | election results: Jimmy Ernesto MORALES Cabrera elected president in second round; percent of vote in first round - Jimmy Ernesto MORALES Cabrera (FNC) 23.9%, Sandra TORRES (UNE) 19.8%, Manuel BALDIZON (LIDER) 19.6%, other 36.7%; percent of vote in second round - Jimmy Ernesto MORALES Cabrera 67.4%, Sandra TORRES 32.6% |
+| Legislative branch: | description: unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 6 September 2015 (next to be held in September 2019) |
+| Legislative branch: | election results: percent of vote by party - LIDER 19.1%, UNE 14.8%, TODOS 9.7%, PP 9.4%, FCN 8.8%, EG 6.2%, CREO-PU 5.7%, UCN 5.4%, Winaq-URNG-MAIZ 4.3%, Convergence 3.8%, VIVA 3.7%, PAN 3.4%, FUERZA 2.1%, other 3.5%; seats by party - LIDER 44, UNE 36, TODOS 18, PP 17, FCN 11, EG 7, UCN 6, CREO-PU 5, Convergence 3, PAN 3, VIVA 3, Winaq-URNG-MAIZ 3, FUERZA 2; note - seats by party as of 6 January 2016 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1 |
+| Legislative branch: | note: seats by party as of 6 January 2016 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1 |
+| Political parties and leaders: | Commitment, Renewal, and Order or CREO [Richard LEE Abularach] |
+| Political parties and leaders: | Convergence [Pablo MONSANTO] |
+| Political parties and leaders: | Encounter for Guatemala or EG [Nineth MONTENEGRO Cottom] |
+| Political parties and leaders: | Everyone Together for Guatemala or TODOS [Felipe ALEJOS] |
+| Political parties and leaders: | Force or FUERZA [Jose RADFORD] |
+| Political parties and leaders: | Grand National Alliance or GANA [Fulbio Ludvin PEREZ] |
+| Political parties and leaders: | Guatemalan Liberal Party or PLG [Andres AYAU Garcias] |
+| Political parties and leaders: | Guatemalan National Revolutionary Unity or Winaq-URNG [Gregorio CHAY Laynez] |
+| Political parties and leaders: | Letâ€™s Go for a Different Guatemala or VAMOS [Giorgio Eugenio BRUNI] |
+| Political parties and leaders: | National Advancement Party or PAN [Harald JOHANNESSEN] |
+| Political parties and leaders: | National Convergence Front or FCN [Javier HERNANDEZ Franco] |
+| Political parties and leaders: | National Unity for Hope or UNE [Sandra TORRES] |
+| Political parties and leaders: | National Welfare or BIEN [Ruben GARCIA Lopez] |
+| Political parties and leaders: | Nationalist Change Union or UCN [Mario ESTRADA] |
+| Political parties and leaders: | Political Movement Winaq or WINAQ [Sonia GUTIERREZ Raguay] |
+| Political parties and leaders: | Productivity and Labor Party or PPT [Edgar Alfredo RODRIGUEZ] |
+| Political parties and leaders: | Reform Movement or MR [Jose Raul VIGIL Arias] |
+| Political parties and leaders: | Renewed Democratic Liberty or LIDER (dissolved mid-February 2016) |
+| Political parties and leaders: | Unionista Party or PU [Alvaro Hugo RODAS Martini] |
+| Political parties and leaders: | UNITED or UNIDOS [Conrado Antonio MONROY Hernandez] |
+| Political parties and leaders: | Value or VALOR [Ana BERNAT] |
+| Political parties and leaders: | Victoria (Victory) [Manuel de Jesus RIVERA] |
+| Political parties and leaders: | Vision with Values or VIVA [Armando Damian CASTILLO Alvarado] |
+| International organization participation: | BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Manuel Alfredo ESPINA Pinto (since 8 September 2017) |
+| Diplomatic representation in the US: | chancery: 2220 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 745-4952 |
+| Diplomatic representation in the US: | FAX: [1] (202) 745-1908 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Chicago, Denver, Houston, Lake Worth (FL), Los Angeles, McAllen (TX), Miami, New York, Phoenix, Providence (RI), San Francisco, Silver Spring (MD), Tucson (AZ) |
+| Diplomatic representation in the US: | consulate(s): Del Rio (TX), San Bernardino (CA), Silver Spring (MD), Tucson (AZ) |
+| Diplomatic representation from the US: | chief of mission: Ambassador Luis E. ARREAGA (since 4 October 2017) |
+| Diplomatic representation from the US: | embassy: 7-01 Avenida Reforma, Zone 10, Guatemala City |
+| Diplomatic representation from the US: | mailing address: DPO AA 34024 |
+| Diplomatic representation from the US: | telephone: [502] 2326-4000 |
+| Diplomatic representation from the US: | FAX: [502] 2326-4654 |
+| Flag description: | three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity |
+| Flag description: | note: one of only two national flags featuring a firearm, the other is Mozambique |
+| National symbol(s): | quetzal (bird); national colors: blue, white |
+| National anthem: | name: "Himno Nacional de Guatemala" (National Anthem of Guatemala) |
+| National anthem: | lyrics/music: Jose Joaquin PALMA/Rafael Alvarez OVALLE |
+| National anthem: | note: adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911 |

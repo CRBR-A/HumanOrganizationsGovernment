@@ -1,0 +1,61 @@
+| Government | TOGO |
+| --- | --- |
+| Country name: | conventional long form: Togolese Republic |
+| Country name: | conventional short form: Togo |
+| Country name: | local long form: Republique Togolaise |
+| Country name: | local short form: none |
+| Country name: | former: French Togoland |
+| Country name: | etymology: derived from the Ewe words "to" (water) and "go" (shore) to give the sense of "by the water"; originally, this designation applied to the town of Togo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation |
+| Government type: | presidential republic |
+| Capital: | name: Lome |
+| Capital: | geographic coordinates: 6 07 N, 1 13 E |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 5 regions (regions, singular - region); Centrale, Kara, Maritime, Plateaux, Savanes |
+| Independence: | 27 April 1960 (from French-administered UN trusteeship) |
+| National holiday: | Independence Day, 27 April (1960) |
+| Constitution: | several previous; latest adopted 27 September 1992, effective 14 October 1992; amended 2002, 2007 (2016) |
+| Legal system: | customary law system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction with reservations; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Togo |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Faure GNASSINGBE (since 4 May 2005) |
+| Executive branch: | head of government: Prime Minister Komi KLASSOU (since 5 June 2015) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the advice of the prime minister |
+| Executive branch: | elections/appointments: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 25 April 2015 (next to be held in 2020); prime minister appointed by the president |
+| Executive branch: | election results: Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 58.8%, Jean-Pierre FABRE (ANC) 35.2%, Tchaboure GOGUE 4%, other 2% |
+| Legislative branch: | description: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms) |
+| Legislative branch: | elections: last held on 25 July 2013 (next to be held in 2018) |
+| Legislative branch: | election results: percent of vote by party - UNIR 46.7%, CST 28.9%, Rainbow Alliance 10.8%, UFC 7.7%, independent 0.8%, other 5.1%; seats by party - UNIR 62, CST 19, Rainbow Alliance 6, UFC 3, independent 1 |
+| Judicial branch: | highest court(s): Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges including the court president) |
+| Judicial branch: | judge selection and term of office: Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judge appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA |
+| Judicial branch: | subordinate courts: Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal |
+| Political parties and leaders: | Action Committee for Renewal or CAR [Dodji APEVON] |
+| Political parties and leaders: | Democratic Convention of African Peoples or CDPA [Brigitte ADJAMAGBO-JOHNSON] |
+| Political parties and leaders: | National Alliance for Change or ANC [Jean-Pierre FABRE] |
+| Political parties and leaders: | Pan-African Patriotic Convergence or CPP [Edem KODJO] |
+| Political parties and leaders: | Rainbow Alliance (a coalition including CAR and CDPA) [Brigitte ADJAMAGBO-JOHNSON] |
+| Political parties and leaders: | Save Togo Collective or CST (a coalition including: ANC and PSR) [Ata Messan Zeus AJAVON |
+| Political parties and leaders: | Socialist Pact for Renewal or PSR [Abi TCHESSA] |
+| Political parties and leaders: | Union for Democracy and Social Progress or UDPS [Gagou KOKOU] |
+| Political parties and leaders: | Union of Forces for Change or UFC [Gilchrist OLYMPIO] |
+| Political parties and leaders: | Union for the Republic or UNIR [Faure GNASSINGBE] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACP, AfDB, AU, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Yokoudema KADOKALIH (since 26 October 2015) |
+| Diplomatic representation in the US: | chancery: 2208 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-4212 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-3190 |
+| Diplomatic representation from the US: | chief of mission: Ambassador David R. GILMORE (since December 2015) |
+| Diplomatic representation from the US: | embassy: 4332 Blvd. Gnassingbe Eyadema, Cite OUA, Lome |
+| Diplomatic representation from the US: | mailing address: B.P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300 |
+| Diplomatic representation from the US: | telephone: [228] 2261-5470 |
+| Diplomatic representation from the US: | FAX: [228] 2261-5501 |
+| Flag description: | five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people; green symbolizes hope, fertility, and agriculture; yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | lion; national colors: green, yellow, red, white |
+| National anthem: | name: "Salut a toi, pays de nos aieux" (Hail to Thee, Land of Our Forefathers) |
+| National anthem: | lyrics/music: Alex CASIMIR-DOSSEH |
+| National anthem: | note: adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992 |

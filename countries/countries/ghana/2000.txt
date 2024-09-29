@@ -1,0 +1,36 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Ghana |
+| Country name: | conventional short form: Ghana |
+| Country name: | former: Gold Coast |
+| Data code: | GH |
+| Government type: | constitutional democracy |
+| Capital: | Accra |
+| Administrative divisions: | 10 regions; Ashanti, Brong-Ahafo, Central, Eastern, Greater Accra, Northern, Upper East, Upper West, Volta, Western |
+| Independence: | 6 March 1957 (from UK) |
+| National holiday: | Independence Day, 6 March (1957) |
+| Constitution: | new constitution approved 28 April 1992 |
+| Legal system: | based on English common law and customary law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Jerry John RAWLINGS (since 7 January 1993); Vice President John Evans Atta MILLS (since 7 January 1993); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: President Jerry John RAWLINGS (since 7 January 1993); Vice President John Evans Atta MILLS (since 7 January 1993); note - the president is both the chief of state and head of government |
+| Executive branch: | cabinet: Council of Ministers; president nominates members subject to approval by Parliament |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for four-year terms; election last held 7 December 1996 (next to be held NA December 2000) |
+| Executive branch: | election results: Jerry John RAWLINGS reelected president; percent of vote - RAWLINGS 57.2%, John KUFUOR 39.8% |
+| Legislative branch: | unicameral Parliament (200 seats; members are elected by direct popular vote to serve four-year terms) |
+| elections: | last held 7 December 1996 (next to be held NA December 2000) |
+| election results: | percent of vote by party - NA; seats by party - NDC 133, NPP 61, PCP 5, PNC 1 |
+| Judicial branch: | Supreme Court |
+| Political parties and leaders: | Every Ghanaian Living Everywhere or EGLE [Owuraku AMOFA, chairman]; National Convention Party or NCP [Sarpong KUMA-KUMA]; National Democratic Congress or NDC [Dr. Huudu YAHAYA, general secretary]; New Patriotic Party or NPP [Peter Ala ADJETY]; People's Convention Party or PCP [P. K. DONKOH-AYIFI, acting chairman]; People's Heritage Party or PHP [Emmanuel Alexander ERSKINE]; People's National Convention or PNC [Edward MAHAMA] |
+| International organization participation: | ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM (observer), ISO, ITU, MINURSO, NAM, OAS (observer), OAU, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNIKOM, UNMIBH, UNMIK, UNMOP, UNMOT, UNTAET, UNU, UPU, WCL, WFTU, WHO, WIPO, WMO, WToO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Kobena KOOMSON |
+| Diplomatic representation in the US: | chancery: 3512 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 686-4520 |
+| Diplomatic representation in the US: | FAX: [1] (202) 686-4527 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kathryn Dee ROBINSON |
+| Diplomatic representation from the US: | embassy: Ring Road East, East of Danquah Circle, Accra |
+| Diplomatic representation from the US: | mailing address: P. O. Box 194, Accra |
+| Diplomatic representation from the US: | telephone: [233] (21) 775348 |
+| Diplomatic representation from the US: | FAX: [233] (21) 776008 |
+| Flag description: | three equal horizontal bands of red (top), yellow, and green with a large black five-pointed star centered in the yellow band; uses the popular pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band |

@@ -1,0 +1,65 @@
+| Government | Benin |
+| --- | --- |
+| Country name: | conventional long form: Republic of Benin |
+| Country name: | conventional short form: Benin |
+| Country name: | local long form: Republique du Benin |
+| Country name: | local short form: Benin |
+| Country name: | former: Dahomey, People's Republic of Benin |
+| Country name: | etymology: named for the Bight of Benin, the body of water on which the country lies |
+| Government type: | presidential republic |
+| Capital: | name: Porto-Novo (constitutional capital); Cotonou (seat of government) |
+| Capital: | geographic coordinates: 6 29 N, 2 37 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the name Porto-Novo is Portuguese for "new port"; Cotonou means "by the river of death" in the native Fon language |
+| Administrative divisions: | 12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou |
+| Independence: | 1 August 1960 (from France) |
+| National holiday: | Independence Day, 1 August (1960) |
+| Constitution: | history: previous 1946, 1958 (preindependence); latest adopted by referendum 2 December 1990, promulgated 11 December 1990 |
+| Constitution: | amendments: proposed concurrently by the president of the republic (after a decision in the Council of Ministers) and the National Assembly; consideration of drafts or proposals requires at least three-fourths majority vote of the Assembly membership; passage requires approval in a referendum unless approved by at least four-fifths majority vote of the Assembly membership; constitutional articles affecting territorial sovereignty, the republican form of government, and secularity of Benin cannot be amended (2017) |
+| Legal system: | civil law system modeled largely on the French system and some customary law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Benin |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Patrice TALON (since 6 April 2016); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Patrice TALON (since 6 April 2016); prime minister position abolished |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 6 March and 20 March 2016 (next to be held in 2021) |
+| Executive branch: | election results: Patrice TALON elected president in second round; percent of vote in first round - Lionel ZINSOU (FCBE) 28.4%, Patrice TALON (independent) 24.8%, Sebastien AJAVON (independent) 23.%, Abdoulaye Bio TCHANE (ABT) 8.8%, Pascal KOUPAKI (NC) 5.9%, other 9.1%; percent of vote in second round - Patrice TALON 65.4%, Lionel ZINSOU 34.6% |
+| Legislative branch: | description: unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: last held on 28 April 2019 (next to be held in April 2023) |
+| Legislative branch: | election results: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2% |
+| Judicial branch: | highest courts: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office |
+| Judicial branch: | judge selection and term of office: Supreme Court president and judges appointed by the president of the republicÂ upon the advice of the National Assembly; judges appointed for single renewable 5-year terms; Constitutional Court members - 4 appointed by the National Assembly and 3 by the president of the republic; members appointed for single renewable 5-year terms; other members of the High Court of Justice elected by the National Assembly; member tenure NA |
+| Judicial branch: | subordinate courts: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts |
+| Political parties and leaders: | Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE] |
+| Political parties and leaders: | African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN] |
+| Political parties and leaders: | Benin Renaissance or RB [Lehady SOGLO] |
+| Political parties and leaders: | Cowrie Force for an Emerging Benin or FCBE [Yayi BONI] |
+| Political parties and leaders: | Democratic Renewal Party or PRD [Adrien HOUNGBEDJI] |
+| Political parties and leaders: | National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE] |
+| Political parties and leaders: | New Consciousness Rally or NC [Pascal KOUPAKI] |
+| Political parties and leaders: | Patriotic Awakening or RP [Janvier YAHOUEDEOU] |
+| Political parties and leaders: | Social Democrat Party or PSD [Emmanuel GOLOU] |
+| Political parties and leaders: | Sun Alliance or AS [Sacca LAFIA] |
+| Political parties and leaders: | Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP) |
+| Political parties and leaders: | United Democratic Forces or FDU [Mathurin NAGO] |
+| Political parties and leaders: | note: approximately 20 additional minor parties |
+| International organization participation: | ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | Charge d'Affaires Gafari DANGO (since March 2019) |
+| Diplomatic representation in the US: | chancery: 2124 Kalorama Road NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 232-6656 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-1996 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Patricia MAHONEY (since 18 January 2019) |
+| Diplomatic representation from the US: | telephone: [229] 21-30-06-50 |
+| Diplomatic representation from the US: | embassy: Caporal Bernard Anani, 01 BP 2012, Cotonou |
+| Diplomatic representation from the US: | mailing address: 01 B. P. 2012, Cotonou |
+| Diplomatic representation from the US: | FAX: [229] 21-30-03-84 |
+| Flag description: | two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green symbolizes hope and revival, yellow wealth, and red courage |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia |
+| National symbol(s): | leopard; national colors: green, yellow, red |
+| National anthem: | name: "L'Aube Nouvelle" (The Dawn of a New Day) |
+| National anthem: | lyrics/music: Gilbert Jean DAGNON |
+| National anthem: | note: adopted 1960 |

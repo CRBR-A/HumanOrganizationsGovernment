@@ -1,0 +1,41 @@
+| Government | Lithuania |
+| --- | --- |
+| Country name: | conventional long form: Republic of Lithuania |
+| Country name: | conventional short form: Lithuania |
+| Country name: | local long form: Lietuvos Respublika |
+| Country name: | local short form: Lietuva |
+| Country name: | former: Lithuanian Soviet Socialist Republic |
+| Government type: | parliamentary democracy |
+| Capital: | name: Vilnius |
+| Capital: | geographic coordinates: 54 41 N, 25 19 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 10 counties (apskritys, singular - apskritis); Alytaus, Kauno, Klaipedos, Marijampoles, Panevezio, Siauliu, Taurages, Telsiu, Utenos, Vilniaus |
+| Independence: | 11 March 1990 (independence declared from Soviet Union); 6 September 1991 (Soviet Union recognizes Lithuania's independence) |
+| National holiday: | Independence Day, 16 February (1918); note - 16 February 1918 is the date Lithuania declared its independence from Soviet Russia and established its statehood; 11 March 1990 is the date it declared its independence from the Soviet Union |
+| Constitution: | adopted 25 October 1992 |
+| Legal system: | based on civil law system; legislative acts can be appealed to the constitutional court |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Valdas ADAMKUS (since 12 July 2004) |
+| Executive branch: | head of government: Prime Minister Gediminas KIRKILAS (since 4 July 2006) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president on the nomination of the prime minister |
+| Executive branch: | elections: president elected by popular vote for a five-year term (eligible for a second term); election last held 13 and 27 June 2004 (next to be held June 2009); prime minister appointed by the president on the approval of the Parliament |
+| Executive branch: | election results: Valdas ADAMKUS elected president; percent of vote - Valdas ADAMKUS 52.2%, Kazimiera PRUNSKIENE 47.8%; Gediminas KIRKILAS approved by Parliament 85-13, with 5 abstentions |
+| Legislative branch: | unicameral Parliament or Seimas (141 seats, 71 members are directly elected by popular vote, 70 are elected by proportional representation; members serve four-year terms) |
+| Legislative branch: | elections: last held 10 and 24 October 2004 (next to be held October 2008) |
+| Legislative branch: | election results: percent of vote by party - Labor 28.6%, Working for Lithuania (Social Democrats and Social Liberals) 20.7%, TS 14.6%, For Order and Justice (Liberal Democrats and Lithuanian People's Union) 11.4%, Liberal and Center Union 9.1%, Farmers and New Democracy Union 6.6%, other 9%; seats by faction - Labor 29, Homeland Union 26, Social Democrats 23, Civil Democracy (split from Labor) 11, Liberal Movement (formerly Liberal Political Group) 11, National Farmer's Union (formerly Farmers and New Democracy Union) 11, Social Liberal 10, Liberal Democrats 9, Liberal and Center Political Group 8, independents 3 (as of late-July 2006) |
+| Judicial branch: | Constitutional Court; Supreme Court; Court of Appeal; judges for all courts appointed by the President |
+| Political parties and leaders: | Civil Democracy Party [Viktor MUNTIANAS, chairman]; Electoral Action of Lithuanian Poles [Valdemar TOMASZEVSKI, chairman]; National Farmer's Union [Kazimiera PRUNSKIENE, chairman]; Homeland Union/Conservative Party or TS [Andrius KUBILIUS, chairman]; Labor Party; Liberal and Center Political Group [Arturas ZUOKAS, chairman]; Liberal Democratic Party [Valentinas MAZURONIS, chairman]; Liberal Movement; Lithuanian Christian Democrats or LKD [Valentinas STUNDYS, chairman]; Lithuanian People's Union for a Fair Lithuania; Lithuanian Social Democratic Coalition [Algirdas BRAZAUSKAS, chairman] consists of the Lithuanian Democratic Labor Party or LDDP and the Lithuanian Social Democratic Party or LSDP; Social Liberal/New Union [Arturas PAULAUSKAS, chairman]; Social Union of Christian Conservatives [Gediminas VAGNORIUS, chairman]; Young Lithuania and New Nationalists |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ACCT (observer), Australia Group, BA, BIS, CBSS, CE, EAPC, EBRD, EIB, EU (new member), FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NATO, NIB, NSG, OIF (observer), OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WCO, WEU (associate partner), WHO, WIPO, WMO, WToO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Kornelija JURGAITIENE |
+| Diplomatic representation in the US: | chancery: 4590 MacArthur Blvd. NW, Suite 200, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-5860 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-0466 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador John A. CLOUD |
+| Diplomatic representation from the US: | embassy: Akmenu Gatve 6, Vilnius, LT-03106 |
+| Diplomatic representation from the US: | mailing address: American Embassy, Almeny gatve 6, Vilnius LT-03106 |
+| Diplomatic representation from the US: | telephone: [370] (5) 266 5500 |
+| Diplomatic representation from the US: | FAX: [370] (5) 266 5510 |
+| Flag description: | three equal horizontal bands of yellow (top), green, and red |

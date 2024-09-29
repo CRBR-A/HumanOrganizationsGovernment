@@ -1,0 +1,48 @@
+| Government | Ireland |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Ireland |
+| Country name: | local long form: none |
+| Country name: | local short form: Eire |
+| Government type: | republic, parliamentary democracy |
+| Capital: | name: Dublin |
+| Capital: | geographic coordinates: 53 19 N, 6 14 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 29 counties and 5 cities*; Carlow, Cavan, Clare, Cork, Cork*, Donegal, Dublin*, Dun Laoghaire-Rathdown, Fingal, Galway, Galway*, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Limerick*, Longford, Louth, Mayo, Meath, Monaghan, North Tipperary, Offaly, Roscommon, Sligo, South Dublin, South Tipperary, Waterford, Waterford*, Westmeath, Wexford, Wicklow |
+| Independence: | 6 December 1921 (from the UK by treaty) |
+| National holiday: | Saint Patrick's Day, 17 March |
+| Constitution: | adopted 1 July 1937 by plebiscite; effective 29 December 1937 |
+| Legal system: | common law system based on the English model but substantially modified by customary law; judicial review of legislative acts in Supreme Court |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Michael D. HIGGINS (since 29 October 2011) |
+| Executive branch: | head of government: Taoiseach (Prime Minister) Enda KENNY (since 9 March 2011) |
+| Executive branch: | cabinet: Cabinet appointed by the president with previous nomination by the prime minister and approval of the lower house of Parliament |
+| Executive branch: | (For more information visit the World Leaders website [Opens in New Window]) |
+| Executive branch: | elections: president elected by popular vote for a seven-year term (eligible for a second term); election last held on 29 October 2011 (next scheduled for October 2018); prime minister (taoiseach) nominated by the House of Representatives (Dail Eireann) and appointed by the president |
+| Executive branch: | election results: Michael D. HIGGINS elected president; percent of vote - Michael D. HIGGINS 39.6%, Sean GALLAGHER 28.5%, Martin MCGUINNESS 13.7%, Gay MITCHELL 6.4%, David NORRIS 6.2% |
+| Legislative branch: | bicameral Parliament or Oireachtas consists of the Senate or Seanad Eireann (60 seats; 49 members elected by the universities and from candidates put forward by five vocational panels, 11 are nominated by the prime minister; members serve five-year terms) and the lower house of Parliament or Dail Eireann (166 seats; members elected by popular vote on the basis of proportional representation to serve five-year terms) |
+| Legislative branch: | elections: Senate - last held in 27 April 2011 (next to be held 2016); House of Representatives - last held on 25 February 2011 (next to be held probably in 2016) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Labor Party 12, Sinn Fein 3, independents 12; House of Representatives - percent of vote by party - Fine Gael 45.8%, Labor Party 22.3%, Fianna Fail 12.0%, Sinn Fein 8.4%, United Left Alliance 3.0%, New Vision 0.6%, independents 7.8%; seats by party - Fine Gael 76, Labor Party 37, Fianna Fail 20, Sinn Fein 14, United Left Alliance 5, New Vision 1, independents 13; note - after November 2009 disbandment of the Progressive Democrats, the two members of the Senate continued as independent DPs |
+| Legislative branch: | note: on 8 November 2008, delegates voted to disband the Progressive Democrats, and in November 2009 it officially stopped operating as a political party |
+| Judicial branch: | Supreme Court (Court of Final Appeal) (judges appointed by the president on the advice of the prime minister and cabinet); Courts of First Instance (includes High Court) |
+| Political parties and leaders: | Fianna Fail [Michael MARTIN]; Fine Gael [Enda KENNY]; Green Party [Eamon RYAN]; Labor Party [Eamon GILMORE]; New Vision; Sinn Fein [Gerry ADAMS]; Socialist Party [Joe HIGGINS]; The Workers' Party [Michael FINNEGAN]; United Left Alliance |
+| Political pressure groups and leaders: | Families Acting for Innocent Relatives or FAIR [Brian MCCONNELL] (seek compensation for victims of violence); Families Against Intimidation and Terror or FAIT (oppose terrorism); Gaeltacht Civil Rights Campaign (Coiste Cearta Sibhialta na Gaeilge) or CCSG (encourages the use of the Irish language and campaigns for greater civil rights in Irish speaking areas); Iona Institute [David QUINN] (a conservative Catholic think tank); Irish Anti-War Movement [Richard BOYD BARRETT] (campaigns against wars around the world); Irish Republican Army or IRA (terrorist group); Keep Ireland Open (environmental group); Midland Railway Action Group or MRAG [Willie ALLEN] (transportation promoters); Peace and Neutrality Alliance [Roger COLE] (campaigns to protect Irish neutrality); Rail Users Ireland (formerly the Platform 11 - transportation promoters); 32 Country Sovereignty Movement or 32CSM (supports a fully sovereign Ireland); Ulster Defence Association or UDA (terrorist group) |
+| International organization participation: | ADB (nonregional member), Australia Group, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MONUSCO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNITAR, UNOCI, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Michael COLLINS |
+| Diplomatic representation in the US: | chancery: 2234 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 462-3939 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-5993 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires John HENNESSEY-NILAND |
+| Diplomatic representation from the US: | embassy: 42 Elgin Road, Ballsbridge, Dublin 4 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [353] (1) 668-8777 |
+| Diplomatic representation from the US: | FAX: [353] (1) 668-9946 |
+| Flag description: | three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange |
+| Flag description: | note: similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red |
+| National symbol(s): | harp |
+| National anthem: | name: "Amhran na bhFiann" (The Soldier's Song) |
+| National anthem: | lyrics/music: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and Peadar KEARNEY |
+| National anthem: | note: adopted 1926; instead of "Amhran na bhFiann," the song "Ireland's Call" is often used in athletic events where citizens of the Republic of Ireland and Northern Ireland compete as a unified team |

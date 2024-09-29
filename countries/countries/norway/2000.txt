@@ -1,0 +1,38 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Kingdom of Norway |
+| Country name: | conventional short form: Norway |
+| Country name: | local long form: Kongeriket Norge |
+| Country name: | local short form: Norge |
+| Data code: | NO |
+| Government type: | constitutional monarchy |
+| Capital: | Oslo |
+| Administrative divisions: | 19 provinces (fylker, singular - fylke); Akershus, Aust-Agder, Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland, Nord-Trondelag, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane, Sor-Trondelag, Telemark, Troms, Vest-Agder, Vestfold |
+| Dependent areas: | Bouvet Island, Jan Mayen, Svalbard |
+| Independence: | 7 June 1905 Norway declared the union with Sweden dissolved; 26 October 1905 Sweden agreed to the repeal of the union |
+| National holiday: | Constitution Day, 17 May (1814) |
+| Constitution: | 17 May 1814, modified in 1884 |
+| Legal system: | mixture of customary law, civil law system, and common law traditions; Supreme Court renders advisory opinions to legislature when asked; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS, son of the monarch (born 20 July 1973) |
+| Executive branch: | head of government: Prime Minister Jens STOLTENBERG (since 17 March 2000) |
+| Executive branch: | cabinet: State Council appointed by the monarch with the approval of the Parliament |
+| Executive branch: | elections: none; the monarch is hereditary; following parliamentary elections, the leader of the majority party or leader of a majority coalition is usually appointed prime minister by the monarch with the approval of the Parliament |
+| Legislative branch: | modified unicameral Parliament or Storting which, for certain purposes, divides itself into two chambers (165 seats; members are elected by popular vote by proportional representation to serve four-year terms) |
+| elections: | last held 15 September 1997 (next to be held NA September 2001) |
+| election results: | percent of vote by party - Labor Party 35%, Center Party 7.9%, Conservative Party 14.3%, Christian People's Party 13.7%, Socialist Left Party 6%, Progress Party 15.3%, Liberal Party 4.4%, other parties 1.6%; seats by party - Labor Party 65, Center Party 11, Conservative Party 23, Christian People's Party 25, Socialist Left Party 9, Progress Party 25, Liberal Party 6, other parties 1 |
+| note: | for certain purposes, the Parliament divides itself into two chambers and elects one-fourth of its membership to an upper house or Lagting |
+| Judicial branch: | Supreme Court or Hoyesterett, justices appointed by the monarch |
+| Political parties and leaders: | Center Party [Johan J. JAKOBSEN]; Christian People's Party [Valgerd HAUGLAND]; Conservative Party [Jan PETERSEN]; Labor Party [Thorbjorn JAGLAND]; Liberal Party [Lars SPONHEIM]; Norwegian Communist Party [Kare Andre NILSEN]; Progress Party [Carl I. HAGEN]; Red Electoral Alliance [Erling FOLKVORD]; Socialist Left Party [Kristin HALVORSEN] |
+| International organization participation: | AfDB, AsDB, Australia Group, BIS, CBSS, CCC, CE, CERN, EAPC, EBRD, ECE, EFTA, ESA, FAO, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, MINURSO, NAM (guest), NATO, NC, NEA, NIB, NSG, OECD, OPCW, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIBH, UNMIK, UNMOP, UNTSO, UPU, WEU (associate), WHO, WIPO, WMO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Tom Erik VRAALSEN |
+| Diplomatic representation in the US: | chancery: 2720 34th Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 333-6000 |
+| Diplomatic representation in the US: | FAX: [1] (202) 337-0870 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, Miami, Minneapolis, New York, and San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador David B. HERMELIN |
+| Diplomatic representation from the US: | embassy: Drammensveien 18, 0244 Oslo |
+| Diplomatic representation from the US: | mailing address: PSC 69, Box 1000, APO AE 09707 |
+| Diplomatic representation from the US: | telephone: [47] (22) 44 85 50 |
+| Diplomatic representation from the US: | FAX: [47] (22) 43 07 77 |
+| Flag description: | red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag) |

@@ -1,0 +1,70 @@
+| Government | Czechia |
+| --- | --- |
+| Country name: | conventional long form: Czech Republic |
+| Country name: | conventional short form: Czechia |
+| Country name: | local long form: Ceska republika |
+| Country name: | local short form: Cesko |
+| Country name: | etymology: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016 |
+| Government type: | parliamentary republic |
+| Capital: | name: Prague |
+| Capital: | geographic coordinates: 50 05 N, 14 28 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | etymology: the name may derive from an old Slavic root "praga" or "prah", meaning "ford", and refer to the city's origin at a crossing point of the Vltava (Moldau) River |
+| Administrative divisions: | 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin) |
+| Independence: | 1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia); note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day |
+| National holiday: | Czechoslovak Founding Day, 28 October (1918) |
+| Constitution: | history: previous 1960; latest ratified 16 December 1992, effective 1 January 1993 |
+| Constitution: | amendments: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2013 |
+| Legal system: | new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Czechia |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Milos ZEMAN (since 8 March 2013) |
+| Executive branch: | head of government: Prime Minister Andrej BABIS (since 13 December 2017); First Deputy Prime Minister Jan HAMACEK (since 27 June 2018), Deputy Prime Minister Alena SCHILLEROVA (since 30 April 2019) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term |
+| Executive branch: | election results: Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6% |
+| Legislative branch: | description: bicameral Parliament or Parlament consists of: |
+| Legislative branch: | Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years) |
+| Legislative branch: | Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022) |
+| Legislative branch: | Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4 |
+| Legislative branch: | Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6% |
+| Judicial branch: | highest courts: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms |
+| Judicial branch: | subordinate courts: High Court; regional and district courts |
+| Political parties and leaders: | Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Pavel BELOBRADEK] |
+| Political parties and leaders: | Civic Democratic Party or ODS [Petr FIALA] |
+| Political parties and leaders: | Communist Party of Bohemia and Moravia or KSCM [Vojtech FILIP] |
+| Political parties and leaders: | Czech Social Democratic Party or CSSD [Jan HAMACEK] |
+| Political parties and leaders: | Freedom and Direct Democracy or SPD [Tomio OKAMURA] |
+| Political parties and leaders: | Green Party or SZ [Petr STEPANEK] |
+| Political parties and leaders: | Mayors and Independents or STAN [Petr GAZDIK] |
+| Political parties and leaders: | Movement of Dissatisfied Citizens or ANO [Andrej BABIS] |
+| Political parties and leaders: | Party of Civic Rights or SPO [Lubomir NECAS] |
+| Political parties and leaders: | Pirate Party or Pirates [Ivan BARTOS] |
+| Political parties and leaders: | Tradition Responsibility Prosperity 09 or TOP 09 [Jiri POSPISIL] |
+| International organization participation: | Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Hynek KMONICEK (since 24 April 2017) |
+| Diplomatic representation in the US: | chancery: 3900 Spring of Freedom Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 274-9100 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-8540 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Stephen B. KING (since 6 December 2017) |
+| Diplomatic representation from the US: | telephone: [420] 257 022 000 |
+| Diplomatic representation from the US: | embassy: Trziste 15, 118 01 Prague 1 - Mala Strana |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | FAX: [420] 257 022 809 |
+| Flag description: | two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side |
+| Flag description: | note: combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia |
+| National symbol(s): | silver (or white), double-tailed, rampant lion; national colors: white, red, blue |
+| National anthem: | name: "Kde domov muj?" (Where is My Home?) |
+| National anthem: | lyrics/music: Josef Kajetan TYL/Frantisek Jan SKROUP |
+| National anthem: | note: adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993 |

@@ -1,0 +1,51 @@
+| Government | QATAR |
+| --- | --- |
+| Country name: | conventional long form: State of Qatar |
+| Country name: | conventional short form: Qatar |
+| Country name: | local long form: Dawlat Qatar |
+| Country name: | local short form: Qatar |
+| Country name: | note: closest approximation of the native pronunciation is gattar or cottar |
+| Country name: | etymology: the origin of the name is uncertain, but it dates back at least 2,000 years since a term "Catharrei" was used to describe the inhabitants of the peninsula by Pliny the Elder (1st century A.D.), and a "Catara" peninsula is depicted on a map by Ptolemy (2nd century A.D.) |
+| Government type: | absolute monarchy |
+| Capital: | name: Doha |
+| Capital: | geographic coordinates: 25 17 N, 51 32 E |
+| Capital: | time difference: UTC+3 (8 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 8 municipalities (baladiyat, singular - baladiyah); Ad Dawhah, Al Khawr wa adh Dhakhirah, Al Wakrah, Ar Rayyan, Ash Shamal, Ash Shihaniyah, Az Za'ayin, Umm Salal |
+| Independence: | 3 September 1971 (from the UK) |
+| National holiday: | National Day, 18 December (1878), anniversary of Al Thani family accession to the throne; Independence Day, 3 September (1971) |
+| Constitution: | previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005 (2016) |
+| Legal system: | mixed legal system of civil law and Islamic law (in family and personal matters) |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: the father must be a citizen of Qatar |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 20 years; 15 years if an Arab national |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Amir TAMIM bin Hamad Al Thani (since 25 June 2013) |
+| Executive branch: | head of government: Prime Minister ABDALLAH bin Nasir bin Khalifa Al Thani (since 26 June 2013); Deputy Prime Minister Ahmad bin Abdallah al-MAHMUD (since 20 September 2011) |
+| Executive branch: | cabinet: Council of Ministers appointed by the amir |
+| Executive branch: | elections/appointments: the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir |
+| Legislative branch: | description: unicameral Advisory Council or Majlis al-Shura (15 seats; members appointed by the monarch); note - the 2003 constitutional referendum called for the election of 30 members, however; the first election scheduled for 2013 was postponed and the current term was initially extended until 2016, but in June 2016, the Amir extended it until at least 2019 |
+| Legislative branch: | note: although the Advisory Council has limited legislative authority to draft and approve laws, the Amir has final vote on all legislation; Qatar's first legislative elections were expected to be held in 2013, but HAMAD postponed them in a final legislative act prior to handing over power to TAMIM; in principle, the public would elect 30 members and the Amir would appoint 15; the Advisory Council would have authority to approve the national budget, hold ministers accountable through no-confidence votes, and propose legislation; the 29-member Central Municipal Council - first elected in 1999 - has limited consultative authority aimed at improving municipal services; members elected for a 4-year term; next election scheduled for May 2019 |
+| Judicial branch: | highest court(s): Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges nominated by the Supreme Judiciary Council, a 9-member independent body consisting of judiciary heads appointed by the Amir; judges appointed for 3-year renewable terms; Supreme Constitutional Court members nominated by the Supreme Judiciary Council and appointed by the monarch; term of appointment NA |
+| Judicial branch: | subordinate courts: Courts of Appeal; Administrative Court; courts of first instance; sharia courts; Courts of Justice; Qatar International Court and Dispute Resolution Center, established in 2009, provides dispute services for institutions and bodies in Qatar, as well as internationally |
+| Political parties and leaders: | political parties are banned |
+| Political pressure groups and leaders: | none |
+| International organization participation: | ABEDA, AFESD, AMF, CAEU, CD, CICA (observer), EITI (implementing country), FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OAS (observer), OIC, OIF, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Muhammad bin Jaham Abd al-Aziz al-KUWARI (since 10 March 2014) |
+| Diplomatic representation in the US: | chancery: 2555 M Street NW, Washington, DC 20037 |
+| Diplomatic representation in the US: | telephone: [1] (202) 274-1600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 237-0682 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, Los Angeles |
+| Diplomatic representation from the US: | chief of mission: Ambassador Dana Shell SMITH (since 8 September 2014) |
+| Diplomatic representation from the US: | embassy: 22 February Road, Al Luqta District, Doha |
+| Diplomatic representation from the US: | mailing address: P. O. Box 2399, Doha |
+| Diplomatic representation from the US: | telephone: [974] 4496-6000 |
+| Diplomatic representation from the US: | FAX: [974] 4488-4298 |
+| Flag description: | maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916 |
+| Flag description: | note: the other eight emirates are the seven that compose the UAE and Bahrain; according to some sources, the dominant color was formerly red, but this darkened to maroon upon exposure to the sun and the new shade was eventually adopted |
+| National symbol(s): | a maroon field surmounted by a white serrated band with nine white points; national colors: maroon, white |
+| National anthem: | name: "Al-Salam Al-Amiri" (The Amiri Salute) |
+| National anthem: | lyrics/music: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN |
+| National anthem: | note: adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council hosted by Qatar |

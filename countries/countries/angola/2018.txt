@@ -1,0 +1,57 @@
+| Government | Angola |
+| --- | --- |
+| Country name: | conventional long form: Republic of Angola |
+| Country name: | conventional short form: Angola |
+| Country name: | local long form: Republica de Angola |
+| Country name: | local short form: Angola |
+| Country name: | former: People's Republic of Angola |
+| Country name: | etymology: name derived by the Portuguese from the title "ngola" held by kings of the Ndongo (Ndongo was a kingdom in what is now northern Angola) |
+| Government type: | presidential republic |
+| Capital: | name: Luanda |
+| Capital: | geographic coordinates: 8 50 S, 13 13 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda |
+| Administrative divisions: | 18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cunene, Huambo, Huila, Kwando Kubango, Kwanza Norte, Kwanza Sul, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uige, Zaire |
+| Independence: | 11 November 1975 (from Portugal) |
+| National holiday: | Independence Day, 11 November (1975) |
+| Constitution: | history: previous 1975, 1992; latest passed by National Assembly 21 January 2010, adopted 5 February 2010 (2017) |
+| Constitution: | amendments: proposed by the president of the republic or supported by at least one-third of the National Assembly membership; passage requires at least two-thirds majority vote of the Assembly subject to prior Constitutional Court review if requested by the president of the republic (2017) |
+| Legal system: | civil legal system based on Portuguese civil law; no judicial review of legislation |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Angola |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 10 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the president upon recommendation of the Supreme Judicial Council, an 18-member body chaired by the president; judge tenure NA; Constitutional Court judges - 4 nominated by the president, 4 elected by National Assembly, 2 elected by Supreme National Council, 1 elected by competitive submission of curricula; judges serve single 7-year terms |
+| Judicial branch: | subordinate courts: provincial and municipal courts |
+| Executive branch: | chief of state: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections/appointments: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 2022) |
+| Executive branch: | election results: Joao Manuel Goncalves LOURENCO (MPLA) elected president by the winning party following the 23 August 2017 general election |
+| Legislative branch: | description: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 23 August 2017 (next to be held in August 2022) |
+| Legislative branch: | election results: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2% |
+| Political parties and leaders: | Broad Convergence for the Salvation of Angola Electoral Coalition or CASA-CE [Abel CHIVUKUVUKU] |
+| Political parties and leaders: | National Front for the Liberation of Angola or FNLA; note - party has two factions; one led by Lucas NGONDA; the other by Ngola KABANGU |
+| Political parties and leaders: | National Union for the Total Independence of Angola or UNITA [Isaias SAMAKUVA] (largest opposition party) |
+| Political parties and leaders: | Popular Movement for the Liberation of Angola or MPLA [Joao LOURENCO]; note - Jose Eduardo DOS SANTOS stepped down 8 Sept 2018 ruling party in power since 1975 |
+| Political parties and leaders: | Social Renewal Party or PRS [Benedito DANIEL] |
+| International organization participation: | ACP, AfDB, AU, CEMAC, CPLP, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OPEC, SADC, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Agostinho Tavares da Silva NETO (since 18 November 2014) |
+| Diplomatic representation in the US: | chancery: 2100-2108 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 785-1156 |
+| Diplomatic representation in the US: | FAX: [1] (202) 822-9049 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Nina Maria FITE (14 February 2018) |
+| Diplomatic representation from the US: | embassy: number 32 Rua Houari Boumedienne (in the Miramar area of Luanda), Luanda, C.P. 6468, Angola |
+| Diplomatic representation from the US: | mailing address: international mail: Caixa Postal 6468, Luanda; pouch: US Embassy Luanda, US Department of State, 2550 Luanda Place, Washington, DC 20521-2550 |
+| Diplomatic representation from the US: | telephone: [244] 946440977 |
+| Diplomatic representation from the US: | FAX: [244] (222) 64-1000 |
+| Flag description: | two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a 5-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants |
+| National symbol(s): | Palanca Negra Gigante (giant black sable antelope); national colors: red, black, yellow |
+| National anthem: | name: "Angola Avante" (Forward Angola) |
+| National anthem: | lyrics/music: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO |
+| National anthem: | note: adopted 1975 |

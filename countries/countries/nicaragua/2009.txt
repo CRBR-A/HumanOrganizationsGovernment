@@ -1,0 +1,39 @@
+| Government | Nicaragua |
+| --- | --- |
+| Country name: | conventional long form: Republic of Nicaragua |
+| Country name: | conventional short form: Nicaragua |
+| Country name: | local long form: Republica de Nicaragua |
+| Country name: | local short form: Nicaragua |
+| Government type: | republic |
+| Capital: | name: Managua |
+| Capital: | geographic coordinates: 12 09 N, 86 17 W |
+| Capital: | time difference: UTC-6 (1 hour behind Washington, DC during Standard Time) |
+| Administrative divisions: | 15 departments (departamentos, singular - departamento) and 2 autonomous regions* (regiones autonomistas, singular - region autonoma); Atlantico Norte*, Atlantico Sur*, Boaco, Carazo, Chinandega, Chontales, Esteli, Granada, Jinotega, Leon, Madriz, Managua, Masaya, Matagalpa, Nueva Segovia, Rio San Juan, Rivas |
+| Independence: | 15 September 1821 (from Spain) |
+| National holiday: | Independence Day, 15 September (1821) |
+| Constitution: | 9 January 1987; revised in 1995, 2000, and 2005 |
+| Legal system: | civil law system; Supreme Court may review administrative acts; accepts compulsory ICJ jurisdiction |
+| Suffrage: | 16 years of age; universal |
+| Executive branch: | chief of state: President Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Jaime MORALES Carazo (since 10 January 2007); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Jaime MORALES Carazo (since 10 January 2007) |
+| Executive branch: | cabinet: Council of Ministers appointed by the president |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for a five-year term (eligible for a second term so long as it is not consecutive); election last held 5 November 2006 (next to be held by November 2011) |
+| Executive branch: | election results: Daniel ORTEGA Saavedra elected president - 38.07%, Eduardo MONTEALEGRE 29%, Jose RIZO 26.21%, Edmundo JARQUIN 6.44% |
+| Legislative branch: | unicameral National Assembly or Asamblea Nacional (92 seats; 90 members are elected by proportional representation and party lists to serve five-year terms; 1 seat for the previous president, 1 seat for the runner-up in previous presidential election) |
+| Legislative branch: | elections: last held 5 November 2006 (next to be held by November 2011) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - FSLN 38, PLC 25, ALN 23 (22 plus one for presidential candidate Eduardo MONTEALEGRE, runner-up in the 2006 presidential election), MRS 5, APRE 1 (outgoing President Enrique BOLANOS); note - as of 1 January 2009: seats by party - FSLN 38, PLC 25, BDN 15, ALN 6, MRS 3, APRE 1, Independent 4 |
+| Judicial branch: | Supreme Court or Corte Suprema de Justicia (16 judges elected for five-year terms by the National Assembly) |
+| Political parties and leaders: | Conservative Party or PC [Azalia AVILES Salmeron]; Liberal Constitutionalist Party or PLC [Jorge CASTILLO Quant]; Nicaraguan Democratic Bloc or BDN [Eduardo MONTEALEGRE]; Nicaraguan Liberal Alliance or ALN [Eliseo NUNEZ Sr.]; Sandinista National Liberation Front or FSLN [Daniel ORTEGA Saavedra]; Sandinista Renovation Movement or MRS [Enrique SAENZ Navarrete] |
+| Political pressure groups and leaders: | National Workers Front or FNT (a Sandinista umbrella group of eight labor unions including: Farm Workers Association or ATC, Health Workers Federation or FETASALUD, Heroes and Martyrs Confederation of Professional Associations or CONAPRO, National Association of Educators of Nicaragua or ANDEN, National Union of Employees or UNE, National Union of Farmers and Ranchers or UNAG, Sandinista Workers Central or CST, and Union of Journalists of Nicaragua or UPN); Permanent Congress of Workers or CPT (an umbrella group of four non-Sandinista labor unions including: Autonomous Nicaraguan Workers Central or CTN-A, Confederation of Labor Unification or CUS, Independent General Confederation of Labor or CGT-I, and Labor Action and Unity Central or CAUS); Nicaraguan Workers' Central or CTN (an independent labor union); Superior Council of Private Enterprise or COSEP (a confederation of business groups) |
+| International organization participation: | BCIE, CACM, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC, LAES, LAIA (observer), MIGA, NAM, OAS, OPANAL, OPCW, PCA, RG, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador (vacant); Charges d'Affaires Alcides J. MONTIEL Barillas |
+| Diplomatic representation in the US: | chancery: 1627 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-6570, 6573 |
+| Diplomatic representation in the US: | FAX: [1] (202) 939-6545 |
+| Diplomatic representation in the US: | consulate(s) general: Houston, Los Angeles, Miami, New York, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robert J. CALLAHAN |
+| Diplomatic representation from the US: | embassy: Kilometer 5.5 Carretera Sur, Managua |
+| Diplomatic representation from the US: | mailing address: American Embassy Managua, APO AA 34021 |
+| Diplomatic representation from the US: | telephone: [505] 252-7100, 252-7888; 252-7634 (after hours) |
+| Diplomatic representation from the US: | FAX: [505] 252-7304 |
+| Flag description: | three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band |

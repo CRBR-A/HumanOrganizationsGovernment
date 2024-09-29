@@ -1,0 +1,41 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: United Kingdom of Great Britain and Northern Ireland |
+| Country name: | conventional short form: United Kingdom |
+| Country name: | abbreviation: UK |
+| Data code: | UK |
+| Government type: | constitutional monarchy |
+| Capital: | London |
+| Administrative divisions: | 47 counties, 7 metropolitan counties, 26 districts, 9 regions, and 3 islands areas; England - 39 counties, 7 metropolitan counties*; Avon, Bedford, Berkshire, Buckingham, Cambridge, Cheshire, Cleveland, Cornwall, Cumbria, Derby, Devon, Dorset, Durham, East Sussex, Essex, Gloucester, Greater London*, Greater Manchester*, Hampshire, Hereford and Worcester, Hertford, Humberside, Isle of Wight, Kent, Lancashire, Leicester, Lincoln, Merseyside*, Norfolk, Northampton, Northumberland, North Yorkshire, Nottingham, Oxford, Shropshire, Somerset, South Yorkshire*, Stafford, Suffolk, Surrey, Tyne and Wear*, Warwick, West Midlands*, West Sussex, West Yorkshire*, Wiltshire; Northern Ireland - 26 districts; Antrim, Ards, Armagh, Ballymena, Ballymoney, Banbridge, Belfast, Carrickfergus, Castlereagh, Coleraine, Cookstown, Craigavon, Down, Dungannon, Fermanagh, Larne, Limavady, Lisburn, Londonderry, Magherafelt, Moyle, Newry and Mourne, Newtownabbey, North Down, Omagh, Strabane; Scotland - 9 regions, 3 islands areas*; Borders, Central, Dumfries and Galloway, Fife, Grampian, Highland, Lothian, Orkney*, Shetland*, Strathclyde, Tayside, Western Isles*; Wales - 8 counties; Clwyd, Dyfed, Gwent, Gwynedd, Mid Glamorgan, Powys, South Glamorgan, West Glamorgan |
+| note: | England may now have 35 counties and Wales 9 counties |
+| Dependent areas: | Anguilla, Bermuda, British Indian Ocean Territory, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Guernsey, Jersey, Isle of Man, Montserrat, Pitcairn Islands, Saint Helena, South Georgia and the South Sandwich Islands, Turks and Caicos Islands |
+| Independence: | England has existed as a unified entity since the 10th century; the union between England and Wales was enacted under the Statute of Rhuddlan in 1284; in the Act of Union of 1707, England and Scotland agreed to permanent union as Great Britain; the legislative union of Great Britain and Ireland was implemented in 1801, with the adoption of the name the United Kingdom of Great Britain and Ireland; the Anglo-Irish treaty of 1921 formalized a partition of Ireland; six northern Irish counties remained part of the United Kingdom as Northern Ireland and the current name of the country, the United Kingdom of Great Britain and Northern Ireland, was adopted in 1927 |
+| National holiday: | Celebration of the Birthday of the Queen (second Saturday in June) |
+| Constitution: | unwritten; partly statutes, partly common law and practice |
+| Legal system: | common law tradition with early Roman and modern continental influences; no judicial review of Acts of Parliament; accepts compulsory ICJ jurisdiction, with reservations; British courts and legislation are increasingly subject to review by European Union courts |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen ELIZABETH II (since 6 February 1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November 1948) |
+| Executive branch: | head of government: Prime Minister Anthony C. L. (Tony) BLAIR (since 2 May 1997) |
+| Executive branch: | cabinet: Cabinet of Ministers appointed by the prime minister |
+| Executive branch: | elections: none; the monarch is hereditary; the prime minister is the leader of the majority party in the House of Commons (assuming there is no majority party, a prime minister would have a majority coalition or at least a coalition that was not rejected by the majority) |
+| Legislative branch: | bicameral Parliament consists of House of Lords (the old House of Lords has been disbanded, and the new one is still being formed; the most likely plan calls for 500 members, one-fifth elected and the rest appointed) and House of Commons (659 seats; members are elected by popular vote to serve five-year terms unless the House is dissolved earlier) |
+| elections: | House of Lords - no elections; note - the newly-forming House of Lords may call for some elected seats; House of Commons - last held 1 May 1997 (next to be held by NA May 2002); note - in 1998 elections were held for a Northern Ireland Parliament (because of unresolved disputes among existing parties, the transfer of power from London to Northern Ireland came only at the end of 1999 and was rescinded in February 2000); in 1999 there were elections for a new Scottish Parliament and a new Welsh Assembly |
+| election results: | House of Commons - percent of vote by party - Labor 45%, Conservative and Unionist 31%, Liberal Democratic 17%, other 7%; seats by party - Labor 418, Conservative and Unionist 165, Liberal Democrat 46, other 30 |
+| note: | in 1999, the government ended the right of most hereditary members, except for life members and 92 hereditary members, to sit in the House of Lords; they will sit until final reforms are made |
+| Judicial branch: | House of Lords, several Lords of Appeal in Ordinary are appointed by the monarch for life |
+| Political parties and leaders: | Alliance Party (Northern Ireland) [Seamus CLOSE]; Conservative and Unionist Party [William HAGUE]; Democratic Unionist Party (Northern Ireland) [Rev. Ian PAISLEY]; Labor Party [Anthony (Tony) Blair]; Liberal Democrats [Charles KENNEDY]; Scottish National Party [Alex SALMOND]; Sinn Fein (Northern Ireland) [Gerry ADAMS]; Social Democratic and Labor Party or SDLP (Northern Ireland) [John HUME]; Ulster Unionist Party (Northern Ireland) [David TRIMBLE]; Welsh National Party (Plaid Cymru) [Dafydd Iwan WIGLEY] |
+| Political pressure groups and leaders: | Campaign for Nuclear Disarmament; Confederation of British Industry; National Farmers' Union; Trades Union Congress |
+| International organization participation: | AfDB, AsDB, Australia Group, BIS, C, CCC, CDB (non-regional), CE, CERN, EAPC, EBRD, ECA (associate), ECE, ECLAC, EIB, ESA, ESCAP, EU, FAO, G- 5, G- 7, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat, Interpol, IOC, IOM (observer), ISO, ITU, MONUC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, SPC, UN, UN Security Council, UNAMSIL, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIKOM, UNMIBH, UNMIK, UNOMIG, UNRWA, UNTAET, UNU, UPU, WCL, WEU, WHO, WIPO, WMO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sir Christopher J. R. MEYER |
+| Diplomatic representation in the US: | chancery: 3100 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-6500 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-7870 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Boston, Chicago, Cleveland, Houston, Los Angeles, New York, and San Francisco |
+| Diplomatic representation in the US: | consulate(s): Dallas, Miami, and Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador Philip LADER |
+| Diplomatic representation from the US: | embassy: 24/31 Grosvenor Square, London, W. 1A1AE |
+| Diplomatic representation from the US: | mailing address: PSC 801, Box 40, FPO AE 09498-4040 |
+| Diplomatic representation from the US: | telephone: [44] (171) 499-9000 |
+| Diplomatic representation from the US: | FAX: [44] (171) 409-1637 |
+| Diplomatic representation from the US: | consulate(s) general: Belfast, Edinburgh |
+| Flag description: | blue with the red cross of Saint George (patron saint of England) edged in white superimposed on the diagonal red cross of Saint Patrick (patron saint of Ireland) and which is superimposed on the diagonal white cross of Saint Andrew (patron saint of Scotland); known as the Union Flag or Union Jack; the design and colors (especially the Blue Ensign) have been the basis for a number of other flags including other Commonwealth countries and their constituent states or provinces, as well as British overseas territories |

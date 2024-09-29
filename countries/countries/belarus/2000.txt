@@ -1,0 +1,40 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Belarus |
+| Country name: | conventional short form: Belarus |
+| Country name: | local long form: Respublika Byelarus' |
+| Country name: | local short form: none |
+| Country name: | former: Belorussian (Byelorussian) Soviet Socialist Republic |
+| Data code: | BO |
+| Government type: | republic |
+| Capital: | Minsk |
+| Administrative divisions: | 6 voblastsi (singular - voblasts') and one municipality* (harady, singular - horad); Brestskaya (Brest), Homyel'skaya (Homyel'), Horad Minsk*, Hrodzyenskaya (Hrodna), Mahilyowskaya (Mahilyow), Minskaya, Vitsyebskaya (Vitsyebsk) |
+| note: | voblasti have the administrative center name following in parentheses |
+| Independence: | 25 August 1991 (Belarusian Supreme Soviet declaration of independence from the Soviet Union) |
+| National holiday: | Independence Day, 3 July (1944); note - represents Minsk liberation from German occupation |
+| Constitution: | 30 March 1994; revised by national referendum of 24 November 1996 giving the presidency greatly expanded powers and became effective 27 November 1996 |
+| Legal system: | based on civil law system |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Aleksandr LUKASHENKO (since 20 July 1994) |
+| Executive branch: | head of government: Prime Minister Sergey LING (acting since 18 November 1996, confirmed 19 February 1997); First Deputy Prime Minister Vasiliy DOLGOLEV (since 2 December 1998); Deputy Prime Ministers Vladimir ZAMETALIN (since 15 July 1997), Ural LATYPOV (since 30 December 1997), Gennadiy NOVITSKIY (since 11 February 1997), Leonid KOZIK (since 4 February 1997), Aleksandr POPKOV (since 10 November 1998) |
+| Executive branch: | cabinet: Council of Ministers |
+| Executive branch: | elections: president elected by popular vote for a five-year term; election last held 24 June and 10 July 1994 (next to be held NA; according to the 1994 constitution, the next election should have been held in 1999, however LUKASHENKO extended his term to 2001 via the November 1996 referendum); prime minister and deputy prime ministers appointed by the president |
+| Executive branch: | election results: Aleksandr LUKASHENKO elected president; percent of vote - Aleksandr LUKASHENKO 85%, Vyacheslav KEBICH 15% |
+| Executive branch: | note: first presidential elections took place in June-July 1994 |
+| Legislative branch: | bicameral Parliament or Natsionalnoye Sobranie consists of the Council of the Republic or Soviet Respubliki (64 seats; eight appointed by the president and 56 indirectly elected by deputies of local councils for four-year terms) and the Chamber of Representatives or Palata Pretsaviteley (110 seats; note - present members came from the former Supreme Soviet which LUKASHENKO disbanded in November 1996) |
+| elections: | last held May and November-December 1995 (two rounds, each with a run-off; disbanded after the November 1996 referendum; next to be held NA) |
+| election results: after the November 1996 referendum, seats for the Chamber of Representatives were filled by former Supreme Soviet members as follows: | PKB 24, Agrarian 14, Party of Peoples Concord 5, LDPB 1, UPNAZ 1, Green World Party 1, Belarusian Social Sports Party 1, Ecological Party 1, Republican Party of Labor and Justice 1, independents 61; 58 of the 64 seats in the Council of the Republic have been appointed/elected |
+| Judicial branch: | Supreme Court, judges are appointed by the president; Constitutional Court, half of the judges appointed by the president and half appointed by the Chamber of Representatives |
+| Political parties and leaders: | Agrarian Party [Aleksandr PAVLOV, acting chairman]; Belarusian Communist Party or KPB [Viktor CHIKIN, chairman]; Belarusian Green Party or BPZ [Mikalay KARTASH, chairman]; Belarusian Labor Party or BPP [Aleksandr BUKHVOSTOV, chairman]; Belarusian Patriotic Movement (Belarusian Patriotic Party) or BPR [Anatoliy BARANKEVICH, chairman]; Belarusian Popular Front or BNF [Vintsuk VYACHORKA, chairman]; Belarusian Social-Democrat or SDBP [Nikolay STATKEVICH, chairman]; Belarusian Social-Democratic Party Hramada [Stanislav SHUSHKEVICH, chairman]; Belarusian Social Sports Party or BSSP [Aleksandr ALEKSANDROVICH, chairman]; Belarusian Socialist Party [Vyacheslav KUZNETSOV]; Civic Accord Bloc (United Civic Party) or CAB [Stanislav BOGDANKEVICH, chairman]; Ecological Party or BEP [Liudmila YELIZAROVA, chairperson]; Liberal-Democratic Party or LDPB [Sergei GAYDUKEVICH, chairman]; Party of All-Belarusian Unity and Concord or UPNAZ [Dmitriy BULAKOV, chairman]; Party of Communists Belarusian or PKB [Sergei KALYAKIN, chairman]; Party of Popular Accord or PPA [Leanid SECHKA]; Republican Party of Labor and Justice or RPPS [Anatoliy NETYLKIN, chairman]; Women's Party Nadezhda [Valentina POLEVIKOVA, chairperson] |
+| International organization participation: | CCC, CEI, CIS, EAPC, EBRD, ECE, IAEA, IBRD, ICAO, ICRM, IFC, IFRCS, ILO, IMF, Inmarsat, Intelsat (nonsignatory user), Interpol, IOC, IOM (observer), ISO, ITU, NAM, OPCW, OSCE, PCA, PFP, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTrO (applicant) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Valery TSEPAKO |
+| Diplomatic representation in the US: | chancery: 1619 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 986-1604 |
+| Diplomatic representation in the US: | FAX: [1] (202) 986-1805 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Daniel V. SPECKHARD |
+| Diplomatic representation from the US: | embassy: Starovilenskaya #46-220002, Minsk |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [375] (17) 231-5000 |
+| Diplomatic representation from the US: | FAX: [375] (17) 234-7853 |
+| Flag description: | red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears the Belarusian national ornament in red |

@@ -1,0 +1,53 @@
+| Government | Guinea-Bissau |
+| --- | --- |
+| Country name: | conventional long form: Republic of Guinea-Bissau |
+| Country name: | conventional short form: Guinea-Bissau |
+| Country name: | local long form: Republica da Guine-Bissau |
+| Country name: | local short form: Guine-Bissau |
+| Country name: | former: Portuguese Guinea |
+| Country name: | etymology: the country is named after the Guinea region of West Africa that lies along the Gulf of Guinea and stretches north to the Sahel; "Bissau," the name of the capital city, distinguishes the country from neighboring Guinea |
+| Government type: | semi-presidential republic |
+| Capital: | name: Bissau |
+| Capital: | geographic coordinates: 11 51 N, 15 35 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the meaning of Bissau is uncertain, it might be an alternative name for the Papel people who live in the area of the city of Bissau |
+| Administrative divisions: | 9 regions (regioes, singular - regiao); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali |
+| Independence: | 24 September 1973 (declared); 10 September 1974 (from Portugal) |
+| National holiday: | Independence Day, 24 September (1973) |
+| Constitution: | history: promulgated 16 May 1984; note - constitution suspended following military coup in April 2012 and restored in 2014 |
+| Constitution: | amendments: proposed by the National Peopleâ€™s Assembly if supported by at least one third of its members, by the Council of State (a presidential consultant body), or by the government; passage requires approval by at least two-thirds majority vote of the Assembly; constitutional articles on the republican and secular form of government and national sovereignty cannot be amended; amended 1991, 1993, 1996 |
+| Legal system: | mixed legal system of civil law, which incorporated Portuguese law at independence and influenced by Economic Community of West African States (ECOWAS), West African Economic and Monetary Union (UEMOA), African Francophone Public Law, and customary law |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Â President Umaro Cissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission; however, on 28 February 2020, Cipriano CASSAMA was appointed as interim president by the parliament until the Supreme Court rules on the legitimacy of the elections due to alleged irregularities in voting; CASSAMA resigned the following day stating he had received death threatsÂ  |
+| Executive branch: | head of government: Prime Minister Nuno NABIAM (since 27 February 2020) |
+| Executive branch: | cabinet: Cabinet nominated by the prime minister, appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term, nor during the 5 years following the end of the second term |
+| Executive branch: | election results: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5% |
+| Legislative branch: | description: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (1 for Africa, 1 for Europe); all members serve 4-year terms) |
+| Legislative branch: | elections: last held on 10 March 2019 (next to be held in March 2023) |
+| Legislative branch: | election results: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7% |
+| Judicial branch: | highest courts: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction |
+| Judicial branch: | judge selection and term of office: judges nominated by the Higher Council of the Magistrate, a major government organ responsible for judge appointments, dismissals, and judiciary discipline; judges appointed by the president for life |
+| Judicial branch: | subordinate courts: Appeals Court; regional (first instance) courts; military court |
+| Political parties and leaders: | African Party for the Independence of Guinea-Bissau and Cabo Verde or PAIGC [Domingos SIMOES PEREIRA] |
+| Political parties and leaders: | Democratic Convergence Party or PCD [Vicente FERNANDES] |
+| Political parties and leaders: | Movement for Democratic Alternation Group of 15 or MADEM-G15 [Braima CAMARA] |
+| Political parties and leaders: | National Peopleâ€™s Assembly â€“ Democratic Party of Guinea Bissau or APU-PDGB [Nuno Gomes NABIAM] |
+| Political parties and leaders: | New Democracy Party or PND [Mamadu Iaia DJALO] |
+| Political parties and leaders: | Party for Social Renewal or PRS [Alberto NAMBEIA] |
+| Political parties and leaders: | Republican Party for Independence and Development or PRID [Aristides GOMES] |
+| Political parties and leaders: | Union for Change or UM [Agnelo REGALA] |
+| International organization participation: | ACP, AfDB, AOSIS, AU, CPLP, ECOWAS, FAO, FZ, G-77, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | none; note - Guinea-Bissau does not have official representation in Washington, DC |
+| Diplomatic representation from the US: | the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau |
+| Flag description: | two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; there is a black five-pointed star centered in the red band; yellow symbolizes the sun; green denotes hope; red represents blood shed during the struggle for independence; the black star stands for African unity |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia; the flag design was heavily influenced by the Ghanaian flag |
+| National symbol(s): | black star; national colors: red, yellow, green, black |
+| National anthem: | name: "Esta e a Nossa Patria Bem Amada" (This Is Our Beloved Country) |
+| National anthem: | lyrics/music: Amilcar Lopes CABRAL/XIAO He |
+| National anthem: | note: adopted 1974; a delegation from then Portuguese Guinea visited China in 1963 and heard music by XIAO He; Amilcar Lopes CABRAL, the leader of Guinea-Bissau's independence movement, asked the composer to create a piece that would inspire his people to struggle for independence |

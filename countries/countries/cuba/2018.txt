@@ -1,0 +1,53 @@
+| Government | Cuba |
+| --- | --- |
+| Country name: | conventional long form: Republic of Cuba |
+| Country name: | conventional short form: Cuba |
+| Country name: | local long form: Republica de Cuba |
+| Country name: | local short form: Cuba |
+| Country name: | etymology: name derives from the Taino Indian designation for the island "coabana" meaning "great place" |
+| Government type: | communist state |
+| Capital: | name: Havana |
+| Capital: | geographic coordinates: 23 07 N, 82 21 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins second Sunday in March; ends first Sunday in November; note - Cuba has been known to alter the schedule of DST on short notice in an attempt to conserve electricity for lighting |
+| Administrative divisions: | 15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana, Las Tunas, Matanzas, Mayabeque, Pinar del Rio, Sancti Spiritus, Santiago de Cuba, Villa Clara |
+| Independence: | 20 May 1902 (from Spain 10 December 1898; administered by the US from 1898 to 1902); not acknowledged by the Cuban Government as a day of independence |
+| National holiday: | Triumph of the Revolution (Liberation Day), 1 January (1959) |
+| Constitution: | history: several previous; latest adopted by referendum 15 February 1976, effective 24 February 1976; note - in early June 2018, the Cuban Government announced that Raul CASTRO would head a commission to rewrite the country's constitution (2018) |
+| Constitution: | amendments: proposed by the National Assembly of Peopleâ€™s Power; passage requires approval of at least two-thirds majority of the National Assembly membership; amendments to constitutional articles on the authorities of the National Assembly, Council of State, or any rights and duties in the constitution also require approval in a referendum; constitutional articles on the Cuban political, social, and economic system cannot be amended; amended 1978, 1992, 2002 (2018) |
+| Legal system: | civil law system based on Spanish civil code |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: yes |
+| Citizenship: | citizenship by descent only: yes |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: unknown |
+| Suffrage: | 16 years of age; universal |
+| Judicial branch: | highest courts: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts) |
+| Judicial branch: | judge selection and term of office: professional judges elected by the National Assembly are not subject to a specific term; lay judges nominated by workplace collectives and neighborhood associations and elected by municipal or provincial assemblies; lay judges appointed for 5-year terms and serve up to 30 days per year |
+| Judicial branch: | subordinate courts: People's Provincial Courts; People's Regional Courts; People's Courts |
+| Executive branch: | chief of state: President of the Council of State and President of the Council of Ministers Miguel DIAZ-CANEL Bermudez (since 19 April 2018); First Vice President of the Council of State and First Vice President of the Council of Ministers Salvador Antonio VALDES Mesa (since 19 April 2018); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President of the Council of State and President of the Council of Ministers Miguel DIAZ-CANEL Bermudez (since 19 April 2018); First Vice President of the Council of State and First Vice President of the Council of Ministers Salvador Antonio VALDES Mesa (since 19 April 2018) |
+| Executive branch: | cabinet: Council of Ministers proposed by the president of the Council of State and appointed by the National Assembly; it is subordinate to the 31-member Council of State, which is elected by the Assembly to act on its behalf when it is not in session |
+| Executive branch: | elections/appointments: president and vice presidents indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 19 April 2018 (next to be held in 2023) |
+| Executive branch: | election results: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 100% |
+| Legislative branch: | description: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; members directly elected by absolute majority vote; members serve 5-year terms); note - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election |
+| Legislative branch: | elections: last held on 11 March 2018 (next to be held in early 2023) |
+| Legislative branch: | election results: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed |
+| Political parties and leaders: | Cuban Communist Party or PCC [Raul CASTRO Ruz] |
+| International organization participation: | ACP, ALBA, AOSIS, CELAC, FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jose Ramon CABANAS Rodriguez (since 17 September 2015) |
+| Diplomatic representation in the US: | chancery: 2630 16th Street NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 797-8518 |
+| Diplomatic representation in the US: | FAX: NA |
+| Diplomatic representation in the US: | consulate(s) general: NA |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Phillip GOLDBERG (Since February 2018) |
+| Diplomatic representation from the US: | embassy: Calzada between L & M Streets, Vedado, Havana |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [53] (7) 839-4100 |
+| Diplomatic representation from the US: | FAX: NA |
+| Flag description: | five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas |
+| Flag description: | note: design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed |
+| National symbol(s): | royal palm; national colors: red, white, blue |
+| National anthem: | name: "La Bayamesa" (The Bayamo Song) |
+| National anthem: | lyrics/music: Pedro FIGUEREDO |
+| National anthem: | note: adopted 1940; Pedro FIGUEREDO first performed "La Bayamesa" in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just prior to the fusillade he is reputed to have shouted, "Morir por la Patria es vivir" (To die for the country is to live), a line from the anthem |

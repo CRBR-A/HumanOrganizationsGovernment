@@ -1,0 +1,39 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Republic of Estonia |
+| Country name: | conventional short form: Estonia |
+| Country name: | local long form: Eesti Vabariik |
+| Country name: | local short form: Eesti |
+| Country name: | former: Estonian Soviet Socialist Republic |
+| Data code: | EN |
+| Government type: | parliamentary democracy |
+| Capital: | Tallinn |
+| Administrative divisions: 15 counties (maakonnad, singular - maakond): | Harjumaa (Tallinn), Hiiumaa (Kardla), Ida-Virumaa (Johvi), Jarvamaa (Paide), Jogevamaa (Jogeva), Laanemaa (Haapsalu), Laane-Virumaa (Rakvere), Parnumaa (Parnu), Polvamaa (Polva), Raplamaa (Rapla), Saaremaa (Kuessaare), Tartumaa (Tartu), Valgamaa (Valga), Viljandimaa (Viljandi), Vorumaa (Voru) |
+| note: | counties have the administrative center name following in parentheses |
+| Independence: | 6 September 1991 (from Soviet Union) |
+| National holiday: | Independence Day, 24 February (1918) |
+| Constitution: | adopted 28 June 1992 |
+| Legal system: | based on civil law system; no judicial review of legislative acts |
+| Suffrage: | 18 years of age; universal for all Estonian citizens |
+| Executive branch: | chief of state: President Lennart MERI (since 5 October 1992) |
+| Executive branch: | head of government: Prime Minister Mart LAAR (since 29 March 1999) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister, approved by Parliament |
+| Executive branch: | elections: president elected by Parliament for a five-year term; if he or she does not secure two-thirds of the votes after three rounds of balloting, then an electoral assembly (made up of Parliament plus members of local governments) elects the president, choosing between the two candidates with the largest percentage of votes; election last held August-September 1996 (next to be held fall 2001); prime minister nominated by the president and approved by Parliament |
+| Executive branch: | election results: Lennart MERI reelected president by an electoral assembly after Parliament was unable to break a deadlock between MERI and RUUTEL; percent of electoral assembly vote - Lennart MERI 61%, Arnold RUUTEL 39% |
+| Legislative branch: | unicameral Parliament or Riigikogu (101 seats; members are elected by popular vote to serve four-year terms) |
+| elections: | last held 7 March 1999 (next to be held NA March 2003) |
+| election results: | percent of vote by party - NA; seats by party - Center Party 28, Union of Pro Patria (Fatherland League) 18, Reform Party 18, Moderates 17, Country People's Party (Agrarians) 7, Coalition Party 7, UPPE 6, |
+| Judicial branch: | National Court, chairman appointed by Parliament for life |
+| Political parties and leaders: | Center Party or K [Edgar SAVISAAR, chairman]; Coalition Party and Rural Union or KMU [Andrus OOVEL, chairman]; Country People's Party [Arnold RUUTEL]; Moderates or M [Andres TARAND]; Reform Party or RE [Siim KALLAS, chairman]; Union of Pro Patria or Fatherland League (Isamaaliit) [Mart LAAR, chairman]; United People's Party or UPPE [Viktor ANDREJEV, chairman] |
+| International organization participation: | BIS, CBSS, CCC, CE, EAPC, EBRD, ECE, EU (applicant), FAO, IAEA, IBRD, ICAO, ICFTU, ICRM, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM (observer), ISO (correspondent), ITU, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNMIBH, UNMIK, UNTSO, UPU, WEU (associate partner), WHO, WIPO, WMO, WTrO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Sven JURGENSON |
+| Diplomatic representation in the US: | chancery: 2131 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 588-0101 |
+| Diplomatic representation in the US: | FAX: [1] (202) 588-0108 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Melissa WELLS |
+| Diplomatic representation from the US: | embassy: Kentmanni 20, Tallinn EE 0001 |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [372] (6) 312-021 |
+| Diplomatic representation from the US: | FAX: [372] (6) 312-025 |
+| Flag description: | pre-1940 flag restored by Supreme Soviet in May 1990 - three equal horizontal bands of blue (top), black, and white |

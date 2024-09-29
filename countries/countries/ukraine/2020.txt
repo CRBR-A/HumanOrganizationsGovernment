@@ -1,0 +1,68 @@
+| Government | Ukraine |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Ukraine |
+| Country name: | local long form: none |
+| Country name: | local short form: Ukraina |
+| Country name: | former: Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic |
+| Country name: | etymology: name derives from the Old East Slavic word "ukraina" meaning "borderland or march (militarized border region)" and began to be used extensively in the 19th century; originally Ukrainians referred to themselves as Rusyny (Rusyns, Ruthenians, or Ruthenes), an endonym derived from the medieval Rus state (Kyivan Rus) |
+| Government type: | semi-presidential republic |
+| Capital: | name: Kyiv (Kiev) |
+| Capital: | geographic coordinates: 50 26 N, 30 31 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Capital: | note: pronounced KAY-yiv |
+| Capital: | etymology: the name is associated with that of Kyi, who along with his brothers Shchek and Khoryv, and their sister Lybid, are the legendary founders of the medieval city of Kyiv; Kyi being the eldest brother, the city was named after him |
+| Administrative divisions: | 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr |
+| Administrative divisions: | note: administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment |
+| Administrative divisions: | note: the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol" |
+| Independence: | 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed; 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia) |
+| National holiday: | Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, and the date the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day |
+| Constitution: | history: several previous; latest adopted and ratified 28 June 1996 |
+| Constitution: | amendments: proposed by the president of Ukraine or by at least one third of the Supreme Council members; adoption requires simple majority vote by the Council and at least two-thirds majority vote in its next regular session; adoption of proposals relating to general constitutional principles, elections, and amendment procedures requires two-thirds majority vote by the Council and approval in a referendum; constitutional articles on personal rights and freedoms, national independence, and territorial integrity cannot be amended; amended several times, last in 2019 |
+| Legal system: | civil law system; judicial review of legislative acts |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Ukraine |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Volodymyr ZELENSKYY (since 20 May 2019) |
+| Executive branch: | head of government: Prime Minister Denys SHMYHAL (since 4 March 2020) |
+| Executive branch: | cabinet: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna RadaÂ  |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019 (next to be held in March 2024); prime minister selected by the Verkhovna Rada |
+| Executive branch: | election results: first round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; second round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 73.2%, Petro POROSHENKO (BPP-Solidarity) 24.5%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59 |
+| Executive branch: | note: there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president |
+| Legislative branch: | description: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 21 July 2019 (next to be held in July 2024) |
+| Legislative branch: | election results: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; seats by party (preliminary) - Servant of the People 254, Oposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Samopomich 1, Svoboda 1, other parties 2, independent 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats |
+| Judicial branch: | highest courts: Supreme Court of Ukraine or SCU (consists of 100 judges, organized into civil, criminal, commercial and administrative chambers, and a grand chamber); Constitutional Court (consists of 18 justices); High Anti-Corruption Court (consists of 39 judges, including 12 in the Appeals Chamber) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges recommended by the High Qualification Commission of Judges (a 16-member state body responsible for judicial candidate testing and assessment and judicial administration), submitted to the High Council of Justice, a 21-member independent body of judicial officials responsible for judicial self-governance and administration, and appointed by the president; judges serve until mandatory retirement at age 65; High Anti-Corruption Court judges are selected by the same process as Supreme Court justices, with one addition â€“ a majority of a combined High Qualification Commission of Judges and a 6-member Public Council of International Experts must vote in favor of potential judges in order to recommend their nomination to the High Council of Justice; this majority must include at least 3 members of the Public Council of International Experts; Constitutional Court justices appointed - 6 each by the president, by the Congress of Judges, and by the Verkhovna Rada; judges serve 9-year nonrenewable terms |
+| Judicial branch: | Â  |
+| Judicial branch: | subordinate courts: Courts of Appeal; district courts |
+| Judicial branch: | note: specialized courts were abolished as part of Ukraine's judicial reform program; in November 2019, President ZELENSKYY signed a bill on legal reforms |
+| Political parties and leaders: | Batkivshchyna (Fatherland) [Yuliya TYMOSHENKO] |
+| Political parties and leaders: | European Solidarity (BPP-Solidarity) [Petro POROSHENKO] |
+| Political parties and leaders: | Holos (Voice) [Sviatoslav VAKARCHUK] |
+| Political parties and leaders: | Opposition Bloc or OB [Evgeny MURAYEV] |
+| Political parties and leaders: | Opposition Platform-For Life [Yuriy BOYKO, Vadim RABINOVICH] |
+| Political parties and leaders: | Radical Party [Oleh LYASHKO] |
+| Political parties and leaders: | Samopomich (Self Reliance) [Andriy SADOVYY] |
+| Political parties and leaders: | Servant of the People [Oleksandr KORNIENKO] |
+| Political parties and leaders: | Svoboda (Freedom) [Oleh TYAHNYBOK] |
+| International organization participation: | Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Volodymyr YELCHENKO (since 6 January 2020) |
+| Diplomatic representation in the US: | chancery: 3350 M Street NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 349-2920 |
+| Diplomatic representation in the US: | FAX: [1] (202) 333-0817 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Kristina KVIEN (since January 2020) |
+| Diplomatic representation from the US: | telephone: [380] (44) 521-5000 |
+| Diplomatic representation from the US: | embassy: 4 A. I. Igor Sikorsky Street, 04112 Kyiv |
+| Diplomatic representation from the US: | mailing address: 5850 Kyiv Place, Washington, DC 20521-5850 |
+| Diplomatic representation from the US: | FAX: [380] (44) 521-5155 |
+| Flag description: | two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky |
+| National symbol(s): | tryzub (trident); national colors: blue, yellow |
+| National anthem: | name: "Shche ne vmerla Ukraina" (Ukraine Has Not Yet Perished) |
+| National anthem: | lyrics/music: Paul CHUBYNSKYI/Mikhail VERBYTSKYI |
+| National anthem: | note: music adopted 1991, lyrics adopted 2003; song first performed in 1864 at the Ukraine Theatre in Lviv; the lyrics, originally written in 1862, were revised in 2003 |

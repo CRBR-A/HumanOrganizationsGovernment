@@ -1,0 +1,42 @@
+| Government | Japan |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Japan |
+| Country name: | local long form: Nihon-koku/Nippon-koku |
+| Country name: | local short form: Nihon/Nippon |
+| Government type: | constitutional monarchy with a parliamentary government |
+| Capital: | name: Tokyo |
+| Capital: | geographic coordinates: 35 42 N, 139 46 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi |
+| Independence: | 660 B.C. (traditional founding by Emperor JIMMU) |
+| National holiday: | Birthday of Emperor AKIHITO, 23 December (1933) |
+| Constitution: | 3 May 1947 |
+| Legal system: | modeled after European civil law system with English-American influence; judicial review of legislative acts in the Supreme Court; accepts compulsory ICJ jurisdiction with reservations |
+| Suffrage: | 20 years of age; universal |
+| Executive branch: | chief of state: Emperor AKIHITO (since 7 January 1989) |
+| Executive branch: | head of government: Prime Minister Shinzo ABE (since 26 September 2006) |
+| Executive branch: | cabinet: Cabinet appointed by the prime minister |
+| Executive branch: | elections: Diet designates prime minister; constitution requires that prime minister commands parliamentary majority; following legislative elections, leader of majority party or leader of majority coalition in House of Representatives usually becomes prime minister; monarch is hereditary |
+| Executive branch: | election results: ABE was elected prime minister with 339 of 476 votes cast in the House of Representatives and 136 of 240 votes cast in the House of Councilors. |
+| Legislative branch: | bicameral Diet or Kokkai consists of the House of Councillors or Sangi-in (242 seats - members elected for six-year terms; half reelected every three years; 146 members in multi-seat constituencies and 96 by proportional representation) and the House of Representatives or Shugi-in (480 seats - members elected for four-year terms; 300 in single-seat constituencies; 180 members by proportional representation in 11 regional blocs) |
+| Legislative branch: | elections: House of Councillors - last held 11 July 2004 (next to be held in July 2007); House of Representatives - last held 11 September 2005 (next election by September 2009) |
+| Legislative branch: | election results: House of Councillors - percent of vote by party - NA; seats by party - LDP 115, DPJ 82, Komeito 24, JCP 9, SDP 5, others 7; distribution of seats as of January 2006 - LDP 112, DPJ 83, Komeito 24, JCP 9, SDP 6, others 8 |
+| Legislative branch: | : House of Representatives - percent of vote by party - LDP 47.8%, DPJ 36.4%, others 15.8%; seats by party - LDP 296, DPJ 113, Komeito 31, JCP 9, SDP 7, others 24; distribution of seats as of January 2006 - LDP 294, DPJ 112, Komeito 31, JCP 9, SDP 7, others 27 (2006) |
+| Judicial branch: | Supreme Court (chief justice is appointed by the monarch after designation by the cabinet; all other justices are appointed by the cabinet) |
+| Political parties and leaders: | Democratic Party of Japan or DPJ [Ichiro OZAWA]; Japan Communist Party or JCP [Kazuo SHII]; Komeito [Akihoro OTA]; Liberal Democratic Party or LDP [Shinzo ABE]; Social Democratic Party or SDP [Mizuho FUKUSHIMA] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | AfDB, APEC, APT, ARF, AsDB, ASEAN (dialogue partner), Australia Group, BIS, CE (observer), CERN (observer), CP, EAS, EBRD, FAO, G-5, G-7, G-8, G-10, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, LAIA, MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Paris Club, PCA, PIF (partner), SAARC (observer), SECI (observer), UN, UN Security Council (temporary), UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNITAR, UNMOVIC, UNRWA, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ryozo KATO |
+| Diplomatic representation in the US: | chancery: 2520 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 238-6700 |
+| Diplomatic representation in the US: | FAX: [1] (202) 328-2187 |
+| Diplomatic representation in the US: | consulate(s) general: Anchorage, Atlanta, Boston, Chicago, Denver, Detroit, Agana (Guam), Honolulu, Houston, Los Angeles, Miami, New Orleans, New York, Portland (Oregon), San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador J. Thomas SCHIEFFER |
+| Diplomatic representation from the US: | embassy: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420 |
+| Diplomatic representation from the US: | mailing address: Unit 45004, Box 258, APO AP 96337-5004 |
+| Diplomatic representation from the US: | telephone: [81] (03) 3224-5000 |
+| Diplomatic representation from the US: | FAX: [81] (03) 3505-1862 |
+| Diplomatic representation from the US: | consulate(s) general: Naha (Okinawa), Osaka-Kobe, Sapporo |
+| Diplomatic representation from the US: | consulate(s): Fukuoka, Nagoya |
+| Flag description: | white with a large red disk (representing the sun without rays) in the center |

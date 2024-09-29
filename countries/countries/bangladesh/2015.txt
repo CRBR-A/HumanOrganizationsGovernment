@@ -1,0 +1,64 @@
+| Government | BANGLADESH |
+| --- | --- |
+| Country name: | conventional long form: People's Republic of Bangladesh |
+| Country name: | conventional short form: Bangladesh |
+| Country name: | local long form: Gana Prajatantri Bangladesh |
+| Country name: | local short form: Bangladesh |
+| Country name: | former: East Bengal, East Pakistan |
+| Country name: | note: the name - a compound of the Bengali words "Bangla" (Bengal) and "desh" (country) - means Country of Bengal |
+| Government type: | parliamentary democracy |
+| Capital: | name: Dhaka |
+| Capital: | geographic coordinates: 23 43 N, 90 24 E |
+| Capital: | time difference: UTC+6 (11 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 7 divisions; Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Rangpur, Sylhet |
+| Independence: | 16 December 1971 (from West Pakistan) |
+| National holiday: | Independence Day, 26 March (1971); Victory Day, 16 December (1971); note - March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December, known as Victory Day, memorializes the military victory over Pakistan and the official creation of the state of Bangladesh |
+| Constitution: | previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986; amended many times, last in 2011 (2011) |
+| Legal system: | mixed legal system of mostly English common law and Islamic law |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently indirectly elected by the National Parliament and sworn in 24 April 2013 |
+| Executive branch: | head of government: Prime Minister Sheikh HASINA (since 6 January 2009; reappointed 5 January 2014) |
+| Executive branch: | cabinet: Cabinet selected by the prime minister, appointed by the president |
+| Executive branch: | elections/appointments: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 22 April 2013 (next must be held by 2018); the president appoints as prime minister the majority party leader in the National Parliament |
+| Executive branch: | election results: President Abdul HAMID (AL) elected by the National Parliament unopposed; Sheikh HASINA reappointed prime minister as leader of the majority AL party |
+| Legislative branch: | description: unicameral National Parliament or Jatiya Sangsad (300 seats including 45 reserved for women; members directly elected in single territorial constituencies by simple majority vote; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 5 January 2014 (next to be held by January 2019); note - the 5 January 2014 poll was marred by widespread violence, boycotts, general strikes, and low voter turnout |
+| Legislative branch: | election results: percent of vote by party - AL-led Alliance 79%, JP 34%; seats by party - AL 234, JP 34, other 32 |
+| Judicial branch: | highest court(s): Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices) |
+| Judicial branch: | judge selection and term of office: chief justice and justices appointed by the president; justices serve until retirement at age 67 |
+| Judicial branch: | subordinate courts: civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; special courts/tribunals; Metropolitan Magistrate Courts; Magistrate Court |
+| Political parties and leaders: | Awami League or AL [Sheikh HASINA] |
+| Political parties and leaders: | Communist Party of Bangladesh or CPB [Manjurul A. KHAN] |
+| Political parties and leaders: | Bangladesh Nationalist Front or BNF [Abdul Kalam AZADI] |
+| Political parties and leaders: | Bangladesh Nationalist Party or BNP [Khaleda ZIA] |
+| Political parties and leaders: | Bikalpa Dhara Bangladesh or BDB [Badrudozza CHOWDHURY] |
+| Political parties and leaders: | Islami Oikya Jote or IOJ [multiple leaders] |
+| Political parties and leaders: | Jatiya Party or JP (Ershad faction) [Hussain Mohammad ERSHAD] |
+| Political parties and leaders: | Liberal Democratic Party or LDP [Oli AHMED] |
+| Political parties and leaders: | National Socialist Party or JSD [KHALEQUZZAMAN] |
+| Political parties and leaders: | Tarikat Foundation [Syed Nozibul Bashar MAIZBHANDARI] |
+| Political parties and leaders: | Workers Party or WP [Rashed Khan MENON] |
+| Political pressure groups and leaders: | Ain o Salish Kendro (Centre for Law and Mediation) or ASK (legal aid and civil rights) |
+| Political pressure groups and leaders: | Bangladesh Center for Worker Solidarity |
+| Political pressure groups and leaders: | Bangladesh Rural Advancement Committee or BRAC |
+| Political pressure groups and leaders: | Federation of Bangladesh Chambers of Commerce and Industry |
+| Political pressure groups and leaders: | Ministry of Women's and Children's Affairs or MoWCA (advocacy group to end gender-based violence) |
+| Political pressure groups and leaders: | Odikhar (human rights group) |
+| Political pressure groups and leaders: | other: associations of madrassa teachers; business associations, including those intended to promote international trade; development and advocacy NGOs associated with the Grameen Bank; environmentalists; Islamist groups; labor rights advocacy groups; NGOs focused on poverty, alleviation, and socioeconomic international trade; religious leaders; tribal groups and advocacy organizations; union leaders |
+| International organization participation: | ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OIC, OPCW, PCA, SAARC, SACEP, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mohammad ZIAUDDIN (since 18 September 2014) |
+| Diplomatic representation in the US: | chancery: 3510 International Drive NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 244-0183 |
+| Diplomatic representation in the US: | FAX: [1] (202) 244-2771 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Marcia BERNICAT (since 12 January 2015) |
+| Diplomatic representation from the US: | embassy: Madani Avenue, Baridhara, Dhaka 1212 |
+| Diplomatic representation from the US: | mailing address: G. P. O. Box 323, Dhaka 1000 |
+| Diplomatic representation from the US: | telephone: [880] (2) 5566-2000 |
+| Diplomatic representation from the US: | FAX: [880] (2) 5566-2915 |
+| Flag description: | green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh |
+| National symbol(s): | Bengal tiger, water lily; national colors: green, red |
+| National anthem: | name: "Amar Shonar Bangla" (My Golden Bengal) |
+| National anthem: | lyrics/music: Rabindranath TAGORE |
+| National anthem: | note: adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem |

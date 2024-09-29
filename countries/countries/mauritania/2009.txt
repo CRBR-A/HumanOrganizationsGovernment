@@ -1,0 +1,39 @@
+| Government | Mauritania |
+| --- | --- |
+| Country name: | conventional long form: Islamic Republic of Mauritania |
+| Country name: | conventional short form: Mauritania |
+| Country name: | local long form: Al Jumhuriyah al Islamiyah al Muritaniyah |
+| Country name: | local short form: Muritaniyah |
+| Government type: | military junta |
+| Capital: | name: Nouakchott |
+| Capital: | geographic coordinates: 18 07 N, 16 02 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 12 regions (regions, singular - region) and 1 capital district*; Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh Ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott*, Tagant, Tiris Zemmour, Trarza |
+| Independence: | 28 November 1960 (from France) |
+| National holiday: | Independence Day, 28 November (1960) |
+| Constitution: | 12 July 1991 |
+| Legal system: | a combination of Islamic law and French civil law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Mohamed Ould Abdel AZIZ (since 5 August 2009) note - AZIZ, who deposed democratically elected President Sidi Ould Cheikh ABDELLAHI in a coup and installed himself as President of Military High Council of State on 6 August 2008, was elected president in an election held 18 July 2009 |
+| Executive branch: | head of government: Prime Minister Moulaye Ould Mohamed LAGHDAF (since 14 August 2008) |
+| Executive branch: | cabinet: Council of Ministers |
+| Executive branch: | elections: following the August 2008 coup, the Military High Council of State pledged to hold a new presidential election which was subsequently scheduled and held on 18 July 2009; under Mauritania's constitution, the president is elected by popular vote for a five-year term; election last held on 18 July 2009 (next to be held by 2014) |
+| Executive branch: | election results: percent of vote - Mohamed Ould Abdel AZIZ 52.6%, Messaoud Ould BOULKHEIR 16.3%, Ahmed Ould DADDAH 13.7%, Other 17.4% |
+| Legislative branch: | bicameral legislature consists of the Senate or Majlis al-Shuyukh (56 seats; 53 members elected by municipal leaders and 3 members elected by Mauritanians abroad to serve six-year terms; a portion of seats up for election every two years) and the National Assembly or Majlis al-Watani (95 seats; members elected by popular vote to serve five-year terms) |
+| Legislative branch: | elections: Senate - last held 21 January and 4 February 2007 (next to be held in 2009); National Assembly - last held 19 November and 3 December 2006 (next to be held in 2011); note - it is unclear when the Senate elections originally scheduled for 2009 will be held |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - Mithaq (coalition of independents and parties associated with the former regime) 37, CFCD (coalition of political parties) 15, representatives of the diaspora 3, undecided 1; National Assembly - percent of vote by party - NA; seats by party - Mithaq 51 (independents 37, PRDR 7, UDP 3, RDU 3, Alternative (El-Badil) 1), CFCD 41 (RFD 16, UFP 9, APP 6, Centrist Reformists 4, HATEM-PMUC 3, RD 2, PUDS 1), RNDLE 1, UCD 1, FP 1 |
+| Judicial branch: | Supreme Court or Cour Supreme; Court of Appeals; lower courts |
+| Political parties and leaders: | Alternative or El-Badil [Mohamed Yahdhi Ould MOCTAR HACEN]; Centrist Reformists (independent moderate Islamists) [Mohamed Jamil MANSOUR]; Coalition for Forces for Democratic Change or CFCD (coalition of political parties including APP, Centrist Reformists (independent moderate Islamists), HATEM-PMUC, PUDS, RD, RFD, UFP); Democratic Renewal or RD [Moustapha Ould ABDEIDARRAHMANE]; Mauritanian Party for Unity and Change or HATEM-PMUC [Saleh Ould HANENA]; Mithaq (coalition of independents and parties associated with the former regime including Alternative or El-Badil, PRDR, UDP, RDU); National Pact for Democracy and Development or PNDD-ADIL (independents supporting President Abdellahi) [Yahya Ould Ahmed Ould WAGHEF]; National Rally for Freedom, Democracy and Equality or RNDLE; National Rally for Reform and Development or Tawassoul (moderate Islamists) [Mohamed Jemil Ould MANSOUR]; Popular Front or FP [Ch'bih Ould CHEIKH MALAININE]; Popular Progressive Alliance or APP [Messoud Ould BOULKHEIR]; Rally of Democratic Forces or RFD [Ahmed Ould DADDAH]; Rally for Democracy and Unity or RDU [Ahmed Ould SIDI BABA]; Republican Party for Democracy and Renewal or PRDR [Boullah Ould MOGUEYA]; Socialist and Democratic Unity Party or PUDS; Union for Democracy and Progress or UDP [Naha Mint MOUKNASS]; Union of Democratic Center or UCD [Cheikh Sid'Ahmed Ould BABA]; Union of the Forces for Progress or UFP [Mohamed Ould MAOULOUD]; |
+| Political pressure groups and leaders: | General Confederation of Mauritanian Workers or CGTM [Abdallahi Ould MOHAMED, secretary general]; Independent Confederation of Mauritanian Workers or CLTM [Samory Ould BEYE]; Mauritanian Workers Union or UTM [Mohamed Ely Ould BRAHIM, secretary general] |
+| Political pressure groups and leaders: | other: Arab nationalists; Ba'thists; Islamists |
+| International organization participation: | ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC, LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Ibrahima DIA |
+| Diplomatic representation in the US: | chancery: 2129 Leroy Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 232-5700 through 5701 |
+| Diplomatic representation in the US: | FAX: [1] (202) 319-2623 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Mark M. BOULWARE |
+| Diplomatic representation from the US: | embassy: 288 Rue Abdallaye, Rue 42-100 (between Presidency building and Spanish Embassy), Nouakchott |
+| Diplomatic representation from the US: | mailing address: BP 222, Nouakchott |
+| Diplomatic representation from the US: | telephone: [222] 525-2660 through 2663 |
+| Diplomatic representation from the US: | FAX: [222] 525-1592 |
+| Flag description: | green with a yellow five-pointed star above a yellow, horizontal crescent; the closed side of the crescent is down; the crescent, star, and color green are traditional symbols of Islam |

@@ -1,0 +1,54 @@
+| Government | Mozambique |
+| --- | --- |
+| Country name: | conventional long form: Republic of Mozambique |
+| Country name: | conventional short form: Mozambique |
+| Country name: | local long form: Republica de Mocambique |
+| Country name: | local short form: Mocambique |
+| Country name: | former: Portuguese East Africa, People's Republic of Mozambique |
+| Country name: | etymology: named for the offshore island of Mozambique; the island was apparently named after Mussa al-BIK, an influential Arab slave trader who set himself up as sultan on the island in the 15th century |
+| Government type: | presidential republic |
+| Capital: | name: Maputo |
+| Capital: | geographic coordinates: 25 57 S, 32 35 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC, during Standard Time) |
+| Administrative divisions: | 10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia |
+| Independence: | 25 June 1975 (from Portugal) |
+| National holiday: | Independence Day, 25 June (1975) |
+| Constitution: | history: previous 1975, 1990; latest adopted 16 November 2004, effective 21 December 2004 (2018) |
+| Constitution: | amendments: proposed by the president of the republic or supported by at least one-third of the Assembly of the Republic membership; passage of amendments affecting constitutional provisions including the independence and sovereignty of the state, the republican form of government, basic rights and freedoms, and universal suffrage requires at least a two-thirds majority vote by the Assembly and approval in a referendum; referenda not required for passage of other amendments; amended 2007, 2018 (2018) |
+| Legal system: | mixed legal system of Portuguese civil law, and customary law; note - in rural, predominately Muslim villages with no formal legal system, Islamic law may be applied |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Mozambique |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Judicial branch: | highest courts: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline |
+| Judicial branch: | judge selection and term of office: Supreme Court president appointed by the president of the republic; vice president appointed by the president in consultation with the Higher Council of the Judiciary (CSMJ) and ratified by the Assembly of the Republic; other judges elected by the Assembly; judges serve 5-year renewable terms; Constitutional Council judges appointed - 1 by the president, 5 by the Assembly, and 1 by the CSMJ; judges serve 5-year nonrenewable terms |
+| Judicial branch: | subordinate courts: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts |
+| Executive branch: | chief of state: President Filipe Jacinto NYUSI (since 15 January 2015) |
+| Executive branch: | head of government: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Carlos Agostinho DO ROSARIO (since 17 January 2015) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president elected directly by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2014 (next to be held on 15 October 2019); prime minister appointed by the president |
+| Executive branch: | election results: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 57.0%, Afonso DHLAKAMA (RENAMO) 36.6%, Daviz SIMANGO (MDM) 6.4% |
+| Legislative branch: | description: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; members elected in single- and multi-seat constituencies by party-list proportional representation vote and 2 members representing Mozambicans abroad appointed by the elected party; members serve 5-year terms) |
+| Legislative branch: | elections: last held on 15 October 2014 (next to be held in October 2019) |
+| Legislative branch: | election results: percent of vote by party - FRELIMO 55.9%, RENAMO 32.5%, MDM 8.4%, other 3.2%; seats by party - FRELIMO 144, RENAMO 89, MDM 17 |
+| Political parties and leaders: | Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Daviz SIMANGO] |
+| Political parties and leaders: | Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI] |
+| Political parties and leaders: | Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Afonso DHLAKAMA] |
+| International organization participation: | ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Carlos DOS SANTOS (since 28 January 2016) |
+| Diplomatic representation in the US: | chancery: 1525 New Hampshire Avenue NW, Washington, DC 20036 |
+| Diplomatic representation in the US: | telephone: [1] (202) 293-7146 |
+| Diplomatic representation in the US: | FAX: [1] (202) 835-0245 |
+| Diplomatic representation from the US: | chief of mission: Ambassador H. Dean PITTMAN (since 18 February 2016) |
+| Diplomatic representation from the US: | embassy: Avenida Kenneth Kuanda 193, Maputo |
+| Diplomatic representation from the US: | mailing address: P.O. Box 783, Maputo |
+| Diplomatic representation from the US: | telephone: [258] (21) 49 2797 |
+| Diplomatic representation from the US: | FAX: [258] (21) 49 0114 |
+| Flag description: | three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism |
+| Flag description: | note: one of only two national flags featuring a firearm, the other is Guatemala |
+| National symbol(s): | national colors: green, black, yellow, white, red |
+| National anthem: | name: "Patria Amada" (Lovely Fatherland) |
+| National anthem: | lyrics/music: Salomao J. MANHICA/unknown |
+| National anthem: | note: adopted 2002 |

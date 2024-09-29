@@ -1,0 +1,40 @@
+| Government | Montenegro |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: Montenegro |
+| Country name: | local long form: none |
+| Country name: | local short form: Crna Gora |
+| Country name: | former: People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro |
+| Government type: | republic |
+| Capital: | name: Podgorica |
+| Capital: | geographic coordinates: 42 26 N, 19 16 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1 hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 21 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Ulcinj, Zabljak |
+| Independence: | 3 June 2006 (from Serbia and Montenegro) |
+| National holiday: | National Day, 13 July (1878) |
+| Constitution: | approved 19 October 2007 (by the Assembly) |
+| Legal system: | based on civil law system; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Filip VUJANOVIC (since 6 April 2008) |
+| Executive branch: | head of government: Prime Minister Milo DJUKANOVIC (since 29 February 2008) |
+| Executive branch: | cabinet: Ministries act as cabinet |
+| Executive branch: | elections: president elected by direct vote for five-year term (eligible for a second term); election last held 6 April 2008 (next to be held in 2013); prime minister proposed by president, accepted by Assembly |
+| Executive branch: | election results: Filip VUJANOVIC reelected president; Filip VUJANOVIC 51.89%, Andrija MANDIC 19.55%, Nebojsa MEDOJEVIC 16.64%, Srdan MILIC 11.92% |
+| Legislative branch: | unicameral Assembly (81 seats; members elected by direct vote for four-year terms; changed from 74 seats in 2006) |
+| Legislative branch: | elections: last held 29 March 2009 (next to be held in 2013) |
+| Legislative branch: | election results: percent of vote by party - Coalition for European Montenegro 51.94%, SNP 16.83%, NSD 9.22%, PZP 6.03%, other (including Albanian minority parties) 15.98%; seats by party - Coalition for European Montenegro 48, SNP 16, NSD 8, PZP 5, Albanian minority parties 4 |
+| Judicial branch: | Constitutional Court (five judges with nine-year terms); Supreme Court (judges have life tenure) |
+| Political parties and leaders: | Albanian Alternative or AA [Vesel SINISHTAJ]; Coalition for European Montenegro or DPS-SDP (bloc) [Milo DJUKANOVIC] (includes Democratic Party of Socialists or DPS [Milo DJUKANOVIC] and Social Democratic Party or SDP [Ranko KRIVOKAPIC]); Coalition SNP-NS-DSS (bloc) (includes Socialist People's Party or SNP [Srdjan MILIC], People's Party of Montenegro or NS [Predrag POPOVIC], and Democratic Serbian Party of Montenegro or DSS [Ranko KADIC]); Democratic League-Party of Democratic Prosperity or SPP [Mehmet BARDHIJ]; Democratic Union of Albanians or DUA [Ferhat DINOSA]; Liberals and the Bosniak Party (bloc) [Miodrag ZIVKOVIC] (includes Liberal Party of Montenegro or LP [Miodrag ZIVKOVIC] and Bosniak Party or BS [Rafet HUSOVIC]); Movement for Changes or PZP [Nebojsa MEDOJEVIC]; New Serb Democracy or NSD [Andrija MANDIC]; Serbian List (bloc) [Andrija MANDIC] (includes Party of Serb Radicals or SSR [Dusko SEKULIC], People's Socialist Party or NSS [Emilo LABUDOVIC], and Serbian People's Party of Montenegro or SNS [Andrija MANDIC]); Socialist People's Party of Montenegro or SNP [Srdjan MILIC] |
+| International organization participation: | CE, CEI, EAPC, EBRD, FAO, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC, MIGA, OPCW, OSCE, PCA, PFP, SECI, UN, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO (observer) |
+| Diplomatic representation in the US: | chief of mission: Ambassador Miodrag VLAHOVIC |
+| Diplomatic representation in the US: | chancery: 1610 New Hampshire Avenue NW, Washington, DC, 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 234-6108 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-6109 |
+| Diplomatic representation in the US: | consulate(s) general: New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Roderick W. MOORE |
+| Diplomatic representation from the US: | embassy: Ljubljanska bb, 81000 Podgorica, Montenegro |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [382] 81 225 417 |
+| Diplomatic representation from the US: | FAX: [382] 81 241 358 |
+| Flag description: | a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered |

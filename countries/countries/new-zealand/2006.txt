@@ -1,0 +1,42 @@
+| Government | New Zealand |
+| --- | --- |
+| Country name: | conventional long form: none |
+| Country name: | conventional short form: New Zealand |
+| Country name: | abbreviation: NZ |
+| Government type: | parliamentary democracy |
+| Capital: | name: Wellington |
+| Capital: | geographic coordinates: 41 28 S, 174 51 E |
+| Capital: | time difference: UTC+12 (17 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins first Sunday in October; ends third Sunday in March |
+| Capital: | note: New Zealand is divided into two time zones, including Chatham Island |
+| Administrative divisions: | 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast |
+| Dependent areas: | Cook Islands, Niue, Tokelau |
+| Independence: | 26 September 1907 (from UK) |
+| National holiday: | Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840) |
+| Constitution: | consists of a series of legal documents, including certain acts of the UK and New Zealand Parliaments, as well as The Constitution Act 1986, which is the principal formal charter; adopted 1 January 1987, effective 1 January 1987 |
+| Legal system: | based on English law, with special land legislation and land courts for the Maori; accepts compulsory ICJ jurisdiction, with reservations |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Queen ELIZABETH II (since 6 February 1952), represented by Governor General Anand SATYANAND (since 23 August 2006) |
+| Executive branch: | head of government: Prime Minister Helen CLARK (since 10 December 1999) and Deputy Prime Minister Michael CULLEN (since NA July 2002) |
+| Executive branch: | cabinet: Executive Council appointed by the governor general on the recommendation of the prime minister |
+| Executive branch: | elections: none; the monarch is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or the leader of a majority coalition is usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general |
+| Legislative branch: | unicameral House of Representatives - commonly called Parliament (120 seats; 69 members elected by popular vote in single-member constituencies including seven Maori constituencies, and 51 proportional seats chosen from party lists, all to serve three-year terms) |
+| Legislative branch: | elections: last held 17 September 2005 (next to be held not later than 15 November 2008) |
+| Legislative branch: | election results: percent of vote by party - NZLP 41.1%, NP 39.1%, NZFP 5.72%, Green Party 5.3%, Maori 2.12%, UF 2.67%, ACT New Zealand 1.51%, Progressive 1.16%; seats by party - NZLP 50, NP 48, NZFP 7, Green Party 6, Maori 4, UF 3, ACT New Zealand 2, Progressive 1 |
+| Legislative branch: | note: results of 2005 election saw the total number of seats increase to 121 because the Maori Party won one more electorate seat than its entitlement under the party vote |
+| Judicial branch: | Supreme Court; Court of Appeal; High Court; note - Judges appointed by the Governor-General |
+| Political parties and leaders: | ACT New Zealand [Rodney HIDE]; Green Party [Jeanette FITZSIMONS]; Maori Party [Whatarangi WINIATA]; National Party or NP [Don BRASH]; New Zealand First Party or NZFP [Winston PETERS]; New Zealand Labor Party or NZLP [Helen CLARK]; Progressive Party [James (Jim) ANDERTON]; United Future or UF [Peter DUNNE] |
+| Political pressure groups and leaders: | NA |
+| International organization participation: | ANZUS (US suspended security obligations to NZ on 11 August 1986), APEC, ARF, AsDB, ASEAN (dialogue partner), Australia Group, BIS, C, CP, EAS, EBRD, FAO, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, NAM (guest), NSG, OECD, OPCW, PCA, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIS, UNTSO, UPU, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Roy N. FERGUSON |
+| Diplomatic representation in the US: | chancery: 37 Observatory Circle NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 328-4800 |
+| Diplomatic representation in the US: | FAX: [1] (202) 667-5227 |
+| Diplomatic representation in the US: | consulate(s) general: Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador William P. McCORMICK |
+| Diplomatic representation from the US: | embassy: 29 Fitzherbert Terrace, Thorndon, Wellington |
+| Diplomatic representation from the US: | mailing address: P. O. Box 1190, Wellington; PSC 467, Box 1, APO AP 96531-1034 |
+| Diplomatic representation from the US: | telephone: [64] (4) 462-6000 |
+| Diplomatic representation from the US: | FAX: [64] (4) 499-0490 |
+| Diplomatic representation from the US: | consulate(s) general: Auckland |
+| Flag description: | blue with the flag of the UK in the upper hoist-side quadrant with four red five-pointed stars edged in white centered in the outer half of the flag; the stars represent the Southern Cross constellation |

@@ -1,0 +1,37 @@
+| Government | Zimbabwe |
+| --- | --- |
+| Country name: | conventional long form: Republic of Zimbabwe |
+| Country name: | conventional short form: Zimbabwe |
+| Country name: | former: Southern Rhodesia, Rhodesia |
+| Government type: | parliamentary democracy |
+| Capital: | name: Harare |
+| Capital: | geographic coordinates: 17 50 S, 31 03 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands |
+| Independence: | 18 April 1980 (from UK) |
+| National holiday: | Independence Day, 18 April (1980) |
+| Constitution: | 21 December 1979 |
+| Legal system: | mixture of Roman-Dutch and English common law; has not accepted compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: Executive President Robert Gabriel MUGABE (since 31 December 1987); Vice President Joseph MSIKA (since December 1999) and Vice President Joyce MUJURU (since 6 December 2004); note - the president is both the chief of state and head of government |
+| Executive branch: | head of government: Executive President Robert Gabriel MUGABE (since 31 December 1987); Vice President Joseph MSIKA (since December 1999) and Vice President Joyce MUJURU (since 6 December 2004) |
+| Executive branch: | cabinet: Cabinet appointed by the president; responsible to the House of Assembly |
+| Executive branch: | elections: presidential candidates nominated with a nomination paper signed by at least 10 registered voters (at least one from each province) and elected by popular vote for a five-year term (no term limits); elections last held 28 March 2008 followed by a run-off on 27 June 2008 (next to be held in 2013); co-vice presidents appointed by the president |
+| Executive branch: | election results: Robert Gabriel MUGABE reelected president; percent of vote - Robert Gabriel MUGABE 85.5%, Morgan TSVANGIRAI 9.3%, other 5.2%; note - first round voting results - Morgan TSVANGIRAI 47.9%, Robert Gabriel MUGABE 43.2%, Simba MAKONI 8.3%, other 0.6%; first-round round polls were deemed to be flawed suppressing TSVANGIRAI's results; the 27 June 2008 run-off between MUGABE and TSVANGIRAI were severely flawed and internationally condemned |
+| Legislative branch: | bicameral Parliament consists of a Senate (93 seats - 60 elected by popular vote for a five-year term, 10 provincial governors nominated by the president, 16 traditional chiefs elected by the Council of Chiefs, 2 held by the president and deputy president of the Council of Chiefs, and 5 appointed by the president) and a House of Assembly (210 seats - all elected by popular vote for five-year terms) |
+| Legislative branch: | elections: last held 28 March 2008 (next to be held in 2013) |
+| Legislative branch: | election results: Senate - percent of vote by party - MDC 51.6%, ZANU-PF 45.8%, other 2.6%; seats by party - MDC 30, ZANU-PF 30; House of Assembly - percent of vote by party - MDC 51.3%, ZANU-PF 45.8%, other 2.9%; seats by party - MDC 109, ZANU-PF 97, other 4 |
+| Judicial branch: | Supreme Court; High Court |
+| Political parties and leaders: | African National Party or ANP [Egypt DZINEMUNHENZVA]; Movement for Democratic Change or MDC [Morgan TSVANGIRAI, anti-Senate faction; Arthur MUTAMBARA, pro-Senate faction]; Peace Action is Freedom for All or PAFA; United Parties [Abel MUZOREWA]; United People's Party or UPP [Daniel SHUMBA]; Zimbabwe African National Union-Ndonga or ZANU-Ndonga [Wilson KUMBULA]; Zimbabwe African National Union-Patriotic Front or ZANU-PF [Robert Gabriel MUGABE]; Zimbabwe African Peoples Union or ZAPU [Agrippa MADLELA]; Zimbabwe Youth in Alliance or ZIYA |
+| Political pressure groups and leaders: | Crisis in Zimbabwe Coalition [Xolani ZITHA]; National Constitutional Assembly or NCA [Lovemore MADHUKU]; Women of Zimbabwe Arise or WOZA [Jenny WILLIAMS]; Zimbabwe Congress of Trade Unions or ZCTU [Wellington CHIBEBE] |
+| International organization participation: | ACP, AfDB, AU, COMESA, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, NAM, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNMIS, UNOCI, UNWTO, UPU, WCL, WCO, WFTU, WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Marina Annette VALERE |
+| Diplomatic representation in the US: | chancery: 1608 New Hampshire Avenue NW, Washington, DC 20009 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-7100 |
+| Diplomatic representation in the US: | FAX: [1] (202) 483-9326 |
+| Diplomatic representation from the US: | chief of mission: Ambassador James D. MCGEE |
+| Diplomatic representation from the US: | embassy: 172 Herbert Chitepo Avenue, Harare |
+| Diplomatic representation from the US: | mailing address: P. O. Box 3340, Harare |
+| Diplomatic representation from the US: | telephone: [263] (4) 250-593 and 250-594 |
+| Diplomatic representation from the US: | FAX: [263] (4) 796-488, or 722-618 |
+| Flag description: | seven equal horizontal bands of green, yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green symbolizes agriculture, yellow - mineral wealth, red - blood shed to achieve independence, and black stands for the native people |

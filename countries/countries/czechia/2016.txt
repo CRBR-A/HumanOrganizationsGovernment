@@ -1,0 +1,74 @@
+| Government | CZECHIA |
+| --- | --- |
+| Country name: | conventional long form: Czech Republic |
+| Country name: | conventional short form: Czechia |
+| Country name: | local long form: Ceska republika |
+| Country name: | local short form: Cesko |
+| Country name: | etymology: name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D. |
+| Government type: | parliamentary republic |
+| Capital: | name: Prague |
+| Capital: | geographic coordinates: 50 05 N, 14 28 E |
+| Capital: | time difference: UTC+1 (6 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 13 regions (kraje, singular - kraj) and 1 capital city* (hlavni mesto); Jihocesky (South Bohemia), Jihomoravsky (South Moravia), Karlovarsky (Karlovy Vary), Kralovehradecky (Hradec Kralove), Liberecky (Liberec), Moravskoslezsky (Moravia-Silesia), Olomoucky (Olomouc), Pardubicky (Pardubice), Plzensky (Pilsen), Praha (Prague)*, Stredocesky (Central Bohemia), Ustecky (Usti), Vysocina (Highlands), Zlinsky (Zlin) |
+| Independence: | 1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia); note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day |
+| National holiday: | Czechoslovak Founding Day, 28 October (1918) |
+| Constitution: | previous 1960; latest ratified 16 December 1992, effective 1 January 1993; amended several times, last in 2013 (2016) |
+| Legal system: | new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the Czech Republic |
+| Citizenship: | dual citizenship recognized: no |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Milos ZEMAN (since 8 March 2013) |
+| Executive branch: | head of government: Prime Minister Bohuslav SOBOTKA (since 17 January 2014); First Deputy Prime Minister Andrej BABIS and Deputy Prime Minister Pavel BELOBRADEK (both since 29 January 2014) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 11-12 January 2013 with a runoff on 25-26 January 2013 (next to be held in January 2018); prime minister appointed by the president for a 4-year term |
+| Executive branch: | election results: Milos ZEMAN elected president; percent of popular vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2% |
+| Legislative branch: | description: bicameral Parliament or Parlament consists of the Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in two rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years) and the Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: Senate - last held in two rounds on 7-8 and 14-15 October 2016 (next to be held in October 2018); Chamber of Deputies - last held on 25-26 October 2013 (next to be held in 2017) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party as of 15 October 2016 - CSSD 25, KDU-CSL 14, ODS 9, ANO 2011 7, STAN 5, SZ 4, TOP 09 2, SLK 2, S.cz. 2, KSCM 1, Nestranici 1, Citizens Together 1, SsCR 1, Pirate 1, Patriotic Citizens 1, Movement for Prague 1, SPO 1, Ostravak 1, independent 2; Chamber of Deputies - percent of vote by party - CSSD 20.5%, ANO 2011 18.7%, KSCM 14.9%, TOP 09 12%, ODS 7.7%, Usvit 6.9%, KDU-CSL 6.8% other 12.5%; seats by party - CSSD 50, ANO 2011 47, KSCM 33, TOP 09 + STAN 26, ODS 16, KDU-CSL 14, Usvit 8, independent 6 |
+| Judicial branch: | highest court(s): Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 28 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; judge term unlimited |
+| Judicial branch: | subordinate courts: High Court; superior, regional, and district courts |
+| Political parties and leaders: | parties in parliament: ANO 2011 or ANO [Andrej BABIS] |
+| Political parties and leaders: | Citizens Together |
+| Political parties and leaders: | Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Pavel BELOBRADEK] |
+| Political parties and leaders: | Civic Democratic Party or ODS [Petr FIALA] |
+| Political parties and leaders: | Communist Party of Bohemia and Moravia or KSCM [Vojtech FILIP] |
+| Political parties and leaders: | Czech Pirate Party [Ivan BARTOS] |
+| Political parties and leaders: | Czech Social Democratic Party or CSSD [Bohuslav SOBOTKA] |
+| Political parties and leaders: | Freeholder or SsCR [Petr BAJER] |
+| Political parties and leaders: | Green Party or SZ [Matej STROPNICKY] |
+| Political parties and leaders: | Liberal Reform Party or Ostravak [Eva SCHWARZOVA] |
+| Political parties and leaders: | Mayors and Independents or STAN [Petr GAZDIK] |
+| Political parties and leaders: | Mayors for Liberec Region or SLK [Marek PIETER] |
+| Political parties and leaders: | Movement for Prague |
+| Political parties and leaders: | Nestranici (Independents) or NK [Vera RYBOVA] |
+| Political parties and leaders: | North Bohemians or S.cz [Bronislav SCHWARZ] |
+| Political parties and leaders: | Ostravak [Magdalena KOZUBOVA, sec.] |
+| Political parties and leaders: | Party of Civic Rights or SPO [Jan VELEBA] |
+| Political parties and leaders: | Patriotic Citizens |
+| Political parties and leaders: | Tradition Responsibility Prosperity 09 or TOP 09 [Miroslav KALOUSEK] |
+| Political parties and leaders: | parties outside parliament: Dawn - National Coalition or Usvit [Miroslav LIDINSKY] |
+| Political parties and leaders: | Free Citizens Party or Svobodni [Petr MACH] |
+| Political parties and leaders: | Freedom and Direct Democracy or SPD [Tomio OKAMURA] |
+| Political pressure groups and leaders: | Czech-Moravian Confederation of Trade Unions or CMKOS [Josef STREDULA] |
+| International organization participation: | Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Petr GANDALOVIC (since 23 May 2011) |
+| Diplomatic representation in the US: | chancery: 3900 Spring of Freedom Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 274-9100 |
+| Diplomatic representation in the US: | FAX: [1] (202) 966-8540 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador Andrew H. SCHAPIRO (since 30 September 2014) |
+| Diplomatic representation from the US: | embassy: Trziste 15, 118 01 Prague 1 - Mala Strana |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [420] 257 022 000 |
+| Diplomatic representation from the US: | FAX: [420] 257 022 809 |
+| Flag description: | two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side |
+| Flag description: | note: is identical to the flag of the former Czechoslovakia |
+| National symbol(s): | double-tailed lion; national colors: white, red, blue |
+| National anthem: | name: "Kde domov muj?" (Where is My Home?) |
+| National anthem: | lyrics/music: Josef Kajetan TYL/Frantisek Jan SKROUP |
+| National anthem: | note: adopted 1993; the anthem was originally written as incidental music to the play "Fidlovacka" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993 |

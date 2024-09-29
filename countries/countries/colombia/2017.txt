@@ -1,0 +1,64 @@
+| Government | COLOMBIA |
+| --- | --- |
+| Country name: | conventional long form: Republic of Colombia |
+| Country name: | conventional short form: Colombia |
+| Country name: | local long form: Republica de Colombia |
+| Country name: | local short form: Colombia |
+| Country name: | etymology: the country is named after explorer Christopher COLUMBUS |
+| Government type: | presidential republic |
+| Capital: | name: Bogota |
+| Capital: | geographic coordinates: 4 36 N, 74 05 W |
+| Capital: | time difference: UTC-5 (same time as Washington, DC, during Standard Time) |
+| Administrative divisions: | 32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada |
+| Independence: | 20 July 1810 (from Spain) |
+| National holiday: | Independence Day, 20 July (1810) |
+| Constitution: | several previous; latest promulgated 5 July 1991; amended many times, last in 2015 (2016) |
+| Legal system: | civil law system influenced by the Spanish and French civil codes |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: least one parent must be a citizen or permanent resident of Colombia |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Juan Manuel SANTOS Calderon (since 7 August 2010); Vice President Ret. Gen. Oscar Adolfo NARANJO Trujillo (since 30 March 2017); note - Vice President German VARGAS Lleras' resignation on 15 March 2017 became effective on 21 March 2017; the president is both chief of state and head of government |
+| Executive branch: | head of government: President Juan Manuel SANTOS Calderon (since 7 August 2010); Vice President Ret. Gen. Oscar Adolfo NARANJO Trujillo (since 30 March 2017) |
+| Executive branch: | cabinet: Cabinet appointed by the president |
+| Executive branch: | elections/appointments: president directly elected by absolute majority vote in 2 rounds if needed for a 4-year term; election last held on 25 May 2014 with a runoff held on 15 June 2014 (next to be held on 27 May 2018); note - recent political reform eliminated presidential reelection; beginning in 2018, presidents can only serve one 4-year term |
+| Executive branch: | election results: Juan Manuel SANTOS Calderon reelected president in runoff; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51.0%, Oscar Ivan ZULUAGA (CD) 45.0%, other 4.0% |
+| Legislative branch: | description: bicameral Congress or Congreso consists of the Senate or Senado (102 seats; 100 members elected in a single nationwide constituency by party-list proportional representation popular vote and 2 members elected in a special nationwide for indigenous communities to serve 4-year terms) and the Chamber of Representatives or Camara de Representantes (166 seats; members elected in multi-seat constituencies by party-list proportional representation constituency popular vote to serve 4-year terms) |
+| Legislative branch: | elections: Senate - last held on 9 March 2014 (next to be held in March 2018); Chamber of Representatives - last held on 9 March 2014 (next to be held in March 2018) |
+| Legislative branch: | election results: Senate - percent of vote by party - NA; seats by party - U Party 21, CD 20, PC 18, PL 17, CR 9, PDA 5, Green Party 5, other 7; Chamber of Representatives - percent of vote by party - NA; seats by party - PL 39, U Party 37, PC 27, CD 19, CR 16, Green Party 6, PDA 3, other 19 |
+| Judicial branch: | highest court(s): Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 31 members); Superior Judiciary Council (consists of 13 magistrates) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the Supreme Court members from candidates submitted by the Superior Judiciary Council; judges elected for individual 8-year terms; Constitutional Court magistrates - nominated by the president, by the Supreme Court, and elected by the Senate; judges elected for individual 8-year terms; Council of State members appointed by the State Council plenary from lists nominated by the Superior Judiciary Council |
+| Judicial branch: | subordinate courts: Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts |
+| Political parties and leaders: | Alternative Democratic Pole or PDA [Clara LOPEZ] |
+| Political parties and leaders: | Conservative Party or PC [David BARGUIL] |
+| Political parties and leaders: | Democratic Center Party or CD [Alvaro URIBE Velez, Oscar Ivan ZULUAGA, Carlos HOLMES TRUJILLO, Ivan DUQUE] |
+| Political parties and leaders: | Green Alliance [Jorge LONDONO, Antonio SANGUINO, Luis AVELLANEDA, Camilo ROMERO] |
+| Political parties and leaders: | Liberal Party or PL [Horacio SERPA] |
+| Political parties and leaders: | Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN) |
+| Political parties and leaders: | Radical Change or CR [Carlos Fernando GALAN] |
+| Political parties and leaders: | Social National Unity Party or U Party [Roy BARRERAS, Jose David NAME] |
+| Political parties and leaders: | note: Colombia has numerous smaller movements |
+| Political pressure groups and leaders: | Central Union of Workers or CUT |
+| Political pressure groups and leaders: | Colombian Confederation of Workers or CTC |
+| Political pressure groups and leaders: | General Confederation of Workers or CGT |
+| Political pressure groups and leaders: | National Liberation Army or ELN |
+| International organization participation: | BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Camilo REYES Rodriguez (since 21 July 2017) |
+| Diplomatic representation in the US: | chancery: 2118 Leroy Place NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-8338 |
+| Diplomatic representation in the US: | FAX: [1] (202) 232-8643 |
+| Diplomatic representation in the US: | consulate(s) general: Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico) |
+| Diplomatic representation in the US: | consulate(s): Boston, Chicago, San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Kevin WHITAKER (since 11 June 2014) |
+| Diplomatic representation from the US: | embassy: Calle 24 Bis No. 48-50, Bogota, D.C. |
+| Diplomatic representation from the US: | mailing address: Carrera 45 No. 24B-27, Bogota, D.C. |
+| Diplomatic representation from the US: | telephone: [57] (1) 275-2000 |
+| Diplomatic representation from the US: | FAX: [57] (1) 275-4600 |
+| Flag description: | three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity |
+| Flag description: | note: similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center |
+| National symbol(s): | Andean condor; national colors: yellow, blue, red |
+| National anthem: | name: "Himno Nacional de la Republica de Colombia" (National Anthem of the Republic of Colombia) |
+| National anthem: | lyrics/music: Rafael NUNEZ/Oreste SINDICI |
+| National anthem: | note: adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ |

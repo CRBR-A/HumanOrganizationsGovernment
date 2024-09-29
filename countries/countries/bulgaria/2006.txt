@@ -1,0 +1,40 @@
+| Government | Bulgaria |
+| --- | --- |
+| Country name: | conventional long form: Republic of Bulgaria |
+| Country name: | conventional short form: Bulgaria |
+| Country name: | local long form: Republika Balgariya |
+| Country name: | local short form: Balgariya |
+| Government type: | parliamentary democracy |
+| Capital: | name: Sofia |
+| Capital: | geographic coordinates: 42 41 N, 23 19 E |
+| Capital: | time difference: UTC+2 (7 hours ahead of Washington, DC during Standard Time) |
+| Capital: | daylight saving time: +1hr, begins last Sunday in March; ends last Sunday in October |
+| Administrative divisions: | 28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Khaskovo, Kurdzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofiya, Sofiya-Grad, Stara Zagora, Turgovishte, Varna, Veliko Turnovo, Vidin, Vratsa, Yambol |
+| Independence: | 3 March 1878 (as an autonomous principality within the Ottoman Empire); 22 September 1908 (complete independence from the Ottoman Empire) |
+| National holiday: | Liberation Day, 3 March (1878) |
+| Constitution: | adopted 12 July 1991 |
+| Legal system: | civil law and criminal law based on Roman law; accepts compulsory ICJ jurisdiction |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Georgi PURVANOV (since 22 January 2002); Vice President Angel MARIN (since 22 January 2002) |
+| Executive branch: | head of government: Prime Minister Sergei STANISHEV (since 16 August 2005); Deputy Prime Ministers Ivaylo KALFIN, Daniel VULCHEV, and Emel ETEM (since 16 August 2005) |
+| Executive branch: | cabinet: Council of Ministers nominated by the prime minister and elected by the National Assembly |
+| Executive branch: | elections: president and vice president elected on the same ticket by popular vote for a five-year term (eligible for a second term); election last held 22 and 29 October 2006 (next to be held in 2011); chairman of the Council of Ministers (prime minister) nominated by the president and elected by the National Assembly; deputy prime ministers nominated by the prime minister and elected by the National Assembly |
+| Executive branch: | election results: Georgi PURVANOV reelected president; percent of vote - Georgi PURVANOV 77.3%, Volen SIDEROV 22.7%; Sergei STANISHEV elected prime minister, result of legislative vote - 168 to 67 |
+| Legislative branch: | unicameral National Assembly or Narodno Sobranie (240 seats; members elected by popular vote to serve four-year terms) |
+| Legislative branch: | elections: last held 25 June 2005 (next to be held June 2009) |
+| Legislative branch: | election results: percent of vote by party - CfB 31.1%, NMS2 19.9%, MRF 12.7%, ATAKA 8.2%, UDF 7.7%, DSB 6.5%, BPU 5.2%; seats by party - CfB 83, NMS2 53, MRF 33, UDF 20, ATAKA 17, DSB 17, BPU 13, independents 4 |
+| Judicial branch: | Supreme Administrative Court; Supreme Court of Cassation; Constitutional Court (12 justices appointed or elected for nine-year terms); Supreme Judicial Council (consists of the chairmen of the two Supreme Courts, the Chief Prosecutor, and 22 other members; responsible for appointing the justices, prosecutors, and investigating magistrates in the justice system; members of the Supreme Judicial Council elected for five-year terms, 11 elected by the National Assembly and 11 by bodies of the judiciary) |
+| Political parties and leaders: | ATAKA (Attack Coalition) (coalition of parties headed by the Attack National Union); Attack National Union [Volen Siderov]; Bulgarian Agrarian National Union-People's Union or BANU [Anastasia MOZER]; Bulgarian People's Union or BPU (coalition of UFD, IMRO, and BANU); Bulgarian Socialist Party or BSP [Sergei STANISHEV]; Coalition for Bulgaria or CfB (coalition of parties dominated by BSP) [Sergei STANISHEV]; Democrats for a Strong Bulgaria or DSB [Ivan KOSTOV]; Internal Macedonian Revolutionary Organization or IMRO [Krasimir KARAKACHANOV]; Movement for Rights and Freedoms or MRF [Ahmed DOGAN]; National Movement for Simeon II or NMS2 [Simeon SAXE-COBURG-GOTHA]; New Time [Emil KOSHLUKOV]; Union of Democratic Forces or UDF [Petar STOYANOV]; Union of Free Democrats or UFD [Stefan SOFIYANSKI]; United Democratic Forces or UtDF (a coalition of center-right parties dominated by UDF) |
+| Political pressure groups and leaders: | Confederation of Independent Trade Unions of Bulgaria or CITUB; Podkrepa Labor Confederation; numerous regional, ethnic, and national interest groups with various agendas |
+| International organization participation: | ACCT, Australia Group, BIS, BSEC, CE, CEI, CERN, EAPC, EBRD, EU (applicant), FAO, G- 9, IAEA, IBRD, ICAO, ICCt, ICFTU, ICRM, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NAM (guest), NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SECI, UN, UNCTAD, UNESCO, UNIDO, UNMEE, UNMIL, UNMIS, UPU, WCL, WCO, WEU (associate affiliate), WFTU, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Elena B. POPTODOROVA |
+| Diplomatic representation in the US: | chancery: 1621 22nd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 387-0174 |
+| Diplomatic representation in the US: | FAX: [1] (202) 234-7973 |
+| Diplomatic representation in the US: | consulate(s) general: Chicago, Los Angeles, New York |
+| Diplomatic representation from the US: | chief of mission: Ambassador John Ross BEYRLE |
+| Diplomatic representation from the US: | embassy: 16 Kozyak Street, Sofia 1407 |
+| Diplomatic representation from the US: | mailing address: American Embassy Sofia, US Department of State, 5740 Sofia Place, Washington, DC 20521-5740 |
+| Diplomatic representation from the US: | telephone: [359] (2) 937-5100 |
+| Diplomatic representation from the US: | FAX: [359] (2) 937-5320 |
+| Flag description: | three equal horizontal bands of white (top), green, and red; note - the national emblem, formerly on the hoist side of the white stripe, has been removed |

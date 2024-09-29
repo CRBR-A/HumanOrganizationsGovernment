@@ -1,0 +1,43 @@
+| Government | Korea, South |
+| --- | --- |
+| Country name: | conventional long form: Republic of Korea |
+| Country name: | conventional short form: South Korea |
+| Country name: | local long form: Taehan-min'guk |
+| Country name: | local short form: Han'guk |
+| Country name: | abbreviation: ROK |
+| Government type: | republic |
+| Capital: | name: Seoul |
+| Capital: | geographic coordinates: 37 34 N, 127 00 E |
+| Capital: | time difference: UTC+9 (14 hours ahead of Washington, DC during Standard Time) |
+| Administrative divisions: | 9 provinces (do, singular and plural) and 7 metropolitan cities (gwangyoksi, singular and plural) |
+| Administrative divisions: | provinces: Cheju-do, Cholla-bukto (North Cholla), Cholla-namdo (South Cholla), Ch'ungch'ong-bukto (North Ch'ungch'ong), Ch'ungch'ong-namdo (South Ch'ungch'ong), Kangwon-do, Kyonggi-do, Kyongsang-bukto (North Kyongsang), Kyongsang-namdo (South Kyongsang) |
+| Administrative divisions: | metropolitan cities: Inch'on-gwangyoksi (Inch'on), Kwangju-gwangyoksi (Kwangju), Pusan-gwangyoksi (Pusan), Soul-t'ukpyolsi (Seoul), Taegu-gwangyoksi (Taegu), Taejon-gwangyoksi (Taejon), Ulsan-gwangyoksi (Ulsan) |
+| Independence: | 15 August 1945 (from Japan) |
+| National holiday: | Liberation Day, 15 August (1945) |
+| Constitution: | 17 July 1948 |
+| Legal system: | combines elements of continental European civil law systems, Anglo-American law, and Chinese classical thought |
+| Suffrage: | 19 years of age; universal |
+| Executive branch: | chief of state: President ROH Moo-hyun (since 25 February 2003) |
+| Executive branch: | head of government: Prime Minister HAN Myeong-sook (since 20 April 2006); Deputy Prime Ministers KIM Woo-sik (since 10 February 2006); KWON O-kyu (since 18 July 2006); KIM Shin-il (since 20 September 2006) |
+| Executive branch: | cabinet: State Council appointed by the president on the prime minister's recommendation |
+| Executive branch: | elections: president elected by popular vote for a single five-year term; election last held 19 December 2002 (next to be held in December 2007); prime minister appointed by president with consent of National Assembly; deputy prime ministers appointed by president on prime minister's recommendation |
+| Executive branch: | election results: ROH Moo-hyun elected president; percent of vote - ROH Moo-hyun (MDP) 48.9%; LEE Hoi-chang (GNP) 46.6%; other 4.5% |
+| Legislative branch: | unicameral National Assembly or Kukhoe (299 seats - members elected for four-year terms; 243 in single-seat constituencies, 56 by proportional representation) |
+| Legislative branch: | elections: last held 15 April 2004 (next to be held in April 2008; byelections held on 30 April 2005 and on 26 October 2005) |
+| Legislative branch: | election results: percent of vote by party - Uri 51%, GNP 41%, DLP 3%, DP 3%, others 2%; seats by party - Uri 144, GNP 127, DP 11, DLP 9, ULD 3, independents 5 |
+| Legislative branch: | note: percent of vote is for 2004 general election; seats by party reflect results of April and October 2005 byelections involving six and four seats respectively; MDP became DP in May 2005; United Liberal Democrats (ULD) merged with GNP in February 2006. (2006) |
+| Judicial branch: | Supreme Court (justices appointed by president with consent of National Assembly); Constitutional Court (justices appointed by president based partly on nominations by National Assembly and Chief Justice of the court) |
+| Political parties and leaders: | Democratic Labor Party or DLP [MOON Seong-hyun]; Democratic Party or DP [HAHN Hwa-kap]; Grand National Party or GNP [KANG Jae-sup]; People-Centered Party or PCP [SHIN Kook-hwan]; Uri Party [KIM Geun-tae] |
+| Political pressure groups and leaders: | Federation of Korean Industries; Federation of Korean Trade Unions; Korean Confederation of Trade Unions; Korean National Council of Churches; Korean Traders Association; Korean Veterans' Association; National Council of Labor Unions; National Democratic Alliance of Korea; National Federation of Farmers' Associations; National Federation of Student Associations |
+| International organization participation: | AfDB, APEC, APT, ARF, AsDB, ASEAN (dialogue partner), Australia Group, BIS, CP, EAS, EBRD, FAO, IADB, IAEA, IBRD, ICAO, ICC, ICCt, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, LAIA, MIGA, NEA, NSG, OAS (observer), OECD, ONUB, OPCW, OSCE (partner), PCA, PIF (partner), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMIS, UNMOGIP, UNOMIG, UPU, WCL, WCO, WHO, WIPO, WMO, WToO, WTO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador LEE Tae-sik |
+| Diplomatic representation in the US: | chancery: 2450 Massachusetts Avenue NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 939-5600 |
+| Diplomatic representation in the US: | FAX: [1] (202) 387-0205 |
+| Diplomatic representation in the US: | consulate(s) general: Agana (Guam), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle |
+| Diplomatic representation from the US: | chief of mission: Ambassador Alexander VERSHBOW |
+| Diplomatic representation from the US: | embassy: 32 Sejong-no, Jongno-gu, Seoul 110-710 |
+| Diplomatic representation from the US: | mailing address: US Embassy Seoul, Unit 15550, APO AP 96205-5550 |
+| Diplomatic representation from the US: | telephone: [82] (2) 397-4114 |
+| Diplomatic representation from the US: | FAX: [82] (2) 738-8845 |
+| Flag description: | white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field |

@@ -1,0 +1,38 @@
+| Government |   |
+| --- | --- |
+| Country name: | conventional long form: Slovak Republic |
+| Country name: | conventional short form: Slovakia |
+| Country name: | local long form: Slovenska Republika |
+| Country name: | local short form: Slovensko |
+| Data code: | LO |
+| Government type: | parliamentary democracy |
+| Capital: | Bratislava |
+| Administrative divisions: | 8 regions (kraje, singular - kraj); Banskobystricky, Bratislavsky, Kosicky, Nitriansky, Presovsky, Trenciansky, Trnavsky, Zilinsky |
+| Independence: | 1 January 1993 (Czechoslovakia split into the Czech and Slovak Republics) |
+| National holiday: | Slovak Constitution Day, 1 September (1992); Anniversary of Slovak National Uprising, 29 August (1944) |
+| Constitution: | ratified 1 September 1992, fully effective 1 January 1993; changed in September 1998 to allow direct election of the president |
+| Legal system: | civil law system based on Austro-Hungarian codes; has not accepted compulsory ICJ jurisdiction; legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe (OSCE) and to expunge Marxist-Leninist legal theory |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President Rudolf SCHUSTER (since 15 June 1999) |
+| Executive branch: | head of government: Prime Minister Mikulas DZURINDA (since 30 October 1998) |
+| Executive branch: | cabinet: Cabinet appointed by the president on the recommendation of the prime minister |
+| Executive branch: | elections: president elected by direct popular vote for a five-year term; election last held 30 May 1999 (next to be held NA 2004); note - following the National Council elections in September 1998, the Constitution was changed to allow direct election of the president; following National Council elections, the leader of the majority party or the leader of a majority coalition is usually appointed prime minister by the president |
+| Executive branch: | election results: Rudolf SCHUSTER won the first direct popular election with 57% of the vote |
+| Executive branch: | note: government coalition - SDK, SDL, SMK, SOP |
+| Legislative branch: | unicameral National Council of the Slovak Republic or Narodna Rada Slovenskej Republiky (150 seats; members are elected on the basis of proportional representation to serve four-year terms) |
+| elections: | last held 25-26 September 1998 (next to be held NA September 2002) |
+| election results: | percent of vote by party - HZDS 27%, SDK 26.3%, SDL 14.7%, SMK 9.1%, SNS 9.1%, SOP 8%; seats by party - governing coalition 93 (SDK 42, SDL 23, SMK 15, SOP 13), opposition 57 (HZDS 43, SNS 14) |
+| Judicial branch: | Supreme Court, judges are elected by the National Council; Constitutional Court, judges appointed by president from group of nominees approved by the parliament |
+| Political parties and leaders: | Christian Democratic Movement or KDH [Jan CARNOGURSKY]; Coexistence [Miklos DURAY]; Democratic Party or DS [Jan LANGOS]; Democratic Union or DU [Lubomir HARACH]; Hungarian Christian Democratic Movement or MKDH [Bela BUGAR]; Hungarian Civic Party or MOS [Laszlo A. NAGY]; Movement for a Democratic Slovakia or HZDS [Vladimir MECIAR]; Party of Civic Understanding or SOP [Pavol HAMZIK]; Party of Greens in Slovakia or SZS [Ladislav AMBROS]; Party of the Democratic Center or SDS [Ivan MJARTAN]; Party of the Democratic Left or SDL [Jozef MIGAS]; Party of the Hungarian Coalition or SMK (includes MKDH, MOS, and Coexistence) [Bela BUGAR]; Slovak Democratic Coalition or SDK (includes KDH, DS, DU, SSDS, SZS) [Mikulas DZURINDA]; Slovak National Party or SNS [Anna MALIKOVA]; Social Democratic Party of Slovakia or SSDS [Jaroslav VOLF]; SMER [Robert FICO] |
+| Political pressure groups and leaders: | Association of Employers of Slovakia; Association of Towns and Villages or ZMOS; Christian Social Union; Confederation of Trade Unions or KOZ; Metal Workers Unions or KOVO and METALURG; Party of Entrepreneurs and Businessmen of Slovakia |
+| International organization participation: | Australia Group, BIS, BSEC (observer), CCC, CE, CEI, CERN, EAPC, EBRD, ECE, EU (applicant), FAO, IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Inmarsat, Intelsat (nonsignatory user), Interpol, IOC, IOM, ISO, ITU, NAM (guest), NSG, OPCW, OSCE, PCA, PFP, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNTSO, UPU, WEU (associate partner), WFTU, WHO, WIPO, WMO, WToO, WTrO, ZC |
+| Diplomatic representation in the US: | chief of mission: Ambassador Martin BUTORA |
+| Diplomatic representation in the US: | chancery: (temporary) Suite 250, 2201 Wisconsin Avenue NW, Washington, DC 20007 |
+| Diplomatic representation in the US: | telephone: [1] (202) 965-5161 |
+| Diplomatic representation in the US: | FAX: [1] (202) 965-5166 |
+| Diplomatic representation from the US: | chief of mission: Ambassador (vacant); Charge d'Affaires Douglas HENGEL |
+| Diplomatic representation from the US: | embassy: Hviezdoslavovo Namestie 4, 81102 Bratislava |
+| Diplomatic representation from the US: | mailing address: use embassy street address |
+| Diplomatic representation from the US: | telephone: [421] (7) 5443-0861, 5443-3338 |
+| Diplomatic representation from the US: | FAX: [421] (7) 5441-5148 |
+| Flag description: | three equal horizontal bands of white (top), blue, and red superimposed with the Slovak cross in a shield centered on the hoist side; the cross is white centered on a background of red and blue |

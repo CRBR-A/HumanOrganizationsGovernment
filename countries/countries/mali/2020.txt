@@ -1,0 +1,67 @@
+| Government | Mali |
+| --- | --- |
+| Country name: | conventional long form: Republic of Mali |
+| Country name: | conventional short form: Mali |
+| Country name: | local long form: Republique de Mali |
+| Country name: | local short form: Mali |
+| Country name: | former: French Sudan and Sudanese Republic |
+| Country name: | etymology: name derives from the West African Mali Empire of the 13th to 16th centuries A.D. |
+| Government type: | semi-presidential republic |
+| Capital: | name: Bamako |
+| Capital: | geographic coordinates: 12 39 N, 8 00 W |
+| Capital: | time difference: UTC 0 (5 hours ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal |
+| Administrative divisions: | 10 regions (regions, singular - region), 1 district*; District de Bamako*, Gao, Kayes, Kidal, Koulikoro, Menaka, Mopti, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu); note - Menaka and Taoudenni were legislated in 2016, but implementation has not been confirmed by the US Board on Geographic Names |
+| Independence: | 22 September 1960 (from France) |
+| National holiday: | Independence Day, 22 September (1960) |
+| Constitution: | history: several previous; latest drafted August 1991, approved by referendum 12 January 1992, effective 25 February 1992, suspended briefly in 2012 |
+| Constitution: | amendments: proposed by the president of the republic or by members of the National Assembly; passage requires two-thirds majority vote by the Assembly and approval in a referendum; constitutional sections on the integrity of the state, its republican and secular form of government, and its multiparty system cannot be amended; amended 1999 |
+| Legal system: | civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court |
+| International law organization participation: | has not submitted an ICJ jurisdiction declaration; accepts ICC jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of Mali |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 5 years |
+| Suffrage: | 18 years of age; universal |
+| Executive branch: | chief of state: President of transitional government, Bah NDAW (since 25 September 2020); vice president of the transitional government, Assimi GOITA (since 25 September 2020); former president Ibrahim Boubacar KEITA was deposed by the Malian military on 18 August 2020; on 21 September, a group of 17 electors chosen by the Malian military junta, called the National Committee for the Salvation of the People (NCSP), selected former Malian defense minister and chairman of the NCSP, Bah NDAW, as transitional president, and retired Malian Army Colonel Assimi GOITA as transitional vice president; the transitional government was inaugurated on 25 September 2020 |
+| Executive branch: | head of government: Prime Minister Moctar OUANE (appointed by the transitional government on 27 Sep 2020; former PM Boubou CISSE was removed on 18 August 2020 following the military coup) |
+| Executive branch: | cabinet: Council of Ministers appointed by the prime minister |
+| Executive branch: | elections/appointments: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with a runoff on 12 August 2018; prime minister appointed by the president |
+| Executive branch: | election results: Ibrahim Boubacar KEITA elected president in second round; percent of vote - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4% |
+| Legislative branch: | description: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms) |
+| Legislative branch: | note - the National Assembly was dissolved on 18 August 2020 following a military coup and the resignation of President KEITA |
+| Legislative branch: | elections: last held on 30 March and 19 April 2020 (prior to the August 2020 coup, the next election was scheduled to be held in 2025) |
+| Legislative branch: | election results: percent of vote by party - NA; seats by party - NA composition - NA |
+| Judicial branch: | highest courts: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sectons); Constitutional Court (consists of 9 judges) |
+| Judicial branch: | judge selection and term of office: Supreme Court judges appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court judges selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms |
+| Judicial branch: | subordinate courts: Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security |
+| Political parties and leaders: | African Solidarity for Democracy and Independence or SADI [Oumar MARIKO] |
+| Political parties and leaders: | Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, and Justice or ADEMA-PASJ [Tiemoko SANGARE] |
+| Political parties and leaders: | Alliance for Democracy and Progress or ADP-Maliba [Amadou THIAM] |
+| Political parties and leaders: | Alliance for the Solidarity of Mali-Convergence of Patriotic Forces or ASMA-CFP [Soumeylou Boubeye MAIGA] |
+| Political parties and leaders: | Alternative Forces for Renewal and Emergence or FARE [Modibo SIDIBE] |
+| Political parties and leaders: | Convergence for the Development of Mali or CODEM [Housseyni Amion GUINDO] |
+| Political parties and leaders: | Democratic Alliance for Peace or ADP-Maliba [Aliou Boubacar DIALLO] |
+| Political parties and leaders: | Economic and Social Development Party or PDES [Jamille BITTAR] |
+| Political parties and leaders: | Front for Democracy and the Republic or FDR (coalition of smaller opposition parties) |
+| Political parties and leaders: | National Congress for Democratic Initiative or CNID [Mountaga TALL] |
+| Political parties and leaders: | Party for National Renewal or PARENA [Tiebile DRAME] |
+| Political parties and leaders: | Patriotic Movement for Renewal or MPR [Choguel Kokalla MAIGA] |
+| Political parties and leaders: | Rally for Mali or RPM [Boucary TRETA] |
+| Political parties and leaders: | Union for Republic and Democracy or URD [Younoussi TOURE] |
+| International organization participation: | ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Mahamadou NIMAGA (since 22 June 2018) |
+| Diplomatic representation in the US: | chancery: 2130 R Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-2249, 939-8950 |
+| Diplomatic representation in the US: | FAX: [1] (202) 332-6603 |
+| Diplomatic representation from the US: | chief of mission: Ambassador Dennis B. HANKINS (since 15 March 2019) |
+| Diplomatic representation from the US: | telephone: [223] 2070-2300 |
+| Diplomatic representation from the US: | embassy: ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako |
+| Diplomatic representation from the US: | mailing address: ACI 2000, Rue 243, Porte 297, Bamako |
+| Diplomatic representation from the US: | FAX: [223] 2070-2479 |
+| Flag description: | three equal vertical bands of green (hoist side), yellow, and red |
+| Flag description: | note: uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea |
+| National symbol(s): | Great Mosque of Djenne; national colors: green, yellow, red |
+| National anthem: | name: "Le Mali" (Mali) |
+| National anthem: | lyrics/music: Seydou Badian KOUYATE/Banzoumana SISSOKO |
+| National anthem: | note: adopted 1962; also known as "Pour L'Afrique et pour toi, Mali" (For Africa and for You, Mali) and "A ton appel Mali" (At Your Call, Mali) |

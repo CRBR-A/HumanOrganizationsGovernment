@@ -1,0 +1,65 @@
+| Government | Dominican Republic |
+| --- | --- |
+| Country name: | conventional long form: Dominican Republic |
+| Country name: | conventional short form: The Dominican |
+| Country name: | local long form: Republica Dominicana |
+| Country name: | local short form: La Dominicana |
+| Country name: | etymology: the country name derives from the capital city of Santo Domingo (Saint Dominic) |
+| Government type: | presidential republic |
+| Capital: | name: Santo Domingo |
+| Capital: | geographic coordinates: 18 28 N, 69 54 W |
+| Capital: | time difference: UTC-4 (1 hour ahead of Washington, DC, during Standard Time) |
+| Capital: | etymology: named after Saint Dominic de Guzman (1170-1221), founder of the Dominican Order |
+| Administrative divisions: | 10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma |
+| Independence: | 27 February 1844 (from Haiti) |
+| National holiday: | Independence Day, 27 February (1844) |
+| Constitution: | history: many previous (38 total); latest proclaimed 13 June 2015 |
+| Constitution: | amendments: proposed by a special session of the National Congress called the National Revisory Assembly; passage requires at least two-thirds majority approval by at least one half of those present in both houses of the Assembly; passage of amendments to constitutional articles, such as fundamental rights and guarantees, territorial composition, nationality, or the procedures for constitutional reform, also requires approval in a referendum; amended many times, last in 2017 |
+| Legal system: | civil law system based on the French civil code; Criminal Procedures Code modified in 2004 to include important elements of an accusatory system |
+| International law organization participation: | accepts compulsory ICJ jurisdiction; accepts ICCt jurisdiction |
+| Citizenship: | citizenship by birth: no |
+| Citizenship: | citizenship by descent only: at least one parent must be a citizen of the Dominican Republic |
+| Citizenship: | dual citizenship recognized: yes |
+| Citizenship: | residency requirement for naturalization: 2 years |
+| Suffrage: | 18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote |
+| Executive branch: | chief of state: President Danilo MEDINA Sanchez (since 16 August 2012); Vice President Margarita CEDENO DE FERNANDEZ (since 16 August 2012); note - the president is both chief of state and head of government |
+| Executive branch: | head of government: President Danilo MEDINA Sanchez (since 16 August 2012); Vice President Margarita CEDENO DE FERNANDEZ (since 16 August 2012) |
+| Executive branch: | cabinet: Cabinet nominated by the president |
+| Executive branch: | elections/appointments: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic) |
+| Executive branch: | election results: Danilo MEDINA Sanchez reelected president in first round; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president |
+| Legislative branch: | description: bicameral National Congress or Congreso Nacional consists of: |
+| Legislative branch: | Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition) |
+| Legislative branch: | House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms) |
+| Legislative branch: | elections: |
+| Legislative branch: | Senate - last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic) |
+| Legislative branch: | House of Representatives - last held on 15 May 2016 (rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic) |
+| Legislative branch: | election results: |
+| Legislative branch: | Senate - percent of vote by party - NA; seats by party - PLD 26, PRM 2, BIS 1, PLRD 1, PRD 1, PRSC 1; composition as of 2018 - men 29, women 3, percent of women 9.4% |
+| Legislative branch: | House of Representatives - percent of vote by party - NA; seats by party - PLD 106, PRM 42, PRSC 18, PRD 16, PLRD 3, other 5; composition as of 2018 - men 139, women 51, percent of women 26.8%; note - total National Congress percent of women 24.3% |
+| Judicial branch: | highest courts: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment |
+| Judicial branch: | judge selection and term of office: Supreme Court and Constitutional Court judges appointed by the National Council of the Judiciary comprised of the president, the leaders of both chambers of congress, the president of the Supreme Court, and a non-governing party congressional representative; Supreme Court judges appointed for 7-year terms; Constitutional Court judges appointed for 9-year terms |
+| Judicial branch: | subordinate courts: courts of appeal; courts of first instance; justices of the peace; special courts for juvenile, labor, and land cases; Contentious Administrative Court for cases filed against the government |
+| Political parties and leaders: | Dominican Liberation Party or PLD [Leonel FERNANDEZ Reyna] |
+| Political parties and leaders: | Dominican Revolutionary Party or PRD [Miguel VARGAS Maldonado] |
+| Political parties and leaders: | Institutional Social Democratic Bloc or BIS |
+| Political parties and leaders: | Liberal Reformist Party or PRL (formerly the Liberal Party of the Dominican Republic or PLRD) |
+| Political parties and leaders: | Modern Revolutionary Party or PRM [Jose Ignacio PALIZA] |
+| Political parties and leaders: | National Progressive Front or FNP [Vinicio CASTILLO, Pelegrin CASTILLO] |
+| Political parties and leaders: | Social Christian Reformist Party or PRSC [Federico ANTUN] |
+| International organization participation: | ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, MIGA, MINUSMA, NAM, OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA (associated member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO |
+| Diplomatic representation in the US: | chief of mission: Ambassador Jose Tomas PEREZ Vazquez (since 23 February 2015) |
+| Diplomatic representation in the US: | chancery: 1715 22nd Street NW, Washington, DC 20008 |
+| Diplomatic representation in the US: | telephone: [1] (202) 332-6280, 660-2263 |
+| Diplomatic representation in the US: | FAX: [1] (202) 265-8057 |
+| Diplomatic representation in the US: | consulate(s) general: Boston, Chicago, Los Angeles, Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico) |
+| Diplomatic representation in the US: | consulate(s): San Francisco |
+| Diplomatic representation from the US: | chief of mission: Ambassador Robin BERNSTEIN (since 6 September 2018) |
+| Diplomatic representation from the US: | telephone: [1] (809) 567-7775 |
+| Diplomatic representation from the US: | embassy: Av. Republica de Colombia # 57, Santo Domingo |
+| Diplomatic representation from the US: | mailing address: Unit 5500, APO AA 34041-5500 |
+| Diplomatic representation from the US: | FAX: [1] (809) 686-7437 |
+| Flag description: | a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes |
+| National symbol(s): | palmchat (bird); national colors: red, white, blue |
+| National anthem: | name: "Himno Nacional" (National Anthem) |
+| National anthem: | lyrics/music: Emilio PRUD'HOMME/Jose REYES |
+| National anthem: | note: adopted 1934; also known as "Quisqueyanos valientes" (Valient Sons of Quisqueye); the anthem never refers to the people as Dominican but rather calls them "Quisqueyanos," a reference to the indigenous name of the island |
